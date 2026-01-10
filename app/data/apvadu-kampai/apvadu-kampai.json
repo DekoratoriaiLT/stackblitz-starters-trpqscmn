@@ -1,3 +1,1613 @@
 {
-    "category": "apvadu-kampai"
+    "products": [
+        {
+            "name": "Moulding corner 1.52.279",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-279/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.279.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.279.100.png"
+                },
+                {
+                    "filename": "1.52.279.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.279.100.png"
+                },
+                {
+                    "filename": "1.52.279.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.279.41.png"
+                },
+                {
+                    "filename": "1.52.279.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.279.41.png"
+                }
+            ],
+            "details": {
+                "Width": "358 mm",
+                "Height": "323 mm",
+                "Thickness": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.279.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.279.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_279/models/1.52.279.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.283",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-283/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.283.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.283.100.png"
+                },
+                {
+                    "filename": "1.52.283.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.283.100.png"
+                },
+                {
+                    "filename": "1.52.283.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.283.41.png"
+                },
+                {
+                    "filename": "1.52.283.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.283.41.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "260 mm",
+                "Thickness": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.283.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.283.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_283/models/1.52.283.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.284",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-284/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.284.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.284.100.png"
+                },
+                {
+                    "filename": "1.52.284.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.284.100.png"
+                },
+                {
+                    "filename": "1.52.284.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.284.41.png"
+                },
+                {
+                    "filename": "1.52.284.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.284.41.png"
+                }
+            ],
+            "details": {
+                "Width": "255 mm",
+                "Height": "256 mm",
+                "Thickness": "27 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.284.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.284.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_284/models/1.52.284.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.285",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-285/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.285.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.285.100.png"
+                },
+                {
+                    "filename": "1.52.285.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.285.100.png"
+                },
+                {
+                    "filename": "1.52.285.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.285.41.png"
+                },
+                {
+                    "filename": "1.52.285.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.285.41.png"
+                }
+            ],
+            "details": {
+                "Width": "181 mm",
+                "Height": "181 mm",
+                "Thickness": "24 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.285.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.285.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_285/models/1.52.285.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.286",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-286/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.286.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.286.100.png"
+                },
+                {
+                    "filename": "1.52.286.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.286.100.png"
+                },
+                {
+                    "filename": "1.52.286.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.286.41.png"
+                },
+                {
+                    "filename": "1.52.286.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.286.41.png"
+                }
+            ],
+            "details": {
+                "Width": "199 mm",
+                "Height": "199 mm",
+                "Thickness": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.286.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.286.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_286/models/1.52.286.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.287",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-287/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.287.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.287.100.png"
+                },
+                {
+                    "filename": "1.52.287.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.287.100.png"
+                },
+                {
+                    "filename": "1.52.287.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.287.41.png"
+                },
+                {
+                    "filename": "1.52.287.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.287.41.png"
+                }
+            ],
+            "details": {
+                "Width": "300 mm",
+                "Height": "300 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.287.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.287.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_287/models/1.52.287.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.288",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-288/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.288.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.288.100.png"
+                },
+                {
+                    "filename": "1.52.288.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.288.100.png"
+                },
+                {
+                    "filename": "1.52.288.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.288.41.png"
+                },
+                {
+                    "filename": "1.52.288.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.288.41.png"
+                }
+            ],
+            "details": {
+                "Width": "272 mm",
+                "Height": "269 mm",
+                "Thickness": "32 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.288.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.288.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_288/models/1.52.288.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.289",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-289/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.289.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.289.100.png"
+                },
+                {
+                    "filename": "1.52.289.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.289.100.png"
+                },
+                {
+                    "filename": "1.52.289.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.289.41.png"
+                },
+                {
+                    "filename": "1.52.289.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.289.41.png"
+                }
+            ],
+            "details": {
+                "Width": "300 mm",
+                "Height": "104 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.289.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.289.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_289/models/1.52.289.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.290",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-290/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.290.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.290.100.png"
+                },
+                {
+                    "filename": "1.52.290.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.290.100.png"
+                },
+                {
+                    "filename": "1.52.290.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.290.41.png"
+                },
+                {
+                    "filename": "1.52.290.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.290.41.png"
+                }
+            ],
+            "details": {
+                "Width": "213 mm",
+                "Height": "395 mm",
+                "Thickness": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.290.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.290.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_290/models/1.52.290.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.291",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-291/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.291.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.291.100.png"
+                },
+                {
+                    "filename": "1.52.291.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.291.100.png"
+                },
+                {
+                    "filename": "1.52.291.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.291.41.png"
+                },
+                {
+                    "filename": "1.52.291.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.291.41.png"
+                }
+            ],
+            "details": {
+                "Width": "195 mm",
+                "Height": "195 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.291.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.291.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_291/models/1.52.291.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.292",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-292/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.292.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.292.100.png"
+                },
+                {
+                    "filename": "1.52.292.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.292.100.png"
+                },
+                {
+                    "filename": "1.52.292.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.292.41.png"
+                },
+                {
+                    "filename": "1.52.292.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.292.41.png"
+                }
+            ],
+            "details": {
+                "Width": "255 mm",
+                "Height": "255 mm",
+                "Thickness": "19 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.292.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.292.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_292/models/1.52.292.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.293",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-293/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.293.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.293.100.png"
+                },
+                {
+                    "filename": "1.52.293.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.293.100.png"
+                },
+                {
+                    "filename": "1.52.293.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.293.41.png"
+                },
+                {
+                    "filename": "1.52.293.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.293.41.png"
+                }
+            ],
+            "details": {
+                "Width": "213 mm",
+                "Height": "395 mm",
+                "Thickness": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.293.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.293.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_293/models/1.52.293.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.294",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-294/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.294.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.294.100.png"
+                },
+                {
+                    "filename": "1.52.294.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.294.100.png"
+                },
+                {
+                    "filename": "1.52.294.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.294.41.png"
+                },
+                {
+                    "filename": "1.52.294.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.294.41.png"
+                }
+            ],
+            "details": {
+                "Width": "261 mm",
+                "Height": "261 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.294.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.294.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_294/models/1.52.294.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.295",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-295/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.295.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.295.100.png"
+                },
+                {
+                    "filename": "1.52.295.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.295.100.png"
+                },
+                {
+                    "filename": "1.52.295.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.295.41.png"
+                },
+                {
+                    "filename": "1.52.295.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.295.41.png"
+                }
+            ],
+            "details": {
+                "Width": "195 mm",
+                "Height": "195 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.295.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.295.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_295/models/1.52.295.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.296",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-296/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.296.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.296.100.png"
+                },
+                {
+                    "filename": "1.52.296.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.296.100.png"
+                },
+                {
+                    "filename": "1.52.296.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.296.41.png"
+                },
+                {
+                    "filename": "1.52.296.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.296.41.png"
+                }
+            ],
+            "details": {
+                "Width": "270 mm",
+                "Height": "390 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.296.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.296.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_296/models/1.52.296.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.297",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-297/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.297.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.297.100.png"
+                },
+                {
+                    "filename": "1.52.297.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.297.100.png"
+                },
+                {
+                    "filename": "1.52.297.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.297.41.png"
+                },
+                {
+                    "filename": "1.52.297.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.297.41.png"
+                }
+            ],
+            "details": {
+                "Width": "215 mm",
+                "Height": "215 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.297.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.297.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_297/models/1.52.297.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.298",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-298/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.298.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.298.100.png"
+                },
+                {
+                    "filename": "1.52.298.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.298.100.png"
+                },
+                {
+                    "filename": "1.52.298.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.298.41.png"
+                },
+                {
+                    "filename": "1.52.298.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.298.41.png"
+                }
+            ],
+            "details": {
+                "Width": "215 mm",
+                "Height": "215 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.298.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.298.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_298/models/1.52.298.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.299",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-299/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.299.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.299.100.png"
+                },
+                {
+                    "filename": "1.52.299.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.299.100.png"
+                },
+                {
+                    "filename": "1.52.299.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.299.41.png"
+                },
+                {
+                    "filename": "1.52.299.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.299.41.png"
+                }
+            ],
+            "details": {
+                "Width": "358 mm",
+                "Height": "323 mm",
+                "Thickness": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.299.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.299.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_299/models/1.52.299.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.301",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-301/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.301.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.301.100.png"
+                },
+                {
+                    "filename": "1.52.301.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.301.30.png"
+                },
+                {
+                    "filename": "1.52.301.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.31.png"
+                },
+                {
+                    "filename": "1.52.301.32.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.32.png"
+                },
+                {
+                    "filename": "1.52.301.33.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.33.png"
+                },
+                {
+                    "filename": "1.52.301.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.301.100.png"
+                },
+                {
+                    "filename": "1.52.301.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.301.30.png"
+                },
+                {
+                    "filename": "1.52.301.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.31.png"
+                },
+                {
+                    "filename": "1.52.301.32.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.32.png"
+                },
+                {
+                    "filename": "1.52.301.33.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.33.png"
+                },
+                {
+                    "filename": "1.52.301.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.301.41.png"
+                },
+                {
+                    "filename": "1.52.301.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.301.41.png"
+                }
+            ],
+            "details": {
+                "Width": "210 mm",
+                "Height": "210 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.301.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_301/models/1.52.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.302",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-302/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.302.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.302.100.png"
+                },
+                {
+                    "filename": "1.52.302.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.302.100.png"
+                },
+                {
+                    "filename": "1.52.302.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.302.41.png"
+                },
+                {
+                    "filename": "1.52.302.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.302.41.png"
+                }
+            ],
+            "details": {
+                "Width": "215 mm",
+                "Height": "215 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.302.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_302/models/1.52.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.308",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-308/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.308.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.308.100.png"
+                },
+                {
+                    "filename": "1.52.308.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.308.100.png"
+                },
+                {
+                    "filename": "1.52.308.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.308.41.png"
+                },
+                {
+                    "filename": "1.52.308.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.308.41.png"
+                }
+            ],
+            "details": {
+                "Width": "160 mm",
+                "Height": "160 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.308.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.308.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_308/models/1.52.308.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.312",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-312/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.312.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.312.100.png"
+                },
+                {
+                    "filename": "1.52.312.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.312.100.png"
+                },
+                {
+                    "filename": "1.52.312.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.312.41.png"
+                },
+                {
+                    "filename": "1.52.312.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.312.41.png"
+                }
+            ],
+            "details": {
+                "Width": "208 mm",
+                "Height": "210 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.312.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.312.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_312/models/1.52.312.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.314",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-314/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.314.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.314.100.png"
+                },
+                {
+                    "filename": "1.52.314.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.314.100.png"
+                },
+                {
+                    "filename": "1.52.314.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.314.41.png"
+                },
+                {
+                    "filename": "1.52.314.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.314.41.png"
+                }
+            ],
+            "details": {
+                "Width": "270 mm",
+                "Height": "390 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.314.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.314.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_314/models/1.52.314.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.322",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-322/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.322.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.322.100.png"
+                },
+                {
+                    "filename": "1.52.322.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.322.100.png"
+                },
+                {
+                    "filename": "1.52.322.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.322.41.png"
+                },
+                {
+                    "filename": "1.52.322.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.322.41.png"
+                }
+            ],
+            "details": {
+                "Width": "110 mm",
+                "Height": "110 mm",
+                "Thickness": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.322.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.322.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_322/models/1.52.322.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.348",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-348/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.348.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.348.100.png"
+                },
+                {
+                    "filename": "1.52.348.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.348.100.png"
+                },
+                {
+                    "filename": "1.52.348.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.348.41.png"
+                },
+                {
+                    "filename": "1.52.348.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.348.41.png"
+                }
+            ],
+            "details": {
+                "Width": "250 mm",
+                "Height": "250 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.348.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.348.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_348/models/1.52.348.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.375",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-375/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.375.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.375.100.png"
+                },
+                {
+                    "filename": "1.52.375.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.375.100.png"
+                },
+                {
+                    "filename": "1.52.375.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.375.41.png"
+                },
+                {
+                    "filename": "1.52.375.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.375.41.png"
+                }
+            ],
+            "details": {
+                "Width": "318 mm",
+                "Height": "321 mm",
+                "Thickness": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.375.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.375.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_375/models/1.52.375.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.400",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-400/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.400.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.400.100.png"
+                },
+                {
+                    "filename": "1.52.400.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.400.100.png"
+                },
+                {
+                    "filename": "1.52.400.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.400.41.png"
+                },
+                {
+                    "filename": "1.52.400.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.400.41.png"
+                }
+            ],
+            "details": {
+                "Width": "294 mm",
+                "Height": "294 mm",
+                "Thickness": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.400.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.400.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_400/models/1.52.400.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.810",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-810/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.810.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.810.100.png"
+                },
+                {
+                    "filename": "1.52.810.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.810.20.png"
+                },
+                {
+                    "filename": "1.52.810.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.810.30.png"
+                },
+                {
+                    "filename": "1.52.810.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.810.31.png"
+                },
+                {
+                    "filename": "1.52.810.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.810.100.png"
+                },
+                {
+                    "filename": "1.52.810.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.810.20.png"
+                },
+                {
+                    "filename": "1.52.810.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.810.30.png"
+                },
+                {
+                    "filename": "1.52.810.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.810.31.png"
+                },
+                {
+                    "filename": "1.52.810.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.810.41.png"
+                },
+                {
+                    "filename": "1.52.810.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.810.41.png"
+                }
+            ],
+            "details": {
+                "Width": "280 mm",
+                "Height": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.810.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.810.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_810/models/1.52.810.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.812",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-812/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.812.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.812.100.png"
+                },
+                {
+                    "filename": "1.52.812.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.812.20.png"
+                },
+                {
+                    "filename": "1.52.812.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.812.30.png"
+                },
+                {
+                    "filename": "1.52.812.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.812.31.png"
+                },
+                {
+                    "filename": "1.52.812.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.812.100.png"
+                },
+                {
+                    "filename": "1.52.812.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.812.20.png"
+                },
+                {
+                    "filename": "1.52.812.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.812.30.png"
+                },
+                {
+                    "filename": "1.52.812.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.812.31.png"
+                },
+                {
+                    "filename": "1.52.812.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.812.41.png"
+                },
+                {
+                    "filename": "1.52.812.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.812.41.png"
+                }
+            ],
+            "details": {
+                "Width": "280 mm",
+                "Height": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.812.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.812.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_812/models/1.52.812.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.815",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-815/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.815.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.815.100.png"
+                },
+                {
+                    "filename": "1.52.815.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.815.20.png"
+                },
+                {
+                    "filename": "1.52.815.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.815.30.png"
+                },
+                {
+                    "filename": "1.52.815.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.31.png"
+                },
+                {
+                    "filename": "1.52.815.32.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.32.png"
+                },
+                {
+                    "filename": "1.52.815.33.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.33.png"
+                },
+                {
+                    "filename": "1.52.815.34.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.34.png"
+                },
+                {
+                    "filename": "1.52.815.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.815.100.png"
+                },
+                {
+                    "filename": "1.52.815.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.815.20.png"
+                },
+                {
+                    "filename": "1.52.815.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.815.30.png"
+                },
+                {
+                    "filename": "1.52.815.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.31.png"
+                },
+                {
+                    "filename": "1.52.815.32.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.32.png"
+                },
+                {
+                    "filename": "1.52.815.33.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.33.png"
+                },
+                {
+                    "filename": "1.52.815.34.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.34.png"
+                },
+                {
+                    "filename": "1.52.815.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.815.41.png"
+                },
+                {
+                    "filename": "1.52.815.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.815.41.png"
+                }
+            ],
+            "details": {
+                "Width": "245 mm",
+                "Height": "245 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.815.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.815.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_815/models/1.52.815.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.816",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-816/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.816.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.816.100.png"
+                },
+                {
+                    "filename": "1.52.816.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.816.20.png"
+                },
+                {
+                    "filename": "1.52.816.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.816.30.png"
+                },
+                {
+                    "filename": "1.52.816.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.816.31.png"
+                },
+                {
+                    "filename": "1.52.816.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.816.100.png"
+                },
+                {
+                    "filename": "1.52.816.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.816.20.png"
+                },
+                {
+                    "filename": "1.52.816.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.816.30.png"
+                },
+                {
+                    "filename": "1.52.816.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.816.31.png"
+                },
+                {
+                    "filename": "1.52.816.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.816.41.png"
+                },
+                {
+                    "filename": "1.52.816.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.816.41.png"
+                }
+            ],
+            "details": {
+                "Width": "300 mm",
+                "Height": "300 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.816.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.816.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_816/models/1.52.816.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.817",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-817/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.817.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.817.100.png"
+                },
+                {
+                    "filename": "1.52.817.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.817.20.png"
+                },
+                {
+                    "filename": "1.52.817.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.817.30.png"
+                },
+                {
+                    "filename": "1.52.817.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.817.31.png"
+                },
+                {
+                    "filename": "1.52.817.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.817.100.png"
+                },
+                {
+                    "filename": "1.52.817.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.817.20.png"
+                },
+                {
+                    "filename": "1.52.817.30.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.817.30.png"
+                },
+                {
+                    "filename": "1.52.817.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.817.31.png"
+                },
+                {
+                    "filename": "1.52.817.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.817.41.png"
+                },
+                {
+                    "filename": "1.52.817.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.817.41.png"
+                }
+            ],
+            "details": {
+                "Width": "300 mm",
+                "Height": "300 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.818",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-818/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.818.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.818.100.png"
+                },
+                {
+                    "filename": "1.52.818.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.818.20.png"
+                },
+                {
+                    "filename": "1.52.818.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.818.31.png"
+                },
+                {
+                    "filename": "1.52.818.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.818.100.png"
+                },
+                {
+                    "filename": "1.52.818.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.818.20.png"
+                },
+                {
+                    "filename": "1.52.818.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.818.31.png"
+                },
+                {
+                    "filename": "1.52.818.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.818.41.png"
+                },
+                {
+                    "filename": "1.52.818.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.818.41.png"
+                }
+            ],
+            "details": {
+                "Width": "131 mm",
+                "Height": "200 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.818.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.818.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_818/models/1.52.818.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Moulding corner 1.52.819",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-819/",
+            "code": null,
+            "category": "apvadu-kampai",
+            "images": [
+                {
+                    "filename": "1.52.819.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.819.100.png"
+                },
+                {
+                    "filename": "1.52.819.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.819.20.png"
+                },
+                {
+                    "filename": "1.52.819.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.819.31.png"
+                },
+                {
+                    "filename": "1.52.819.100.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.819.100.png"
+                },
+                {
+                    "filename": "1.52.819.20.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.819.20.png"
+                },
+                {
+                    "filename": "1.52.819.31.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.819.31.png"
+                },
+                {
+                    "filename": "1.52.819.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.819.41.png"
+                },
+                {
+                    "filename": "1.52.819.41.png",
+                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.819.41.png"
+                }
+            ],
+            "details": {
+                "Width": "106 mm",
+                "Height": "200 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.52.819.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.819.obj",
+                "local_path": "data/moulding/Moulding_corner_1_52_819/models/1.52.819.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
 }

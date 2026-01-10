@@ -7,9 +7,9 @@
             "category": "kolonos",
             "images": [],
             "details": {
-                "Width": "318 mm",
-                "Height": "2692 mm",
-                "Depth": "318 mm"
+                "Plotis": "318 mm",
+                "Aukštis": "2692 mm",
+                "Ilgis": "318 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -17,7 +17,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.101.obj",
                 "local_path": "data/column/Column/models/1.30.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Column",
@@ -26,9 +28,9 @@
             "category": "kolonos",
             "images": [],
             "details": {
-                "Width": "224 mm",
-                "Height": "2693 mm",
-                "Depth": "224 mm"
+                "Plotis": "224 mm",
+                "Aukštis": "2693 mm",
+                "Ilgis": "224 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -36,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.102.obj",
                 "local_path": "data/column/Column/models/1.30.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Column",
@@ -45,9 +49,9 @@
             "category": "kolonos",
             "images": [],
             "details": {
-                "Width": "269 mm",
-                "Height": "2220 mm",
-                "Depth": "269 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "2220 mm",
+                "Ilgis": "269 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -55,7 +59,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.103.obj",
                 "local_path": "data/column/Column/models/1.30.103.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

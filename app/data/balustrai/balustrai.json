@@ -28,9 +28,9 @@
                 }
             ],
             "details": {
-                "Width": "269 mm",
-                "Height": "82 mm",
-                "Depth": "269 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "82 mm",
+                "Ilgis": "269 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.101.obj",
                 "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/models/4.76.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pyramidal balustrade cap 4.76.201",
@@ -68,9 +70,9 @@
                 }
             ],
             "details": {
-                "Width": "219 mm",
-                "Height": "70 mm",
-                "Depth": "219 mm"
+                "Plotis": "219 mm",
+                "Aukštis": "70 mm",
+                "Ilgis": "219 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +80,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.201.obj",
                 "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/models/4.76.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ball shaped balustrade cap 4.77.101",
@@ -108,8 +112,8 @@
                 }
             ],
             "details": {
-                "Height": "230 mm",
-                "Diameter": "179 mm"
+                "Skersmuo": "179 mm",
+                "Aukštis": "230 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -117,7 +121,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.101.obj",
                 "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/models/4.77.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ball shaped balustrade cap 4.77.201",
@@ -147,8 +153,8 @@
                 }
             ],
             "details": {
-                "Height": "195 mm",
-                "Diameter": "149 mm"
+                "Skersmuo": "149 mm",
+                "Aukštis": "195 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -156,7 +162,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.201.obj",
                 "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/models/4.77.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade base 4.74.101",
@@ -186,9 +194,9 @@
                 }
             ],
             "details": {
-                "Width": "3000 mm",
-                "Height": "100 mm",
-                "Depth": "180 mm"
+                "Plotis": "3000 mm",
+                "Aukštis": "100 mm",
+                "Ilgis": "180 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -196,7 +204,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
                 "local_path": "data/balustrade/Balustrade_base_4_74_101/models/4.74.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade base 4.74.201",
@@ -226,9 +236,9 @@
                 }
             ],
             "details": {
-                "Width": "3000 mm",
-                "Height": "89 mm",
-                "Depth": "140 mm"
+                "Plotis": "3000 mm",
+                "Aukštis": "89 mm",
+                "Ilgis": "140 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -236,7 +246,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
                 "local_path": "data/balustrade/Balustrade_base_4_74_201/models/4.74.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade handrail 4.72.101",
@@ -267,8 +279,8 @@
             ],
             "details": {
                 "Ilgis": "3000 mm",
-                "Width": "189 mm",
-                "Height": "111 mm"
+                "Plotis": "189 mm",
+                "Aukštis": "111 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -276,7 +288,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
                 "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade handrail 4.72.201",
@@ -307,8 +321,8 @@
             ],
             "details": {
                 "Ilgis": "3000 mm",
-                "Width": "152 mm",
-                "Height": "102 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "102 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -316,7 +330,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
                 "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Baluster 4.71.101",
@@ -346,9 +362,9 @@
                 }
             ],
             "details": {
-                "Width": "120 mm",
-                "Height": "784 mm",
-                "Depth": "120 mm"
+                "Plotis": "120 mm",
+                "Aukštis": "784 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -356,7 +372,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.101.obj",
                 "local_path": "data/balustrade/Baluster_4_71_101/models/4.71.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Baluster 4.71.201",
@@ -386,9 +404,9 @@
                 }
             ],
             "details": {
-                "Width": "90 mm",
-                "Height": "790 mm",
-                "Depth": "90 mm"
+                "Plotis": "90 mm",
+                "Aukštis": "790 mm",
+                "Ilgis": "90 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -396,7 +414,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.201.obj",
                 "local_path": "data/balustrade/Baluster_4_71_201/models/4.71.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade handrail 4.72.101",
@@ -427,8 +447,8 @@
             ],
             "details": {
                 "Ilgis": "3000 mm",
-                "Width": "189 mm",
-                "Height": "111 mm"
+                "Plotis": "189 mm",
+                "Aukštis": "111 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -436,7 +456,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
                 "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade handrail 4.72.201",
@@ -467,8 +489,8 @@
             ],
             "details": {
                 "Ilgis": "3000 mm",
-                "Width": "152 mm",
-                "Height": "102 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "102 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -476,7 +498,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
                 "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade base 4.74.101",
@@ -506,9 +530,9 @@
                 }
             ],
             "details": {
-                "Width": "3000 mm",
-                "Height": "100 mm",
-                "Depth": "180 mm"
+                "Plotis": "3000 mm",
+                "Aukštis": "100 mm",
+                "Ilgis": "180 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -516,7 +540,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
                 "local_path": "data/balustrade/Balustrade_base_4_74_101/models/4.74.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Balustrade base 4.74.201",
@@ -546,9 +572,9 @@
                 }
             ],
             "details": {
-                "Width": "3000 mm",
-                "Height": "89 mm",
-                "Depth": "140 mm"
+                "Plotis": "3000 mm",
+                "Aukštis": "89 mm",
+                "Ilgis": "140 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -556,7 +582,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
                 "local_path": "data/balustrade/Balustrade_base_4_74_201/models/4.74.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

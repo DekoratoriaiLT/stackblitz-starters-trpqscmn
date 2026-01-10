@@ -1,3 +1,2172 @@
 {
-    "category": "sienu-paneles"
+    "products": [
+        {
+            "name": "Decorative panel 1.51.518",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-51-518-3/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.51.518.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_51_518/images/1.51.518.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.51.518.100.png"
+                },
+                {
+                    "filename": "1.51.518.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_51_518/images/1.51.518.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.51.518.100.png"
+                },
+                {
+                    "filename": "1.51.518.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_51_518/images/1.51.518.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.51.518.40.png"
+                },
+                {
+                    "filename": "1.51.518.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_51_518/images/1.51.518.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.51.518.40.png"
+                }
+            ],
+            "details": {
+                "Plotis": "2040 mm",
+                "Aukštis": "259 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.51.518.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.518.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_51_518/models/1.51.518.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.001",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-001/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.001.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_001/images/1.59.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.001.100.png"
+                },
+                {
+                    "filename": "1.59.001.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_001/images/1.59.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.001.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "600 mm",
+                "Aukštis": "600 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.001.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_001/models/1.59.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-003/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.003.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_003/images/1.59.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.003.100.png"
+                },
+                {
+                    "filename": "1.59.003.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_003/images/1.59.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.003.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "600 mm",
+                "Aukštis": "600 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.003.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_003/models/1.59.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-004/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.004.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_004/images/1.59.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.004.100.png"
+                },
+                {
+                    "filename": "1.59.004.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_004/images/1.59.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.004.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "599 mm",
+                "Aukštis": "599 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.004.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_004/models/1.59.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-005/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.005.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_005/images/1.59.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.005.100.png"
+                },
+                {
+                    "filename": "1.59.005.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_005/images/1.59.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.005.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "600 mm",
+                "Aukštis": "600 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.005.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_005/models/1.59.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.501",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-501/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.501.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_501/images/1.59.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.501.100.png"
+                },
+                {
+                    "filename": "1.59.501.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_501/images/1.59.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.501.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "349 mm",
+                "Aukštis": "399 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.501.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.501.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_501/models/1.59.501.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.503",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-503/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.503.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_503/images/1.59.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.503.100.png"
+                },
+                {
+                    "filename": "1.59.503.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_503/images/1.59.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.503.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "499 mm",
+                "Aukštis": "498 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.503.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.503.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_503/models/1.59.503.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.817",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-817/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.817.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.817.100.png"
+                },
+                {
+                    "filename": "1.59.817.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.817.20.png"
+                },
+                {
+                    "filename": "1.59.817.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.817.30.png"
+                },
+                {
+                    "filename": "1.59.817.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.36.png"
+                },
+                {
+                    "filename": "1.59.817.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.37.png"
+                },
+                {
+                    "filename": "1.59.817.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.38.png"
+                },
+                {
+                    "filename": "1.59.817.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.39.png"
+                },
+                {
+                    "filename": "1.59.817.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.817.100.png"
+                },
+                {
+                    "filename": "1.59.817.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.817.20.png"
+                },
+                {
+                    "filename": "1.59.817.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.817.30.png"
+                },
+                {
+                    "filename": "1.59.817.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.36.png"
+                },
+                {
+                    "filename": "1.59.817.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.37.png"
+                },
+                {
+                    "filename": "1.59.817.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.38.png"
+                },
+                {
+                    "filename": "1.59.817.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_817/images/1.59.817.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.817.39.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "500 mm",
+                "Plotis": "500 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.817.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.817.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_817/models/1.59.817.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.818",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-818/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.818.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.818.100.png"
+                },
+                {
+                    "filename": "1.59.818.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.818.20.png"
+                },
+                {
+                    "filename": "1.59.818.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.818.30.png"
+                },
+                {
+                    "filename": "1.59.818.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.818.36.png"
+                },
+                {
+                    "filename": "1.59.818.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.818.100.png"
+                },
+                {
+                    "filename": "1.59.818.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.818.20.png"
+                },
+                {
+                    "filename": "1.59.818.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.818.30.png"
+                },
+                {
+                    "filename": "1.59.818.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_818/images/1.59.818.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.818.36.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "500 mm",
+                "Plotis": "500 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.818.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.818.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_818/models/1.59.818.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.819",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-819/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.819.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.819.100.png"
+                },
+                {
+                    "filename": "1.59.819.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.819.20.png"
+                },
+                {
+                    "filename": "1.59.819.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.819.30.png"
+                },
+                {
+                    "filename": "1.59.819.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.819.31.png"
+                },
+                {
+                    "filename": "1.59.819.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.819.100.png"
+                },
+                {
+                    "filename": "1.59.819.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.819.20.png"
+                },
+                {
+                    "filename": "1.59.819.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.819.30.png"
+                },
+                {
+                    "filename": "1.59.819.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_819/images/1.59.819.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.819.31.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1500 mm",
+                "Plotis": "500 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.819.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.819.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_819/models/1.59.819.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.820",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-820/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.820.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.820.100.png"
+                },
+                {
+                    "filename": "1.59.820.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.820.20.png"
+                },
+                {
+                    "filename": "1.59.820.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.820.30.png"
+                },
+                {
+                    "filename": "1.59.820.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.32.png"
+                },
+                {
+                    "filename": "1.59.820.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.36.png"
+                },
+                {
+                    "filename": "1.59.820.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.37.png"
+                },
+                {
+                    "filename": "1.59.820.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.38.png"
+                },
+                {
+                    "filename": "1.59.820.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.820.100.png"
+                },
+                {
+                    "filename": "1.59.820.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.820.20.png"
+                },
+                {
+                    "filename": "1.59.820.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.820.30.png"
+                },
+                {
+                    "filename": "1.59.820.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.32.png"
+                },
+                {
+                    "filename": "1.59.820.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.36.png"
+                },
+                {
+                    "filename": "1.59.820.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.37.png"
+                },
+                {
+                    "filename": "1.59.820.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_820/images/1.59.820.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.820.38.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "500 mm",
+                "Plotis": "500 mm",
+                "Aukštis": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.820.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.820.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_820/models/1.59.820.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.821",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-821/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.821.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.821.100.png"
+                },
+                {
+                    "filename": "1.59.821.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.821.20.png"
+                },
+                {
+                    "filename": "1.59.821.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.821.30.png"
+                },
+                {
+                    "filename": "1.59.821.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.821.33.png"
+                },
+                {
+                    "filename": "1.59.821.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.821.100.png"
+                },
+                {
+                    "filename": "1.59.821.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.821.20.png"
+                },
+                {
+                    "filename": "1.59.821.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.821.30.png"
+                },
+                {
+                    "filename": "1.59.821.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_821/images/1.59.821.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.821.33.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1500 mm",
+                "Plotis": "500 mm",
+                "Aukštis": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.821.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.821.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_821/models/1.59.821.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.823",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-823/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.823.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.823.100.png"
+                },
+                {
+                    "filename": "1.59.823.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.823.20.png"
+                },
+                {
+                    "filename": "1.59.823.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.823.30.png"
+                },
+                {
+                    "filename": "1.59.823.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.823.31.png"
+                },
+                {
+                    "filename": "1.59.823.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.823.32.png"
+                },
+                {
+                    "filename": "1.59.823.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.823.100.png"
+                },
+                {
+                    "filename": "1.59.823.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.823.20.png"
+                },
+                {
+                    "filename": "1.59.823.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.823.30.png"
+                },
+                {
+                    "filename": "1.59.823.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_823/images/1.59.823.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.823.31.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "600 mm",
+                "Plotis": "600 mm",
+                "Aukštis": "44 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.823.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.823.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_823/models/1.59.823.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.901",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-901/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.901.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.901.100.png"
+                },
+                {
+                    "filename": "1.59.901.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.901.20.png"
+                },
+                {
+                    "filename": "1.59.901.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.901.30.png"
+                },
+                {
+                    "filename": "1.59.901.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.901.31.png"
+                },
+                {
+                    "filename": "1.59.901.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.901.100.png"
+                },
+                {
+                    "filename": "1.59.901.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.901.20.png"
+                },
+                {
+                    "filename": "1.59.901.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.901.30.png"
+                },
+                {
+                    "filename": "1.59.901.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_901/images/1.59.901.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.901.31.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "960 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.901.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.901.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_901/models/1.59.901.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.902",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-902/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.902.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.902.100.png"
+                },
+                {
+                    "filename": "1.59.902.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.902.20.png"
+                },
+                {
+                    "filename": "1.59.902.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.902.30.png"
+                },
+                {
+                    "filename": "1.59.902.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.31.png"
+                },
+                {
+                    "filename": "1.59.902.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.32.png"
+                },
+                {
+                    "filename": "1.59.902.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.33.png"
+                },
+                {
+                    "filename": "1.59.902.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.34.png"
+                },
+                {
+                    "filename": "1.59.902.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.902.100.png"
+                },
+                {
+                    "filename": "1.59.902.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.902.20.png"
+                },
+                {
+                    "filename": "1.59.902.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.902.30.png"
+                },
+                {
+                    "filename": "1.59.902.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.31.png"
+                },
+                {
+                    "filename": "1.59.902.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.32.png"
+                },
+                {
+                    "filename": "1.59.902.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.33.png"
+                },
+                {
+                    "filename": "1.59.902.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_902/images/1.59.902.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.902.34.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "450 mm",
+                "Plotis": "225 mm",
+                "Aukštis": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.902.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.902.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_902/models/1.59.902.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.903",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-903/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.903.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.903.100.png"
+                },
+                {
+                    "filename": "1.59.903.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.903.20.png"
+                },
+                {
+                    "filename": "1.59.903.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.903.30.png"
+                },
+                {
+                    "filename": "1.59.903.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.31.png"
+                },
+                {
+                    "filename": "1.59.903.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.32.png"
+                },
+                {
+                    "filename": "1.59.903.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.33.png"
+                },
+                {
+                    "filename": "1.59.903.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.34.png"
+                },
+                {
+                    "filename": "1.59.903.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.903.100.png"
+                },
+                {
+                    "filename": "1.59.903.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.903.20.png"
+                },
+                {
+                    "filename": "1.59.903.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.903.30.png"
+                },
+                {
+                    "filename": "1.59.903.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.31.png"
+                },
+                {
+                    "filename": "1.59.903.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.32.png"
+                },
+                {
+                    "filename": "1.59.903.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.33.png"
+                },
+                {
+                    "filename": "1.59.903.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_903/images/1.59.903.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.903.34.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "416 mm",
+                "Plotis": "416 mm",
+                "Aukštis": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.903.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.903.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_903/models/1.59.903.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.904",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-904/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.904.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.904.100.png"
+                },
+                {
+                    "filename": "1.59.904.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.904.20.png"
+                },
+                {
+                    "filename": "1.59.904.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.904.30.png"
+                },
+                {
+                    "filename": "1.59.904.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.31.png"
+                },
+                {
+                    "filename": "1.59.904.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.32.png"
+                },
+                {
+                    "filename": "1.59.904.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.34.png"
+                },
+                {
+                    "filename": "1.59.904.35.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.35.png"
+                },
+                {
+                    "filename": "1.59.904.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.36.png"
+                },
+                {
+                    "filename": "1.59.904.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.904.100.png"
+                },
+                {
+                    "filename": "1.59.904.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.904.20.png"
+                },
+                {
+                    "filename": "1.59.904.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.904.30.png"
+                },
+                {
+                    "filename": "1.59.904.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.31.png"
+                },
+                {
+                    "filename": "1.59.904.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.32.png"
+                },
+                {
+                    "filename": "1.59.904.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.33.png"
+                },
+                {
+                    "filename": "1.59.904.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.34.png"
+                },
+                {
+                    "filename": "1.59.904.35.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.35.png"
+                },
+                {
+                    "filename": "1.59.904.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_904/images/1.59.904.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.904.36.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "900 mm",
+                "Plotis": "250 mm",
+                "Aukštis": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.904.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.904.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_904/models/1.59.904.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.905",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-905/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.905.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.905.100.png"
+                },
+                {
+                    "filename": "1.59.905.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.905.20.png"
+                },
+                {
+                    "filename": "1.59.905.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.905.30.png"
+                },
+                {
+                    "filename": "1.59.905.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.905.31.png"
+                },
+                {
+                    "filename": "1.59.905.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.905.32.png"
+                },
+                {
+                    "filename": "1.59.905.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.905.100.png"
+                },
+                {
+                    "filename": "1.59.905.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.905.20.png"
+                },
+                {
+                    "filename": "1.59.905.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.905.30.png"
+                },
+                {
+                    "filename": "1.59.905.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.905.31.png"
+                },
+                {
+                    "filename": "1.59.905.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_905/images/1.59.905.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.905.32.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "800 mm",
+                "Plotis": "400 mm",
+                "Aukštis": "13 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.905.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.905.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_905/models/1.59.905.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 1.59.906",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-59-906/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "1.59.906.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.59.906.100.png"
+                },
+                {
+                    "filename": "1.59.906.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.906.20.png"
+                },
+                {
+                    "filename": "1.59.906.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.906.30.png"
+                },
+                {
+                    "filename": "1.59.906.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.906.31.png"
+                },
+                {
+                    "filename": "1.59.906.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.906.32.png"
+                },
+                {
+                    "filename": "1.59.906.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.59.906.20.png"
+                },
+                {
+                    "filename": "1.59.906.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.59.906.30.png"
+                },
+                {
+                    "filename": "1.59.906.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.906.31.png"
+                },
+                {
+                    "filename": "1.59.906.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_1_59_906/images/1.59.906.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.59.906.32.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "800 mm",
+                "Plotis": "400 mm",
+                "Aukštis": "13 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.59.906.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.59.906.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_1_59_906/models/1.59.906.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-801/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.801.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.801.100.png"
+                },
+                {
+                    "filename": "6.59.801.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.801.30.png"
+                },
+                {
+                    "filename": "6.59.801.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.31.png"
+                },
+                {
+                    "filename": "6.59.801.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.32.png"
+                },
+                {
+                    "filename": "6.59.801.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.33.png"
+                },
+                {
+                    "filename": "6.59.801.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.36.png"
+                },
+                {
+                    "filename": "6.59.801.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.801.100.png"
+                },
+                {
+                    "filename": "6.59.801.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.801.30.png"
+                },
+                {
+                    "filename": "6.59.801.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.32.png"
+                },
+                {
+                    "filename": "6.59.801.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.33.png"
+                },
+                {
+                    "filename": "6.59.801.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801.36.png"
+                },
+                {
+                    "filename": "6.59.801.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.801.40.png"
+                },
+                {
+                    "filename": "6.59.801.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801/images/6.59.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.801.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "251 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.801.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_801/models/6.59.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.801-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-801-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.801-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.801-280.100.png"
+                },
+                {
+                    "filename": "6.59.801-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.801-280.30.png"
+                },
+                {
+                    "filename": "6.59.801-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801-280.31.png"
+                },
+                {
+                    "filename": "6.59.801-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801-280.36.png"
+                },
+                {
+                    "filename": "6.59.801-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.801-280.100.png"
+                },
+                {
+                    "filename": "6.59.801-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.801-280.30.png"
+                },
+                {
+                    "filename": "6.59.801-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801-280.31.png"
+                },
+                {
+                    "filename": "6.59.801-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.801-280.36.png"
+                },
+                {
+                    "filename": "6.59.801-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/images/6.59.801-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.801-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "251 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.801-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.801-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_801-280/models/6.59.801-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.802",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-802/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.802.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.802.100.png"
+                },
+                {
+                    "filename": "6.59.802.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.802.30.png"
+                },
+                {
+                    "filename": "6.59.802.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.31.png"
+                },
+                {
+                    "filename": "6.59.802.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.32.png"
+                },
+                {
+                    "filename": "6.59.802.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.33.png"
+                },
+                {
+                    "filename": "6.59.802.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.34.png"
+                },
+                {
+                    "filename": "6.59.802.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.36.png"
+                },
+                {
+                    "filename": "6.59.802.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.802.100.png"
+                },
+                {
+                    "filename": "6.59.802.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.802.30.png"
+                },
+                {
+                    "filename": "6.59.802.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.31.png"
+                },
+                {
+                    "filename": "6.59.802.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.33.png"
+                },
+                {
+                    "filename": "6.59.802.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.34.png"
+                },
+                {
+                    "filename": "6.59.802.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802.36.png"
+                },
+                {
+                    "filename": "6.59.802.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.802.40.png"
+                },
+                {
+                    "filename": "6.59.802.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.802.40.png"
+                },
+                {
+                    "filename": "6.59.802-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802/images/6.59.802-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.802-280.100.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "251 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.802.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.802.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_802/models/6.59.802.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.802-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-802-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.802-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.802-280.100.png"
+                },
+                {
+                    "filename": "6.59.802-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.802-280.30.png"
+                },
+                {
+                    "filename": "6.59.802-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802-280.31.png"
+                },
+                {
+                    "filename": "6.59.802-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802-280.36.png"
+                },
+                {
+                    "filename": "6.59.802-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.802-280.100.png"
+                },
+                {
+                    "filename": "6.59.802-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.802-280.30.png"
+                },
+                {
+                    "filename": "6.59.802-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.802-280.36.png"
+                },
+                {
+                    "filename": "6.59.802-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.802-280.40.png"
+                },
+                {
+                    "filename": "6.59.802-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/images/6.59.802-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.802-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "251 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.802-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.802-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_802-280/models/6.59.802-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-803/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.803.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.803.100.png"
+                },
+                {
+                    "filename": "6.59.803.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.803.30.png"
+                },
+                {
+                    "filename": "6.59.803.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.31.png"
+                },
+                {
+                    "filename": "6.59.803.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.32.png"
+                },
+                {
+                    "filename": "6.59.803.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.33.png"
+                },
+                {
+                    "filename": "6.59.803.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.34.png"
+                },
+                {
+                    "filename": "6.59.803.35.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.35.png"
+                },
+                {
+                    "filename": "6.59.803.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.36.png"
+                },
+                {
+                    "filename": "6.59.803.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.37.png"
+                },
+                {
+                    "filename": "6.59.803.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.803.30.png"
+                },
+                {
+                    "filename": "6.59.803.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.31.png"
+                },
+                {
+                    "filename": "6.59.803.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.32.png"
+                },
+                {
+                    "filename": "6.59.803.33.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.33.png"
+                },
+                {
+                    "filename": "6.59.803.34.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.34.png"
+                },
+                {
+                    "filename": "6.59.803.35.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.35.png"
+                },
+                {
+                    "filename": "6.59.803.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.36.png"
+                },
+                {
+                    "filename": "6.59.803.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803.37.png"
+                },
+                {
+                    "filename": "6.59.803.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.803.40.png"
+                },
+                {
+                    "filename": "6.59.803.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803/images/6.59.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.803.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.803.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_803/models/6.59.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.803-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-803-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.803-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.803-280.100.png"
+                },
+                {
+                    "filename": "6.59.803-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.803-280.30.png"
+                },
+                {
+                    "filename": "6.59.803-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.31.png"
+                },
+                {
+                    "filename": "6.59.803-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.36.png"
+                },
+                {
+                    "filename": "6.59.803-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.37.png"
+                },
+                {
+                    "filename": "6.59.803-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.803-280.100.png"
+                },
+                {
+                    "filename": "6.59.803-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.803-280.30.png"
+                },
+                {
+                    "filename": "6.59.803-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.31.png"
+                },
+                {
+                    "filename": "6.59.803-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.36.png"
+                },
+                {
+                    "filename": "6.59.803-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.803-280.37.png"
+                },
+                {
+                    "filename": "6.59.803-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.803-280.40.png"
+                },
+                {
+                    "filename": "6.59.803-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/images/6.59.803-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.803-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.803-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.803-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_803-280/models/6.59.803-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.804",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-804/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.804.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.804.100.png"
+                },
+                {
+                    "filename": "6.59.804.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.804.30.png"
+                },
+                {
+                    "filename": "6.59.804.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.36.png"
+                },
+                {
+                    "filename": "6.59.804.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.37.png"
+                },
+                {
+                    "filename": "6.59.804.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.38.png"
+                },
+                {
+                    "filename": "6.59.804.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.39.png"
+                },
+                {
+                    "filename": "6.59.804.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.804.100.png"
+                },
+                {
+                    "filename": "6.59.804.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.804.30.png"
+                },
+                {
+                    "filename": "6.59.804.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.36.png"
+                },
+                {
+                    "filename": "6.59.804.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.37.png"
+                },
+                {
+                    "filename": "6.59.804.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.38.png"
+                },
+                {
+                    "filename": "6.59.804.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804.39.png"
+                },
+                {
+                    "filename": "6.59.804.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.804.40.png"
+                },
+                {
+                    "filename": "6.59.804.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804/images/6.59.804.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.804.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.804.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.804.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_804/models/6.59.804.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.804-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-804-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.804-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.804-280.100.png"
+                },
+                {
+                    "filename": "6.59.804-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.804-280.30.png"
+                },
+                {
+                    "filename": "6.59.804-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.36.png"
+                },
+                {
+                    "filename": "6.59.804-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.37.png"
+                },
+                {
+                    "filename": "6.59.804-280.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.38.png"
+                },
+                {
+                    "filename": "6.59.804-280.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.39.png"
+                },
+                {
+                    "filename": "6.59.804-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.804-280.100.png"
+                },
+                {
+                    "filename": "6.59.804-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.804-280.30.png"
+                },
+                {
+                    "filename": "6.59.804-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.36.png"
+                },
+                {
+                    "filename": "6.59.804-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.37.png"
+                },
+                {
+                    "filename": "6.59.804-280.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.38.png"
+                },
+                {
+                    "filename": "6.59.804-280.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.804-280.39.png"
+                },
+                {
+                    "filename": "6.59.804-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.804-280.40.png"
+                },
+                {
+                    "filename": "6.59.804-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/images/6.59.804-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.804-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.804-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.804-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_804-280/models/6.59.804-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.805",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-805/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.805.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.805.100.png"
+                },
+                {
+                    "filename": "6.59.805.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.59.805.20.png"
+                },
+                {
+                    "filename": "6.59.805.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.805.30.png"
+                },
+                {
+                    "filename": "6.59.805.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805.31.png"
+                },
+                {
+                    "filename": "6.59.805.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805.36.png"
+                },
+                {
+                    "filename": "6.59.805.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.805.100.png"
+                },
+                {
+                    "filename": "6.59.805.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.59.805.20.png"
+                },
+                {
+                    "filename": "6.59.805.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.805.30.png"
+                },
+                {
+                    "filename": "6.59.805.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805.31.png"
+                },
+                {
+                    "filename": "6.59.805.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805.36.png"
+                },
+                {
+                    "filename": "6.59.805.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.805.40.png"
+                },
+                {
+                    "filename": "6.59.805.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805/images/6.59.805.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.805.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "28 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.805.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.805.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_805/models/6.59.805.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.805-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-805-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.805-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.805-280.100.png"
+                },
+                {
+                    "filename": "6.59.805-280.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.59.805-280.20.png"
+                },
+                {
+                    "filename": "6.59.805-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.805-280.30.png"
+                },
+                {
+                    "filename": "6.59.805-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805-280.31.png"
+                },
+                {
+                    "filename": "6.59.805-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805-280.36.png"
+                },
+                {
+                    "filename": "6.59.805-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.805-280.100.png"
+                },
+                {
+                    "filename": "6.59.805-280.20.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.59.805-280.20.png"
+                },
+                {
+                    "filename": "6.59.805-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.805-280.30.png"
+                },
+                {
+                    "filename": "6.59.805-280.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805-280.31.png"
+                },
+                {
+                    "filename": "6.59.805-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.805-280.36.png"
+                },
+                {
+                    "filename": "6.59.805-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.805-280.40.png"
+                },
+                {
+                    "filename": "6.59.805-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/images/6.59.805-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.805-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "28 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.805-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.805-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_805-280/models/6.59.805-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.806",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-806/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.806.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.806.100.png"
+                },
+                {
+                    "filename": "6.59.806.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.806.30.png"
+                },
+                {
+                    "filename": "6.59.806.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.31.png"
+                },
+                {
+                    "filename": "6.59.806.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.32.png"
+                },
+                {
+                    "filename": "6.59.806.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.36.png"
+                },
+                {
+                    "filename": "6.59.806.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.37.png"
+                },
+                {
+                    "filename": "6.59.806.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.38.png"
+                },
+                {
+                    "filename": "6.59.806.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.39.png"
+                },
+                {
+                    "filename": "6.59.806.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.806.100.png"
+                },
+                {
+                    "filename": "6.59.806.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.806.30.png"
+                },
+                {
+                    "filename": "6.59.806.31.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.31.png"
+                },
+                {
+                    "filename": "6.59.806.32.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.32.png"
+                },
+                {
+                    "filename": "6.59.806.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.36.png"
+                },
+                {
+                    "filename": "6.59.806.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.37.png"
+                },
+                {
+                    "filename": "6.59.806.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.38.png"
+                },
+                {
+                    "filename": "6.59.806.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806.39.png"
+                },
+                {
+                    "filename": "6.59.806.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.806.40.png"
+                },
+                {
+                    "filename": "6.59.806.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806/images/6.59.806.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.806.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.806.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.806.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_806/models/6.59.806.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative panel 6.59.806-280",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/6-59-806-280/",
+            "code": null,
+            "category": "sienu-paneles",
+            "images": [
+                {
+                    "filename": "6.59.806-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.806-280.100.png"
+                },
+                {
+                    "filename": "6.59.806-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.806-280.30.png"
+                },
+                {
+                    "filename": "6.59.806-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.36.png"
+                },
+                {
+                    "filename": "6.59.806-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.37.png"
+                },
+                {
+                    "filename": "6.59.806-280.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.38.png"
+                },
+                {
+                    "filename": "6.59.806-280.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.39.png"
+                },
+                {
+                    "filename": "6.59.806-280.100.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.59.806-280.100.png"
+                },
+                {
+                    "filename": "6.59.806-280.30.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.59.806-280.30.png"
+                },
+                {
+                    "filename": "6.59.806-280.36.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.36.png"
+                },
+                {
+                    "filename": "6.59.806-280.37.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.37.png"
+                },
+                {
+                    "filename": "6.59.806-280.38.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.38.png"
+                },
+                {
+                    "filename": "6.59.806-280.39.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.39.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.59.806-280.39.png"
+                },
+                {
+                    "filename": "6.59.806-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.806-280.40.png"
+                },
+                {
+                    "filename": "6.59.806-280.40.png",
+                    "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/images/6.59.806-280.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.59.806-280.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2800 mm",
+                "Plotis": "240 mm",
+                "Aukštis": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.59.806-280.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.59.806-280.obj",
+                "local_path": "data/decorative-panel/Decorative_panel_6_59_806-280/models/6.59.806-280.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
 }

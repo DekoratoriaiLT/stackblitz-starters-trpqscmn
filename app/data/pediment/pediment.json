@@ -29,8 +29,8 @@
             ],
             "details": {
                 "Ilgis": "1280 mm",
-                "Height": "146 mm",
-                "Thickness": "57 mm"
+                "Aukštis": "146 mm",
+                "Plotis": "57 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.001.obj",
                 "local_path": "data/pediment/Pediment_1_63_001/models/1.63.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pediment 1.63.002",
@@ -69,8 +71,8 @@
             ],
             "details": {
                 "Ilgis": "1280 mm",
-                "Height": "146 mm",
-                "Thickness": "57 mm"
+                "Aukštis": "146 mm",
+                "Plotis": "57 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +80,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.002.obj",
                 "local_path": "data/pediment/Pediment_1_63_002/models/1.63.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pediment 4.89.001",
@@ -129,8 +133,8 @@
             ],
             "details": {
                 "Ilgis": "902 mm",
-                "Height": "510 mm",
-                "Thickness": "54 mm"
+                "Aukštis": "510 mm",
+                "Plotis": "54 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -138,7 +142,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.89.001.obj",
                 "local_path": "data/pediment/Pediment_4_89_001/models/4.89.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

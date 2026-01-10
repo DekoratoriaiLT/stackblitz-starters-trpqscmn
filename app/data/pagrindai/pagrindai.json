@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "391 mm",
-                "Height": "697 mm",
-                "Depth": "391 mm"
+                "Plotis": "391 mm",
+                "Aukštis": "697 mm",
+                "Ilgis": "391 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.100.obj",
                 "local_path": "data/base/Base_1_13_100/models/1.13.100.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.13.200",
@@ -48,9 +50,9 @@
                 }
             ],
             "details": {
-                "Width": "377 mm",
-                "Height": "171 mm",
-                "Depth": "377 mm"
+                "Plotis": "377 mm",
+                "Aukštis": "171 mm",
+                "Ilgis": "377 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +60,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.200.obj",
                 "local_path": "data/base/Base_1_13_200/models/1.13.200.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.13.500",
@@ -78,9 +82,9 @@
                 }
             ],
             "details": {
-                "Width": "261 mm",
-                "Height": "110 mm",
-                "Depth": "261 mm"
+                "Plotis": "261 mm",
+                "Aukštis": "110 mm",
+                "Ilgis": "261 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +92,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.500.obj",
                 "local_path": "data/base/Base_1_13_500/models/1.13.500.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.13.700",
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "224 mm",
-                "Height": "115 mm",
-                "Depth": "224 mm"
+                "Plotis": "224 mm",
+                "Aukštis": "115 mm",
+                "Ilgis": "224 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +124,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.700.obj",
                 "local_path": "data/base/Base_1_13_700/models/1.13.700.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.13.900",
@@ -138,9 +146,9 @@
                 }
             ],
             "details": {
-                "Width": "214 mm",
-                "Height": "118 mm",
-                "Depth": "214 mm"
+                "Plotis": "214 mm",
+                "Aukštis": "118 mm",
+                "Ilgis": "214 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -148,7 +156,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.900.obj",
                 "local_path": "data/base/Base_1_13_900/models/1.13.900.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.100",
@@ -168,9 +178,9 @@
                 }
             ],
             "details": {
-                "Width": "391 mm",
-                "Height": "698 mm",
-                "Depth": "193 mm"
+                "Plotis": "391 mm",
+                "Aukštis": "698 mm",
+                "Ilgis": "193 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -178,7 +188,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.100.obj",
                 "local_path": "data/base/Base_1_17_100/models/1.17.100.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.200",
@@ -198,9 +210,9 @@
                 }
             ],
             "details": {
-                "Width": "378 mm",
-                "Height": "171 mm",
-                "Depth": "188 mm"
+                "Plotis": "378 mm",
+                "Aukštis": "171 mm",
+                "Ilgis": "188 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -208,7 +220,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.200.obj",
                 "local_path": "data/base/Base_1_17_200/models/1.17.200.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.500",
@@ -228,9 +242,9 @@
                 }
             ],
             "details": {
-                "Width": "260 mm",
-                "Height": "110 mm",
-                "Depth": "130 mm"
+                "Plotis": "260 mm",
+                "Aukštis": "110 mm",
+                "Ilgis": "130 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -238,7 +252,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.500.obj",
                 "local_path": "data/base/Base_1_17_500/models/1.17.500.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.600",
@@ -258,9 +274,9 @@
                 }
             ],
             "details": {
-                "Width": "275 mm",
-                "Height": "695 mm",
-                "Depth": "140 mm"
+                "Plotis": "275 mm",
+                "Aukštis": "695 mm",
+                "Ilgis": "140 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -268,7 +284,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.600.obj",
                 "local_path": "data/base/Base_1_17_600/models/1.17.600.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.700",
@@ -288,9 +306,9 @@
                 }
             ],
             "details": {
-                "Width": "225 mm",
-                "Height": "115 mm",
-                "Depth": "112 mm"
+                "Plotis": "225 mm",
+                "Aukštis": "115 mm",
+                "Ilgis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -298,7 +316,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.700.obj",
                 "local_path": "data/base/Base_1_17_700/models/1.17.700.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.17.900",
@@ -318,9 +338,9 @@
                 }
             ],
             "details": {
-                "Width": "214 mm",
-                "Height": "119 mm",
-                "Depth": "106 mm"
+                "Plotis": "214 mm",
+                "Aukštis": "119 mm",
+                "Ilgis": "106 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -328,7 +348,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.900.obj",
                 "local_path": "data/base/Base_1_17_900/models/1.17.900.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.100",
@@ -348,9 +370,9 @@
                 }
             ],
             "details": {
-                "Width": "214 mm",
-                "Height": "540 mm",
-                "Depth": "55 mm"
+                "Plotis": "214 mm",
+                "Aukštis": "540 mm",
+                "Ilgis": "55 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -358,7 +380,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.100.obj",
                 "local_path": "data/base/Base_1_23_100/models/1.23.100.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.200",
@@ -378,9 +402,9 @@
                 }
             ],
             "details": {
-                "Width": "542 mm",
-                "Height": "372 mm",
-                "Depth": "85 mm"
+                "Plotis": "542 mm",
+                "Aukštis": "372 mm",
+                "Ilgis": "85 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -388,7 +412,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.200.obj",
                 "local_path": "data/base/Base_1_23_200/models/1.23.200.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.300",
@@ -408,9 +434,9 @@
                 }
             ],
             "details": {
-                "Width": "300 mm",
-                "Height": "752 mm",
-                "Depth": "75 mm"
+                "Plotis": "300 mm",
+                "Aukštis": "752 mm",
+                "Ilgis": "75 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -418,7 +444,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.300.obj",
                 "local_path": "data/base/Base_1_23_300/models/1.23.300.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.400",
@@ -438,9 +466,9 @@
                 }
             ],
             "details": {
-                "Width": "390 mm",
-                "Height": "905 mm",
-                "Depth": "70 mm"
+                "Plotis": "390 mm",
+                "Aukštis": "905 mm",
+                "Ilgis": "70 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -448,7 +476,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.400.obj",
                 "local_path": "data/base/Base_1_23_400/models/1.23.400.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.500",
@@ -468,9 +498,9 @@
                 }
             ],
             "details": {
-                "Width": "578 mm",
-                "Height": "301 mm",
-                "Depth": "62 mm"
+                "Plotis": "578 mm",
+                "Aukštis": "301 mm",
+                "Ilgis": "62 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -478,7 +508,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.500.obj",
                 "local_path": "data/base/Base_1_23_500/models/1.23.500.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.23.600",
@@ -498,9 +530,9 @@
                 }
             ],
             "details": {
-                "Width": "117 mm",
-                "Height": "255 mm",
-                "Depth": "25 mm"
+                "Plotis": "117 mm",
+                "Aukštis": "255 mm",
+                "Ilgis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -508,7 +540,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.600.obj",
                 "local_path": "data/base/Base_1_23_600/models/1.23.600.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.010",
@@ -528,9 +562,8 @@
                 }
             ],
             "details": {
-                "Width": "96 mm",
-                "Height": "248 mm",
-                "Thickness": "30 mm"
+                "Plotis": "96 mm",
+                "Aukštis": "248 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -538,7 +571,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.010.obj",
                 "local_path": "data/base/Base_1_54_010/models/1.54.010.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.030",
@@ -558,9 +593,8 @@
                 }
             ],
             "details": {
-                "Width": "108 mm",
-                "Height": "228 mm",
-                "Thickness": "29 mm"
+                "Plotis": "108 mm",
+                "Aukštis": "228 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -568,7 +602,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
                 "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.030",
@@ -588,9 +624,8 @@
                 }
             ],
             "details": {
-                "Width": "108 mm",
-                "Height": "228 mm",
-                "Thickness": "29 mm"
+                "Plotis": "108 mm",
+                "Aukštis": "228 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -598,7 +633,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
                 "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.040",
@@ -618,9 +655,8 @@
                 }
             ],
             "details": {
-                "Width": "115 mm",
-                "Height": "249 mm",
-                "Thickness": "45 mm"
+                "Plotis": "115 mm",
+                "Aukštis": "249 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -628,7 +664,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
                 "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.040",
@@ -648,9 +686,8 @@
                 }
             ],
             "details": {
-                "Width": "115 mm",
-                "Height": "249 mm",
-                "Thickness": "45 mm"
+                "Plotis": "115 mm",
+                "Aukštis": "249 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -658,7 +695,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
                 "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.050",
@@ -678,13 +717,14 @@
                 }
             ],
             "details": {
-                "Width": "90 mm",
-                "Height": "299 mm",
-                "Thickness": "25 mm"
+                "Plotis": "90 mm",
+                "Aukštis": "299 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.050",
@@ -704,13 +744,14 @@
                 }
             ],
             "details": {
-                "Width": "90 mm",
-                "Height": "299 mm",
-                "Thickness": "25 mm"
+                "Plotis": "90 mm",
+                "Aukštis": "299 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.060",
@@ -730,9 +771,8 @@
                 }
             ],
             "details": {
-                "Width": "110 mm",
-                "Height": "300 mm",
-                "Thickness": "30 mm"
+                "Plotis": "110 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -740,7 +780,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
                 "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.060",
@@ -760,9 +802,8 @@
                 }
             ],
             "details": {
-                "Width": "110 mm",
-                "Height": "300 mm",
-                "Thickness": "30 mm"
+                "Plotis": "110 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -770,7 +811,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
                 "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.070",
@@ -790,9 +833,8 @@
                 }
             ],
             "details": {
-                "Width": "110 mm",
-                "Height": "300 mm",
-                "Thickness": "30 mm"
+                "Plotis": "110 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -800,7 +842,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
                 "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 1.54.070",
@@ -820,9 +864,8 @@
                 }
             ],
             "details": {
-                "Width": "110 mm",
-                "Height": "300 mm",
-                "Thickness": "30 mm"
+                "Plotis": "110 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -830,7 +873,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
                 "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.001",
@@ -850,9 +895,9 @@
                 }
             ],
             "details": {
-                "Width": "487 mm",
-                "Height": "198 mm",
-                "Depth": "487 mm"
+                "Plotis": "487 mm",
+                "Aukštis": "198 mm",
+                "Ilgis": "487 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -860,7 +905,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.001.obj",
                 "local_path": "data/base/Base_4_13_001/models/4.13.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.002",
@@ -880,9 +927,9 @@
                 }
             ],
             "details": {
-                "Width": "506 mm",
-                "Height": "215 mm",
-                "Depth": "506 mm"
+                "Plotis": "506 mm",
+                "Aukštis": "215 mm",
+                "Ilgis": "506 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -890,7 +937,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.002.obj",
                 "local_path": "data/base/Base_4_13_002/models/4.13.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.101",
@@ -910,9 +959,9 @@
                 }
             ],
             "details": {
-                "Width": "440 mm",
-                "Height": "180 mm",
-                "Depth": "440 mm"
+                "Plotis": "440 mm",
+                "Aukštis": "180 mm",
+                "Ilgis": "440 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -920,7 +969,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.101.obj",
                 "local_path": "data/base/Base_4_13_101/models/4.13.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.201",
@@ -940,9 +991,9 @@
                 }
             ],
             "details": {
-                "Width": "411 mm",
-                "Height": "170 mm",
-                "Depth": "411 mm"
+                "Plotis": "411 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "411 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -950,7 +1001,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.201.obj",
                 "local_path": "data/base/Base_4_13_201/models/4.13.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.202",
@@ -970,9 +1023,9 @@
                 }
             ],
             "details": {
-                "Width": "411 mm",
-                "Height": "170 mm",
-                "Depth": "411 mm"
+                "Plotis": "411 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "411 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -980,7 +1033,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.202.obj",
                 "local_path": "data/base/Base_4_13_202/models/4.13.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.301",
@@ -1000,9 +1055,9 @@
                 }
             ],
             "details": {
-                "Width": "370 mm",
-                "Height": "161 mm",
-                "Depth": "370 mm"
+                "Plotis": "370 mm",
+                "Aukštis": "161 mm",
+                "Ilgis": "370 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1010,7 +1065,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.301.obj",
                 "local_path": "data/base/Base_4_13_301/models/4.13.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.13.302",
@@ -1030,9 +1087,9 @@
                 }
             ],
             "details": {
-                "Width": "370 mm",
-                "Height": "161 mm",
-                "Depth": "370 mm"
+                "Plotis": "370 mm",
+                "Aukštis": "161 mm",
+                "Ilgis": "370 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1040,7 +1097,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.302.obj",
                 "local_path": "data/base/Base_4_13_302/models/4.13.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.001",
@@ -1060,9 +1119,9 @@
                 }
             ],
             "details": {
-                "Width": "487 mm",
-                "Height": "198 mm",
-                "Depth": "242 mm"
+                "Plotis": "487 mm",
+                "Aukštis": "198 mm",
+                "Ilgis": "242 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1070,7 +1129,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.001.obj",
                 "local_path": "data/base/Base_4_17_001/models/4.17.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.002",
@@ -1090,9 +1151,9 @@
                 }
             ],
             "details": {
-                "Width": "507 mm",
-                "Height": "215 mm",
-                "Depth": "253 mm"
+                "Plotis": "507 mm",
+                "Aukštis": "215 mm",
+                "Ilgis": "253 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1100,7 +1161,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.002.obj",
                 "local_path": "data/base/Base_4_17_002/models/4.17.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.101",
@@ -1120,9 +1183,9 @@
                 }
             ],
             "details": {
-                "Width": "440 mm",
-                "Height": "180 mm",
-                "Depth": "217 mm"
+                "Plotis": "440 mm",
+                "Aukštis": "180 mm",
+                "Ilgis": "217 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1130,7 +1193,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.101.obj",
                 "local_path": "data/base/Base_4_17_101/models/4.17.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.201",
@@ -1150,9 +1215,9 @@
                 }
             ],
             "details": {
-                "Width": "410 mm",
-                "Height": "170 mm",
-                "Depth": "205 mm"
+                "Plotis": "410 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "205 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1160,7 +1225,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.201.obj",
                 "local_path": "data/base/Base_4_17_201/models/4.17.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.202",
@@ -1180,9 +1247,9 @@
                 }
             ],
             "details": {
-                "Width": "411 mm",
-                "Height": "171 mm",
-                "Depth": "204 mm"
+                "Plotis": "411 mm",
+                "Aukštis": "171 mm",
+                "Ilgis": "204 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1190,7 +1257,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.202.obj",
                 "local_path": "data/base/Base_4_17_202/models/4.17.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.301",
@@ -1210,9 +1279,9 @@
                 }
             ],
             "details": {
-                "Width": "369 mm",
-                "Height": "161 mm",
-                "Depth": "184 mm"
+                "Plotis": "369 mm",
+                "Aukštis": "161 mm",
+                "Ilgis": "184 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1220,7 +1289,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.301.obj",
                 "local_path": "data/base/Base_4_17_301/models/4.17.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.17.302",
@@ -1240,9 +1311,9 @@
                 }
             ],
             "details": {
-                "Width": "372 mm",
-                "Height": "160 mm",
-                "Depth": "185 mm"
+                "Plotis": "372 mm",
+                "Aukštis": "160 mm",
+                "Ilgis": "185 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1250,7 +1321,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.302.obj",
                 "local_path": "data/base/Base_4_17_302/models/4.17.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.23.101",
@@ -1270,9 +1343,9 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "181 mm",
-                "Depth": "125 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "181 mm",
+                "Ilgis": "125 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1280,7 +1353,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.101.obj",
                 "local_path": "data/base/Base_4_23_101/models/4.23.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.23.201",
@@ -1300,9 +1375,9 @@
                 }
             ],
             "details": {
-                "Width": "375 mm",
-                "Height": "170 mm",
-                "Depth": "120 mm"
+                "Plotis": "375 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1310,7 +1385,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.201.obj",
                 "local_path": "data/base/Base_4_23_201/models/4.23.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.23.301",
@@ -1330,9 +1407,9 @@
                 }
             ],
             "details": {
-                "Width": "348 mm",
-                "Height": "160 mm",
-                "Depth": "113 mm"
+                "Plotis": "348 mm",
+                "Aukštis": "160 mm",
+                "Ilgis": "113 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1340,7 +1417,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.301.obj",
                 "local_path": "data/base/Base_4_23_301/models/4.23.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.47.201",
@@ -1360,9 +1439,9 @@
                 }
             ],
             "details": {
-                "Width": "272 mm",
-                "Height": "115 mm",
-                "Depth": "136 mm"
+                "Plotis": "272 mm",
+                "Aukštis": "115 mm",
+                "Ilgis": "136 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1370,7 +1449,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.201.obj",
                 "local_path": "data/base/Base_4_47_201/models/4.47.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.47.202",
@@ -1390,9 +1471,9 @@
                 }
             ],
             "details": {
-                "Width": "270 mm",
-                "Height": "117 mm",
-                "Depth": "136 mm"
+                "Plotis": "270 mm",
+                "Aukštis": "117 mm",
+                "Ilgis": "136 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1400,7 +1481,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.202.obj",
                 "local_path": "data/base/Base_4_47_202/models/4.47.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.47.301",
@@ -1420,9 +1503,9 @@
                 }
             ],
             "details": {
-                "Width": "244 mm",
-                "Height": "107 mm",
-                "Depth": "122 mm"
+                "Plotis": "244 mm",
+                "Aukštis": "107 mm",
+                "Ilgis": "122 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1430,7 +1513,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.301.obj",
                 "local_path": "data/base/Base_4_47_301/models/4.47.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.47.302",
@@ -1450,9 +1535,9 @@
                 }
             ],
             "details": {
-                "Width": "243 mm",
-                "Height": "107 mm",
-                "Depth": "122 mm"
+                "Plotis": "243 mm",
+                "Aukštis": "107 mm",
+                "Ilgis": "122 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1460,7 +1545,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.302.obj",
                 "local_path": "data/base/Base_4_47_302/models/4.47.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.53.101",
@@ -1480,9 +1567,9 @@
                 }
             ],
             "details": {
-                "Width": "260 mm",
-                "Height": "120 mm",
-                "Depth": "80 mm"
+                "Plotis": "260 mm",
+                "Aukštis": "120 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1490,7 +1577,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.101.obj",
                 "local_path": "data/base/Base_4_53_101/models/4.53.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.53.201",
@@ -1510,9 +1599,9 @@
                 }
             ],
             "details": {
-                "Width": "252 mm",
-                "Height": "121 mm",
-                "Depth": "80 mm"
+                "Plotis": "252 mm",
+                "Aukštis": "121 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1520,7 +1609,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.201.obj",
                 "local_path": "data/base/Base_4_53_201/models/4.53.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.53.301",
@@ -1540,9 +1631,9 @@
                 }
             ],
             "details": {
-                "Width": "226 mm",
-                "Height": "109 mm",
-                "Depth": "76 mm"
+                "Plotis": "226 mm",
+                "Aukštis": "109 mm",
+                "Ilgis": "76 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1550,7 +1641,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.301.obj",
                 "local_path": "data/base/Base_4_53_301/models/4.53.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Base 4.53.302",
@@ -1570,9 +1663,9 @@
                 }
             ],
             "details": {
-                "Width": "226 mm",
-                "Height": "108 mm",
-                "Depth": "76 mm"
+                "Plotis": "226 mm",
+                "Aukštis": "108 mm",
+                "Ilgis": "76 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1580,7 +1673,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.302.obj",
                 "local_path": "data/base/Base_4_53_302/models/4.53.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

@@ -6,7 +6,6 @@
             "code": null,
             "category": "nisos",
             "images": [
-
                 {
                     "filename": "0-1.61.101-1.61.110.10.png",
                     "local_path": "data/niche/Niche/images/0-1.61.101-1.61.110.10.png",
@@ -15,13 +14,14 @@
                 }
             ],
             "details": {
-                "Width": "418 mm",
-                "Height": "758 mm",
-                "Thickness": "230 mm"
+                "Plotis": "418 mm",
+                "Aukštis": "758 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Niche 0-1.61.102-1.61.120",
@@ -37,13 +37,14 @@
                 }
             ],
             "details": {
-                "Width": "655 mm",
-                "Height": "1135 mm",
-                "Thickness": "290 mm"
+                "Plotis": "655 mm",
+                "Aukštis": "1135 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

@@ -1,17 +1,14 @@
 "use client";
 
 import React, { useState, useEffect, useCallback, useRef } from "react";
-import { Filter } from "lucide-react";
-import ProductCardMobile from "../MobileProductCard/MobileProductCard";
 import ProductCardDesktop from "../DesktopProductCard/DesktopProductCard";
-import ProductCardTablet from "../TabletProductCard/TabletProductCard";
 import FilterPanel from "../FilterPanel/FilterPanel";
 import ProductNavBar from "../ProductNavBar/ProductNavBar";
 import { useCart } from "@/app/contexts/CartContext";
 import { getExistingImagePaths } from "@/app/components/Produktai/ImagePath/getImagePath";
 
 import type {
-  KarnizasProductRaw,
+  ProductRaw,
   PageData,
   FiltersType,
   FilterConfig,
@@ -27,8 +24,6 @@ interface MainContentProps {
 export default function MainContent({ PageData }: MainContentProps) {
   const { addToCart } = useCart();
 
-  const [isFilterOpen, setIsFilterOpen] = useState(false);
-  const [expandedProduct, setExpandedProduct] = useState<string | null>(null);
   const [mounted, setMounted] = useState(false);
   const [screenSize, setScreenSize] =
     useState<"mobile" | "tablet" | "desktop">("desktop");
@@ -81,22 +76,10 @@ export default function MainContent({ PageData }: MainContentProps) {
         const dataModule = await import(`@/app/data/${cleanPath}`);
         const productData = dataModule.default;
 
-        const rawProducts =
-          productData.products as unknown as KarnizasProductRaw[];
-
-        console.group(
-          "%c[ImageDebug] Product loading",
-          "color:#16a34a;font-weight:bold"
-        );
+        const rawProducts = productData.products as ProductRaw[];
 
         const products: Product[] = await Promise.all(
-          rawProducts.map(async (product, index) => {
-            console.groupCollapsed(
-              `%c[ImageDebug] ${index + 1}. ${product.name}`,
-              "color:#2563eb;font-weight:bold"
-            );
-
-
+          rawProducts.map(async (product) => {
             let images: string[] = [];
 
             try {
@@ -106,55 +89,50 @@ export default function MainContent({ PageData }: MainContentProps) {
                 PageData.imageSuffixes,
                 PageData.maxImages
               );
-
-
-              if (images.length === 0) {
-                console.warn("⚠️ No images resolved");
-              }
             } catch (err) {
-              console.error("❌ Image resolution failed", err);
+              console.error("Image resolution failed", err);
             }
 
-            console.groupEnd();
-
-            // Generate code from product name
-            // "Karnizas 1.50.100" → "1.50.100"
-            let code = "";
-            if (product.name) {
+            // Resolve product code
+            let code = product.code ?? "";
+            if (!code && product.name) {
               const match = product.name.match(/(\d+\.\d+\.\d+)/);
-              if (match) {
-                code = match[1]; // Keep the dots
-              }
+              if (match) code = match[1];
             }
 
-            // If no code generated, try to use the code field from JSON
-            if (!code) {
-              code = (product as any).code ?? (product as any).id ?? "";
-            }
-
-            const detailUrl = code ? `${PageData.baseUrl}/${code}` : "";
-
-
-            return {
-              id: product.name,
+            const baseProduct = {
+              id: code || product.name,
               name: product.name,
               title: product.name,
-              url: detailUrl,
-              code: code,
+              code,
+              url: code ? `${PageData.baseUrl}/${code}` : "",
               images,
               category: product.category,
-              sudetis: product.category,
-              papildoma_informacija: product.mounting_instructions ?? "",
-              details: product.details,
+              sudetis: product.sudetis ?? "Poliuretanas",
+              papildoma_informacija:
+                product.mounting_instructions ?? "",
+              details: {
+                Ilgis: product.details?.Ilgis ?? "—",
+                Plotis: product.details?.Plotis ?? "—",
+                Aukštis: product.details?.Aukštis ?? "—",
+              },
             };
+
+            const mappedProduct: Product =
+              typeof product.price === "number"
+                ? {
+                    ...baseProduct,
+                    hasPricePerMetre: true,
+                    price: product.price,
+                  }
+                : {
+                    ...baseProduct,
+                    hasPricePerMetre: false,
+                  };
+
+            return mappedProduct;
           })
         );
-
-        console.group(
-          "%c[ImageDebug] Load summary",
-          "color:#16a34a;font-weight:bold"
-        );
-
 
         setAllProducts(products);
         setFilteredProducts(products);
@@ -180,7 +158,7 @@ export default function MainContent({ PageData }: MainContentProps) {
 
     if (filters.material !== "all") {
       filtered = filtered.filter((p) =>
-        p.sudetis?.toLowerCase().includes(filters.material)
+        p.sudetis.toLowerCase().includes(filters.material)
       );
     }
 
@@ -254,7 +232,7 @@ export default function MainContent({ PageData }: MainContentProps) {
     return (
       <div className="container mx-auto px-4 py-8 text-center">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mb-4" />
-        <p>Kraunami produktai ir paveikslėliai iš R2…</p>
+        <p>Kraunami produktai…</p>
       </div>
     );
   }
@@ -276,12 +254,8 @@ export default function MainContent({ PageData }: MainContentProps) {
                 product={product}
                 categoryTitle={PageData.title}
                 onAddToCart={() => handleAddToCart(product)}
-                isExpanded={expandedProduct === product.id}
-                onToggleExpand={() =>
-                  setExpandedProduct(
-                    expandedProduct === product.id ? null : product.id
-                  )
-                }
+                isExpanded={false}
+                onToggleExpand={() => {}}
               />
             ))}
           </div>
@@ -290,8 +264,8 @@ export default function MainContent({ PageData }: MainContentProps) {
         <div ref={loadMoreRef} />
 
         <FilterPanel
-          open={isFilterOpen}
-          onClose={() => setIsFilterOpen(false)}
+          open={false}
+          onClose={() => {}}
           filters={filters}
           onFilterChange={handleFilterChange}
           filterConfig={filterConfig}

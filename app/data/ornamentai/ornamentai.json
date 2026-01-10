@@ -18,9 +18,8 @@
                 }
             ],
             "details": {
-                "Width": "26 mm",
-                "Height": "34 mm",
-                "Thickness": "13 mm"
+                "Plotis": "26 mm",
+                "Aukštis": "34 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +27,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.003.obj",
                 "local_path": "data/ornament/Ornament_1_60_003/models/1.60.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.004",
@@ -48,9 +49,8 @@
                 }
             ],
             "details": {
-                "Width": "37 mm",
-                "Height": "54 mm",
-                "Thickness": "12 mm"
+                "Plotis": "37 mm",
+                "Aukštis": "54 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +58,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.004.obj",
                 "local_path": "data/ornament/Ornament_1_60_004/models/1.60.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.005",
@@ -78,9 +80,8 @@
                 }
             ],
             "details": {
-                "Width": "69 mm",
-                "Height": "86 mm",
-                "Thickness": "15 mm"
+                "Plotis": "69 mm",
+                "Aukštis": "86 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +89,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.005.obj",
                 "local_path": "data/ornament/Ornament_1_60_005/models/1.60.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.006",
@@ -108,9 +111,8 @@
                 }
             ],
             "details": {
-                "Width": "59 mm",
-                "Height": "59 mm",
-                "Thickness": "10 mm"
+                "Plotis": "59 mm",
+                "Aukštis": "59 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +120,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.006.obj",
                 "local_path": "data/ornament/Ornament_1_60_006/models/1.60.006.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.007",
@@ -138,9 +142,8 @@
                 }
             ],
             "details": {
-                "Width": "97 mm",
-                "Height": "155 mm",
-                "Thickness": "18 mm"
+                "Plotis": "97 mm",
+                "Aukštis": "155 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -148,7 +151,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.007.obj",
                 "local_path": "data/ornament/Ornament_1_60_007/models/1.60.007.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.008",
@@ -168,9 +173,8 @@
                 }
             ],
             "details": {
-                "Width": "28 mm",
-                "Height": "82 mm",
-                "Thickness": "9 mm"
+                "Plotis": "28 mm",
+                "Aukštis": "82 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -178,7 +182,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.008.obj",
                 "local_path": "data/ornament/Ornament_1_60_008/models/1.60.008.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.009",
@@ -198,9 +204,8 @@
                 }
             ],
             "details": {
-                "Width": "61 mm",
-                "Height": "136 mm",
-                "Thickness": "12 mm"
+                "Plotis": "61 mm",
+                "Aukštis": "136 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -208,7 +213,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.009.obj",
                 "local_path": "data/ornament/Ornament_1_60_009/models/1.60.009.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.010",
@@ -228,9 +235,8 @@
                 }
             ],
             "details": {
-                "Width": "67 mm",
-                "Height": "165 mm",
-                "Thickness": "10 mm"
+                "Plotis": "67 mm",
+                "Aukštis": "165 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -238,7 +244,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.010.obj",
                 "local_path": "data/ornament/Ornament_1_60_010/models/1.60.010.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.011",
@@ -258,9 +266,8 @@
                 }
             ],
             "details": {
-                "Width": "142 mm",
-                "Height": "282 mm",
-                "Thickness": "16 mm"
+                "Plotis": "142 mm",
+                "Aukštis": "282 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -268,7 +275,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.011.obj",
                 "local_path": "data/ornament/Ornament_1_60_011/models/1.60.011.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.015",
@@ -288,9 +297,8 @@
                 }
             ],
             "details": {
-                "Width": "51 mm",
-                "Height": "119 mm",
-                "Thickness": "22 mm"
+                "Plotis": "51 mm",
+                "Aukštis": "119 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -298,7 +306,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.015.obj",
                 "local_path": "data/ornament/Ornament_1_60_015/models/1.60.015.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.017",
@@ -318,9 +328,8 @@
                 }
             ],
             "details": {
-                "Width": "90 mm",
-                "Height": "90 mm",
-                "Thickness": "15 mm"
+                "Plotis": "90 mm",
+                "Aukštis": "90 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -328,7 +337,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.017.obj",
                 "local_path": "data/ornament/Ornament_1_60_017/models/1.60.017.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.019",
@@ -348,9 +359,8 @@
                 }
             ],
             "details": {
-                "Width": "88 mm",
-                "Height": "53 mm",
-                "Thickness": "17 mm"
+                "Plotis": "88 mm",
+                "Aukštis": "53 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -358,7 +368,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.019.obj",
                 "local_path": "data/ornament/Ornament_1_60_019/models/1.60.019.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.020",
@@ -378,9 +390,8 @@
                 }
             ],
             "details": {
-                "Width": "51 mm",
-                "Height": "155 mm",
-                "Thickness": "7 mm"
+                "Plotis": "51 mm",
+                "Aukštis": "155 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -388,7 +399,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.020.obj",
                 "local_path": "data/ornament/Ornament_1_60_020/models/1.60.020.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.021",
@@ -408,9 +421,8 @@
                 }
             ],
             "details": {
-                "Width": "817 mm",
-                "Height": "230 mm",
-                "Thickness": "44 mm"
+                "Plotis": "817 mm",
+                "Aukštis": "230 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -418,7 +430,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.021.obj",
                 "local_path": "data/ornament/Ornament_1_60_021/models/1.60.021.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.022",
@@ -438,9 +452,8 @@
                 }
             ],
             "details": {
-                "Width": "895 mm",
-                "Height": "318 mm",
-                "Thickness": "50 mm"
+                "Plotis": "895 mm",
+                "Aukštis": "318 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -448,7 +461,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.022.obj",
                 "local_path": "data/ornament/Ornament_1_60_022/models/1.60.022.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.023",
@@ -468,9 +483,8 @@
                 }
             ],
             "details": {
-                "Width": "296 mm",
-                "Height": "158 mm",
-                "Thickness": "30 mm"
+                "Plotis": "296 mm",
+                "Aukštis": "158 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -478,7 +492,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.023.obj",
                 "local_path": "data/ornament/Ornament_1_60_023/models/1.60.023.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.024",
@@ -498,9 +514,8 @@
                 }
             ],
             "details": {
-                "Width": "236 mm",
-                "Height": "191 mm",
-                "Thickness": "24 mm"
+                "Plotis": "236 mm",
+                "Aukštis": "191 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -508,7 +523,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.024.obj",
                 "local_path": "data/ornament/Ornament_1_60_024/models/1.60.024.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.025",
@@ -528,9 +545,8 @@
                 }
             ],
             "details": {
-                "Width": "385 mm",
-                "Height": "209 mm",
-                "Thickness": "32 mm"
+                "Plotis": "385 mm",
+                "Aukštis": "209 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -538,7 +554,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.025.obj",
                 "local_path": "data/ornament/Ornament_1_60_025/models/1.60.025.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.027",
@@ -558,9 +576,8 @@
                 }
             ],
             "details": {
-                "Width": "269 mm",
-                "Height": "152 mm",
-                "Thickness": "31 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "152 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -568,7 +585,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.027.obj",
                 "local_path": "data/ornament/Ornament_1_60_027/models/1.60.027.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.028",
@@ -588,9 +607,8 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "120 mm",
-                "Thickness": "20 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -598,7 +616,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.028.obj",
                 "local_path": "data/ornament/Ornament_1_60_028/models/1.60.028.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.030",
@@ -618,9 +638,8 @@
                 }
             ],
             "details": {
-                "Width": "285 mm",
-                "Height": "154 mm",
-                "Thickness": "22 mm"
+                "Plotis": "285 mm",
+                "Aukštis": "154 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -628,7 +647,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.030.obj",
                 "local_path": "data/ornament/Ornament_1_60_030/models/1.60.030.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.031",
@@ -648,9 +669,8 @@
                 }
             ],
             "details": {
-                "Width": "232 mm",
-                "Height": "141 mm",
-                "Thickness": "28 mm"
+                "Plotis": "232 mm",
+                "Aukštis": "141 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -658,7 +678,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.031.obj",
                 "local_path": "data/ornament/Ornament_1_60_031/models/1.60.031.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.032",
@@ -698,9 +720,8 @@
                 }
             ],
             "details": {
-                "Width": "604 mm",
-                "Height": "189 mm",
-                "Thickness": "50 mm"
+                "Plotis": "604 mm",
+                "Aukštis": "189 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -708,7 +729,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.032.obj",
                 "local_path": "data/ornament/Ornament_1_60_032/models/1.60.032.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.034",
@@ -728,9 +751,8 @@
                 }
             ],
             "details": {
-                "Width": "263 mm",
-                "Height": "95 mm",
-                "Thickness": "12 mm"
+                "Plotis": "263 mm",
+                "Aukštis": "95 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -738,7 +760,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.034.obj",
                 "local_path": "data/ornament/Ornament_1_60_034/models/1.60.034.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.035",
@@ -758,9 +782,8 @@
                 }
             ],
             "details": {
-                "Width": "76 mm",
-                "Height": "142 mm",
-                "Thickness": "16 mm"
+                "Plotis": "76 mm",
+                "Aukštis": "142 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -768,7 +791,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.035.obj",
                 "local_path": "data/ornament/Ornament_1_60_035/models/1.60.035.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.036",
@@ -788,9 +813,8 @@
                 }
             ],
             "details": {
-                "Width": "789 mm",
-                "Height": "359 mm",
-                "Thickness": "49 mm"
+                "Plotis": "789 mm",
+                "Aukštis": "359 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -798,7 +822,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.036.obj",
                 "local_path": "data/ornament/Ornament_1_60_036/models/1.60.036.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.037",
@@ -818,9 +844,8 @@
                 }
             ],
             "details": {
-                "Width": "264 mm",
-                "Height": "297 mm",
-                "Thickness": "21 mm"
+                "Plotis": "264 mm",
+                "Aukštis": "297 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -828,7 +853,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.037.obj",
                 "local_path": "data/ornament/Ornament_1_60_037/models/1.60.037.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.038",
@@ -848,9 +875,8 @@
                 }
             ],
             "details": {
-                "Width": "120 mm",
-                "Height": "230 mm",
-                "Thickness": "23 mm"
+                "Plotis": "120 mm",
+                "Aukštis": "230 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -858,7 +884,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.038.obj",
                 "local_path": "data/ornament/Ornament_1_60_038/models/1.60.038.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.108",
@@ -878,9 +906,8 @@
                 }
             ],
             "details": {
-                "Width": "27 mm",
-                "Height": "82 mm",
-                "Thickness": "7 mm"
+                "Plotis": "27 mm",
+                "Aukštis": "82 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -888,7 +915,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.108.obj",
                 "local_path": "data/ornament/Ornament_1_60_108/models/1.60.108.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.109",
@@ -908,9 +937,8 @@
                 }
             ],
             "details": {
-                "Width": "62 mm",
-                "Height": "136 mm",
-                "Thickness": "13 mm"
+                "Plotis": "62 mm",
+                "Aukštis": "136 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -918,7 +946,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.109.obj",
                 "local_path": "data/ornament/Ornament_1_60_109/models/1.60.109.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.110",
@@ -938,9 +968,8 @@
                 }
             ],
             "details": {
-                "Width": "67 mm",
-                "Height": "165 mm",
-                "Thickness": "10 mm"
+                "Plotis": "67 mm",
+                "Aukštis": "165 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -948,7 +977,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.110.obj",
                 "local_path": "data/ornament/Ornament_1_60_110/models/1.60.110.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.111",
@@ -968,9 +999,8 @@
                 }
             ],
             "details": {
-                "Width": "142 mm",
-                "Height": "282 mm",
-                "Thickness": "16 mm"
+                "Plotis": "142 mm",
+                "Aukštis": "282 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -978,7 +1008,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.111.obj",
                 "local_path": "data/ornament/Ornament_1_60_111/models/1.60.111.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.120",
@@ -998,9 +1030,8 @@
                 }
             ],
             "details": {
-                "Width": "51 mm",
-                "Height": "155 mm",
-                "Thickness": "7 mm"
+                "Plotis": "51 mm",
+                "Aukštis": "155 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1008,7 +1039,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.120.obj",
                 "local_path": "data/ornament/Ornament_1_60_120/models/1.60.120.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.123",
@@ -1028,9 +1061,8 @@
                 }
             ],
             "details": {
-                "Width": "296 mm",
-                "Height": "158 mm",
-                "Thickness": "30 mm"
+                "Plotis": "296 mm",
+                "Aukštis": "158 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1038,7 +1070,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.123.obj",
                 "local_path": "data/ornament/Ornament_1_60_123/models/1.60.123.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.135",
@@ -1058,9 +1092,8 @@
                 }
             ],
             "details": {
-                "Width": "76 mm",
-                "Height": "142 mm",
-                "Thickness": "16 mm"
+                "Plotis": "76 mm",
+                "Aukštis": "142 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1068,7 +1101,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.135.obj",
                 "local_path": "data/ornament/Ornament_1_60_135/models/1.60.135.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.501",
@@ -1088,9 +1123,8 @@
                 }
             ],
             "details": {
-                "Width": "170 mm",
-                "Height": "165 mm",
-                "Thickness": "20 mm"
+                "Plotis": "170 mm",
+                "Aukštis": "165 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1098,7 +1132,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.501.obj",
                 "local_path": "data/ornament/Ornament_1_60_501/models/1.60.501.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 1.60.503",
@@ -1118,9 +1154,8 @@
                 }
             ],
             "details": {
-                "Width": "91 mm",
-                "Height": "91 mm",
-                "Thickness": "28 mm"
+                "Plotis": "91 mm",
+                "Aukštis": "91 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1128,7 +1163,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.503.obj",
                 "local_path": "data/ornament/Ornament_1_60_503/models/1.60.503.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 4.99.001",
@@ -1148,9 +1185,8 @@
                 }
             ],
             "details": {
-                "Width": "458 mm",
-                "Height": "180 mm",
-                "Thickness": "42 mm"
+                "Plotis": "458 mm",
+                "Aukštis": "180 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1158,7 +1194,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
                 "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ornament 4.99.002",
@@ -1178,9 +1216,8 @@
                 }
             ],
             "details": {
-                "Width": "52 mm",
-                "Height": "165 mm",
-                "Thickness": "28 mm"
+                "Plotis": "52 mm",
+                "Aukštis": "165 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1188,7 +1225,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
                 "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

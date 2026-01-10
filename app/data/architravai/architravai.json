@@ -29,8 +29,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "56 mm",
-                "Height": "168 mm"
+                "Plotis": "56 mm",
+                "Aukštis": "168 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.101.obj",
                 "local_path": "data/architrave/Architrave_4_04_101/models/4.04.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.04.102",
@@ -69,8 +71,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "90 mm",
-                "Height": "152 mm"
+                "Plotis": "90 mm",
+                "Aukštis": "152 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +80,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.102.obj",
                 "local_path": "data/architrave/Architrave_4_04_102/models/4.04.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.04.201",
@@ -109,8 +113,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "70 mm",
-                "Height": "188 mm"
+                "Plotis": "70 mm",
+                "Aukštis": "188 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +122,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.201.obj",
                 "local_path": "data/architrave/Architrave_4_04_201/models/4.04.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.04.202",
@@ -149,8 +155,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "96 mm",
-                "Height": "168 mm"
+                "Plotis": "96 mm",
+                "Aukštis": "168 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -158,7 +164,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.202.obj",
                 "local_path": "data/architrave/Architrave_4_04_202/models/4.04.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.04.301",
@@ -189,8 +197,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "65 mm",
-                "Height": "207 mm"
+                "Plotis": "65 mm",
+                "Aukštis": "207 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -198,7 +206,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.301.obj",
                 "local_path": "data/architrave/Architrave_4_04_301/models/4.04.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.04.302",
@@ -229,8 +239,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "95 mm",
-                "Height": "173 mm"
+                "Plotis": "95 mm",
+                "Aukštis": "173 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -238,7 +248,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.302.obj",
                 "local_path": "data/architrave/Architrave_4_04_302/models/4.04.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.101",
@@ -269,8 +281,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "108 mm",
-                "Height": "112 mm"
+                "Plotis": "108 mm",
+                "Aukštis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -278,7 +290,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.101.obj",
                 "local_path": "data/architrave/Architrave_4_34_101/models/4.34.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.102",
@@ -309,8 +323,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "59 mm",
-                "Height": "112 mm"
+                "Plotis": "59 mm",
+                "Aukštis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -318,7 +332,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.102.obj",
                 "local_path": "data/architrave/Architrave_4_34_102/models/4.34.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.201",
@@ -349,8 +365,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "109 mm",
-                "Height": "125 mm"
+                "Plotis": "109 mm",
+                "Aukštis": "125 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -358,7 +374,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.201.obj",
                 "local_path": "data/architrave/Architrave_4_34_201/models/4.34.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.202",
@@ -389,8 +407,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "67 mm",
-                "Height": "124 mm"
+                "Plotis": "67 mm",
+                "Aukštis": "124 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -398,7 +416,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.202.obj",
                 "local_path": "data/architrave/Architrave_4_34_202/models/4.34.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.301",
@@ -429,8 +449,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "100 mm",
-                "Height": "137 mm"
+                "Plotis": "100 mm",
+                "Aukštis": "137 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -438,7 +458,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.301.obj",
                 "local_path": "data/architrave/Architrave_4_34_301/models/4.34.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Architrave 4.34.302",
@@ -469,8 +491,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "67 mm",
-                "Height": "137 mm"
+                "Plotis": "67 mm",
+                "Aukštis": "137 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -478,7 +500,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.302.obj",
                 "local_path": "data/architrave/Architrave_4_34_302/models/4.34.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

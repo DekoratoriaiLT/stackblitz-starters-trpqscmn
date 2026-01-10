@@ -56,9 +56,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "30 mm",
-                "Height": "243 mm"
+                "Plotis": "30 mm",
+                "Aukštis": "243 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -66,7 +66,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.101.obj",
                 "local_path": "data/frizai/4.03.101/models/4.03.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.03.102",
@@ -124,9 +126,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "70 mm",
-                "Height": "235 mm"
+                "Plotis": "70 mm",
+                "Aukštis": "235 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -134,7 +136,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.102.obj",
                 "local_path": "data/frizai/4.03.102/models/4.03.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.03.201",
@@ -192,9 +196,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "30 mm",
-                "Height": "217 mm"
+                "Plotis": "30 mm",
+                "Aukštis": "217 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -202,7 +206,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.201.obj",
                 "local_path": "data/frizai/4.03.201/models/4.03.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.03.202",
@@ -260,9 +266,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "62 mm",
-                "Height": "191 mm"
+                "Plotis": "62 mm",
+                "Aukštis": "191 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -270,7 +276,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.202.obj",
                 "local_path": "data/frizai/4.03.202/models/4.03.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.03.301",
@@ -328,9 +336,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "42 mm",
-                "Height": "197 mm"
+                "Plotis": "42 mm",
+                "Aukštis": "197 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -338,7 +346,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.301.obj",
                 "local_path": "data/frizai/4.03.301/models/4.03.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.03.302",
@@ -396,9 +406,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "74 mm",
-                "Height": "170 mm"
+                "Plotis": "74 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -406,7 +416,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.302.obj",
                 "local_path": "data/frizai/4.03.302/models/4.03.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.101",
@@ -464,9 +476,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "92 mm",
-                "Height": "162 mm"
+                "Plotis": "92 mm",
+                "Aukštis": "162 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -474,7 +486,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.101.obj",
                 "local_path": "data/frizai/4.33.101/models/4.33.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.102",
@@ -532,9 +546,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "42 mm",
-                "Height": "164 mm"
+                "Plotis": "42 mm",
+                "Aukštis": "164 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -542,7 +556,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.102.obj",
                 "local_path": "data/frizai/4.33.102/models/4.33.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.201",
@@ -600,9 +616,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "80 mm",
-                "Height": "145 mm"
+                "Plotis": "80 mm",
+                "Aukštis": "145 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -610,7 +626,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.201.obj",
                 "local_path": "data/frizai/4.33.201/models/4.33.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.202",
@@ -668,9 +686,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "42 mm",
-                "Height": "145 mm"
+                "Plotis": "42 mm",
+                "Aukštis": "145 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -678,7 +696,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.202.obj",
                 "local_path": "data/frizai/4.33.202/models/4.33.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.301",
@@ -736,9 +756,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "83 mm",
-                "Height": "129 mm"
+                "Plotis": "83 mm",
+                "Aukštis": "129 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -746,7 +766,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.301.obj",
                 "local_path": "data/frizai/4.33.301/models/4.33.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Frizas 4.33.302",
@@ -804,9 +826,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "Width": "51 mm",
-                "Height": "131 mm"
+                "Plotis": "51 mm",
+                "Aukštis": "131 mm",
+                "Ilgis": "2000 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -814,7 +836,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.302.obj",
                 "local_path": "data/frizai/4.33.302/models/4.33.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

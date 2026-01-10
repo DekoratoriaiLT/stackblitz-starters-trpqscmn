@@ -28,9 +28,9 @@
                 }
             ],
             "details": {
-                "Width": "239 mm",
-                "Height": "60 mm",
-                "Depth": "184 mm"
+                "Plotis": "239 mm",
+                "Aukštis": "60 mm",
+                "Ilgis": "184 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.78.101.obj",
                 "local_path": "data/footpiece/Footpiece_4_78_101/models/4.78.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

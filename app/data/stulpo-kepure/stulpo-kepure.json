@@ -28,9 +28,9 @@
                 }
             ],
             "details": {
-                "Width": "269 mm",
-                "Height": "55 mm",
-                "Depth": "270 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "55 mm",
+                "Ilgis": "270 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.101.obj",
                 "local_path": "data/postcap/Flat_post_cap_4_73_101/models/4.73.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Flat post cap 4.73.201",
@@ -68,9 +70,9 @@
                 }
             ],
             "details": {
-                "Width": "220 mm",
-                "Height": "46 mm",
-                "Depth": "220 mm"
+                "Plotis": "220 mm",
+                "Aukštis": "46 mm",
+                "Ilgis": "220 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +80,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.201.obj",
                 "local_path": "data/postcap/Flat_post_cap_4_73_201/models/4.73.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

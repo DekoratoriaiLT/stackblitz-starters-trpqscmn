@@ -38,8 +38,8 @@
                 }
             ],
             "details": {
-                "Diameter": "693 mm",
-                "Thickness": "60 mm"
+                "Skersmuo": "693 mm",
+                "Plotis": "60 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -47,7 +47,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.001.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_001/models/1.56.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.002",
@@ -87,8 +89,8 @@
                 }
             ],
             "details": {
-                "Diameter": "520 mm",
-                "Thickness": "37 mm"
+                "Skersmuo": "520 mm",
+                "Plotis": "37 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -96,7 +98,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.002.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_002/models/1.56.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.003",
@@ -136,8 +140,8 @@
                 }
             ],
             "details": {
-                "Diameter": "518 mm",
-                "Thickness": "35 mm"
+                "Skersmuo": "518 mm",
+                "Plotis": "35 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -145,7 +149,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.003.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_003/models/1.56.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.004",
@@ -185,8 +191,8 @@
                 }
             ],
             "details": {
-                "Diameter": "436 mm",
-                "Thickness": "31 mm"
+                "Skersmuo": "436 mm",
+                "Plotis": "31 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -194,7 +200,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.004.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_004/models/1.56.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.005",
@@ -234,8 +242,8 @@
                 }
             ],
             "details": {
-                "Diameter": "655 mm",
-                "Thickness": "42 mm"
+                "Skersmuo": "655 mm",
+                "Plotis": "42 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -243,7 +251,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.005.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_005/models/1.56.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.006",
@@ -283,8 +293,8 @@
                 }
             ],
             "details": {
-                "Diameter": "330 mm",
-                "Thickness": "25 mm"
+                "Skersmuo": "330 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -292,7 +302,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.006.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_006/models/1.56.006.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.007",
@@ -332,8 +344,8 @@
                 }
             ],
             "details": {
-                "Diameter": "400 mm",
-                "Thickness": "60 mm"
+                "Skersmuo": "400 mm",
+                "Plotis": "60 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -341,7 +353,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.007.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_007/models/1.56.007.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.009",
@@ -381,8 +395,8 @@
                 }
             ],
             "details": {
-                "Diameter": "292 mm",
-                "Thickness": "34 mm"
+                "Skersmuo": "292 mm",
+                "Plotis": "34 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -390,7 +404,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.009.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_009/models/1.56.009.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.010",
@@ -430,8 +446,8 @@
                 }
             ],
             "details": {
-                "Diameter": "193 mm",
-                "Thickness": "34 mm"
+                "Skersmuo": "193 mm",
+                "Plotis": "34 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -439,7 +455,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.010.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_010/models/1.56.010.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.011",
@@ -479,8 +497,8 @@
                 }
             ],
             "details": {
-                "Diameter": "195 mm",
-                "Thickness": "21 mm"
+                "Skersmuo": "195 mm",
+                "Plotis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -488,7 +506,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.011.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_011/models/1.56.011.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.013",
@@ -528,8 +548,8 @@
                 }
             ],
             "details": {
-                "Diameter": "258 mm",
-                "Thickness": "32 mm"
+                "Skersmuo": "258 mm",
+                "Plotis": "32 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -537,7 +557,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.013.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_013/models/1.56.013.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.014",
@@ -577,8 +599,8 @@
                 }
             ],
             "details": {
-                "Diameter": "338 mm",
-                "Thickness": "57 mm"
+                "Skersmuo": "338 mm",
+                "Plotis": "57 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -586,7 +608,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.014.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_014/models/1.56.014.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.015",
@@ -626,8 +650,8 @@
                 }
             ],
             "details": {
-                "Diameter": "555 mm",
-                "Thickness": "62 mm"
+                "Skersmuo": "555 mm",
+                "Plotis": "62 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -635,7 +659,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.015.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_015/models/1.56.015.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.016",
@@ -675,8 +701,8 @@
                 }
             ],
             "details": {
-                "Diameter": "480 mm",
-                "Thickness": "47 mm"
+                "Skersmuo": "480 mm",
+                "Plotis": "47 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -684,7 +710,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.016.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_016/models/1.56.016.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.018",
@@ -724,8 +752,8 @@
                 }
             ],
             "details": {
-                "Diameter": "743 mm",
-                "Thickness": "40 mm"
+                "Skersmuo": "743 mm",
+                "Plotis": "40 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -733,7 +761,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.018.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_018/models/1.56.018.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.020",
@@ -773,8 +803,8 @@
                 }
             ],
             "details": {
-                "Diameter": "470 mm",
-                "Thickness": "41 mm"
+                "Skersmuo": "470 mm",
+                "Plotis": "41 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -782,7 +812,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.020.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_020/models/1.56.020.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.021",
@@ -822,8 +854,8 @@
                 }
             ],
             "details": {
-                "Diameter": "487 mm",
-                "Thickness": "59 mm"
+                "Skersmuo": "487 mm",
+                "Plotis": "59 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -831,7 +863,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.021.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_021/models/1.56.021.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.022",
@@ -871,8 +905,8 @@
                 }
             ],
             "details": {
-                "Diameter": "523 mm",
-                "Thickness": "52 mm"
+                "Skersmuo": "523 mm",
+                "Plotis": "52 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -880,7 +914,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.022.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_022/models/1.56.022.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.023",
@@ -920,8 +956,8 @@
                 }
             ],
             "details": {
-                "Diameter": "589 mm",
-                "Thickness": "55 mm"
+                "Skersmuo": "589 mm",
+                "Plotis": "55 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -929,7 +965,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.023.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_023/models/1.56.023.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.025",
@@ -969,8 +1007,8 @@
                 }
             ],
             "details": {
-                "Diameter": "819 mm",
-                "Thickness": "65 mm"
+                "Skersmuo": "819 mm",
+                "Plotis": "65 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -978,7 +1016,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.025.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_025/models/1.56.025.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.026",
@@ -1018,8 +1058,8 @@
                 }
             ],
             "details": {
-                "Diameter": "768 mm",
-                "Thickness": "52 mm"
+                "Skersmuo": "768 mm",
+                "Plotis": "52 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1027,7 +1067,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.026.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_026/models/1.56.026.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.027",
@@ -1067,8 +1109,8 @@
                 }
             ],
             "details": {
-                "Diameter": "382 mm",
-                "Thickness": "25 mm"
+                "Skersmuo": "382 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1076,7 +1118,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.027.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_027/models/1.56.027.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.029",
@@ -1116,9 +1160,8 @@
                 }
             ],
             "details": {
-                "Width": "767 mm",
-                "Height": "529 mm",
-                "Thickness": "47 mm"
+                "Plotis": "767 mm",
+                "Aukštis": "529 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1126,7 +1169,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.029.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_029/models/1.56.029.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.030",
@@ -1166,8 +1211,8 @@
                 }
             ],
             "details": {
-                "Diameter": "394 mm",
-                "Thickness": "37 mm"
+                "Skersmuo": "394 mm",
+                "Plotis": "37 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1175,7 +1220,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.030.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_030/models/1.56.030.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.031",
@@ -1215,8 +1262,8 @@
                 }
             ],
             "details": {
-                "Diameter": "614 mm",
-                "Thickness": "50 mm"
+                "Skersmuo": "614 mm",
+                "Plotis": "50 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1224,7 +1271,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.031.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_031/models/1.56.031.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.032",
@@ -1264,8 +1313,8 @@
                 }
             ],
             "details": {
-                "Diameter": "319 mm",
-                "Thickness": "37 mm"
+                "Skersmuo": "319 mm",
+                "Plotis": "37 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1273,7 +1322,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.032.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_032/models/1.56.032.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.034",
@@ -1313,8 +1364,8 @@
                 }
             ],
             "details": {
-                "Diameter": "510 mm",
-                "Thickness": "50 mm"
+                "Skersmuo": "510 mm",
+                "Plotis": "50 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1322,7 +1373,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.034.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_034/models/1.56.034.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.035",
@@ -1362,8 +1415,8 @@
                 }
             ],
             "details": {
-                "Diameter": "484 mm",
-                "Thickness": "44 mm"
+                "Skersmuo": "484 mm",
+                "Plotis": "44 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1371,7 +1424,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.035.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_035/models/1.56.035.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.036",
@@ -1411,8 +1466,8 @@
                 }
             ],
             "details": {
-                "Diameter": "886 mm",
-                "Thickness": "62 mm"
+                "Skersmuo": "886 mm",
+                "Plotis": "62 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1420,7 +1475,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.036.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_036/models/1.56.036.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.037",
@@ -1460,8 +1517,8 @@
                 }
             ],
             "details": {
-                "Diameter": "330 mm",
-                "Thickness": "32 mm"
+                "Skersmuo": "330 mm",
+                "Plotis": "32 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1469,7 +1526,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.037.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_037/models/1.56.037.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.039",
@@ -1509,8 +1568,8 @@
                 }
             ],
             "details": {
-                "Diameter": "659 mm",
-                "Thickness": "67 mm"
+                "Skersmuo": "659 mm",
+                "Plotis": "67 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1518,7 +1577,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.039.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_039/models/1.56.039.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.040",
@@ -1558,8 +1619,8 @@
                 }
             ],
             "details": {
-                "Diameter": "705 mm",
-                "Thickness": "50 mm"
+                "Skersmuo": "705 mm",
+                "Plotis": "50 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1567,7 +1628,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.040.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_040/models/1.56.040.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.041",
@@ -1607,9 +1670,8 @@
                 }
             ],
             "details": {
-                "Width": "785 mm",
-                "Height": "544 mm",
-                "Thickness": "51 mm"
+                "Plotis": "785 mm",
+                "Aukštis": "544 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1617,7 +1679,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.041.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_041/models/1.56.041.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.043",
@@ -1647,9 +1711,8 @@
                 }
             ],
             "details": {
-                "Width": "585 mm",
-                "Height": "313 mm",
-                "Thickness": "35 mm"
+                "Plotis": "585 mm",
+                "Aukštis": "313 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1657,7 +1720,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.043.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_043/models/1.56.043.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.044",
@@ -1697,8 +1762,8 @@
                 }
             ],
             "details": {
-                "Diameter": "620 mm",
-                "Thickness": "41 mm"
+                "Skersmuo": "620 mm",
+                "Plotis": "41 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1706,7 +1771,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.044.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_044/models/1.56.044.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.047",
@@ -1736,8 +1803,8 @@
                 }
             ],
             "details": {
-                "Diameter": "408 mm",
-                "Thickness": "24 mm"
+                "Skersmuo": "408 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1745,7 +1812,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.047.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_047/models/1.56.047.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.049",
@@ -1775,8 +1844,8 @@
                 }
             ],
             "details": {
-                "Diameter": "344 mm",
-                "Thickness": "40 mm"
+                "Skersmuo": "344 mm",
+                "Plotis": "40 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1784,7 +1853,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.049.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_049/models/1.56.049.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.050",
@@ -1814,8 +1885,8 @@
                 }
             ],
             "details": {
-                "Diameter": "403 mm",
-                "Thickness": "38 mm"
+                "Skersmuo": "403 mm",
+                "Plotis": "38 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1823,7 +1894,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.050.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_050/models/1.56.050.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.054",
@@ -1843,8 +1916,8 @@
                 }
             ],
             "details": {
-                "Diameter": "706 mm",
-                "Thickness": "69 mm"
+                "Skersmuo": "706 mm",
+                "Plotis": "69 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1852,7 +1925,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.054.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_054/models/1.56.054.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.501",
@@ -1872,8 +1947,8 @@
                 }
             ],
             "details": {
-                "Diameter": "319 mm",
-                "Thickness": "58 mm"
+                "Skersmuo": "319 mm",
+                "Plotis": "58 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1881,7 +1956,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.501.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_501/models/1.56.501.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.502",
@@ -1901,8 +1978,8 @@
                 }
             ],
             "details": {
-                "Diameter": "596 mm",
-                "Thickness": "59 mm"
+                "Skersmuo": "596 mm",
+                "Plotis": "59 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1910,7 +1987,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.502.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_502/models/1.56.502.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.503",
@@ -1930,8 +2009,8 @@
                 }
             ],
             "details": {
-                "Diameter": "912 mm",
-                "Thickness": "41 mm"
+                "Skersmuo": "912 mm",
+                "Plotis": "41 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1939,7 +2018,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.503.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_503/models/1.56.503.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.511",
@@ -1969,8 +2050,8 @@
                 }
             ],
             "details": {
-                "Height": "83 mm",
-                "Diameter": "86 mm"
+                "Skersmuo": "86 mm",
+                "Aukštis": "83 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1978,7 +2059,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.511.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_511/models/1.56.511.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.512",
@@ -2008,8 +2091,8 @@
                 }
             ],
             "details": {
-                "Height": "124 mm",
-                "Diameter": "123 mm"
+                "Skersmuo": "123 mm",
+                "Aukštis": "124 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2017,7 +2100,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.512.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_512/models/1.56.512.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.702",
@@ -2037,8 +2122,8 @@
                 }
             ],
             "details": {
-                "Diameter": "478 mm",
-                "Thickness": "42 mm"
+                "Skersmuo": "478 mm",
+                "Plotis": "42 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2046,7 +2131,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.702.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_702/models/1.56.702.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.801",
@@ -2096,8 +2183,8 @@
                 }
             ],
             "details": {
-                "Diameter": "350 mm",
-                "Thickness": "16 mm"
+                "Skersmuo": "350 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2105,7 +2192,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.801.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_801/models/1.56.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.802",
@@ -2165,8 +2254,8 @@
                 }
             ],
             "details": {
-                "Diameter": "700 mm",
-                "Thickness": "23 mm"
+                "Skersmuo": "700 mm",
+                "Plotis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2174,7 +2263,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.802.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_802/models/1.56.802.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.803",
@@ -2234,8 +2325,8 @@
                 }
             ],
             "details": {
-                "Diameter": "450 mm",
-                "Thickness": "21 mm"
+                "Skersmuo": "450 mm",
+                "Plotis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2243,7 +2334,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.803.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_803/models/1.56.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.804",
@@ -2293,8 +2386,8 @@
                 }
             ],
             "details": {
-                "Diameter": "901 mm",
-                "Thickness": "21 mm"
+                "Skersmuo": "901 mm",
+                "Plotis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2302,7 +2395,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.804.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_804/models/1.56.804.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.805",
@@ -2352,8 +2447,8 @@
                 }
             ],
             "details": {
-                "Diameter": "380 mm",
-                "Thickness": "20 mm"
+                "Skersmuo": "380 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2361,7 +2456,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.805.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_805/models/1.56.805.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling rose 1.56.806",
@@ -2411,8 +2508,8 @@
                 }
             ],
             "details": {
-                "Diameter": "760 mm",
-                "Thickness": "30 mm"
+                "Skersmuo": "760 mm",
+                "Plotis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2420,7 +2517,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.806.obj",
                 "local_path": "data/misc/Ceiling_rose_1_56_806/models/1.56.806.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

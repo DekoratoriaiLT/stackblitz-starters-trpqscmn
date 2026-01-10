@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "355 mm",
-                "Height": "270 mm",
-                "Depth": "355 mm"
+                "Plotis": "355 mm",
+                "Aukštis": "270 mm",
+                "Ilgis": "355 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.002.obj",
                 "local_path": "data/capital/Capital_1_11_002/models/1.11.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.003",
@@ -48,9 +50,9 @@
                 }
             ],
             "details": {
-                "Width": "392 mm",
-                "Height": "170 mm",
-                "Depth": "392 mm"
+                "Plotis": "392 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "392 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +60,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.003.obj",
                 "local_path": "data/capital/Capital_1_11_003/models/1.11.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.004",
@@ -78,9 +82,9 @@
                 }
             ],
             "details": {
-                "Width": "438 mm",
-                "Height": "174 mm",
-                "Depth": "358 mm"
+                "Plotis": "438 mm",
+                "Aukštis": "174 mm",
+                "Ilgis": "358 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +92,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.004.obj",
                 "local_path": "data/capital/Capital_1_11_004/models/1.11.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.005",
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "269 mm",
-                "Height": "151 mm",
-                "Depth": "269 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "151 mm",
+                "Ilgis": "269 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +124,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.005.obj",
                 "local_path": "data/capital/Capital_1_11_005/models/1.11.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.008",
@@ -138,9 +146,9 @@
                 }
             ],
             "details": {
-                "Width": "216 mm",
-                "Height": "106 mm",
-                "Depth": "216 mm"
+                "Plotis": "216 mm",
+                "Aukštis": "106 mm",
+                "Ilgis": "216 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -148,7 +156,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.008.obj",
                 "local_path": "data/capital/Capital_1_11_008/models/1.11.008.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.009",
@@ -168,9 +178,9 @@
                 }
             ],
             "details": {
-                "Width": "234 mm",
-                "Height": "92 mm",
-                "Depth": "188 mm"
+                "Plotis": "234 mm",
+                "Aukštis": "92 mm",
+                "Ilgis": "188 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -178,7 +188,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.009.obj",
                 "local_path": "data/capital/Capital_1_11_009/models/1.11.009.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.11.010",
@@ -198,9 +210,9 @@
                 }
             ],
             "details": {
-                "Width": "224 mm",
-                "Height": "175 mm",
-                "Depth": "224 mm"
+                "Plotis": "224 mm",
+                "Aukštis": "175 mm",
+                "Ilgis": "224 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -208,7 +220,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.010.obj",
                 "local_path": "data/capital/Capital_1_11_010/models/1.11.010.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.002",
@@ -228,9 +242,9 @@
                 }
             ],
             "details": {
-                "Width": "356 mm",
-                "Height": "270 mm",
-                "Depth": "177 mm"
+                "Plotis": "356 mm",
+                "Aukštis": "270 mm",
+                "Ilgis": "177 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -238,7 +252,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.002.obj",
                 "local_path": "data/capital/Capital_1_15_002/models/1.15.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.003",
@@ -258,9 +274,9 @@
                 }
             ],
             "details": {
-                "Width": "390 mm",
-                "Height": "170 mm",
-                "Depth": "195 mm"
+                "Plotis": "390 mm",
+                "Aukštis": "170 mm",
+                "Ilgis": "195 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -268,7 +284,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.003.obj",
                 "local_path": "data/capital/Capital_1_15_003/models/1.15.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.004",
@@ -288,9 +306,9 @@
                 }
             ],
             "details": {
-                "Width": "438 mm",
-                "Height": "174 mm",
-                "Depth": "180 mm"
+                "Plotis": "438 mm",
+                "Aukštis": "174 mm",
+                "Ilgis": "180 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -298,7 +316,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.004.obj",
                 "local_path": "data/capital/Capital_1_15_004/models/1.15.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.005",
@@ -318,9 +338,9 @@
                 }
             ],
             "details": {
-                "Width": "271 mm",
-                "Height": "151 mm",
-                "Depth": "135 mm"
+                "Plotis": "271 mm",
+                "Aukštis": "151 mm",
+                "Ilgis": "135 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -328,7 +348,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.005.obj",
                 "local_path": "data/capital/Capital_1_15_005/models/1.15.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.008",
@@ -348,9 +370,9 @@
                 }
             ],
             "details": {
-                "Width": "216 mm",
-                "Height": "105 mm",
-                "Depth": "108 mm"
+                "Plotis": "216 mm",
+                "Aukštis": "105 mm",
+                "Ilgis": "108 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -358,7 +380,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.008.obj",
                 "local_path": "data/capital/Capital_1_15_008/models/1.15.008.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.009",
@@ -378,9 +402,9 @@
                 }
             ],
             "details": {
-                "Width": "237 mm",
-                "Height": "94 mm",
-                "Depth": "92 mm"
+                "Plotis": "237 mm",
+                "Aukštis": "94 mm",
+                "Ilgis": "92 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -388,7 +412,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.009.obj",
                 "local_path": "data/capital/Capital_1_15_009/models/1.15.009.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.15.010",
@@ -408,13 +434,15 @@
                 }
             ],
             "details": {
-                "Width": "224 mm",
-                "Height": "175 mm",
-                "Depth": "115 mm"
+                "Plotis": "224 mm",
+                "Aukštis": "175 mm",
+                "Ilgis": "115 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.001",
@@ -434,13 +462,15 @@
                 }
             ],
             "details": {
-                "Width": "232 mm",
-                "Height": "150 mm",
-                "Depth": "68 mm"
+                "Plotis": "232 mm",
+                "Aukštis": "150 mm",
+                "Ilgis": "68 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.002",
@@ -460,13 +490,15 @@
                 }
             ],
             "details": {
-                "Width": "419 mm",
-                "Height": "346 mm",
-                "Depth": "112 mm"
+                "Plotis": "419 mm",
+                "Aukštis": "346 mm",
+                "Ilgis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.003",
@@ -486,13 +518,15 @@
                 }
             ],
             "details": {
-                "Width": "354 mm",
-                "Height": "220 mm",
-                "Depth": "97 mm"
+                "Plotis": "354 mm",
+                "Aukštis": "220 mm",
+                "Ilgis": "97 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.004",
@@ -512,9 +546,9 @@
                 }
             ],
             "details": {
-                "Width": "403 mm",
-                "Height": "178 mm",
-                "Depth": "80 mm"
+                "Plotis": "403 mm",
+                "Aukštis": "178 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -522,7 +556,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.004.obj",
                 "local_path": "data/capital/Capital_1_21_004/models/1.21.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.005",
@@ -542,9 +578,9 @@
                 }
             ],
             "details": {
-                "Width": "602 mm",
-                "Height": "180 mm",
-                "Depth": "80 mm"
+                "Plotis": "602 mm",
+                "Aukštis": "180 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -552,7 +588,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.005.obj",
                 "local_path": "data/capital/Capital_1_21_005/models/1.21.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.006",
@@ -572,9 +610,9 @@
                 }
             ],
             "details": {
-                "Width": "470 mm",
-                "Height": "181 mm",
-                "Depth": "80 mm"
+                "Plotis": "470 mm",
+                "Aukštis": "181 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -582,7 +620,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.006.obj",
                 "local_path": "data/capital/Capital_1_21_006/models/1.21.006.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.007",
@@ -602,9 +642,9 @@
                 }
             ],
             "details": {
-                "Width": "345 mm",
-                "Height": "219 mm",
-                "Depth": "95 mm"
+                "Plotis": "345 mm",
+                "Aukštis": "219 mm",
+                "Ilgis": "95 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -612,7 +652,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.007.obj",
                 "local_path": "data/capital/Capital_1_21_007/models/1.21.007.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 1.21.008",
@@ -632,9 +674,9 @@
                 }
             ],
             "details": {
-                "Width": "152 mm",
-                "Height": "98 mm",
-                "Depth": "45 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "98 mm",
+                "Ilgis": "45 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -642,7 +684,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.008.obj",
                 "local_path": "data/capital/Capital_1_21_008/models/1.21.008.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.101",
@@ -662,9 +706,9 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "180 mm",
-                "Depth": "408 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "180 mm",
+                "Ilgis": "408 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -672,7 +716,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.101.obj",
                 "local_path": "data/capital/Capital_4_11_101/models/4.11.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.102",
@@ -692,9 +738,9 @@
                 }
             ],
             "details": {
-                "Width": "544 mm",
-                "Height": "240 mm",
-                "Depth": "544 mm"
+                "Plotis": "544 mm",
+                "Aukštis": "240 mm",
+                "Ilgis": "544 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -702,7 +748,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.102.obj",
                 "local_path": "data/capital/Capital_4_11_102/models/4.11.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.201",
@@ -722,9 +770,9 @@
                 }
             ],
             "details": {
-                "Width": "429 mm",
-                "Height": "164 mm",
-                "Depth": "360 mm"
+                "Plotis": "429 mm",
+                "Aukštis": "164 mm",
+                "Ilgis": "360 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -732,7 +780,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.201.obj",
                 "local_path": "data/capital/Capital_4_11_201/models/4.11.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.202",
@@ -752,9 +802,9 @@
                 }
             ],
             "details": {
-                "Width": "635 mm",
-                "Height": "240 mm",
-                "Depth": "536 mm"
+                "Plotis": "635 mm",
+                "Aukštis": "240 mm",
+                "Ilgis": "536 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -762,7 +812,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.202.obj",
                 "local_path": "data/capital/Capital_4_11_202/models/4.11.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.301",
@@ -782,9 +834,9 @@
                 }
             ],
             "details": {
-                "Width": "396 mm",
-                "Height": "313 mm",
-                "Depth": "396 mm"
+                "Plotis": "396 mm",
+                "Aukštis": "313 mm",
+                "Ilgis": "396 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -792,7 +844,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.301.obj",
                 "local_path": "data/capital/Capital_4_11_301/models/4.11.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.11.302",
@@ -812,9 +866,9 @@
                 }
             ],
             "details": {
-                "Width": "652 mm",
-                "Height": "510 mm",
-                "Depth": "652 mm"
+                "Plotis": "652 mm",
+                "Aukštis": "510 mm",
+                "Ilgis": "652 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -822,7 +876,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.302.obj",
                 "local_path": "data/capital/Capital_4_11_302/models/4.11.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.101",
@@ -842,9 +898,9 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "181 mm",
-                "Depth": "203 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "181 mm",
+                "Ilgis": "203 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -852,7 +908,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.101.obj",
                 "local_path": "data/capital/Capital_4_15_101/models/4.15.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.102",
@@ -872,9 +930,9 @@
                 }
             ],
             "details": {
-                "Width": "543 mm",
-                "Height": "240 mm",
-                "Depth": "272 mm"
+                "Plotis": "543 mm",
+                "Aukštis": "240 mm",
+                "Ilgis": "272 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -882,7 +940,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.102.obj",
                 "local_path": "data/capital/Capital_4_15_102/models/4.15.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.201",
@@ -902,9 +962,9 @@
                 }
             ],
             "details": {
-                "Width": "434 mm",
-                "Height": "161 mm",
-                "Depth": "180 mm"
+                "Plotis": "434 mm",
+                "Aukštis": "161 mm",
+                "Ilgis": "180 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -912,7 +972,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.201.obj",
                 "local_path": "data/capital/Capital_4_15_201/models/4.15.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.202",
@@ -932,9 +994,9 @@
                 }
             ],
             "details": {
-                "Width": "635 mm",
-                "Height": "240 mm",
-                "Depth": "269 mm"
+                "Plotis": "635 mm",
+                "Aukštis": "240 mm",
+                "Ilgis": "269 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -942,7 +1004,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.202.obj",
                 "local_path": "data/capital/Capital_4_15_202/models/4.15.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.301",
@@ -962,9 +1026,9 @@
                 }
             ],
             "details": {
-                "Width": "397 mm",
-                "Height": "313 mm",
-                "Depth": "198 mm"
+                "Plotis": "397 mm",
+                "Aukštis": "313 mm",
+                "Ilgis": "198 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -972,7 +1036,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.301.obj",
                 "local_path": "data/capital/Capital_4_15_301/models/4.15.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.15.302",
@@ -992,9 +1058,9 @@
                 }
             ],
             "details": {
-                "Width": "644 mm",
-                "Height": "514 mm",
-                "Depth": "327 mm"
+                "Plotis": "644 mm",
+                "Aukštis": "514 mm",
+                "Ilgis": "327 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1002,7 +1068,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.302.obj",
                 "local_path": "data/capital/Capital_4_15_302/models/4.15.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.21.101",
@@ -1022,9 +1090,9 @@
                 }
             ],
             "details": {
-                "Width": "406 mm",
-                "Height": "178 mm",
-                "Depth": "124 mm"
+                "Plotis": "406 mm",
+                "Aukštis": "178 mm",
+                "Ilgis": "124 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1032,7 +1100,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.101.obj",
                 "local_path": "data/capital/Capital_4_21_101/models/4.21.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.21.201",
@@ -1052,9 +1122,9 @@
                 }
             ],
             "details": {
-                "Width": "444 mm",
-                "Height": "167 mm",
-                "Depth": "98 mm"
+                "Plotis": "444 mm",
+                "Aukštis": "167 mm",
+                "Ilgis": "98 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1062,7 +1132,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.201.obj",
                 "local_path": "data/capital/Capital_4_21_201/models/4.21.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.21.301",
@@ -1082,9 +1154,9 @@
                 }
             ],
             "details": {
-                "Width": "417 mm",
-                "Height": "312 mm",
-                "Depth": "151 mm"
+                "Plotis": "417 mm",
+                "Aukštis": "312 mm",
+                "Ilgis": "151 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1092,7 +1164,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.301.obj",
                 "local_path": "data/capital/Capital_4_21_301/models/4.21.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.45.201",
@@ -1112,9 +1186,9 @@
                 }
             ],
             "details": {
-                "Width": "293 mm",
-                "Height": "116 mm",
-                "Depth": "122 mm"
+                "Plotis": "293 mm",
+                "Aukštis": "116 mm",
+                "Ilgis": "122 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1122,7 +1196,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.201.obj",
                 "local_path": "data/capital/Capital_4_45_201/models/4.45.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.45.301",
@@ -1142,9 +1218,9 @@
                 }
             ],
             "details": {
-                "Width": "262 mm",
-                "Height": "208 mm",
-                "Depth": "133 mm"
+                "Plotis": "262 mm",
+                "Aukštis": "208 mm",
+                "Ilgis": "133 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1152,7 +1228,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.301.obj",
                 "local_path": "data/capital/Capital_4_45_301/models/4.45.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.51.101",
@@ -1172,9 +1250,9 @@
                 }
             ],
             "details": {
-                "Width": "260 mm",
-                "Height": "125 mm",
-                "Depth": "80 mm"
+                "Plotis": "260 mm",
+                "Aukštis": "125 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1182,7 +1260,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.101.obj",
                 "local_path": "data/capital/Capital_4_51_101/models/4.51.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.51.201",
@@ -1202,9 +1282,9 @@
                 }
             ],
             "details": {
-                "Width": "305 mm",
-                "Height": "115 mm",
-                "Depth": "67 mm"
+                "Plotis": "305 mm",
+                "Aukštis": "115 mm",
+                "Ilgis": "67 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1212,7 +1292,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.201.obj",
                 "local_path": "data/capital/Capital_4_51_201/models/4.51.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Capital 4.51.301",
@@ -1232,9 +1314,9 @@
                 }
             ],
             "details": {
-                "Width": "269 mm",
-                "Height": "205 mm",
-                "Depth": "99 mm"
+                "Plotis": "269 mm",
+                "Aukštis": "205 mm",
+                "Ilgis": "99 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1242,7 +1324,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.301.obj",
                 "local_path": "data/capital/Capital_4_51_301/models/4.51.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "122 mm",
-                "Height": "303 mm",
-                "Depth": "75 mm"
+                "Plotis": "122 mm",
+                "Aukštis": "303 mm",
+                "Ilgis": "75 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.002.obj",
                 "local_path": "data/corbel/Corbel_1_19_002/models/1.19.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.003",
@@ -48,9 +50,9 @@
                 }
             ],
             "details": {
-                "Width": "120 mm",
-                "Height": "149 mm",
-                "Depth": "120 mm"
+                "Plotis": "120 mm",
+                "Aukštis": "149 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +60,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.003.obj",
                 "local_path": "data/corbel/Corbel_1_19_003/models/1.19.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.004",
@@ -78,9 +82,9 @@
                 }
             ],
             "details": {
-                "Width": "86 mm",
-                "Height": "215 mm",
-                "Depth": "73 mm"
+                "Plotis": "86 mm",
+                "Aukštis": "215 mm",
+                "Ilgis": "73 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +92,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.004.obj",
                 "local_path": "data/corbel/Corbel_1_19_004/models/1.19.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.005",
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "188 mm",
-                "Height": "489 mm",
-                "Depth": "163 mm"
+                "Plotis": "188 mm",
+                "Aukštis": "489 mm",
+                "Ilgis": "163 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +124,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.005.obj",
                 "local_path": "data/corbel/Corbel_1_19_005/models/1.19.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.008",
@@ -148,9 +156,9 @@
                 }
             ],
             "details": {
-                "Width": "163 mm",
-                "Height": "225 mm",
-                "Depth": "85 mm"
+                "Plotis": "163 mm",
+                "Aukštis": "225 mm",
+                "Ilgis": "85 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -158,7 +166,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.008.obj",
                 "local_path": "data/corbel/Corbel_1_19_008/models/1.19.008.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.010",
@@ -178,9 +188,9 @@
                 }
             ],
             "details": {
-                "Width": "119 mm",
-                "Height": "229 mm",
-                "Depth": "81 mm"
+                "Plotis": "119 mm",
+                "Aukštis": "229 mm",
+                "Ilgis": "81 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -188,7 +198,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.010.obj",
                 "local_path": "data/corbel/Corbel_1_19_010/models/1.19.010.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.013",
@@ -208,9 +220,9 @@
                 }
             ],
             "details": {
-                "Width": "169 mm",
-                "Height": "305 mm",
-                "Depth": "187 mm"
+                "Plotis": "169 mm",
+                "Aukštis": "305 mm",
+                "Ilgis": "187 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -218,7 +230,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.013.obj",
                 "local_path": "data/corbel/Corbel_1_19_013/models/1.19.013.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.017",
@@ -238,9 +252,9 @@
                 }
             ],
             "details": {
-                "Width": "150 mm",
-                "Height": "225 mm",
-                "Depth": "97 mm"
+                "Plotis": "150 mm",
+                "Aukštis": "225 mm",
+                "Ilgis": "97 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -248,7 +262,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.017.obj",
                 "local_path": "data/corbel/Corbel_1_19_017/models/1.19.017.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.137",
@@ -268,9 +284,9 @@
                 }
             ],
             "details": {
-                "Width": "73 mm",
-                "Height": "97 mm",
-                "Depth": "38 mm"
+                "Plotis": "73 mm",
+                "Aukštis": "97 mm",
+                "Ilgis": "38 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -278,7 +294,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.137.obj",
                 "local_path": "data/corbel/Corbel_1_19_137/models/1.19.137.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Corbel 1.19.801",
@@ -338,9 +356,9 @@
                 }
             ],
             "details": {
-                "Width": "127 mm",
-                "Height": "100 mm",
-                "Depth": "120 mm"
+                "Plotis": "127 mm",
+                "Aukštis": "100 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -348,7 +366,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.801.obj",
                 "local_path": "data/corbel/Corbel_1_19_801/models/1.19.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.002",
@@ -368,9 +388,9 @@
                 }
             ],
             "details": {
-                "Width": "173 mm",
-                "Height": "114 mm",
-                "Depth": "48 mm"
+                "Plotis": "173 mm",
+                "Aukštis": "114 mm",
+                "Ilgis": "48 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -378,7 +398,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.002.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_002/models/4.83.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.003",
@@ -398,9 +420,9 @@
                 }
             ],
             "details": {
-                "Width": "156 mm",
-                "Height": "100 mm",
-                "Depth": "46 mm"
+                "Plotis": "156 mm",
+                "Aukštis": "100 mm",
+                "Ilgis": "46 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -408,7 +430,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.003.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_003/models/4.83.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.102",
@@ -428,9 +452,9 @@
                 }
             ],
             "details": {
-                "Width": "356 mm",
-                "Height": "240 mm",
-                "Depth": "128 mm"
+                "Plotis": "356 mm",
+                "Aukštis": "240 mm",
+                "Ilgis": "128 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -438,7 +462,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.102.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_102/models/4.83.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.201",
@@ -458,9 +484,9 @@
                 }
             ],
             "details": {
-                "Width": "393 mm",
-                "Height": "277 mm",
-                "Depth": "195 mm"
+                "Plotis": "393 mm",
+                "Aukštis": "277 mm",
+                "Ilgis": "195 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -468,7 +494,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.201.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_201/models/4.83.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.202",
@@ -488,9 +516,9 @@
                 }
             ],
             "details": {
-                "Width": "355 mm",
-                "Height": "262 mm",
-                "Depth": "132 mm"
+                "Plotis": "355 mm",
+                "Aukštis": "262 mm",
+                "Ilgis": "132 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -498,7 +526,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.202.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_202/models/4.83.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.301",
@@ -518,9 +548,9 @@
                 }
             ],
             "details": {
-                "Width": "366 mm",
-                "Height": "276 mm",
-                "Depth": "181 mm"
+                "Plotis": "366 mm",
+                "Aukštis": "276 mm",
+                "Ilgis": "181 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -528,7 +558,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.301.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_301/models/4.83.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Pedestal corbel 4.83.302",
@@ -548,9 +580,9 @@
                 }
             ],
             "details": {
-                "Width": "333 mm",
-                "Height": "269 mm",
-                "Depth": "128 mm"
+                "Plotis": "333 mm",
+                "Aukštis": "269 mm",
+                "Ilgis": "128 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -558,7 +590,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.302.obj",
                 "local_path": "data/corbel/Pedestal_corbel_4_83_302/models/4.83.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

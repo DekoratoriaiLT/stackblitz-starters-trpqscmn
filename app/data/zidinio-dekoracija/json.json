@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "1302 mm",
-                "Height": "312 mm",
-                "Depth": "220 mm"
+                "Plotis": "1302 mm",
+                "Aukštis": "312 mm",
+                "Ilgis": "220 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.001.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/models/1.64.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.002",
@@ -48,9 +50,9 @@
                 }
             ],
             "details": {
-                "Width": "184 mm",
-                "Height": "877 mm",
-                "Depth": "172 mm"
+                "Plotis": "184 mm",
+                "Aukštis": "877 mm",
+                "Ilgis": "172 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +60,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.002.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/models/1.64.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.003",
@@ -78,9 +82,9 @@
                 }
             ],
             "details": {
-                "Width": "184 mm",
-                "Height": "877 mm",
-                "Depth": "172 mm"
+                "Plotis": "184 mm",
+                "Aukštis": "877 mm",
+                "Ilgis": "172 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +92,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.003.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/models/1.64.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.004",
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "1300 mm",
-                "Height": "239 mm",
-                "Depth": "201 mm"
+                "Plotis": "1300 mm",
+                "Aukštis": "239 mm",
+                "Ilgis": "201 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +124,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.004.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/models/1.64.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.005",
@@ -143,9 +151,9 @@
                 }
             ],
             "details": {
-                "Width": "152 mm",
-                "Height": "860 mm",
-                "Depth": "170 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "860 mm",
+                "Ilgis": "170 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -153,7 +161,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.005",
@@ -173,9 +183,9 @@
                 }
             ],
             "details": {
-                "Width": "152 mm",
-                "Height": "860 mm",
-                "Depth": "170 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "860 mm",
+                "Ilgis": "170 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -183,7 +193,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.801",
@@ -254,8 +266,7 @@
             ],
             "details": {
                 "Ilgis": "1600 mm",
-                "Width": "430 mm",
-                "Depth": "280 mm"
+                "Plotis": "430 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -263,7 +274,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.801",
@@ -339,8 +352,7 @@
             ],
             "details": {
                 "Ilgis": "1600 mm",
-                "Width": "430 mm",
-                "Depth": "280 mm"
+                "Plotis": "430 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -348,7 +360,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.801",
@@ -429,8 +443,7 @@
             ],
             "details": {
                 "Ilgis": "1600 mm",
-                "Width": "430 mm",
-                "Depth": "280 mm"
+                "Plotis": "430 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -438,7 +451,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.803",
@@ -499,8 +514,7 @@
             ],
             "details": {
                 "Ilgis": "1200 mm",
-                "Width": "300 mm",
-                "Depth": "280 mm"
+                "Plotis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -508,7 +522,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.803",
@@ -569,8 +585,7 @@
             ],
             "details": {
                 "Ilgis": "1200 mm",
-                "Width": "300 mm",
-                "Depth": "280 mm"
+                "Plotis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -578,7 +593,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative mantelpiece elements 1.64.803",
@@ -644,8 +661,7 @@
             ],
             "details": {
                 "Ilgis": "1200 mm",
-                "Width": "300 mm",
-                "Depth": "280 mm"
+                "Plotis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -653,7 +669,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
                 "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

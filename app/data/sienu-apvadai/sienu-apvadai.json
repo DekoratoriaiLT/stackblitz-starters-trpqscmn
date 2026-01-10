@@ -53,12 +53,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "42 mm",
-                "Thickness": "16 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "42 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -66,7 +66,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.301.obj",
                 "local_path": "data/moulding/Moulding_1_51_301/models/1.51.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.302",
@@ -121,12 +123,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "60 mm",
-                "Thickness": "25 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "60 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -134,7 +136,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.302.obj",
                 "local_path": "data/moulding/Moulding_1_51_302/models/1.51.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.303",
@@ -189,12 +193,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "82 mm",
-                "Thickness": "19 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "82 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -202,7 +206,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.303.obj",
                 "local_path": "data/moulding/Moulding_1_51_303/models/1.51.303.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.304",
@@ -247,12 +253,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "51 mm",
-                "Thickness": "24 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "51 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -260,7 +266,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.304.obj",
                 "local_path": "data/moulding/Moulding_1_51_304/models/1.51.304.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.305",
@@ -315,12 +323,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "28 mm",
-                "Thickness": "15 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "28 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -328,7 +336,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.305.obj",
                 "local_path": "data/moulding/Moulding_1_51_305/models/1.51.305.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.306",
@@ -383,12 +393,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "31 mm",
-                "Thickness": "10 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "31 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -396,7 +406,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.306.obj",
                 "local_path": "data/moulding/Moulding_1_51_306/models/1.51.306.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.307",
@@ -451,12 +463,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "95 mm",
-                "Thickness": "25 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "95 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -464,7 +476,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.307.obj",
                 "local_path": "data/moulding/Moulding_1_51_307/models/1.51.307.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.308",
@@ -519,12 +533,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "41 mm",
-                "Thickness": "20 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "41 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -532,7 +546,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.308.obj",
                 "local_path": "data/moulding/Moulding_1_51_308/models/1.51.308.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.310",
@@ -587,12 +603,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "96 mm",
-                "Thickness": "19 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "96 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -600,7 +616,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.310.obj",
                 "local_path": "data/moulding/Moulding_1_51_310/models/1.51.310.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.312",
@@ -655,12 +673,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "18 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -668,7 +686,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.312.obj",
                 "local_path": "data/moulding/Moulding_1_51_312/models/1.51.312.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.314",
@@ -723,12 +743,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "66 mm",
-                "Thickness": "19 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "66 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -736,7 +756,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.314.obj",
                 "local_path": "data/moulding/Moulding_1_51_314/models/1.51.314.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.315",
@@ -791,12 +813,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "22 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "22 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -804,7 +826,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.315.obj",
                 "local_path": "data/moulding/Moulding_1_51_315/models/1.51.315.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.316",
@@ -859,12 +883,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "90 mm",
-                "Thickness": "19 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "90 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -872,7 +896,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.316.obj",
                 "local_path": "data/moulding/Moulding_1_51_316/models/1.51.316.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.317",
@@ -927,12 +953,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "101 mm",
-                "Thickness": "20 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "101 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -940,7 +966,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.317.obj",
                 "local_path": "data/moulding/Moulding_1_51_317/models/1.51.317.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.321",
@@ -995,12 +1023,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "19 mm",
-                "Thickness": "9 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "19 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1008,7 +1036,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.321.obj",
                 "local_path": "data/moulding/Moulding_1_51_321/models/1.51.321.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.322",
@@ -1063,12 +1093,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "25 mm",
-                "Thickness": "12 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "25 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1076,7 +1106,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.322.obj",
                 "local_path": "data/moulding/Moulding_1_51_322/models/1.51.322.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.323",
@@ -1131,12 +1163,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "32 mm",
-                "Thickness": "10 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "32 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1144,7 +1176,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.323.obj",
                 "local_path": "data/moulding/Moulding_1_51_323/models/1.51.323.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.327",
@@ -1199,12 +1233,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "80 mm",
-                "Thickness": "21 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "80 mm",
+                "Plotis": "21 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1212,7 +1246,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.327.obj",
                 "local_path": "data/moulding/Moulding_1_51_327/models/1.51.327.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.337",
@@ -1267,12 +1303,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "78 mm",
-                "Thickness": "12 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "78 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1280,7 +1316,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.337.obj",
                 "local_path": "data/moulding/Moulding_1_51_337/models/1.51.337.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.338",
@@ -1335,12 +1373,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "9 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1348,7 +1386,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.338.obj",
                 "local_path": "data/moulding/Moulding_1_51_338/models/1.51.338.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.342",
@@ -1403,12 +1443,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "15 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1416,7 +1456,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.342.obj",
                 "local_path": "data/moulding/Moulding_1_51_342/models/1.51.342.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.343",
@@ -1471,12 +1513,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "12 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1484,7 +1526,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.343.obj",
                 "local_path": "data/moulding/Moulding_1_51_343/models/1.51.343.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.344",
@@ -1539,12 +1583,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "91 mm",
-                "Thickness": "18 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "91 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1552,7 +1596,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.344.obj",
                 "local_path": "data/moulding/Moulding_1_51_344/models/1.51.344.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.345",
@@ -1607,12 +1653,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "94 mm",
-                "Thickness": "22 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "94 mm",
+                "Plotis": "22 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1620,7 +1666,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.345.obj",
                 "local_path": "data/moulding/Moulding_1_51_345/models/1.51.345.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.346",
@@ -1675,12 +1723,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "34 mm",
-                "Thickness": "16 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2500 mm"
+                "Arch bending radius": "2500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "34 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1688,7 +1736,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.346.obj",
                 "local_path": "data/moulding/Moulding_1_51_346/models/1.51.346.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.347",
@@ -1743,12 +1793,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "91 mm",
-                "Thickness": "27 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "91 mm",
+                "Plotis": "27 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1756,7 +1806,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.347.obj",
                 "local_path": "data/moulding/Moulding_1_51_347/models/1.51.347.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.348",
@@ -1811,12 +1863,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "49 mm",
-                "Thickness": "25 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "49 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1824,7 +1876,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.348.obj",
                 "local_path": "data/moulding/Moulding_1_51_348/models/1.51.348.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.353",
@@ -1879,12 +1933,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "26 mm",
-                "Thickness": "16 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "26 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1892,7 +1946,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.353.obj",
                 "local_path": "data/moulding/Moulding_1_51_353/models/1.51.353.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.354",
@@ -1947,12 +2003,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "68 mm",
-                "Thickness": "26 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "68 mm",
+                "Plotis": "26 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -1960,7 +2016,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.354.obj",
                 "local_path": "data/moulding/Moulding_1_51_354/models/1.51.354.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.355",
@@ -2015,12 +2073,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "102 mm",
-                "Thickness": "38 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm"
+                "Arch bending radius": "2000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "102 mm",
+                "Plotis": "38 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2028,7 +2086,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.355.obj",
                 "local_path": "data/moulding/Moulding_1_51_355/models/1.51.355.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.356",
@@ -2083,12 +2143,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "47 mm",
-                "Thickness": "9 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm"
+                "Arch bending radius": "2000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "47 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2096,7 +2156,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.356.obj",
                 "local_path": "data/moulding/Moulding_1_51_356/models/1.51.356.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.357",
@@ -2151,12 +2213,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "48 mm",
-                "Thickness": "12 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "48 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2164,7 +2226,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.357.obj",
                 "local_path": "data/moulding/Moulding_1_51_357/models/1.51.357.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.360",
@@ -2209,12 +2273,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "72 mm",
-                "Thickness": "17 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "72 mm",
+                "Plotis": "17 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2222,7 +2286,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.360.obj",
                 "local_path": "data/moulding/Moulding_1_51_360/models/1.51.360.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.362",
@@ -2267,12 +2333,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "46 mm",
-                "Thickness": "10 mm",
                 "Convex bending radius": "500 mm",
                 "Concave bending radius": "500 mm",
-                "Arch bending radius": "2000 mm"
+                "Arch bending radius": "2000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "46 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2280,7 +2346,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.362.obj",
                 "local_path": "data/moulding/Moulding_1_51_362/models/1.51.362.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.363",
@@ -2325,12 +2393,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "70 mm",
-                "Thickness": "13 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "70 mm",
+                "Plotis": "13 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2338,7 +2406,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.363.obj",
                 "local_path": "data/moulding/Moulding_1_51_363/models/1.51.363.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.367",
@@ -2383,12 +2453,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "124 mm",
-                "Thickness": "24 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "124 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2396,7 +2466,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.367.obj",
                 "local_path": "data/moulding/Moulding_1_51_367/models/1.51.367.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.370",
@@ -2441,12 +2513,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "15 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2454,7 +2526,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.370.obj",
                 "local_path": "data/moulding/Moulding_1_51_370/models/1.51.370.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.374",
@@ -2499,12 +2573,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "101 mm",
-                "Thickness": "9 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "3000 mm"
+                "Arch bending radius": "3000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "101 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2512,7 +2586,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.374.obj",
                 "local_path": "data/moulding/Moulding_1_51_374/models/1.51.374.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.375",
@@ -2567,12 +2643,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "41 mm",
-                "Thickness": "20 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm"
+                "Arch bending radius": "2000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "41 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2580,7 +2656,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.375.obj",
                 "local_path": "data/moulding/Moulding_1_51_375/models/1.51.375.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.377",
@@ -2635,12 +2713,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "52 mm",
-                "Thickness": "17 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm"
+                "Arch bending radius": "2000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "52 mm",
+                "Plotis": "17 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2648,7 +2726,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.377.obj",
                 "local_path": "data/moulding/Moulding_1_51_377/models/1.51.377.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.378",
@@ -2703,12 +2783,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "22 mm",
-                "Thickness": "10 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "22 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2716,7 +2796,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.378.obj",
                 "local_path": "data/moulding/Moulding_1_51_378/models/1.51.378.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.379",
@@ -2771,12 +2853,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "30 mm",
-                "Thickness": "13 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm"
+                "Arch bending radius": "1000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "30 mm",
+                "Plotis": "13 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2784,7 +2866,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.379.obj",
                 "local_path": "data/moulding/Moulding_1_51_379/models/1.51.379.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.381",
@@ -2839,12 +2923,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "193 mm",
-                "Thickness": "24 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "3500 mm"
+                "Arch bending radius": "3500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "193 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2852,7 +2936,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.381.obj",
                 "local_path": "data/moulding/Moulding_1_51_381/models/1.51.381.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.383",
@@ -2907,12 +2993,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "23 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "3000 mm"
+                "Arch bending radius": "3000 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "23 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2920,7 +3006,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.383.obj",
                 "local_path": "data/moulding/Moulding_1_51_383/models/1.51.383.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.384",
@@ -2955,12 +3043,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "47 mm",
-                "Thickness": "8 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "2500 mm"
+                "Arch bending radius": "2500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "47 mm",
+                "Plotis": "8 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -2968,7 +3056,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.384.obj",
                 "local_path": "data/moulding/Moulding_1_51_384/models/1.51.384.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.388",
@@ -2998,13 +3088,15 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "90 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "90 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.400",
@@ -3059,12 +3151,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "45 mm",
-                "Thickness": "16 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "45 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -3072,7 +3164,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.400.obj",
                 "local_path": "data/moulding/Moulding_1_51_400/models/1.51.400.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.401",
@@ -3127,12 +3221,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "23 mm",
-                "Thickness": "12 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm"
+                "Arch bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "23 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -3140,7 +3234,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.401.obj",
                 "local_path": "data/moulding/Moulding_1_51_401/models/1.51.401.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.501",
@@ -3170,9 +3266,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "161 mm",
-                "Thickness": "17 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "161 mm",
+                "Plotis": "17 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3180,7 +3276,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.501.obj",
                 "local_path": "data/moulding/Moulding_1_51_501/models/1.51.501.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.502",
@@ -3210,9 +3308,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "164 mm",
-                "Thickness": "35 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "164 mm",
+                "Plotis": "35 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3220,7 +3318,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.502.obj",
                 "local_path": "data/moulding/Moulding_1_51_502/models/1.51.502.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.503",
@@ -3250,9 +3350,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2020 mm",
-                "The height on the wall": "80 mm",
-                "Thickness": "18 mm"
+                "Ilgis": "2020 mm",
+                "Aukštis": "80 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3260,7 +3360,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.503.obj",
                 "local_path": "data/moulding/Moulding_1_51_503/models/1.51.503.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.504",
@@ -3290,9 +3392,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2040 mm",
-                "The height on the wall": "51 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2040 mm",
+                "Aukštis": "51 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3300,7 +3402,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.504.obj",
                 "local_path": "data/moulding/Moulding_1_51_504/models/1.51.504.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.510",
@@ -3330,9 +3434,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2040 mm",
-                "The height on the wall": "121 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2040 mm",
+                "Aukštis": "121 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3340,7 +3444,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.510.obj",
                 "local_path": "data/moulding/Moulding_1_51_510/models/1.51.510.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.513",
@@ -3370,9 +3476,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "121 mm",
-                "Thickness": "60 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "121 mm",
+                "Plotis": "60 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3380,7 +3486,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.513.obj",
                 "local_path": "data/moulding/Moulding_1_51_513/models/1.51.513.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.518",
@@ -3410,9 +3518,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2040 mm",
-                "The height on the wall": "259 mm",
-                "Thickness": "33 mm"
+                "Ilgis": "2040 mm",
+                "Aukštis": "259 mm",
+                "Plotis": "33 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3420,7 +3528,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.518.obj",
                 "local_path": "data/moulding/Moulding_1_51_518/models/1.51.518.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.605",
@@ -3470,9 +3580,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "120 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "120 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3480,7 +3590,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.605.obj",
                 "local_path": "data/moulding/Moulding_1_51_605/models/1.51.605.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.606",
@@ -3530,9 +3642,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "200 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "200 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3540,7 +3652,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.606.obj",
                 "local_path": "data/moulding/Moulding_1_51_606/models/1.51.606.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.803",
@@ -3610,9 +3724,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "26 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "26 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3620,7 +3734,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.803.obj",
                 "local_path": "data/moulding/Moulding_1_51_803/models/1.51.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.804",
@@ -3690,9 +3806,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "70 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "70 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3700,7 +3816,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.804.obj",
                 "local_path": "data/moulding/Moulding_1_51_804/models/1.51.804.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.805",
@@ -3760,9 +3878,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "50 mm",
-                "Thickness": "30 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "50 mm",
+                "Plotis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3770,7 +3888,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.805.obj",
                 "local_path": "data/moulding/Moulding_1_51_805/models/1.51.805.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.806",
@@ -3820,9 +3940,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "49 mm",
-                "Thickness": "30 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "49 mm",
+                "Plotis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3830,7 +3950,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.806.obj",
                 "local_path": "data/moulding/Moulding_1_51_806/models/1.51.806.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.807",
@@ -3890,9 +4012,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "1980 mm",
-                "The height on the wall": "100 mm",
-                "Thickness": "24 mm"
+                "Ilgis": "1980 mm",
+                "Aukštis": "100 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3900,7 +4022,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.807.obj",
                 "local_path": "data/moulding/Moulding_1_51_807/models/1.51.807.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.811",
@@ -3980,9 +4104,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "10 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -3990,7 +4114,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.811.obj",
                 "local_path": "data/moulding/Moulding_1_51_811/models/1.51.811.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.817",
@@ -4050,9 +4176,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "56 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "56 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4060,7 +4186,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.817.obj",
                 "local_path": "data/moulding/Moulding_1_51_817/models/1.51.817.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.818",
@@ -4100,9 +4228,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2007 mm",
-                "The height on the wall": "80 mm",
-                "Thickness": "30 mm"
+                "Ilgis": "2007 mm",
+                "Aukštis": "80 mm",
+                "Plotis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4110,7 +4238,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.818.obj",
                 "local_path": "data/moulding/Moulding_1_51_818/models/1.51.818.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.819",
@@ -4160,9 +4290,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2007 mm",
-                "The height on the wall": "100 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2007 mm",
+                "Aukštis": "100 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4170,7 +4300,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.819.obj",
                 "local_path": "data/moulding/Moulding_1_51_819/models/1.51.819.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.801",
@@ -4240,9 +4372,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "59 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "59 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4250,7 +4382,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.801.obj",
                 "local_path": "data/moulding/Moulding_6_51_801/models/6.51.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.802",
@@ -4310,9 +4444,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "60 mm",
-                "Thickness": "18 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "60 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4320,7 +4454,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.802.obj",
                 "local_path": "data/moulding/Moulding_6_51_802/models/6.51.802.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.808",
@@ -4400,9 +4536,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "30 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "30 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4410,7 +4546,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.808.obj",
                 "local_path": "data/moulding/Moulding_6_51_808/models/6.51.808.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.809",
@@ -4550,9 +4688,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "15 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "15 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4560,7 +4698,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.809.obj",
                 "local_path": "data/moulding/Moulding_6_51_809/models/6.51.809.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.810",
@@ -4690,9 +4830,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "21 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "21 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4700,7 +4840,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.810.obj",
                 "local_path": "data/moulding/Moulding_6_51_810/models/6.51.810.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.812",
@@ -4750,9 +4892,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "50 mm",
-                "Thickness": "8 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "50 mm",
+                "Plotis": "8 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4760,7 +4902,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.812.obj",
                 "local_path": "data/moulding/Moulding_6_51_812/models/6.51.812.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.813",
@@ -4810,9 +4954,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "50 mm",
-                "Thickness": "8 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "50 mm",
+                "Plotis": "8 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4820,7 +4964,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.813.obj",
                 "local_path": "data/moulding/Moulding_6_51_813/models/6.51.813.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.814",
@@ -4880,9 +5026,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "25 mm",
-                "Thickness": "26 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "25 mm",
+                "Plotis": "26 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4890,7 +5036,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.814.obj",
                 "local_path": "data/moulding/Moulding_6_51_814/models/6.51.814.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.815",
@@ -4970,9 +5118,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -4980,7 +5128,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.815.obj",
                 "local_path": "data/moulding/Moulding_6_51_815/models/6.51.815.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 6.51.816",
@@ -5030,9 +5180,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "30 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5040,7 +5190,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.51.816.obj",
                 "local_path": "data/moulding/Moulding_6_51_816/models/6.51.816.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.301 (flexible)",
@@ -5095,9 +5247,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "42 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "42 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5105,7 +5257,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.301.obj",
                 "local_path": "data/moulding/Moulding_1_51_301_flexible_/models/1.51.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.302 (flexible)",
@@ -5160,9 +5314,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "60 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "60 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5170,7 +5324,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.302.obj",
                 "local_path": "data/moulding/Moulding_1_51_302_flexible_/models/1.51.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.303 (flexible)",
@@ -5225,9 +5381,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "82 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "82 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5235,7 +5391,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.303.obj",
                 "local_path": "data/moulding/Moulding_1_51_303_flexible_/models/1.51.303.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.304 (flexible)",
@@ -5280,9 +5438,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "51 mm",
-                "Thickness": "24 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "51 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5290,7 +5448,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.304.obj",
                 "local_path": "data/moulding/Moulding_1_51_304_flexible_/models/1.51.304.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.305 (flexible)",
@@ -5345,9 +5505,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "28 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "28 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5355,7 +5515,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.305.obj",
                 "local_path": "data/moulding/Moulding_1_51_305_flexible_/models/1.51.305.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.306 (flexible)",
@@ -5410,9 +5572,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "31 mm",
-                "Thickness": "10 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "31 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5420,7 +5582,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.306.obj",
                 "local_path": "data/moulding/Moulding_1_51_306_flexible_/models/1.51.306.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.307 (flexible)",
@@ -5475,9 +5639,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "95 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "95 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5485,7 +5649,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.307.obj",
                 "local_path": "data/moulding/Moulding_1_51_307_flexible_/models/1.51.307.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.308 (flexible)",
@@ -5540,9 +5706,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "41 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "41 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5550,7 +5716,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.308.obj",
                 "local_path": "data/moulding/Moulding_1_51_308_flexible_/models/1.51.308.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.310 (flexible)",
@@ -5605,9 +5773,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "96 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "96 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5615,7 +5783,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.310.obj",
                 "local_path": "data/moulding/Moulding_1_51_310_flexible_/models/1.51.310.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.312 (flexible)",
@@ -5670,9 +5840,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "18 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5680,7 +5850,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.312.obj",
                 "local_path": "data/moulding/Moulding_1_51_312_flexible_/models/1.51.312.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.314 (flexible)",
@@ -5735,9 +5907,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "66 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "66 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5745,7 +5917,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.314.obj",
                 "local_path": "data/moulding/Moulding_1_51_314_flexible_/models/1.51.314.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.315 (flexible)",
@@ -5800,9 +5974,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "22 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5810,7 +5984,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.315.obj",
                 "local_path": "data/moulding/Moulding_1_51_315_flexible_/models/1.51.315.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.316 (flexible)",
@@ -5865,9 +6041,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "90 mm",
-                "Thickness": "19 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "90 mm",
+                "Plotis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5875,7 +6051,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.316.obj",
                 "local_path": "data/moulding/Moulding_1_51_316_flexible_/models/1.51.316.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.317 (flexible)",
@@ -5930,9 +6108,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "101 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "101 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -5940,7 +6118,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.317.obj",
                 "local_path": "data/moulding/Moulding_1_51_317_flexible_/models/1.51.317.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.321 (flexible)",
@@ -5995,9 +6175,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "19 mm",
-                "Thickness": "9 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "19 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6005,7 +6185,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.321.obj",
                 "local_path": "data/moulding/Moulding_1_51_321_flexible_/models/1.51.321.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.322 (flexible)",
@@ -6060,9 +6242,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "25 mm",
-                "Thickness": "12 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "25 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6070,7 +6252,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.322.obj",
                 "local_path": "data/moulding/Moulding_1_51_322_flexible_/models/1.51.322.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.323 (flexible)",
@@ -6125,9 +6309,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "32 mm",
-                "Thickness": "10 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "32 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6135,7 +6319,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.323.obj",
                 "local_path": "data/moulding/Moulding_1_51_323_flexible_/models/1.51.323.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.327 (flexible)",
@@ -6190,9 +6376,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "80 mm",
-                "Thickness": "21 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "80 mm",
+                "Plotis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6200,7 +6386,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.327.obj",
                 "local_path": "data/moulding/Moulding_1_51_327_flexible_/models/1.51.327.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.337 (flexible)",
@@ -6255,9 +6443,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "78 mm",
-                "Thickness": "12 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "78 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6265,7 +6453,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.337.obj",
                 "local_path": "data/moulding/Moulding_1_51_337_flexible_/models/1.51.337.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.338 (flexible)",
@@ -6320,9 +6510,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "40 mm",
-                "Thickness": "9 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "40 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6330,7 +6520,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.338.obj",
                 "local_path": "data/moulding/Moulding_1_51_338_flexible_/models/1.51.338.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.342 (flexible)",
@@ -6385,9 +6577,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6395,7 +6587,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.342.obj",
                 "local_path": "data/moulding/Moulding_1_51_342_flexible_/models/1.51.342.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.343 (flexible)",
@@ -6450,9 +6644,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "12 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6460,7 +6654,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.343.obj",
                 "local_path": "data/moulding/Moulding_1_51_343_flexible_/models/1.51.343.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.344 (flexible)",
@@ -6515,9 +6711,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "91 mm",
-                "Thickness": "18 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "91 mm",
+                "Plotis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6525,7 +6721,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.344.obj",
                 "local_path": "data/moulding/Moulding_1_51_344_flexible_/models/1.51.344.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.345 (flexible)",
@@ -6580,9 +6778,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "94 mm",
-                "Thickness": "22 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "94 mm",
+                "Plotis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6590,7 +6788,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.345.obj",
                 "local_path": "data/moulding/Moulding_1_51_345_flexible_/models/1.51.345.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.346 (flexible)",
@@ -6645,9 +6845,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "34 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "34 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6655,7 +6855,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.346.obj",
                 "local_path": "data/moulding/Moulding_1_51_346_flexible_/models/1.51.346.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.347 (flexible)",
@@ -6710,9 +6912,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "91 mm",
-                "Thickness": "27 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "91 mm",
+                "Plotis": "27 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6720,7 +6922,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.347.obj",
                 "local_path": "data/moulding/Moulding_1_51_347_flexible_/models/1.51.347.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.348 (flexible)",
@@ -6775,9 +6979,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "49 mm",
-                "Thickness": "25 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "49 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6785,7 +6989,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.348.obj",
                 "local_path": "data/moulding/Moulding_1_51_348_flexible_/models/1.51.348.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.353 (flexible)",
@@ -6840,9 +7046,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "26 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "26 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6850,7 +7056,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.353.obj",
                 "local_path": "data/moulding/Moulding_1_51_353_flexible_/models/1.51.353.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.354 (flexible)",
@@ -6905,9 +7113,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "68 mm",
-                "Thickness": "26 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "68 mm",
+                "Plotis": "26 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6915,7 +7123,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.354.obj",
                 "local_path": "data/moulding/Moulding_1_51_354_flexible_/models/1.51.354.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.355 (flexible)",
@@ -6970,9 +7180,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "102 mm",
-                "Thickness": "38 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "102 mm",
+                "Plotis": "38 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -6980,7 +7190,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.355.obj",
                 "local_path": "data/moulding/Moulding_1_51_355_flexible_/models/1.51.355.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.356 (flexible)",
@@ -7035,9 +7247,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "47 mm",
-                "Thickness": "9 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "47 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7045,7 +7257,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.356.obj",
                 "local_path": "data/moulding/Moulding_1_51_356_flexible_/models/1.51.356.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.357 (flexible)",
@@ -7100,9 +7314,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "48 mm",
-                "Thickness": "12 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "48 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7110,7 +7324,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.357.obj",
                 "local_path": "data/moulding/Moulding_1_51_357_flexible_/models/1.51.357.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.360 (flexible)",
@@ -7155,9 +7371,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "72 mm",
-                "Thickness": "17 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "72 mm",
+                "Plotis": "17 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7165,7 +7381,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.360.obj",
                 "local_path": "data/moulding/Moulding_1_51_360_flexible_/models/1.51.360.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.362 (flexible)",
@@ -7210,9 +7428,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "46 mm",
-                "Thickness": "10 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "46 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7220,7 +7438,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.362.obj",
                 "local_path": "data/moulding/Moulding_1_51_362_flexible_/models/1.51.362.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.363 (flexible)",
@@ -7265,9 +7485,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "70 mm",
-                "Thickness": "13 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "70 mm",
+                "Plotis": "13 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7275,7 +7495,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.363.obj",
                 "local_path": "data/moulding/Moulding_1_51_363_flexible_/models/1.51.363.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.367 (flexible)",
@@ -7320,9 +7542,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "124 mm",
-                "Thickness": "24 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "124 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7330,7 +7552,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.367.obj",
                 "local_path": "data/moulding/Moulding_1_51_367_flexible_/models/1.51.367.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.370 (flexible)",
@@ -7375,9 +7599,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "15 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7385,7 +7609,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.370.obj",
                 "local_path": "data/moulding/Moulding_1_51_370_flexible_/models/1.51.370.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.374 (flexible)",
@@ -7430,9 +7656,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "101 mm",
-                "Thickness": "9 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "101 mm",
+                "Plotis": "9 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7440,7 +7666,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.374.obj",
                 "local_path": "data/moulding/Moulding_1_51_374_flexible_/models/1.51.374.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.375 (flexible)",
@@ -7495,9 +7723,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "41 mm",
-                "Thickness": "20 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "41 mm",
+                "Plotis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7505,7 +7733,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.375.obj",
                 "local_path": "data/moulding/Moulding_1_51_375_flexible_/models/1.51.375.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.377 (flexible)",
@@ -7560,9 +7790,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "52 mm",
-                "Thickness": "17 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "52 mm",
+                "Plotis": "17 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7570,7 +7800,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.377.obj",
                 "local_path": "data/moulding/Moulding_1_51_377_flexible_/models/1.51.377.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.378 (flexible)",
@@ -7625,9 +7857,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "22 mm",
-                "Thickness": "10 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "22 mm",
+                "Plotis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7635,7 +7867,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.378.obj",
                 "local_path": "data/moulding/Moulding_1_51_378_flexible_/models/1.51.378.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.379 (flexible)",
@@ -7690,9 +7924,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "30 mm",
-                "Thickness": "13 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "30 mm",
+                "Plotis": "13 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7700,7 +7934,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.379.obj",
                 "local_path": "data/moulding/Moulding_1_51_379_flexible_/models/1.51.379.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.381 (flexible)",
@@ -7755,9 +7991,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "193 mm",
-                "Thickness": "24 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "193 mm",
+                "Plotis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7765,7 +8001,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.381.obj",
                 "local_path": "data/moulding/Moulding_1_51_381_flexible_/models/1.51.381.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.383 (flexible)",
@@ -7820,9 +8058,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "75 mm",
-                "Thickness": "23 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "75 mm",
+                "Plotis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7830,7 +8068,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.383.obj",
                 "local_path": "data/moulding/Moulding_1_51_383_flexible_/models/1.51.383.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.384 (flexible)",
@@ -7865,9 +8105,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "47 mm",
-                "Thickness": "8 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "47 mm",
+                "Plotis": "8 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7875,7 +8115,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.384.obj",
                 "local_path": "data/moulding/Moulding_1_51_384_flexible_/models/1.51.384.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.400 (flexible)",
@@ -7930,9 +8172,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "45 mm",
-                "Thickness": "16 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "45 mm",
+                "Plotis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -7940,7 +8182,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.400.obj",
                 "local_path": "data/moulding/Moulding_1_51_400_flexible_/models/1.51.400.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Sienos Apvadas 1.51.401 (flexible)",
@@ -7995,9 +8239,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "23 mm",
-                "Thickness": "12 mm"
+                "Ilgis": "2000 mm",
+                "Aukštis": "23 mm",
+                "Plotis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -8005,7 +8249,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.401.obj",
                 "local_path": "data/moulding/Moulding_1_51_401_flexible_/models/1.51.401.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

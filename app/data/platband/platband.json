@@ -19,8 +19,8 @@
             ],
             "details": {
                 "Ilgis": "1262 mm",
-                "Height": "198 mm",
-                "Thickness": "25 mm"
+                "Aukštis": "198 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.003.obj",
                 "local_path": "data/platband/Platband_1_54_003/models/1.54.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 1.54.004",
@@ -49,8 +51,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "238 mm",
-                "Thickness": "25 mm"
+                "Aukštis": "238 mm",
+                "Plotis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,7 +60,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.004.obj",
                 "local_path": "data/platband/Platband_1_54_004/models/1.54.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 1.54.014",
@@ -79,8 +83,8 @@
             ],
             "details": {
                 "Ilgis": "1504 mm",
-                "Height": "243 mm",
-                "Thickness": "66 mm"
+                "Aukštis": "243 mm",
+                "Plotis": "66 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,7 +92,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.014.obj",
                 "local_path": "data/platband/Platband_1_54_014/models/1.54.014.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.001",
@@ -119,8 +125,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "183 mm",
-                "Depth": "50 mm"
+                "Plotis": "183 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -128,7 +133,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.001.obj",
                 "local_path": "data/platband/Platband_4_84_001/models/4.84.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.002",
@@ -159,8 +166,7 @@
             ],
             "details": {
                 "Ilgis": "2300 mm",
-                "Width": "160 mm",
-                "Depth": "40 mm"
+                "Plotis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -168,7 +174,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.002.obj",
                 "local_path": "data/platband/Platband_4_84_002/models/4.84.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.003",
@@ -189,8 +197,7 @@
             ],
             "details": {
                 "Ilgis": "2300 mm",
-                "Width": "140 mm",
-                "Depth": "37 mm"
+                "Plotis": "140 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -198,7 +205,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.003.obj",
                 "local_path": "data/platband/Platband_4_84_003/models/4.84.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.004",
@@ -219,8 +228,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "101 mm",
-                "Depth": "48 mm"
+                "Plotis": "101 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -228,7 +236,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.004.obj",
                 "local_path": "data/platband/Platband_4_84_004/models/4.84.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.005",
@@ -249,8 +259,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "121 mm",
-                "Depth": "35 mm"
+                "Plotis": "121 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -258,7 +267,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.005.obj",
                 "local_path": "data/platband/Platband_4_84_005/models/4.84.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.006",
@@ -279,8 +290,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "201 mm",
-                "Depth": "60 mm"
+                "Plotis": "201 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -288,7 +298,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.006.obj",
                 "local_path": "data/platband/Platband_4_84_006/models/4.84.006.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.051",
@@ -309,8 +321,7 @@
             ],
             "details": {
                 "Ilgis": "2300 mm",
-                "Width": "183 mm",
-                "Depth": "50 mm"
+                "Plotis": "183 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -318,7 +329,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.051.obj",
                 "local_path": "data/platband/Platband_4_84_051/models/4.84.051.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.052",
@@ -339,8 +352,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "160 mm",
-                "Depth": "40 mm"
+                "Plotis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -348,7 +360,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.052.obj",
                 "local_path": "data/platband/Platband_4_84_052/models/4.84.052.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Platband 4.84.053",
@@ -369,8 +383,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "140 mm",
-                "Depth": "37 mm"
+                "Plotis": "140 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -378,7 +391,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.053.obj",
                 "local_path": "data/platband/Platband_4_84_053/models/4.84.053.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

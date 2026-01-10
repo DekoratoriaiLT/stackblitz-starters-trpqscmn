@@ -4,7 +4,7 @@
             "name": "Bossage 4.86.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-001/",
             "code": null,
-            "category": "bossage",
+            "category": "rustika",
             "images": [
                 {
                     "filename": "4.86.001.100.png",
@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "555 mm",
-                "Height": "290 mm",
-                "Depth": "42 mm"
+                "Plotis": "555 mm",
+                "Aukštis": "290 mm",
+                "Ilgis": "42 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,13 +28,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.001.obj",
                 "local_path": "data/bossage/Bossage_4_86_001/models/4.86.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Bossage 4.86.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-002/",
             "code": null,
-            "category": "bossage",
+            "category": "rustika",
             "images": [
                 {
                     "filename": "4.86.002.100.png",
@@ -48,9 +50,9 @@
                 }
             ],
             "details": {
-                "Width": "548 mm",
-                "Height": "216 mm",
-                "Depth": "37 mm"
+                "Plotis": "548 mm",
+                "Aukštis": "216 mm",
+                "Ilgis": "37 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -58,13 +60,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.002.obj",
                 "local_path": "data/bossage/Bossage_4_86_002/models/4.86.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Bossage 4.86.003",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-003/",
             "code": null,
-            "category": "bossage",
+            "category": "rustika",
             "images": [
                 {
                     "filename": "4.86.003.100.png",
@@ -78,9 +82,9 @@
                 }
             ],
             "details": {
-                "Width": "373 mm",
-                "Height": "249 mm",
-                "Depth": "40 mm"
+                "Plotis": "373 mm",
+                "Aukštis": "249 mm",
+                "Ilgis": "40 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -88,13 +92,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.003.obj",
                 "local_path": "data/bossage/Bossage_4_86_003/models/4.86.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Bossage 4.86.004",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-004/",
             "code": null,
-            "category": "bossage",
+            "category": "rustika",
             "images": [
                 {
                     "filename": "4.86.004.100.png",
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "250 mm",
-                "Height": "250 mm",
-                "Depth": "40 mm"
+                "Plotis": "250 mm",
+                "Aukštis": "250 mm",
+                "Ilgis": "40 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,13 +124,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.004.obj",
                 "local_path": "data/bossage/Bossage_4_86_004/models/4.86.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Bossage 4.86.005",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-005/",
             "code": null,
-            "category": "bossage",
+            "category": "rustika",
             "images": [
                 {
                     "filename": "4.86.005.100.png",
@@ -138,9 +146,9 @@
                 }
             ],
             "details": {
-                "Width": "360 mm",
-                "Height": "290 mm",
-                "Depth": "42 mm"
+                "Plotis": "360 mm",
+                "Aukštis": "290 mm",
+                "Ilgis": "42 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -148,7 +156,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.005.obj",
                 "local_path": "data/bossage/Bossage_4_86_005/models/4.86.005.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

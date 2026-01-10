@@ -1,425 +1,7 @@
 {
     "products": [
         {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-001/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "345 mm",
-                "Height": "2971 mm",
-                "Depth": "95 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.001.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-002/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "354 mm",
-                "Height": "2972 mm",
-                "Depth": "97 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.002.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-101/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "403 mm",
-                "Height": "3083 mm",
-                "Depth": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.101.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-102/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "602 mm",
-                "Height": "arbitrary",
-                "Depth": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.102.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-103/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "152 mm",
-                "Height": "2353 mm",
-                "Depth": "45 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.103.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-201/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "470 mm",
-                "Height": "2668 mm",
-                "Depth": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.201.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-202/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "470 mm",
-                "Height": "2963 mm",
-                "Depth": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.202.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-301/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "232 mm",
-                "Height": "2690 mm",
-                "Depth": "68 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.301.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-302/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "419 mm",
-                "Height": "2888 mm",
-                "Depth": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.302.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-303/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "419 mm",
-                "Height": "3183 mm",
-                "Depth": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.303.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.303.obj",
-                "local_path": "data/pilaster/Pilaster/models/1.20.303.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-101/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "408 mm",
-                "Height": "2664 mm",
-                "Depth": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.101.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-102/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "408 mm",
-                "Height": "2663 mm",
-                "Depth": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.102.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-103/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "357 mm",
-                "Height": "2005 mm",
-                "Depth": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.103.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-104/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "357 mm",
-                "Height": "2005 mm",
-                "Depth": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.104.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-201/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "444 mm",
-                "Height": "2658 mm",
-                "Depth": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.201.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-202/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "444 mm",
-                "Height": "2653 mm",
-                "Depth": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.202.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-203/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "356 mm",
-                "Height": "2499 mm",
-                "Depth": "134 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.203.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.203.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.203.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-204/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "356 mm",
-                "Height": "2519 mm",
-                "Depth": "134 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.204.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.204.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.204.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-301/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "417 mm",
-                "Height": "2669 mm",
-                "Depth": "151 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.301.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-302/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "417 mm",
-                "Height": "2668 mm",
-                "Depth": "151 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.302.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-303/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "335 mm",
-                "Height": "2036 mm",
-                "Depth": "129 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.303.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.303.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.303.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-304/",
-            "code": null,
-            "category": "piliastrai",
-            "images": [],
-            "details": {
-                "Width": "335 mm",
-                "Height": "2035 mm",
-                "Depth": "129 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.304.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.304.obj",
-                "local_path": "data/pilaster/Pilaster/models/4.20.304.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras 1.20.001",
+            "name": "Pilaster 1.20.001",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-001/",
             "code": "1-20-001",
             "category": "piliastrai",
@@ -450,9 +32,9 @@
                 }
             ],
             "details": {
-                "Width": "345 mm",
-                "Height": "2971 mm",
-                "Depth": "95 mm"
+                "Plotis": "345 mm",
+                "Aukštis": "2971 mm",
+                "Ilgis": "95 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -460,10 +42,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.001.obj",
                 "local_path": "data/pilaster/1.20.001/models/1.20.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.002",
+            "name": "Pilaster 1.20.002",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-002/",
             "code": "1-20-002",
             "category": "piliastrai",
@@ -494,9 +77,9 @@
                 }
             ],
             "details": {
-                "Width": "354 mm",
-                "Height": "2972 mm",
-                "Depth": "97 mm"
+                "Plotis": "354 mm",
+                "Aukštis": "2972 mm",
+                "Ilgis": "97 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -504,10 +87,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.002.obj",
                 "local_path": "data/pilaster/1.20.002/models/1.20.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.101",
+            "name": "Pilaster 1.20.101",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-101/",
             "code": "1-20-101",
             "category": "piliastrai",
@@ -538,9 +122,9 @@
                 }
             ],
             "details": {
-                "Width": "403 mm",
-                "Height": "3083 mm",
-                "Depth": "80 mm"
+                "Plotis": "403 mm",
+                "Aukštis": "3083 mm",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -548,10 +132,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.101.obj",
                 "local_path": "data/pilaster/1.20.101/models/1.20.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.102",
+            "name": "Pilaster 1.20.102",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-102/",
             "code": "1-20-102",
             "category": "piliastrai",
@@ -582,9 +167,9 @@
                 }
             ],
             "details": {
-                "Width": "602 mm",
-                "Height": "arbitrary",
-                "Depth": "80 mm"
+                "Plotis": "602 mm",
+                "Aukštis": "arbitrary",
+                "Ilgis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -592,10 +177,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.102.obj",
                 "local_path": "data/pilaster/1.20.102/models/1.20.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.103",
+            "name": "Pilaster 1.20.103",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-103/",
             "code": "1-20-103",
             "category": "piliastrai",
@@ -626,9 +212,9 @@
                 }
             ],
             "details": {
-                "Width": "152 mm",
-                "Height": "2353 mm",
-                "Depth": "45 mm"
+                "Plotis": "152 mm",
+                "Aukštis": "2353 mm",
+                "Ilgis": "45 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -636,10 +222,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.103.obj",
                 "local_path": "data/pilaster/1.20.103/models/1.20.103.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.201",
+            "name": "Pilaster 1.20.201",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-201/",
             "code": "1-20-201",
             "category": "piliastrai",
@@ -670,9 +257,9 @@
                 }
             ],
             "details": {
-                "Width": "470 mm",
-                "Height": "2668 mm",
-                "Depth": "85 mm"
+                "Plotis": "470 mm",
+                "Aukštis": "2668 mm",
+                "Ilgis": "85 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -680,10 +267,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.201.obj",
                 "local_path": "data/pilaster/1.20.201/models/1.20.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.202",
+            "name": "Pilaster 1.20.202",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-202/",
             "code": "1-20-202",
             "category": "piliastrai",
@@ -714,9 +302,9 @@
                 }
             ],
             "details": {
-                "Width": "470 mm",
-                "Height": "2963 mm",
-                "Depth": "85 mm"
+                "Plotis": "470 mm",
+                "Aukštis": "2963 mm",
+                "Ilgis": "85 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -724,10 +312,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.202.obj",
                 "local_path": "data/pilaster/1.20.202/models/1.20.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.301",
+            "name": "Pilaster 1.20.301",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-301/",
             "code": "1-20-301",
             "category": "piliastrai",
@@ -758,9 +347,9 @@
                 }
             ],
             "details": {
-                "Width": "232 mm",
-                "Height": "2690 mm",
-                "Depth": "68 mm"
+                "Plotis": "232 mm",
+                "Aukštis": "2690 mm",
+                "Ilgis": "68 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -768,10 +357,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.301.obj",
                 "local_path": "data/pilaster/1.20.301/models/1.20.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.302",
+            "name": "Pilaster 1.20.302",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-302/",
             "code": "1-20-302",
             "category": "piliastrai",
@@ -802,9 +392,9 @@
                 }
             ],
             "details": {
-                "Width": "419 mm",
-                "Height": "2888 mm",
-                "Depth": "112 mm"
+                "Plotis": "419 mm",
+                "Aukštis": "2888 mm",
+                "Ilgis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -812,10 +402,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.302.obj",
                 "local_path": "data/pilaster/1.20.302/models/1.20.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 1.20.303",
+            "name": "Pilaster 1.20.303",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-303/",
             "code": "1-20-303",
             "category": "piliastrai",
@@ -846,9 +437,9 @@
                 }
             ],
             "details": {
-                "Width": "419 mm",
-                "Height": "3183 mm",
-                "Depth": "112 mm"
+                "Plotis": "419 mm",
+                "Aukštis": "3183 mm",
+                "Ilgis": "112 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -856,10 +447,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.303.obj",
                 "local_path": "data/pilaster/1.20.303/models/1.20.303.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.101",
+            "name": "Pilaster 4.20.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-101/",
             "code": "4-20-101",
             "category": "piliastrai",
@@ -890,9 +482,9 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "2664 mm",
-                "Depth": "125 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "2664 mm",
+                "Ilgis": "125 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -900,10 +492,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.101.obj",
                 "local_path": "data/pilaster/4.20.101/models/4.20.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.102",
+            "name": "Pilaster 4.20.102",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-102/",
             "code": "4-20-102",
             "category": "piliastrai",
@@ -934,9 +527,9 @@
                 }
             ],
             "details": {
-                "Width": "408 mm",
-                "Height": "2663 mm",
-                "Depth": "125 mm"
+                "Plotis": "408 mm",
+                "Aukštis": "2663 mm",
+                "Ilgis": "125 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -944,10 +537,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.102.obj",
                 "local_path": "data/pilaster/4.20.102/models/4.20.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.103",
+            "name": "Pilaster 4.20.103",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-103/",
             "code": "4-20-103",
             "category": "piliastrai",
@@ -966,9 +560,9 @@
                 }
             ],
             "details": {
-                "Width": "357 mm",
-                "Height": "2005 mm",
-                "Depth": "128 mm"
+                "Plotis": "357 mm",
+                "Aukštis": "2005 mm",
+                "Ilgis": "128 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -976,10 +570,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.103.obj",
                 "local_path": "data/pilaster/4.20.103/models/4.20.103.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.104",
+            "name": "Pilaster 4.20.104",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-104/",
             "code": "4-20-104",
             "category": "piliastrai",
@@ -998,9 +593,9 @@
                 }
             ],
             "details": {
-                "Width": "357 mm",
-                "Height": "2005 mm",
-                "Depth": "128 mm"
+                "Plotis": "357 mm",
+                "Aukštis": "2005 mm",
+                "Ilgis": "128 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1008,10 +603,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.104.obj",
                 "local_path": "data/pilaster/4.20.104/models/4.20.104.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.201",
+            "name": "Pilaster 4.20.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-201/",
             "code": "4-20-201",
             "category": "piliastrai",
@@ -1042,9 +638,9 @@
                 }
             ],
             "details": {
-                "Width": "444 mm",
-                "Height": "2658 mm",
-                "Depth": "120 mm"
+                "Plotis": "444 mm",
+                "Aukštis": "2658 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1052,10 +648,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.201.obj",
                 "local_path": "data/pilaster/4.20.201/models/4.20.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.202",
+            "name": "Pilaster 4.20.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-202/",
             "code": "4-20-202",
             "category": "piliastrai",
@@ -1086,9 +683,9 @@
                 }
             ],
             "details": {
-                "Width": "444 mm",
-                "Height": "2653 mm",
-                "Depth": "120 mm"
+                "Plotis": "444 mm",
+                "Aukštis": "2653 mm",
+                "Ilgis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1096,10 +693,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.202.obj",
                 "local_path": "data/pilaster/4.20.202/models/4.20.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.203",
+            "name": "Pilaster 4.20.203",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-203/",
             "code": "4-20-203",
             "category": "piliastrai",
@@ -1118,9 +716,9 @@
                 }
             ],
             "details": {
-                "Width": "356 mm",
-                "Height": "2499 mm",
-                "Depth": "134 mm"
+                "Plotis": "356 mm",
+                "Aukštis": "2499 mm",
+                "Ilgis": "134 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1128,10 +726,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.203.obj",
                 "local_path": "data/pilaster/4.20.203/models/4.20.203.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.204",
+            "name": "Pilaster 4.20.204",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-204/",
             "code": "4-20-204",
             "category": "piliastrai",
@@ -1150,9 +749,9 @@
                 }
             ],
             "details": {
-                "Width": "356 mm",
-                "Height": "2519 mm",
-                "Depth": "134 mm"
+                "Plotis": "356 mm",
+                "Aukštis": "2519 mm",
+                "Ilgis": "134 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1160,10 +759,11 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.204.obj",
                 "local_path": "data/pilaster/4.20.204/models/4.20.204.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         },
         {
-            "name": "Piliastras 4.20.301",
+            "name": "Pilaster 4.20.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-301/",
             "code": "4-20-301",
             "category": "piliastrai",
@@ -1194,9 +794,9 @@
                 }
             ],
             "details": {
-                "Width": "417 mm",
-                "Height": "2669 mm",
-                "Depth": "151 mm"
+                "Plotis": "417 mm",
+                "Aukštis": "2669 mm",
+                "Ilgis": "151 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1204,115 +804,8 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.301.obj",
                 "local_path": "data/pilaster/4.20.301/models/4.20.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras 4.20.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-302/",
-            "code": "4-20-302",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.302.10.png",
-                    "local_path": "data/pilaster/4.20.302/images/4.20.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.302.10.png",
-                    "product_code": "4.20.302"
-                },
-                {
-                    "filename": "4.20.302.10.png",
-                    "local_path": "data/pilaster/4.20.302/images/4.20.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.302.10.png",
-                    "product_code": "4.20.302"
-                },
-                {
-                    "filename": "4.20.302.40.png",
-                    "local_path": "data/pilaster/4.20.302/images/4.20.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.302.40.png",
-                    "product_code": "4.20.302"
-                },
-                {
-                    "filename": "4.20.302.40.png",
-                    "local_path": "data/pilaster/4.20.302/images/4.20.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.302.40.png",
-                    "product_code": "4.20.302"
-                }
-            ],
-            "details": {
-                "Width": "417 mm",
-                "Height": "2668 mm",
-                "Depth": "151 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.302.obj",
-                "local_path": "data/pilaster/4.20.302/models/4.20.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras 4.20.303",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-303/",
-            "code": "4-20-303",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.303.10.png",
-                    "local_path": "data/pilaster/4.20.303/images/4.20.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.303.10.png",
-                    "product_code": "4.20.303"
-                },
-                {
-                    "filename": "4.20.303.10.png",
-                    "local_path": "data/pilaster/4.20.303/images/4.20.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.303.10.png",
-                    "product_code": "4.20.303"
-                }
-            ],
-            "details": {
-                "Width": "335 mm",
-                "Height": "2036 mm",
-                "Depth": "129 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.303.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.303.obj",
-                "local_path": "data/pilaster/4.20.303/models/4.20.303.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
-        },
-        {
-            "name": "Piliastras 4.20.304",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-304/",
-            "code": "4-20-304",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.304.10.png",
-                    "local_path": "data/pilaster/4.20.304/images/4.20.304.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.304.10.png",
-                    "product_code": "4.20.304"
-                },
-                {
-                    "filename": "4.20.304.10.png",
-                    "local_path": "data/pilaster/4.20.304/images/4.20.304.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.304.10.png",
-                    "product_code": "4.20.304"
-                }
-            ],
-            "details": {
-                "Width": "335 mm",
-                "Height": "2035 mm",
-                "Depth": "129 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.304.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.304.obj",
-                "local_path": "data/pilaster/4.20.304/models/4.20.304.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price": null
         }
     ]
 }

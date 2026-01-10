@@ -28,9 +28,8 @@
                 }
             ],
             "details": {
-                "Width": "599 mm",
-                "Height": "600 mm",
-                "Thickness": "68 mm"
+                "Plotis": "599 mm",
+                "Aukštis": "600 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +37,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.001.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/models/1.57.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.002",
@@ -68,9 +69,8 @@
                 }
             ],
             "details": {
-                "Width": "600 mm",
-                "Height": "600 mm",
-                "Thickness": "67 mm"
+                "Plotis": "600 mm",
+                "Aukštis": "600 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +78,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.002.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/models/1.57.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.003",
@@ -108,9 +110,8 @@
                 }
             ],
             "details": {
-                "Width": "600 mm",
-                "Height": "600 mm",
-                "Thickness": "71 mm"
+                "Plotis": "600 mm",
+                "Aukštis": "600 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,7 +119,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.003.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/models/1.57.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.004",
@@ -148,9 +151,8 @@
                 }
             ],
             "details": {
-                "Width": "700 mm",
-                "Height": "700 mm",
-                "Thickness": "90 mm"
+                "Plotis": "700 mm",
+                "Aukštis": "700 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -158,7 +160,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.004.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/models/1.57.004.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.51.518",
@@ -188,9 +192,8 @@
                 }
             ],
             "details": {
-                "Width": "2040 mm",
-                "Height": "259 mm",
-                "Thickness": "33 mm"
+                "Plotis": "2040 mm",
+                "Aukštis": "259 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -198,7 +201,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.518.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/models/1.51.518.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.501",
@@ -218,9 +223,8 @@
                 }
             ],
             "details": {
-                "Width": "535 mm",
-                "Height": "535 mm",
-                "Thickness": "61 mm"
+                "Plotis": "535 mm",
+                "Aukštis": "535 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -228,7 +232,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.501.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_501/models/1.57.501.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.502",
@@ -248,9 +254,8 @@
                 }
             ],
             "details": {
-                "Width": "147 mm",
-                "Height": "147 mm",
-                "Thickness": "33 mm"
+                "Plotis": "147 mm",
+                "Aukštis": "147 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -258,7 +263,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.502.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/models/1.57.502.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.503",
@@ -278,9 +285,8 @@
                 }
             ],
             "details": {
-                "Width": "292 mm",
-                "Height": "292 mm",
-                "Thickness": "60 mm"
+                "Plotis": "292 mm",
+                "Aukštis": "292 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -288,7 +294,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.503.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/models/1.57.503.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Ceiling panel 1.57.504",
@@ -308,9 +316,8 @@
                 }
             ],
             "details": {
-                "Width": "250 mm",
-                "Height": "208 mm",
-                "Thickness": "24 mm"
+                "Plotis": "250 mm",
+                "Aukštis": "208 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -318,7 +325,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.504.obj",
                 "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/models/1.57.504.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

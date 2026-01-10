@@ -18,9 +18,9 @@
                 }
             ],
             "details": {
-                "Width": "1295 mm",
-                "Height": "1097 mm",
-                "Depth": "195 mm"
+                "Plotis": "1295 mm",
+                "Aukštis": "1097 mm",
+                "Ilgis": "195 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,7 +28,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.100.obj",
                 "local_path": "data/fireplace/Decorative_fireplace_1_64_100/models/1.64.100.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative fireplace 1.64.101",
@@ -68,9 +70,9 @@
                 }
             ],
             "details": {
-                "Width": "1303 mm",
-                "Height": "1170 mm",
-                "Depth": "221 mm"
+                "Plotis": "1303 mm",
+                "Aukštis": "1170 mm",
+                "Ilgis": "221 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,7 +80,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.101.obj",
                 "local_path": "data/fireplace/Decorative_fireplace_1_64_101/models/1.64.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative fireplace 1.64.811",
@@ -138,13 +142,15 @@
                 }
             ],
             "details": {
-                "Width": "1600 mm",
-                "Height": "1200 mm",
-                "Depth": "280 mm"
+                "Plotis": "1600 mm",
+                "Aukštis": "1200 mm",
+                "Ilgis": "280 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Decorative fireplace 1.64.813",
@@ -204,13 +210,15 @@
                 }
             ],
             "details": {
-                "Width": "1200 mm",
-                "Height": "1200 mm",
-                "Depth": "280 mm"
+                "Plotis": "1200 mm",
+                "Aukštis": "1200 mm",
+                "Ilgis": "280 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

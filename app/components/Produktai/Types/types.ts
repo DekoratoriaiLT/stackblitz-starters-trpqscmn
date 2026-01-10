@@ -14,44 +14,74 @@ export interface ProductModel {
   local_path: string;
 }
 
-export interface KarnizasProductRaw {
-  name: string;
-  url: string;
-  code: string | null;
-  category: string;
-  details: {
-    "Ilgis"?: string;
-    "Plotis"?: string;
-    "Aukštis"?: string;
-    "Išgaubto lenkimo spindulys"?: string;
-    "Įgaubto lenkimo spindulys"?: string;
-    Width?: string;
-    Height?: string;
-    Depth?: string;
-  };
-  flexible_analog_exists: boolean;
-  images: string[];
-  model?: ProductModel;
-  mounting_instructions: string;
-}
+/* ================= RAW PRODUCT (JSON) ================= */
 
-export interface Product {
-  id: string;
+export interface ProductRaw {
   name: string;
-  title: string; // Added for ProductInfo compatibility - you may want title = name
   url: string;
   code: string | null;
   category: string;
-  images: string[];
+
   details?: Record<string, string>;
+
+  images?: ImageType[] | string[];
+
   flexible_analog_exists?: boolean;
   model?: ProductModel;
   mounting_instructions?: string;
-  
-  // Optional legacy / CMS fields
+
   sudetis?: string;
+  price?: number | null;
+}
+
+/* ================= DIMENSIONS ================= */
+
+/**
+ * Canonical dimension model.
+ * Different products may use different subsets.
+ */
+export interface ProductDimensions {
+  Ilgis?: string;
+  Plotis?: string;
+  Aukštis?: string;
+  Skersmuo?: string;
+}
+
+/* ================= FRONTEND PRODUCTS ================= */
+
+interface ProductBase {
+  id: string;
+  name: string;
+  title: string;
+  url: string;
+  code: string | null;
+  category: string;
+  images: string[];
+
+  details: ProductDimensions;
+
+  sudetis: string;
   papildoma_informacija?: string;
 }
+
+/* ---- With €/m ---- */
+export interface ProductWithPricePerMetre extends ProductBase {
+  hasPricePerMetre: true;
+  price: number;
+}
+
+/* ---- Without €/m ---- */
+export interface ProductWithoutPricePerMetre extends ProductBase {
+  hasPricePerMetre: false;
+  price?: never;
+}
+
+/* ---- Final product type ---- */
+export type Product =
+  | ProductWithPricePerMetre
+  | ProductWithoutPricePerMetre;
+
+/* ================= PAGE / UI ================= */
 
 export interface PageData {
   title: string;

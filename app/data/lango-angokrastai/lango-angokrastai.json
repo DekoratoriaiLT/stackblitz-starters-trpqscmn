@@ -29,8 +29,8 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Width": "12 mm",
-                "Height": "399 mm"
+                "Plotis": "12 mm",
+                "Aukštis": "399 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,7 +38,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.88.001.obj",
                 "local_path": "data/window-jamb/Window_jamb_4_88_001/models/4.88.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

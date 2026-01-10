@@ -1,3 +1,204 @@
 {
-    "category": "puskolonos"
+    "products": [
+        {
+            "name": "Keystone 1.55.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-55-005/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "1.55.005.10.png",
+                    "local_path": "data/keystone/Keystone_1_55_005/images/1.55.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.55.005.10.png"
+                },
+                {
+                    "filename": "1.55.005.10.png",
+                    "local_path": "data/keystone/Keystone_1_55_005/images/1.55.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.55.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "93 mm",
+                "Height": "126 mm",
+                "Thickness": "41 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.55.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.55.005.obj",
+                "local_path": "data/keystone/Keystone_1_55_005/models/1.55.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Keystone 4.85.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-001/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "4.85.001.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_001/images/4.85.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.001.100.png"
+                },
+                {
+                    "filename": "4.85.001.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_001/images/4.85.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.001.100.png"
+                }
+            ],
+            "details": {
+                "Width": "293 mm",
+                "Height": "282 mm",
+                "Depth": "65 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.85.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.001.obj",
+                "local_path": "data/keystone/Keystone_4_85_001/models/4.85.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Keystone 4.85.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-002/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "4.85.002.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_002/images/4.85.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.002.100.png"
+                },
+                {
+                    "filename": "4.85.002.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_002/images/4.85.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.002.100.png"
+                }
+            ],
+            "details": {
+                "Width": "221 mm",
+                "Height": "232 mm",
+                "Depth": "68 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.85.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.002.obj",
+                "local_path": "data/keystone/Keystone_4_85_002/models/4.85.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Keystone 4.85.003",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-003/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "4.85.003.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_003/images/4.85.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.003.100.png"
+                },
+                {
+                    "filename": "4.85.003.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_003/images/4.85.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.003.100.png"
+                }
+            ],
+            "details": {
+                "Width": "200 mm",
+                "Height": "211 mm",
+                "Depth": "51 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.85.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.003.obj",
+                "local_path": "data/keystone/Keystone_4_85_003/models/4.85.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Keystone 4.85.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-004/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "4.85.004.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.004.100.png"
+                },
+                {
+                    "filename": "4.85.004.20.png",
+                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.004.20.png"
+                },
+                {
+                    "filename": "4.85.004.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.004.100.png"
+                },
+                {
+                    "filename": "4.85.004.20.png",
+                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.004.20.png"
+                }
+            ],
+            "details": {
+                "Width": "255 mm",
+                "Height": "206 mm",
+                "Depth": "75 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.85.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.004.obj",
+                "local_path": "data/keystone/Keystone_4_85_004/models/4.85.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Keystone 4.85.005",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-005/",
+            "code": null,
+            "category": "keystone",
+            "images": [
+                {
+                    "filename": "4.85.005.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.005.100.png"
+                },
+                {
+                    "filename": "4.85.005.20.png",
+                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.005.20.png"
+                },
+                {
+                    "filename": "4.85.005.100.png",
+                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.005.100.png"
+                },
+                {
+                    "filename": "4.85.005.20.png",
+                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.005.20.png"
+                }
+            ],
+            "details": {
+                "Width": "253 mm",
+                "Height": "306 mm",
+                "Depth": "75 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.85.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.005.obj",
+                "local_path": "data/keystone/Keystone_4_85_005/models/4.85.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
 }

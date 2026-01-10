@@ -4,7 +4,7 @@
             "name": "Window ledge 4.82.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-001/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.001.100.png",
@@ -29,8 +29,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "160 mm",
-                "Depth": "100 mm"
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,13 +37,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.001.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_001/models/4.82.001.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-002/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.002.100.png",
@@ -59,8 +60,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "125 mm",
-                "Depth": "94 mm"
+                "Aukštis": "125 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -68,13 +68,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.002.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_002/models/4.82.002.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.003",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-003/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.003.100.png",
@@ -89,8 +91,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "110 mm",
-                "Depth": "86 mm"
+                "Aukštis": "110 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -98,13 +99,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.003.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_003/models/4.82.003.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-101/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.101.100.png",
@@ -129,8 +132,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "105 mm",
-                "Depth": "48 mm"
+                "Aukštis": "105 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -138,13 +140,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.101.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_101/models/4.82.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-201/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.201.100.png",
@@ -169,8 +173,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "94 mm",
-                "Depth": "60 mm"
+                "Aukštis": "94 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -178,13 +181,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.201.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_201/models/4.82.201.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-202/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.202.100.png",
@@ -209,8 +214,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "94 mm",
-                "Depth": "52 mm"
+                "Aukštis": "94 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -218,13 +222,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.202.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_202/models/4.82.202.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-301/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.301.100.png",
@@ -249,8 +255,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "109 mm",
-                "Depth": "62 mm"
+                "Aukštis": "109 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -258,13 +263,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.301.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_301/models/4.82.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Window ledge 4.82.302",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-ledges-window-framing/4-82-302/",
             "code": null,
-            "category": "window-ledge",
+            "category": "lauko-palange",
             "images": [
                 {
                     "filename": "4.82.302.100.png",
@@ -289,8 +296,7 @@
             ],
             "details": {
                 "Ilgis": "2000 mm",
-                "Height": "109 mm",
-                "Depth": "54 mm"
+                "Aukštis": "109 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -298,7 +304,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.82.302.obj",
                 "local_path": "data/window-ledge/Window_ledge_4_82_302/models/4.82.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }

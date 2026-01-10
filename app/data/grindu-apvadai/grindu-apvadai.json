@@ -1,5 +1,6 @@
 {
-    "products": [{
+    "products": [
+        {
             "name": "Grindu Apvadas 1.53.101",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-101/",
             "code": null,
@@ -52,11 +53,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "110 mm",
-                "Width on floor": "27 mm",
+                "Plotis": "27 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "110 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -64,7 +65,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_101/models/1.53.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.102",
@@ -119,11 +122,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "150 mm",
-                "Width on floor": "22 mm",
+                "Plotis": "22 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "150 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -131,7 +134,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_102/models/1.53.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.103",
@@ -186,11 +191,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "109 mm",
-                "Width on floor": "14 mm",
+                "Plotis": "14 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "109 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -198,7 +203,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_103/models/1.53.103.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.104",
@@ -253,11 +260,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "120 mm",
-                "Width on floor": "26 mm",
+                "Plotis": "26 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "120 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -265,7 +272,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_104/models/1.53.104.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.105",
@@ -320,11 +329,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "160 mm",
-                "Width on floor": "25 mm",
+                "Plotis": "25 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -332,7 +341,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_105/models/1.53.105.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.106",
@@ -387,11 +398,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "70 mm",
-                "Width on floor": "17 mm",
+                "Plotis": "17 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "70 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -399,7 +410,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_106/models/1.53.106.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.107",
@@ -454,11 +467,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "80 mm",
-                "Width on floor": "22 mm",
+                "Plotis": "22 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "80 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -466,7 +479,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_107/models/1.53.107.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.108",
@@ -511,11 +526,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "120 mm",
-                "Width on floor": "14 mm",
+                "Plotis": "14 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "120 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -523,7 +538,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_108/models/1.53.108.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.109",
@@ -578,11 +595,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "98 mm",
-                "Width on floor": "16 mm",
+                "Plotis": "16 mm",
                 "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm"
+                "Concave bending radius": "550 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "98 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -590,7 +607,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_109/models/1.53.109.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.110",
@@ -625,11 +644,11 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "138 mm",
-                "Width on floor": "19 mm",
+                "Plotis": "19 mm",
                 "Convex bending radius": "500 mm",
-                "Concave bending radius": "500 mm"
+                "Concave bending radius": "500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "138 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -637,7 +656,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_110/models/1.53.110.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.111",
@@ -682,12 +703,12 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "65 mm",
-                "Width on floor": "20 mm",
+                "Plotis": "20 mm",
                 "Convex bending radius": "550 mm",
                 "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm"
+                "Arch bending radius": "1500 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "65 mm"
             },
             "flexible_analog_exists": true,
             "model": {
@@ -695,7 +716,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_111/models/1.53.111.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.501",
@@ -725,9 +748,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "139 mm",
-                "Width on floor": "25 mm"
+                "Plotis": "25 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "139 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -735,7 +758,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.501.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_501/models/1.53.501.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.807",
@@ -845,9 +870,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "160 mm",
-                "Width on floor": "53 mm"
+                "Plotis": "53 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -855,7 +880,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.807.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_807/models/1.53.807.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.801",
@@ -925,9 +952,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "60 mm",
-                "Width on floor": "15 mm"
+                "Plotis": "15 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "60 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -935,7 +962,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.801.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_801/models/6.53.801.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.802",
@@ -1065,9 +1094,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "160 mm",
-                "Width on floor": "25 mm"
+                "Plotis": "25 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1075,7 +1104,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.802.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_802/models/6.53.802.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.803",
@@ -1155,9 +1186,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "100 mm",
-                "Width on floor": "15 mm"
+                "Plotis": "15 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "100 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1165,7 +1196,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.803.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_803/models/6.53.803.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.804",
@@ -1265,9 +1298,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "150 mm",
-                "Width on floor": "15 mm"
+                "Plotis": "15 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "150 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1275,7 +1308,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.804.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_804/models/6.53.804.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.805",
@@ -1335,9 +1370,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "200 mm",
-                "Width on floor": "15 mm"
+                "Plotis": "15 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "200 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1345,7 +1380,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.805.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_805/models/6.53.805.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.806",
@@ -1395,9 +1432,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "150 mm",
-                "Width on floor": "12 mm"
+                "Plotis": "12 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "150 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1405,7 +1442,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.806.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_806/models/6.53.806.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 6.53.808",
@@ -1535,9 +1574,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "160 mm",
-                "Width on floor": "23 mm"
+                "Plotis": "23 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1545,7 +1584,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.808.obj",
                 "local_path": "data/moulding/Floor_moulding_6_53_808/models/6.53.808.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.101 (flexible)",
@@ -1600,9 +1641,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "110 mm",
-                "Width on floor": "27 mm"
+                "Plotis": "27 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "110 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1610,7 +1651,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/models/1.53.101.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.102 (flexible)",
@@ -1665,9 +1708,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "150 mm",
-                "Width on floor": "22 mm"
+                "Plotis": "22 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "150 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1675,7 +1718,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/models/1.53.102.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.103 (flexible)",
@@ -1730,9 +1775,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "109 mm",
-                "Width on floor": "14 mm"
+                "Plotis": "14 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "109 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1740,7 +1785,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/models/1.53.103.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.104 (flexible)",
@@ -1795,9 +1842,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "120 mm",
-                "Width on floor": "26 mm"
+                "Plotis": "26 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1805,7 +1852,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/models/1.53.104.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.105 (flexible)",
@@ -1860,9 +1909,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "160 mm",
-                "Width on floor": "25 mm"
+                "Plotis": "25 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "160 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1870,7 +1919,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/models/1.53.105.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.106 (flexible)",
@@ -1925,9 +1976,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "70 mm",
-                "Width on floor": "17 mm"
+                "Plotis": "17 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "70 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1935,7 +1986,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/models/1.53.106.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.107 (flexible)",
@@ -1990,9 +2043,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "80 mm",
-                "Width on floor": "22 mm"
+                "Plotis": "22 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "80 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2000,7 +2053,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/models/1.53.107.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.108 (flexible)",
@@ -2045,9 +2100,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "120 mm",
-                "Width on floor": "14 mm"
+                "Plotis": "14 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "120 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2055,7 +2110,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/models/1.53.108.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.109 (flexible)",
@@ -2110,9 +2167,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "98 mm",
-                "Width on floor": "16 mm"
+                "Plotis": "16 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "98 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2120,7 +2177,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/models/1.53.109.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.110 (flexible)",
@@ -2155,9 +2214,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "138 mm",
-                "Width on floor": "19 mm"
+                "Plotis": "19 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "138 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2165,7 +2224,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/models/1.53.110.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         },
         {
             "name": "Grindu Apvadas 1.53.111 (flexible)",
@@ -2210,9 +2271,9 @@
                 }
             ],
             "details": {
-                "Work piece length": "2000 mm",
-                "The height on the wall": "65 mm",
-                "Width on floor": "20 mm"
+                "Plotis": "20 mm",
+                "Ilgis": "2000 mm",
+                "Aukštis": "65 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -2220,7 +2281,9 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
                 "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/models/1.53.111.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": null
         }
     ]
 }
