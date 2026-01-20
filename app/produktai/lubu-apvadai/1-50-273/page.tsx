@@ -1,4 +1,4 @@
-import { LubiniaiApvadaiTemplate } from '../LubiniaiApvadaiTemplate/template';
+import { LubiniaiApvadaiTemplate } from '../../../components/ProductPage/template';
 
 export { generateMetadata } from './meta';
 

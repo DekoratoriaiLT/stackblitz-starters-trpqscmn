@@ -1,15 +1,9 @@
 "use client";
 
-import React, {
-  useState,
-  useEffect,
-  useCallback,
-  useRef,
-} from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import ProductCardDesktop from "../DesktopProductCard/DesktopProductCard";
 import FilterPanel from "../FilterPanel/FilterPanel";
 import ProductNavBar from "../ProductNavBar/ProductNavBar";
-import ReviewsSection from "../ReviewsSection/ReviewsSection";
 import { useCart } from "@/app/contexts/CartContext";
 import { getExistingImagePaths } from "@/app/components/Produktai/ImagePath/getImagePath";
 
@@ -76,23 +70,18 @@ export default function MainContent({ PageData }: MainContentProps) {
   useEffect(() => {
     async function loadProducts() {
       setIsLoading(true);
-      console.log("[MainContent] Loading products from:", PageData.dataFile);
 
       try {
         const cleanPath = PageData.dataFile.replace(".json", "");
         const dataModule = await import(`@/app/data/${cleanPath}`);
         const productData = dataModule.default;
 
-        console.log("[MainContent] Raw product data:", productData);
-
         const rawProducts = productData.products as ProductRaw[];
-        console.log("[MainContent] Raw products array:", rawProducts);
 
         const products: Product[] = await Promise.all(
           rawProducts.map(async (product) => {
-            console.log("[MainContent] Processing product:", product);
-
             let images: string[] = [];
+
             try {
               images = await getExistingImagePaths(
                 product.name,
@@ -101,19 +90,18 @@ export default function MainContent({ PageData }: MainContentProps) {
                 PageData.maxImages
               );
             } catch (err) {
-              console.error("[MainContent] Image resolution failed", err);
+              console.error("Image resolution failed", err);
             }
 
-            // ✅ USE CODE DIRECTLY FROM TYPES (NO FALLBACK)
-            const code: string | null = product.code;
-
-            console.log(
-              "[MainContent] Product code from JSON:",
-              code
-            );
+            // Resolve product code
+            let code = product.code ?? "";
+            if (!code && product.name) {
+              const match = product.name.match(/(\d+\.\d+\.\d+)/);
+              if (match) code = match[1];
+            }
 
             const baseProduct = {
-              id: code ?? product.name,
+              id: code || product.name,
               name: product.name,
               title: product.name,
               code,
@@ -131,8 +119,7 @@ export default function MainContent({ PageData }: MainContentProps) {
                 Skersmuo: product.details?.Skersmuo,
                 Storis: product.details?.Storis,
                 Spindulys: product.details?.Spindulys,
-                "Arkos Lenkimo Spindulys":
-                  product.details?.["Arkos Lenkimo Spindulys"],
+                "Arkos Lenkimo Spindulys": product.details?.["Arkos Lenkimo Spindulys"],
               },
             };
 
@@ -148,13 +135,9 @@ export default function MainContent({ PageData }: MainContentProps) {
                     hasPricePerMetre: false,
                   };
 
-            console.log("[MainContent] Mapped product:", mappedProduct);
-
             return mappedProduct;
           })
         );
-
-        console.log("[MainContent] Final products array:", products);
 
         setAllProducts(products);
         setFilteredProducts(products);
@@ -176,8 +159,6 @@ export default function MainContent({ PageData }: MainContentProps) {
 
   /* ================= FILTERING ================= */
   useEffect(() => {
-    console.log("[MainContent] Applying filters:", filters);
-
     let filtered = [...allProducts];
 
     if (filters.material !== "all") {
@@ -192,20 +173,74 @@ export default function MainContent({ PageData }: MainContentProps) {
       );
     }
 
-    console.log("[MainContent] Filtered products:", filtered);
-
     setFilteredProducts(filtered);
     setDisplayedProducts(filtered.slice(0, ITEMS_PER_BATCH));
   }, [filters, allProducts]);
 
+  /* ================= INFINITE SCROLL ================= */
+  useEffect(() => {
+    if (!mounted || isLoading) return;
+
+    observerRef.current = new IntersectionObserver(
+      ([entry]) => {
+        if (
+          entry.isIntersecting &&
+          !isLoadingMore &&
+          displayedProducts.length < filteredProducts.length
+        ) {
+          loadMoreProducts();
+        }
+      },
+      { threshold: 0.1 }
+    );
+
+    if (loadMoreRef.current) {
+      observerRef.current.observe(loadMoreRef.current);
+    }
+
+    return () => observerRef.current?.disconnect();
+  }, [
+    mounted,
+    isLoading,
+    isLoadingMore,
+    displayedProducts.length,
+    filteredProducts.length,
+  ]);
+
+  const loadMoreProducts = () => {
+    setIsLoadingMore(true);
+    setTimeout(() => {
+      setDisplayedProducts((prev) => [
+        ...prev,
+        ...filteredProducts.slice(
+          prev.length,
+          prev.length + ITEMS_PER_BATCH
+        ),
+      ]);
+      setIsLoadingMore(false);
+    }, 300);
+  };
+
+  const handleAddToCart = useCallback(
+    (product: Product) => addToCart(product),
+    [addToCart]
+  );
+
+  const handleFilterChange = (key: keyof FiltersType, value: string) => {
+    setFilters((prev) => ({ ...prev, [key]: value }));
+  };
+
+  /* ================= RENDER ================= */
   if (!mounted) return null;
 
-  const productForReviews = displayedProducts[0] ?? null;
-
-  console.log(
-    "[MainContent] Product for reviews:",
-    productForReviews
-  );
+  if (isLoading) {
+    return (
+      <div className="container mx-auto px-4 py-8 text-center">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mb-4" />
+        <p>Kraunami produktai…</p>
+      </div>
+    );
+  }
 
   return (
     <>
@@ -223,7 +258,7 @@ export default function MainContent({ PageData }: MainContentProps) {
                 key={product.id}
                 product={product}
                 categoryTitle={PageData.title}
-                onAddToCart={() => addToCart(product)}
+                onAddToCart={() => handleAddToCart(product)}
                 isExpanded={false}
                 onToggleExpand={() => {}}
               />
@@ -237,22 +272,10 @@ export default function MainContent({ PageData }: MainContentProps) {
           open={false}
           onClose={() => {}}
           filters={filters}
-          onFilterChange={(k, v) =>
-            setFilters((prev) => ({ ...prev, [k]: v }))
-          }
+          onFilterChange={handleFilterChange}
           filterConfig={filterConfig}
         />
       </div>
-
-      {productForReviews?.code && (
-        <>
-          {console.log(
-            "[MainContent] Rendering ReviewsSection with code:",
-            productForReviews.code
-          )}
-          <ReviewsSection productCode={productForReviews.code} />
-        </>
-      )}
     </>
   );
 }

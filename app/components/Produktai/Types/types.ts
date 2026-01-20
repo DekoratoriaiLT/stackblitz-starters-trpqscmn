@@ -14,6 +14,19 @@ export interface ProductModel {
   local_path: string;
 }
 
+/* ================= REVIEWS ================= */
+
+export interface Review {
+  reviewId: string;
+  customerName: string;
+  rating: number;
+  title: string;
+  comment: string;
+  date: string;
+  verified: boolean;
+  helpful: number;
+}
+
 /* ================= RAW PRODUCT (JSON) ================= */
 
 export interface ProductRaw {
@@ -32,6 +45,7 @@ export interface ProductRaw {
 
   sudetis?: string;
   price?: number | null;
+  reviews?: Review[]; // ✅ ADD REVIEWS HERE
 }
 
 /* ================= DIMENSIONS ================= */
@@ -66,6 +80,7 @@ interface ProductBase {
 
   sudetis: string;
   papildoma_informacija?: string;
+  reviews?: Review[]; // ✅ ADD REVIEWS HERE TOO
 }
 
 /* ---- With €/m ---- */
