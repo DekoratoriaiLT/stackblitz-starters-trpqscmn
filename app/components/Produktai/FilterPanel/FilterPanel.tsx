@@ -1,9 +1,7 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react"; // <-- added useRef, useState
+import React, { useEffect, useRef, useState } from "react";
 import { X } from "lucide-react";
-
-
 
 export type FiltersType = {
   priceRange: string;
@@ -30,9 +28,7 @@ export default function FilterPanel({
   onFilterChange,
   filterConfig,
 }: FilterPanelProps) {
-  if (!open) return null;
-
-  // --- NEW: Dynamically read navbar height ---
+  // ✅ Hooks must ALWAYS be at the top
   const [navbarHeight, setNavbarHeight] = useState(0);
   const panelRef = useRef<HTMLDivElement>(null);
 
@@ -41,16 +37,21 @@ export default function FilterPanel({
     if (nav) setNavbarHeight(nav.offsetHeight);
   }, []);
 
-  // --- NEW: Close when clicking outside panel ---
   useEffect(() => {
+    if (!open) return; // optional optimization
+
     const handler = (e: MouseEvent) => {
       if (panelRef.current && !panelRef.current.contains(e.target as Node)) {
         onClose();
       }
     };
+
     document.addEventListener("mousedown", handler);
     return () => document.removeEventListener("mousedown", handler);
-  }, [onClose]);
+  }, [open, onClose]);
+
+  // ✅ Early return AFTER hooks
+  if (!open) return null;
 
   const resetFilters = () => {
     onFilterChange("priceRange", "all");
@@ -60,17 +61,14 @@ export default function FilterPanel({
 
   return (
     <div className="fixed inset-0 z-40 bg-black/50">
-
-      {/* PANEL */}
       <div
         ref={panelRef}
         className="bg-white w-80 p-6 overflow-y-auto shadow-xl animate-slide-left fixed right-0 z-50"
         style={{
-          top: navbarHeight, // <-- panel starts BELOW navbar
-          height: `calc(100vh - ${navbarHeight}px)`, // <-- fills remaining space
+          top: navbarHeight,
+          height: `calc(100vh - ${navbarHeight}px)`,
         }}
       >
-
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
           <h3 className="text-lg font-bold">Filtrai</h3>
@@ -88,7 +86,9 @@ export default function FilterPanel({
             className="w-full border rounded-lg p-2"
           >
             {filterConfig.priceRange.map(({ value, label }) => (
-              <option key={value} value={value}>{label}</option>
+              <option key={value} value={value}>
+                {label}
+              </option>
             ))}
           </select>
         </div>
@@ -102,7 +102,9 @@ export default function FilterPanel({
             className="w-full border rounded-lg p-2"
           >
             {filterConfig.material.map(({ value, label }) => (
-              <option key={value} value={value}>{label}</option>
+              <option key={value} value={value}>
+                {label}
+              </option>
             ))}
           </select>
         </div>
@@ -116,19 +118,19 @@ export default function FilterPanel({
             className="w-full border rounded-lg p-2"
           >
             {filterConfig.style.map(({ value, label }) => (
-              <option key={value} value={value}>{label}</option>
+              <option key={value} value={value}>
+                {label}
+              </option>
             ))}
           </select>
         </div>
 
-        {/* Reset Filters */}
         <button
           onClick={resetFilters}
-          className="w-full text-center bg-red-500 text-white py-3 rounded-lg mt-4 hover:bg-red-600 transition"
+          className="w-full bg-red-500 text-white py-3 rounded-lg mt-4 hover:bg-red-600 transition"
         >
           Išvalyti filtrus
         </button>
-
       </div>
     </div>
   );
