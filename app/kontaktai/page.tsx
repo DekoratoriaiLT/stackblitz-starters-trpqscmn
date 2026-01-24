@@ -162,7 +162,7 @@ export default function Kontaktai() {
                   <Phone className="w-8 h-8 text-teal-300 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-light text-xl text-white mb-2">Skambinkite</h3>
-                    <p className="text-white/70 text-lg">+370 600 12345</p>
+                    <p className="text-white/70 text-lg">+370 671 77164</p>
                   </div>
                 </div>
               </div>

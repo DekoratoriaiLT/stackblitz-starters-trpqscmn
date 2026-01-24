@@ -2,8 +2,9 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useAuth } from "../contexts/AuthContext";
+import { useBusinessAuth } from "../contexts/BusinessAuthContext";
 import MainContent from "@/app/components/Produktai/MainContent/MainContent";
-import { Building2, User, Mail, Phone, ShoppingBag, TrendingDown, LogOut } from "lucide-react";
+import { Building2, Mail, TrendingDown, LogOut, Package } from "lucide-react";
 
 interface Product {
   id: string | number;
@@ -29,21 +30,31 @@ interface BusinessAccount {
   registeredAt: string;
 }
 
+// Available product categories
+const CATEGORIES = [
+  { value: "produktai", label: "Visi produktai", dataFile: "produktai.json" },
+  { value: "kolonos", label: "Kolonos", dataFile: "kolonos/kolonos.json" },
+  { value: "architravai", label: "Architravai", dataFile: "architravai/architravai.json" },
+  { value: "balustrai", label: "Balustrai", dataFile: "balustrai/balustrai.json" },
+  { value: "kapiteliai", label: "Kapiteliai", dataFile: "kapiteliai/kapiteliai.json" },
+  { value: "rozetes", label: "Rozetės", dataFile: "rozetes/rozetes.json" },
+  { value: "ornamentai", label: "Ornamentai", dataFile: "ornamentai/ornamentai.json" },
+  { value: "sienu-paneles", label: "Sienų panelės", dataFile: "sienu-paneles/sienu-paneles.json" },
+];
+
 export default function BusinessAccountPage() {
   const router = useRouter();
   const { user, logout } = useAuth();
   const [businessAccount, setBusinessAccount] = useState<BusinessAccount | null>(null);
-  const [categorySlug, setCategorySlug] = useState<string | undefined>(undefined);
-  const [discountRate, setDiscountRate] = useState(10); // Default 10% for business accounts
+  const [discountRate, setDiscountRate] = useState(10);
+  const [selectedCategory, setSelectedCategory] = useState(CATEGORIES[0]);
 
   useEffect(() => {
-    // Check if user is logged in
     if (!user) {
       router.push('/verslo-registracija');
       return;
     }
 
-    // Load business account data
     const storedData = localStorage.getItem('businessAccount');
     if (storedData) {
       setBusinessAccount(JSON.parse(storedData));
@@ -52,6 +63,8 @@ export default function BusinessAccountPage() {
 
   const handleLogout = async () => {
     try {
+      // Clear business account from context
+      setBusinessAccount(null);
       await logout();
       router.push('/verslo-registracija');
     } catch (error) {
@@ -59,7 +72,6 @@ export default function BusinessAccountPage() {
     }
   };
 
-  // Handle add to cart with business discount
   const handleAddToCart = (product: Product) => {
     const discountedPrice = product.price ? product.price * (1 - discountRate / 100) : 0;
     
@@ -70,8 +82,6 @@ export default function BusinessAccountPage() {
       businessDiscount: discountRate
     };
 
-
-    // Save to localStorage
     const cart = JSON.parse(localStorage.getItem("businessCart") || "[]");
     const existingItem = cart.find((item: any) => item.id === product.id);
     
@@ -85,8 +95,29 @@ export default function BusinessAccountPage() {
   };
 
   if (!user) {
-    return null; // Will redirect
+    return null;
   }
+
+  const pageData = {
+    title: selectedCategory.label,
+    dataFile: selectedCategory.dataFile,
+    imageSuffixes: ["_1", "_2", "_3", "_4", "_5"],
+    maxImages: 5,
+    baseUrl: "/produktai",
+    R2FolderName: selectedCategory.value, // Add R2 folder name
+    FilterPanelCategories: [], // Add empty array or populate with actual categories if needed
+    customFilterConfig: {
+      priceRange: [
+        { value: "all", label: "Visos kainos" },
+      ],
+      material: [
+        { value: "all", label: "Visos medžiagos" },
+      ],
+      style: [
+        { value: "all", label: "Visi stiliai" },
+      ],
+    },
+  };
 
   return (
     <div className="w-full min-h-screen bg-gray-50">
@@ -150,15 +181,33 @@ export default function BusinessAccountPage() {
 
       {/* Products Section */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="mb-8">
-          <h2 className="text-2xl font-light text-gray-900 mb-2">Produktų katalogas</h2>
+        {/* Category Selector */}
+        <div className="mb-8 flex items-center gap-4 flex-wrap">
+          <div className="flex items-center gap-2">
+            <Package className="w-5 h-5 text-gray-600" />
+            <h2 className="text-2xl font-light text-gray-900">Produktų katalogas</h2>
+          </div>
+          <select
+            value={selectedCategory.value}
+            onChange={(e) => {
+              const category = CATEGORIES.find(c => c.value === e.target.value);
+              if (category) setSelectedCategory(category);
+            }}
+            className="px-4 py-2 bg-white border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          >
+            {CATEGORIES.map((category) => (
+              <option key={category.value} value={category.value}>
+                {category.label}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="mb-6">
           <p className="text-gray-600">Visų produktų kainos jau su {discountRate}% verslo nuolaida</p>
         </div>
 
-        {/* @ts-ignore - props typing for MainContent is missing; cast as any as a temporary fix */}
-        <MainContent
-          {...({ categorySlug, onAddToCart: handleAddToCart } as any)}
-        />
+        <MainContent PageData={pageData} />
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-const productData = require('@/app/data/pediment/pediment.json').products;
+const productData = require('@/app/data/pedimentai/pedimentai.json').products;
 
 const getProduct = (code: string) => {
   return productData.find((product: any) =>
@@ -9,7 +9,7 @@ const getProduct = (code: string) => {
 };
 
 export async function generateMetadata(): Promise<Metadata> {
-  const product = getProduct('1.63.001');
+  const product = getProduct('4.89.001');
 
   if (!product) {
     return {
@@ -18,7 +18,7 @@ export async function generateMetadata(): Promise<Metadata> {
     };
   }
 
-  const canonicalUrl = `https://www.dekoratoriai.lt/produktai/pediment/${product.code}`;
+  const canonicalUrl = `https://www.dekoratoriai.lt/produktai/pedimentai/${product.code}`;
 
   const description = `${product.name} - Premium interior decoration product. High-quality gypsum molding for professional interior design.`;
 

@@ -9,37 +9,32 @@ const FAQ_ITEMS = [
   {
     icon: 'Truck',
     question: 'Pristatymo sąlygos ir terminai',
-    answer: '• Standartinis pristatymas: 2-4 savaitės\n• Nemokamas pristatymas užsakymams virš 100€\n• Greitas pristatymas: +15€ (1-2 savaitės)\n• Atsiėmimas sandėlyje Vilniuje\n• Siuntinių sekimas realiuoju laiku\n• Pristatymas darbo dienomis 9:00-18:00\n• Įnešimo paslauga dideliems kroviniams'
-  },
-  {
-    icon: 'Award',
-    question: 'Lojalumo programa ir nuolaidos',
-    answer: '• Bronziniai nariai (0-500€): 3% nuolaida\n• Sidabriniai nariai (500-2000€): 5% nuolaida\n• Auksiniai nariai (virš 2000€): 8% nuolaida\n• Ankstyvą prieiga prie naujų produktų\n• Specialūs sezoniniai pasiūlymai\n• Nemokamas pristatymas visiems nariams\n• Prioritetinis klientų aptarnavimas\n• Papildoma 10% nuolaida gimtadienio mėnesį'
+    answer: '• Standartinis pristatymas: 1-4 savaitės\n• Nemokamas pristatymas užsakymams virš 1000€\n• Atsiėmimas sandėlyje Alytuje\n• Siuntinių sekimas realiuoju laiku\n• Pristatymas darbo dienomis 9:00-18:00'
   },
   {
     icon: 'Shield',
     question: 'Garantija ir grąžinimas',
-    answer: '• 24 mėnesių kokybės garantija\n• Nemokamas keitimas brakuotoms prekėms\n• 30 dienų grąžinimo terminas\n• 100% pinigų grąžinimas (atėmus pristatymą)\n• Garantija apima gamybos defektus\n• Netaikoma mechaniniams pažeidimams\n• Paprasta grąžinimo forma svetainėje\n• Organizuojame prekių paėmimą'
+    answer: 'Kokybės garantija\n• Nemokamas keitimas brakuotoms prekėms\n• 100% pinigų grąžinimas (atėmus pristatymą)\n• Garantija apima gamybos defektus\n• Netaikoma mechaniniams pažeidimams\n'
   },
   {
     icon: 'CreditCard',
     question: 'Mokėjimo būdai ir saugumas',
-    answer: '• Banko kortelės: Visa, Mastercard, Maestro\n• Bankiniai pavedimai\n• PayPal mokėjimai\n• Grynieji pristatymo metu (iki 300€)\n• 256-bit SSL šifravimas\n• PCI DSS saugumo standartai\n• Išsimokėjimas 3, 6 ar 12 mėnesių\n• 0% palūkanos kvalifikuotiems klientams\n• 30 dienų atidėjimas juridiniams asmenims'
+    answer: '• Banko kortelės: Visa, Mastercard, Maestro\n• Bankiniai pavedimai\n• PayPal mokėjimai\n• 256-bit SSL šifravimas\n• PCI DSS saugumo standartai'
   },
   {
     icon: 'Clock',
     question: 'Klientų aptarnavimas ir konsultacijos',
-    answer: '• Darbo laikas: kasdien 8:00-20:00\n• Telefonas: +370 600 12345\n• El. paštas: info@example.lt\n• Tiesioginis pokalbis svetainėje\n• Atsakymas per 2 valandas\n• Nemokamos konsultacijos\n• Individualūs projektai\n• Susitikimai salone Vilniuje\n• Produktų pavyzdžių apžiūra'
+    answer: '• Darbo laikas: kasdien 8:00-20:00\n• Telefonas: +370 671 77164\n• El. paštas: info@dekoratoriai.lt\n• Atsakymas per 2 valandas\n• Individualūs projektai\n• Susitikimai salone Alytuje\n• Produktų pavyzdžių apžiūra'
   },
   {
     icon: 'MapPin',
     question: 'Montavimo ir įrengimo paslaugos',
-    answer: '• Profesionalus montavimas visoje Lietuvoje\n• Kaina: 30€-150€ (priklausomai nuo sudėtingumo)\n• Nemokamas matavimų vizitas\n• Sertifikuoti specialistai\n• Profesionali įranga\n• 12 mėnesių montavimo garantija\n• Darbo vietos valymas po montavimo\n• Pakuočių išgabenimas\n• Skubus montavimas per 24-48h (+mokestis)'
+    answer: '• Profesionalus montavimas visoje Lietuvoje\n• Kaina nuo 100€\n• Nemokamas matavimų vizitas\n• Sertifikuoti specialistai\n• Profesionali įranga\n• 12 mėnesių montavimo garantija\n• Darbo vietos valymas po montavimo\n• Pakuočių išgabenimas\n• Skubus montavimas per 24-48h'
   },
   {
     icon: 'CheckCircle',
     question: 'Užsakymo sekimas ir pakeitimas',
-    answer: '• Patvirtinimas per 1 darbo dieną\n• Unikalus sekimo numeris\n• SMS ir el. pašto informacija\n• Būsenos tikrinimas paskyroje\n• Keitimas iki gamybos pradžios (nemokamai)\n• Daliniai pakeitimai gamyboje (10-15% mokestis)\n• Užsakymo atšaukimas bet kada\n• Skubus užsakymas per 7-10 dienų (+25%)\n• Pilnas proceso skaidrumas'
+    answer: '• Patvirtinimas per 1 darbo dieną\n• Unikalus sekimo numeris\n• SMS ir el. pašto informacija\n• Būsenos tikrinimas paskyroje'
   }
 ];
 

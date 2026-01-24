@@ -46,10 +46,10 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
 
   const handleLogout = async () => {
     try {
-      await logout();
       if (isBusinessUser) {
         clearBusinessAccount();
       }
+      await logout();
       setShowUserMenu(false);
       router.push('/');
     } catch (error) {
@@ -58,15 +58,13 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
   };
 
   const navClass = mounted && scrolled ? 'bg-black shadow-lg' : 'bg-black';
+  const userIconColor = isBusinessUser ? "text-red-500" : "text-emerald-400";
+  const userHoverColor = isBusinessUser ? "hover:text-red-400" : "hover:text-emerald-400";
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${navClass} text-white`}>
-
-      {/* TOP ROW */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-12 py-4">
-
-          {/* LEFT */}
           <div className="flex items-center h-full space-x-2">
             <button
               onClick={() => setIsOpen(!isOpen)}
@@ -76,32 +74,40 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
               {isOpen ? <FaTimes size={22} /> : <FaBars size={22} />}
             </button>
             
-            {/* Desktop - User Info or Login Link */}
             {mounted && (
               <div className="hidden md:flex items-center h-full">
                 {user ? (
                   <div className="relative">
                     <button
                       onClick={() => setShowUserMenu(!showUserMenu)}
-                      className="flex items-center space-x-2 text-sm font-medium text-white hover:text-emerald-400 transition-colors duration-200 whitespace-nowrap h-full"
+                      className={`flex items-center space-x-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200 whitespace-nowrap h-full`}
                     >
-                      <FaUser className={isBusinessUser ? "text-blue-400" : "text-emerald-400"} size={16} />
+                      <FaUser className={userIconColor} size={16} />
                       <span className="max-w-[150px] truncate">
                         {isBusinessUser && businessAccount ? businessAccount.companyName : user.email}
                       </span>
                       {isBusinessUser && (
-                        <span className="ml-1 px-2 py-0.5 bg-blue-500/20 text-blue-400 text-xs rounded-full">
+                        <span className="ml-1 px-2 py-0.5 bg-red-500/20 text-red-400 text-xs rounded-full">
                           Verslas
                         </span>
                       )}
                     </button>
                     
-                    {/* User Dropdown Menu */}
                     {showUserMenu && (
                       <div className="absolute top-full left-0 mt-2 w-48 bg-slate-900 border border-slate-700 rounded-lg shadow-xl py-2 z-50">
+                        {isBusinessUser && (
+                          <Link
+                            href="/verslo-paskyra"
+                            onClick={() => setShowUserMenu(false)}
+                            className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-red-400 transition-colors flex items-center space-x-2"
+                          >
+                            <FaUser size={14} />
+                            <span>Verslo Paskyra</span>
+                          </Link>
+                        )}
                         <button
                           onClick={handleLogout}
-                          className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-emerald-400 transition-colors flex items-center space-x-2"
+                          className={`w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 ${isBusinessUser ? 'hover:text-red-400' : 'hover:text-emerald-400'} transition-colors flex items-center space-x-2`}
                         >
                           <FaSignOutAlt size={14} />
                           <span>Atsijungti</span>
@@ -121,7 +127,6 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
             )}
           </div>
 
-          {/* CENTER — Logo */}
           <div className="flex items-center justify-center flex-1 h-full">
             <Link href="/" className="flex items-center justify-center h-full">
               <Image
@@ -134,7 +139,6 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
             </Link>
           </div>
 
-          {/* RIGHT */}
           <div className="flex items-center h-full space-x-4">
             <button aria-label="Paieška" className="p-2 transition-transform hover:scale-110">
               <FaSearch size={20} />
@@ -152,11 +156,9 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
               )}
             </button>
           </div>
-
         </div>
       </div>
 
-      {/* SECOND ROW — Nav Links */}
       <div className="hidden md:flex justify-center space-x-8 py-3 bg-black">
         {navLinks.map((link) => (
           <Link key={link.href} href={link.href} className="relative group">
@@ -178,7 +180,6 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
         ))}
       </div>
 
-      {/* MOBILE NAV */}
       {isOpen && (
         <div className="md:hidden bg-black shadow-lg">
           <div className="px-4 py-6">
@@ -211,28 +212,37 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
                 </div>
               ))}
               
-              {/* Mobile - User Info or Login Link */}
               {mounted && (
                 <div className="border-b border-gray-800 pb-3 pt-2">
                   {user ? (
                     <div className="space-y-2">
                       <div className="flex items-center space-x-2 py-2 text-sm">
-                        <FaUser className={isBusinessUser ? "text-blue-400" : "text-emerald-400"} size={14} />
-                        <span className={`truncate ${isBusinessUser ? "text-blue-400" : "text-emerald-400"}`}>
+                        <FaUser className={userIconColor} size={14} />
+                        <span className={`truncate ${isBusinessUser ? "text-red-400" : "text-emerald-400"}`}>
                           {isBusinessUser && businessAccount ? businessAccount.companyName : user.email}
                         </span>
                         {isBusinessUser && (
-                          <span className="ml-1 px-2 py-0.5 bg-blue-500/20 text-blue-400 text-xs rounded-full">
+                          <span className="ml-1 px-2 py-0.5 bg-red-500/20 text-red-400 text-xs rounded-full">
                             Verslas
                           </span>
                         )}
                       </div>
+                      {isBusinessUser && (
+                        <Link
+                          href="/verslo-paskyra"
+                          onClick={() => setIsOpen(false)}
+                          className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
+                        >
+                          <FaUser size={14} />
+                          <span>Verslo Paskyra</span>
+                        </Link>
+                      )}
                       <button
                         onClick={() => {
                           handleLogout();
                           setIsOpen(false);
                         }}
-                        className="w-full flex items-center space-x-2 py-2 text-sm font-medium text-white hover:text-emerald-400 transition-colors duration-200"
+                        className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
                       >
                         <FaSignOutAlt size={14} />
                         <span>Atsijungti</span>
@@ -253,7 +263,6 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
           </div>
         </div>
       )}
-
     </nav>
   );
 }

@@ -1,8 +1,7 @@
 'use client';
 
-import { usePathname, useRouter, useSearchParams } from 'next/navigation';
+import { usePathname, useRouter } from 'next/navigation';
 import { useState, useEffect, useMemo, useCallback, useRef } from 'react';
-import productsData from '@/app/data/produktai.json';
 
 interface Product {
   id: string | number;
@@ -24,7 +23,7 @@ interface Category {
   id: number;
   title: string;
   slug: string;
-  products: Product[];
+  products?: Product[];
 }
 
 interface Subcategory {
@@ -34,20 +33,49 @@ interface Subcategory {
   count: number;
 }
 
-// Function to count products per category
-function getProductCounts() {
-  const typedProductsData = productsData as Category[];
-  const categoryCounts: { [key: string]: number } = {};
-  
-  typedProductsData.forEach(category => {
-    categoryCounts[category.slug] = category.products?.length || 0;
-  });
-  
-  return { categoryCounts };
-}
+// Define categories manually instead of loading from JSON
+const PRODUCT_CATEGORIES: Category[] = [
+  { id: 1, title: 'Apvadų Kampai', slug: 'apvadu-kampai' },
+  { id: 2, title: 'Architravai', slug: 'architravai' },
+  { id: 3, title: 'Arkiniai Elementai', slug: 'arkiniai-elementai' },
+  { id: 4, title: 'Balustrados Pagrindai', slug: 'balustrados-pagrindai' },
+  { id: 5, title: 'Balustrados Porankiai', slug: 'balustrados-porankiai' },
+  { id: 6, title: 'Balustrai', slug: 'balustrai' },
+  { id: 7, title: 'Bossage', slug: 'bossage' },
+  { id: 8, title: 'Fasado Ornamentai', slug: 'fasado-ornamentai' },
+  { id: 9, title: 'Footpiece', slug: 'footpiece' },
+  { id: 10, title: 'Frizai', slug: 'frizai' },
+  { id: 11, title: 'Gembės', slug: 'gembes' },
+  { id: 12, title: 'Grindjuostės', slug: 'grindjuostes' },
+  { id: 13, title: 'Kapiteliai', slug: 'kapiteliai' },
+  { id: 14, title: 'Kolonos', slug: 'kolonos' },
+  { id: 15, title: 'Kolonos Liemuo', slug: 'kolonos-liemuo' },
+  { id: 16, title: 'Lango Angokraščiai', slug: 'lango-angokrastai' },
+  { id: 17, title: 'Lango Arkiniai Rėmai', slug: 'lango-arkiniai-remai' },
+  { id: 18, title: 'Lauko Palangės', slug: 'lauko-palanges' },
+  { id: 19, title: 'Lubų Apvadai', slug: 'lubu-apvadai' },
+  { id: 20, title: 'Lubų Panelės', slug: 'lubu-paneles' },
+  { id: 21, title: 'Nišos', slug: 'nisos' },
+  { id: 22, title: 'Ornamentai', slug: 'ornamentai' },
+  { id: 23, title: 'Pagrindai', slug: 'pagrindai' },
+  { id: 24, title: 'pedimentai', slug: 'pedimentai' },
+  { id: 25, title: 'Piliastrai', slug: 'piliastrai' },
+  { id: 26, title: 'Pjedestalinės Gembės', slug: 'pjedestalines-gembes' },
+  { id: 27, title: 'Platband', slug: 'platband' },
+  { id: 28, title: 'Postcap', slug: 'postcap' },
+  { id: 29, title: 'Puskolonės', slug: 'puskolonos' },
+  { id: 30, title: 'Riejamieji Elementai', slug: 'riejamieji-elementai' },
+  { id: 31, title: 'Rozetės', slug: 'rozetes' },
+  { id: 32, title: 'Rustikai', slug: 'rustikai' },
+  { id: 33, title: 'Sienų Apvadai', slug: 'sienu-apvadai' },
+  { id: 34, title: 'Sienų Panelės', slug: 'sienu-paneles' },
+  { id: 35, title: 'Stulpo Kepurė', slug: 'stulpo-kepure' },
+  { id: 36, title: 'Židinio Dekoracija', slug: 'zidinio-dekoracija' },
+  { id: 37, title: 'Žiedai', slug: 'ziedai' },
+];
 
-// Get product counts
-const { categoryCounts } = getProductCounts();
+// Category counts state
+const categoryCounts: { [key: string]: number } = {};
 
 // Loading spinner component
 const LoadingSpinner = () => (
@@ -115,10 +143,9 @@ const ProductNavBar = () => {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
   const [isLoadingSubcategories, setIsLoadingSubcategories] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
+  const [productCounts, setProductCounts] = useState<{ [key: string]: number }>({});
   const isInitialMount = useRef(true);
   const scrollContainerRef = useRef<HTMLDivElement>(null);
-  
-  const typedProductsData = productsData as Category[];
   
   // Check if we're on mobile
   useEffect(() => {
@@ -134,6 +161,28 @@ const ProductNavBar = () => {
     };
   }, []);
 
+  // Load product counts dynamically
+  useEffect(() => {
+    const loadProductCounts = async () => {
+      const counts: { [key: string]: number } = {};
+      
+      for (const category of PRODUCT_CATEGORIES) {
+        try {
+          const dataModule = await import(`@/app/data/${category.slug}/${category.slug}.json`);
+          const data = dataModule.default;
+          counts[category.slug] = data.products?.length || 0;
+        } catch (error) {
+          console.warn(`Could not load products for ${category.slug}`);
+          counts[category.slug] = 0;
+        }
+      }
+      
+      setProductCounts(counts);
+    };
+    
+    loadProductCounts();
+  }, []);
+
   // Determine current category based on pathname
   const currentPathCategory = useMemo(() => {
     const pathSegments = pathname.split('/').filter(Boolean);
@@ -141,7 +190,7 @@ const ProductNavBar = () => {
     
     if (produktaiIndex !== -1 && produktaiIndex + 1 < pathSegments.length) {
       const categorySlug = pathSegments[produktaiIndex + 1];
-      return typedProductsData.find(cat => cat.slug === categorySlug)?.slug || null;
+      return PRODUCT_CATEGORIES.find(cat => cat.slug === categorySlug)?.slug || null;
     }
     
     return null;
@@ -171,22 +220,21 @@ const ProductNavBar = () => {
     return () => clearTimeout(timer);
   }, [activeCategory]);
 
-  // Get current subcategories based on active category (in this case, just the category itself as a subcategory)
+  // Get current subcategories based on active category
   const currentSubcategories = useMemo((): Subcategory[] => {
     if (!activeCategory) return [];
     
-    const category = typedProductsData.find(cat => cat.slug === activeCategory);
+    const category = PRODUCT_CATEGORIES.find(cat => cat.slug === activeCategory);
     if (!category) return [];
     
-    // For gypsum products, we'll show the category itself as a subcategory
-    // You can expand this later if you want actual subcategories
+    // Show the category itself as a subcategory
     return [{
       name: category.title,
       slug: category.slug,
-      image: category.products[0]?.img || '/images/placeholder.jpg',
-      count: category.products.length
+      image: '/images/placeholder.jpg', // You can update this to load actual images
+      count: productCounts[category.slug] || 0
     }];
-  }, [activeCategory]);
+  }, [activeCategory, productCounts]);
 
   // Handle category click
   const handleCategoryClick = useCallback((categorySlug: string, e: React.MouseEvent) => {
@@ -362,59 +410,90 @@ const ProductNavBar = () => {
         
         @media (max-width: 767px) {
           .category-nav {
-            overflow-x: auto;
             -webkit-overflow-scrolling: touch;
-            scrollbar-width: none;
-            white-space: nowrap;
-            padding: 0 1rem;
+            scrollbar-width: thin;
+            scrollbar-color: #5eead4 transparent;
+            justify-content: flex-start;
           }
           
           .category-nav::-webkit-scrollbar {
-            display: none;
+            height: 4px;
+          }
+          
+          .category-nav::-webkit-scrollbar-track {
+            background: transparent;
+          }
+          
+          .category-nav::-webkit-scrollbar-thumb {
+            background: #5eead4;
+            border-radius: 2px;
           }
           
           .category-item {
-            display: inline-block;
-            margin-right: 1.5rem;
+            flex-shrink: 0;
+          }
+        }
+        
+        @media (min-width: 768px) {
+          .category-nav::-webkit-scrollbar {
+            height: 6px;
           }
           
-          .category-item:last-child {
-            margin-right: 0;
+          .category-nav::-webkit-scrollbar-track {
+            background: #f3f4f6;
+            border-radius: 3px;
+          }
+          
+          .category-nav::-webkit-scrollbar-thumb {
+            background: #5eead4;
+            border-radius: 3px;
+          }
+          
+          .category-nav::-webkit-scrollbar-thumb:hover {
+            background: #2dd4bf;
           }
         }
       `}</style>
 
       {/* Main Category Navigation */}
-      <div className="container mx-auto px-0 md:px-4">
-        <nav 
-          className={`category-nav flex items-center ${isMobile ? 'justify-start overflow-x-auto' : 'justify-center space-x-8'} h-16`}
-          role="navigation"
-          aria-label="Produktų kategorijos"
-        >
-          {typedProductsData.map((category) => {
-            const isActive = activeCategory === category.slug;
-            const isCurrentPath = category.slug === currentPathCategory;
-            
-            return (
-              <div key={category.id} className="relative category-item">
-                <a 
-                  href={`/produktai/${category.slug}`}
-                  onClick={(e) => handleCategoryClick(category.slug, e)}
-                  className={`nav-link relative text-black font-medium py-5 text-sm inline-block cursor-pointer ${
-                    isActive ? 'active text-blue-300' : isCurrentPath ? 'text-blue-300' : ''
-                  }`}
-                  aria-current={isCurrentPath ? 'page' : undefined}
-                  aria-expanded={isActive}
-                >
-                  {category.title}
-                  {categoryCounts[category.slug] > 0 && (
-                    <span className="category-count">{categoryCounts[category.slug]}</span>
-                  )}
-                </a>
-              </div>
-            );
-          })}
-        </nav>
+      <div className="w-full overflow-hidden">
+        <div className="container mx-auto px-0 md:px-4 max-w-full">
+          <nav 
+            className="category-nav flex items-center overflow-x-auto h-16 px-4 md:px-0"
+            role="navigation"
+            aria-label="Produktų kategorijos"
+            style={{
+              scrollbarWidth: 'thin',
+              scrollbarColor: '#5eead4 transparent'
+            }}
+          >
+            <div className="flex items-center space-x-6 md:space-x-8 min-w-max mx-auto">
+              {PRODUCT_CATEGORIES.map((category) => {
+                const isActive = activeCategory === category.slug;
+                const isCurrentPath = category.slug === currentPathCategory;
+                
+                return (
+                  <div key={category.id} className="relative category-item flex-shrink-0">
+                    <a 
+                      href={`/produktai/${category.slug}`}
+                      onClick={(e) => handleCategoryClick(category.slug, e)}
+                      className={`nav-link relative text-black font-medium py-5 text-sm inline-block cursor-pointer whitespace-nowrap ${
+                        isActive ? 'active text-blue-300' : isCurrentPath ? 'text-blue-300' : ''
+                      }`}
+                      aria-current={isCurrentPath ? 'page' : undefined}
+                      aria-expanded={isActive}
+                    >
+                      {category.title}
+                      {productCounts[category.slug] > 0 && (
+                        <span className="category-count">{productCounts[category.slug]}</span>
+                      )}
+                    </a>
+                  </div>
+                );
+              })}
+            </div>
+          </nav>
+        </div>
       </div>
 
       {/* Subcategories Section */}

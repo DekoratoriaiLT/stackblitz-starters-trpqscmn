@@ -17,6 +17,20 @@ interface AddToCartButtonProps {
   product: Product;
 }
 
+// Helper function to safely get price
+function getPrice(price: string | number | undefined): number {
+  if (!price) return 0;
+  
+  // If it's already a number, return it
+  if (typeof price === 'number') return price;
+  
+  // If it's a string, parse it (handle comma decimal separator)
+  const cleaned = price.replace(/[€\s]/g, '').replace(',', '.');
+  const parsed = parseFloat(cleaned);
+  
+  return isNaN(parsed) ? 0 : parsed;
+}
+
 export function AddToCartButton({ product }: AddToCartButtonProps) {
   const { addToCart } = useCart();
   const [isAdding, setIsAdding] = useState(false);
@@ -38,7 +52,7 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
       images: r2Images,
       img: r2Images[0] || '', // Add main image for CartItem
       description: product.category,
-      price: parseFloat(product.details?.['Kaina'] || '0'),
+      price: getPrice(product.details?.['Kaina'] || product.details?.['price']), // Fixed: Handle both number and string prices
       ilgis: parseFloat(product.details?.['Ilgis'] || '0'),
       aukstis: parseFloat(product.details?.['Aukštis'] || '0'),
     };

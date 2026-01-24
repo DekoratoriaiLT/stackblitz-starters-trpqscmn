@@ -152,69 +152,80 @@ export default function BusinessRegistrationPage() {
         <div className="relative bg-white/10 backdrop-blur-2xl rounded-[3rem] border border-white/20 shadow-2xl p-8 md:p-12">
           <div className="grid md:grid-cols-2 gap-12">
             {/* Left Column - Benefits */}
-            <div className="space-y-6">
-              <div className="inline-flex items-center justify-center w-20 h-20 bg-white/10 backdrop-blur-xl rounded-3xl border border-white/20 mb-4">
-                <Building2 className="w-10 h-10 text-white" />
-              </div>
-              <h1 className="text-4xl md:text-5xl font-light text-white mb-2">
-                Verslo Paskyra
-              </h1>
-              <p className="text-white/80 text-lg leading-relaxed">
-                Skirta nuolatiniams ir pasikartojančiam klientams, norintiems gauti geriausias kainas ir išskirtinius privalumus.
-              </p>
+<div className="space-y-6">
+  <div className="inline-flex items-center justify-center w-20 h-20 bg-white/10 backdrop-blur-xl rounded-3xl border border-white/20 mb-4">
+    <Building2 className="w-10 h-10 text-white" />
+  </div>
 
-              <div className="space-y-4 pt-4">
-                <div className="flex items-start gap-3">
-                  <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
-                    <CheckCircle className="w-5 h-5 text-teal-300" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-medium text-lg">Iki 5-10% nuolaida</h3>
-                    <p className="text-white/60 text-sm">Konkurencingos kainos visiems produktams</p>
-                  </div>
-                </div>
+  <h1 className="text-4xl md:text-5xl font-light text-white mb-2">
+    Verslo Paskyra
+  </h1>
 
-                <div className="flex items-start gap-3">
-                  <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
-                    <CheckCircle className="w-5 h-5 text-teal-300" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-medium text-lg">Prioritetinis aptarnavimas</h3>
-                    <p className="text-white/60 text-sm">Greitas reagavimas į užklausas ir užsakymus</p>
-                  </div>
-                </div>
+  <p className="text-white/80 text-lg leading-relaxed">
+    Skirta klientams, kurie pateikia bent 1 užsakymą per mėnesį ir siekia ilgalaikio bendradarbiavimo.
+  </p>
 
-                <div className="flex items-start gap-3">
-                  <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
-                    <CheckCircle className="w-5 h-5 text-teal-300" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-medium text-lg">Individualios sąlygos</h3>
-                    <p className="text-white/60 text-sm">Pritaikytos mokėjimo ir pristatymo galimybės</p>
-                  </div>
-                </div>
+  <p className="text-white/60 text-sm leading-relaxed">
+    Verslo paskyra skirta aktyviems klientams, norintiems gauti geresnes kainas, prioritetinį aptarnavimą ir individualias sąlygas.
+  </p>
 
-                <div className="flex items-start gap-3">
-                  <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
-                    <CheckCircle className="w-5 h-5 text-teal-300" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-medium text-lg">Asmeninis vadybininkas</h3>
-                    <p className="text-white/60 text-sm">Dedikuotas kontaktas jūsų verslo poreikiams</p>
-                  </div>
-                </div>
+  <div className="space-y-4 pt-4">
+    <div className="flex items-start gap-3">
+      <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
+        <CheckCircle className="w-5 h-5 text-teal-300" />
+      </div>
+      <div>
+        <h3 className="text-white font-medium text-lg">5% nuolaida</h3>
+        <p className="text-white/60 text-sm">
+          Konkurencingos kainos visiems produktams
+        </p>
+      </div>
+    </div>
 
-                <div className="flex items-start gap-3">
-                  <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
-                    <CheckCircle className="w-5 h-5 text-teal-300" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-medium text-lg">Išplėstinė ataskaita</h3>
-                    <p className="text-white/60 text-sm">Detalios užsakymų ir išlaidų ataskaitos</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+    <div className="flex items-start gap-3">
+      <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
+        <CheckCircle className="w-5 h-5 text-teal-300" />
+      </div>
+      <div>
+        <h3 className="text-white font-medium text-lg">
+          Prioritetinis aptarnavimas
+        </h3>
+        <p className="text-white/60 text-sm">
+          Greitas reagavimas į užklausas ir užsakymus
+        </p>
+      </div>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
+        <CheckCircle className="w-5 h-5 text-teal-300" />
+      </div>
+      <div>
+        <h3 className="text-white font-medium text-lg">
+          Individualios sąlygos
+        </h3>
+        <p className="text-white/60 text-sm">
+          Pritaikytos mokėjimo ir pristatymo galimybės
+        </p>
+      </div>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <div className="w-8 h-8 rounded-full bg-teal-400/20 flex items-center justify-center flex-shrink-0 mt-1">
+        <CheckCircle className="w-5 h-5 text-teal-300" />
+      </div>
+      <div>
+        <h3 className="text-white font-medium text-lg">
+          Skirta aktyviems klientams
+        </h3>
+        <p className="text-white/60 text-sm">
+          Mažiausiai 1 užsakymas per mėnesį
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
 
             {/* Right Column - Form */}
             <div>
@@ -324,7 +335,7 @@ export default function BusinessRegistrationPage() {
                         value={phone}
                         onChange={(e) => setPhone(e.target.value)}
                         className="w-full bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl py-3 pl-12 pr-4 text-white placeholder-white/40 focus:outline-none focus:border-white/30 transition-all"
-                        placeholder="+370 600 00000"
+                        placeholder="+370 671 77164"
                         disabled={loading}
                       />
                     </div>

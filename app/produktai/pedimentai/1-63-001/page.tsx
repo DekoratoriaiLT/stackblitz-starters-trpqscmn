@@ -2,7 +2,7 @@ import { LubiniaiApvadaiTemplate } from '../../../components/ProductPage/templat
 
 export { generateMetadata } from './meta';
 
-const productData = require('@/app/data/pediment/pediment.json').products;
+const productData = require('@/app/data/pedimentai/pedimentai.json').products;
 
 const getProduct = async (productCode: string) => {
   return productData.find((product: any) =>
@@ -11,7 +11,7 @@ const getProduct = async (productCode: string) => {
 };
 
 const getStructuredData = (product: any) => {
-  const canonicalUrl = `https://www.dekoratoriai.lt/produktai/pediment/${product.code}`;
+  const canonicalUrl = `https://www.dekoratoriai.lt/produktai/pedimentai/${product.code}`;
   const description = `${product.name} - Premium interior decoration product with high-quality gypsum molding.`;
 
   const productSchema = {
@@ -39,7 +39,7 @@ const getStructuredData = (product: any) => {
 };
 
 export default async function Page() {
-  const product = await getProduct('1.63.002');
+  const product = await getProduct('1.63.001');
 
   if (!product) {
     return <div>Product not found</div>;

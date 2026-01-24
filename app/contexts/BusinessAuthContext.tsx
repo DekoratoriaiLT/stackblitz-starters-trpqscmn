@@ -22,21 +22,18 @@ const BusinessAuthContext = createContext<BusinessAuthContextType | undefined>(u
 
 export function BusinessAuthProvider({ children }: { children: React.ReactNode }) {
   const [businessAccount, setBusinessAccountState] = useState<BusinessAccount | null>(null);
-  const { user } = useAuth(); // Depend on Firebase auth as source of truth
-  const discountRate = 10; // 10% discount for business users
+  const { user } = useAuth();
+  const discountRate = 5; // 5% discount for business users
 
   useEffect(() => {
-    // Only load business account if user is logged in
     if (user) {
       const storedData = localStorage.getItem('businessAccount');
       if (storedData) {
         try {
           const parsed = JSON.parse(storedData);
-          // Verify the business account matches the logged-in user
           if (parsed.email === user.email) {
             setBusinessAccountState(parsed);
           } else {
-            // Email mismatch - clear invalid business data
             localStorage.removeItem('businessAccount');
             setBusinessAccountState(null);
           }
@@ -46,19 +43,16 @@ export function BusinessAuthProvider({ children }: { children: React.ReactNode }
         }
       }
     } else {
-      // User logged out - clear business account
       setBusinessAccountState(null);
     }
   }, [user]);
 
   const setBusinessAccount = (account: BusinessAccount | null) => {
-    // Only allow setting business account if user is logged in
     if (!user && account) {
       console.error('Cannot set business account without authenticated user');
       return;
     }
 
-    // Verify email matches if setting account
     if (account && user && account.email !== user.email) {
       console.error('Business account email must match authenticated user email');
       return;

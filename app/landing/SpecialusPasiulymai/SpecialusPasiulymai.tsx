@@ -74,10 +74,10 @@ const CarouselWrapper = styled.div`
   position: relative;
 `;
 
-const CarouselButton = styled.button<{ position: "left" | "right" }>`
+const CarouselButton = styled.button<{ $position: "left" | "right" }>`
   position: absolute;
   top: 50%;
-  ${(props) => (props.position === "left" ? "left: 0;" : "right: 0;")}
+  ${(props) => (props.$position === "left" ? "left: 0;" : "right: 0;")}
   transform: translateY(-50%);
   z-index: 20;
   background: rgba(255, 255, 255, 0.1);
@@ -113,21 +113,21 @@ const CarouselViewport = styled.div`
 `;
 
 const CarouselTrack = styled.div<{
-  isTransitioning: boolean;
-  slide: number;
-  numVisible: number;
+  $isTransitioning: boolean;
+  $slide: number;
+  $numVisible: number;
 }>`
   display: flex;
   gap: 1.5rem;
   transition: ${(props) =>
-    props.isTransitioning ? "transform 0.5s ease-out" : "none"};
-  transform: ${(props) => `translateX(-${props.slide * (100 / props.numVisible + 2)}%)`};
+    props.$isTransitioning ? "transform 0.5s ease-out" : "none"};
+  transform: ${(props) => `translateX(-${props.$slide * (100 / props.$numVisible + 2)}%)`};
 `;
 
-const CarouselItem = styled.article<{ numVisible: number }>`
+const CarouselItem = styled.article<{ $numVisible: number }>`
   flex-shrink: 0;
   width: ${(props) => {
-    switch (props.numVisible) {
+    switch (props.$numVisible) {
       case 1:
         return "100%";
       case 2:
@@ -316,18 +316,18 @@ const SpecialOffersCarousel = () => {
         </SubHeading>
 
         <CarouselWrapper>
-          <CarouselButton onClick={handlePrev} position="left" aria-label="Previous offer">
+          <CarouselButton onClick={handlePrev} $position="left" aria-label="Previous offer">
             <ChevronLeft size={24} color="white" />
           </CarouselButton>
 
-          <CarouselButton onClick={handleNext} position="right" aria-label="Next offer">
+          <CarouselButton onClick={handleNext} $position="right" aria-label="Next offer">
             <ChevronRight size={24} color="white" />
           </CarouselButton>
 
           <CarouselViewport>
-            <CarouselTrack isTransitioning={isTransitioning} slide={currentSlide} numVisible={numVisible}>
+            <CarouselTrack $isTransitioning={isTransitioning} $slide={currentSlide} $numVisible={numVisible}>
               {displayOffers.map((offer) => (
-                <CarouselItem key={offer.id} numVisible={numVisible}>
+                <CarouselItem key={offer.id} $numVisible={numVisible}>
                   <CardLink href={offer.href}>
                     <Card>
                       <Badge>

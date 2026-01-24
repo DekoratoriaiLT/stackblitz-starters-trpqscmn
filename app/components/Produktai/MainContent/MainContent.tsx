@@ -44,7 +44,7 @@ export default function MainContent({ PageData }: MainContentProps) {
     priceRange: [{ value: "all", label: "Visos kainos" }],
     material: [{ value: "all", label: "Visos medžiagos" }],
     style: [{ value: "all", label: "Visi stiliai" }],
-    ...PageData.customFilterConfig,
+    ...(PageData?.customFilterConfig || {}),
   });
 
   const observerRef = useRef<IntersectionObserver | null>(null);
@@ -76,7 +76,20 @@ export default function MainContent({ PageData }: MainContentProps) {
         const dataModule = await import(`@/app/data/${cleanPath}`);
         const productData = dataModule.default;
 
-        const rawProducts = productData.products as ProductRaw[];
+        // Handle different JSON structures
+        let rawProducts: ProductRaw[];
+        
+        if (Array.isArray(productData)) {
+          // If the JSON file is an array of products
+          rawProducts = productData;
+        } else if (productData.products && Array.isArray(productData.products)) {
+          // If the JSON file has a "products" property
+          rawProducts = productData.products;
+        } else {
+          // Fallback: empty array
+          console.warn("Unexpected JSON structure:", productData);
+          rawProducts = [];
+        }
 
         const products: Product[] = await Promise.all(
           rawProducts.map(async (product) => {
@@ -144,6 +157,9 @@ export default function MainContent({ PageData }: MainContentProps) {
         setDisplayedProducts(products.slice(0, ITEMS_PER_BATCH));
       } catch (err) {
         console.error("[MainContent] Load failed:", err);
+        setAllProducts([]);
+        setFilteredProducts([]);
+        setDisplayedProducts([]);
       } finally {
         setIsLoading(false);
       }
@@ -236,7 +252,7 @@ export default function MainContent({ PageData }: MainContentProps) {
   if (isLoading) {
     return (
       <div className="container mx-auto px-4 py-8 text-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mb-4" />
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mx-auto mb-4" />
         <p>Kraunami produktai…</p>
       </div>
     );
@@ -251,22 +267,30 @@ export default function MainContent({ PageData }: MainContentProps) {
           {PageData.title}
         </h1>
 
-        {screenSize === "desktop" && (
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            {displayedProducts.map((product) => (
-              <ProductCardDesktop
-                key={product.id}
-                product={product}
-                categoryTitle={PageData.title}
-                onAddToCart={() => handleAddToCart(product)}
-                isExpanded={false}
-                onToggleExpand={() => {}}
-              />
-            ))}
+        {displayedProducts.length === 0 ? (
+          <div className="text-center py-12">
+            <p className="text-gray-600 text-lg">Produktų nerasta</p>
           </div>
-        )}
+        ) : (
+          <>
+            {screenSize === "desktop" && (
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                {displayedProducts.map((product) => (
+                  <ProductCardDesktop
+                    key={product.id}
+                    product={product}
+                    categoryTitle={PageData.title}
+                    onAddToCart={() => handleAddToCart(product)}
+                    isExpanded={false}
+                    onToggleExpand={() => {}}
+                  />
+                ))}
+              </div>
+            )}
 
-        <div ref={loadMoreRef} />
+            <div ref={loadMoreRef} />
+          </>
+        )}
 
         <FilterPanel
           open={false}

@@ -14,7 +14,6 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { BusinessAuthProvider } from "./contexts/BusinessAuthContext";
 import { CartProvider } from "./contexts/CartContext";
 
-import SmoothScroll from "./components/SmoothScroll/SmoothScroll";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -93,7 +92,6 @@ export default function RootLayout({
       <body
         className={`${inter.variable} font-inter antialiased relative min-h-screen flex flex-col`}
       >
-        <SmoothScroll />
 
         <AuthProvider>
           <BusinessAuthProvider>
@@ -101,7 +99,7 @@ export default function RootLayout({
               <MantineProvider>
                 <Background />
                 <Navbar />
-
+s
                 <main
                   role="main"
                   id="main-content"

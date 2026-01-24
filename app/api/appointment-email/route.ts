@@ -151,9 +151,9 @@ export async function POST(req: Request) {
 
       <div class="contact-info">
         <h3 style="color: #14b8a6; margin-top: 0;">Mūsų Kontaktai:</h3>
-        <p><strong>📞 Telefonas:</strong> +370 600 12345</p>
-        <p><strong>✉️ El. paštas:</strong> dekoratoriailt@gmail.com</p>
-        <p><strong>📍 Adresas:</strong> Gedimino pr. 1, Vilnius, LT-01103</p>
+        <p><strong>📞 Telefonas:</strong> +370 671 77164</p>
+        <p><strong>✉️ El. paštas:</strong> info@dekoratoriai.lt</p>
+        <p><strong>📍 Miestas:</strong> Alytus</p>
       </div>
 
       <p>Jūsų žinutė:</p>

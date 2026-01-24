@@ -13,10 +13,8 @@ import type { Product, DesktopCardProps } from "../Types/types";
 
 const DesktopCard: React.FC<DesktopCardProps> = ({
   product,
-  categoryTitle,
-  isExpanded,
   onToggleExpand,
-  onAddToCart,
+  onAddToCart, // This now handles all logic including metre modal
 }) => {
   const router = useRouter();
   const [show3DViewer, setShow3DViewer] = useState(false);
