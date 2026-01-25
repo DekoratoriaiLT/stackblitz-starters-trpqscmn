@@ -22,9 +22,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
 export function useAuth() {
   const context = useContext(AuthContext);
-  if (!context) {
-    throw new Error('useAuth must be used within an AuthProvider');
-  }
+  if (!context) throw new Error('useAuth must be used within an AuthProvider');
   return context;
 }
 
@@ -37,7 +35,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setUser(user);
       setLoading(false);
     });
-
     return unsubscribe;
   }, []);
 
@@ -53,17 +50,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     return signOut(auth);
   };
 
-  const value = {
-    user,
-    loading,
-    signup,
-    login,
-    logout
-  };
+  const value = { user, loading, signup, login, logout };
 
-  return (
-    <AuthContext.Provider value={value}>
-      {!loading && children}
-    </AuthContext.Provider>
-  );
+  return <AuthContext.Provider value={value}>{!loading && children}</AuthContext.Provider>;
 }
