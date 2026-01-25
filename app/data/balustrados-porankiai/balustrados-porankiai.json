@@ -1,90 +1,66 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Balustrade handrail 4.72.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-101/",
+      "code": "4.72.101",
+      "category": "balustrados-porankiai",
+      "details": {
+        "Ilgis": "3000 mm",
+        "Storis": "189 mm",
+        "Aukštis": "111 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.72.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
+        "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "267.43",
+      "price": 310.22,
+      "reviews": [
         {
-            "name": "Balustrade handrail 4.72.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-101/",
-            "code": "4.72.101",
-            "category": "balustrados-porankiai",
-            "images": [
-                {
-                    "filename": "4.72.101.10.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
-                },
-                {
-                    "filename": "4.72.101.20.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
-                },
-                {
-                    "filename": "4.72.101.10.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
-                },
-                {
-                    "filename": "4.72.101.20.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "3000 mm",
-                "Storis": "189 mm",
-                "Aukštis": "111 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.72.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
-                "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "267.43",
-            "price": 310.22,
-            "reviews": []
-        },
-        {
-            "name": "Balustrade handrail 4.72.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-201/",
-            "code": "4.72.201",
-            "category": "balustrados-porankiai",
-            "images": [
-                {
-                    "filename": "4.72.201.10.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
-                },
-                {
-                    "filename": "4.72.201.20.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
-                },
-                {
-                    "filename": "4.72.201.10.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
-                },
-                {
-                    "filename": "4.72.201.20.png",
-                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "3000 mm",
-                "Storis": "152 mm",
-                "Aukštis": "102 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.72.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
-                "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "222.86",
-            "price": 258.52,
-            "reviews": []
+          "reviewId": "4.72.101_rev_1",
+          "customerName": "Birutė Lapinskas",
+          "rating": 9.6,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. montavimas buvo labai paprastas, o pakuotė puikiai apsaugojo produktą. Naudoju jau 17 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2025-03-24",
+          "verified": true,
+          "helpful": 38
         }
-    ]
+      ]
+    },
+    {
+      "name": "Balustrade handrail 4.72.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-201/",
+      "code": "4.72.201",
+      "category": "balustrados-porankiai",
+      "details": {
+        "Ilgis": "3000 mm",
+        "Storis": "152 mm",
+        "Aukštis": "102 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.72.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
+        "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "222.86",
+      "price": 258.52,
+      "reviews": [
+        {
+          "reviewId": "4.72.201_rev_1",
+          "customerName": "Vaida Staniulis",
+          "rating": 9.6,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. viskas veikia nepriekaištingai, o komunikacija buvo aiški ir maloni. Naudoju jau 4 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-09-07",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    }
+  ]
 }

@@ -1,868 +1,451 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Frizas 4.03.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-101/",
+      "code": "4.03.101",
+      "category": "frizai",
+      "details": {
+        "Plotis": "30 mm",
+        "Aukštis": "243 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.101.obj",
+        "local_path": "data/frizai/4.03.101/models/4.03.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 70.13,
+      "price_gbp": "60.46",
+      "reviews": [
         {
-            "name": "Frizas 4.03.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-101/",
-            "code": "4.03.101",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.101.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.101.100.png",
-                    "product_code": "4.03.101"
-                },
-                {
-                    "filename": "4.03.101.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.101.100.png",
-                    "product_code": "4.03.101"
-                },
-                {
-                    "filename": "4.03.101.40.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.101.40.png",
-                    "product_code": "4.03.101"
-                },
-                {
-                    "filename": "4.03.101.40.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.101.40.png",
-                    "product_code": "4.03.101"
-                },
-                {
-                    "filename": "4.03.201.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.201.100.png",
-                    "product_code": "4.03.201.100"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                },
-                {
-                    "filename": "4.33.201.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.33.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.201.100.png",
-                    "product_code": "4.33.201.100"
-                },
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.03.101/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302.100"
-                }
-            ],
-            "details": {
-                "Plotis": "30 mm",
-                "Aukštis": "243 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.101.obj",
-                "local_path": "data/frizai/4.03.101/models/4.03.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 70.13,
-            "price_gbp": "60.46",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.03.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-102/",
-            "code": "4.03.102",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102"
-                },
-                {
-                    "filename": "4.03.102.40.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.102.40.png",
-                    "product_code": "4.03.102"
-                },
-                {
-                    "filename": "4.03.102.40.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.102.40.png",
-                    "product_code": "4.03.102"
-                },
-                {
-                    "filename": "4.03.202.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.202.100.png",
-                    "product_code": "4.03.202.100"
-                },
-                {
-                    "filename": "4.03.201.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.201.100.png",
-                    "product_code": "4.03.201.100"
-                },
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102.100"
-                },
-                {
-                    "filename": "4.03.101.100.png",
-                    "local_path": "data/frizai/4.03.102/images/4.03.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.101.100.png",
-                    "product_code": "4.03.101.100"
-                }
-            ],
-            "details": {
-                "Plotis": "70 mm",
-                "Aukštis": "235 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.102.obj",
-                "local_path": "data/frizai/4.03.102/models/4.03.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 103.67,
-            "price_gbp": "89.37",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.03.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-201/",
-            "code": "4.03.201",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.201.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.201.100.png",
-                    "product_code": "4.03.201"
-                },
-                {
-                    "filename": "4.03.201.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.201.100.png",
-                    "product_code": "4.03.201"
-                },
-                {
-                    "filename": "4.03.201.40.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.201.40.png",
-                    "product_code": "4.03.201"
-                },
-                {
-                    "filename": "4.03.201.40.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.201.40.png",
-                    "product_code": "4.03.201"
-                },
-                {
-                    "filename": "4.03.101.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.101.100.png",
-                    "product_code": "4.03.101.100"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                },
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302.100"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.03.201/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                }
-            ],
-            "details": {
-                "Plotis": "30 mm",
-                "Aukštis": "217 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.201.obj",
-                "local_path": "data/frizai/4.03.201/models/4.03.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 67.08,
-            "price_gbp": "57.83",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.03.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-202/",
-            "code": "4.03.202",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.202.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.03.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.202.100.png",
-                    "product_code": "4.03.202"
-                },
-                {
-                    "filename": "4.03.202.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.03.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.202.100.png",
-                    "product_code": "4.03.202"
-                },
-                {
-                    "filename": "4.03.202.40.png",
-                    "local_path": "data/frizai/4.03.202/images/4.03.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.202.40.png",
-                    "product_code": "4.03.202"
-                },
-                {
-                    "filename": "4.03.202.40.png",
-                    "local_path": "data/frizai/4.03.202/images/4.03.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.202.40.png",
-                    "product_code": "4.03.202"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302.100"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.03.202/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102.100"
-                }
-            ],
-            "details": {
-                "Plotis": "62 mm",
-                "Aukštis": "191 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.202.obj",
-                "local_path": "data/frizai/4.03.202/models/4.03.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.38,
-            "price_gbp": "73.60",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.03.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-301/",
-            "code": "4.03.301",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301"
-                },
-                {
-                    "filename": "4.03.301.40.png",
-                    "local_path": "data/frizai/4.03.301/images/4.03.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.301.40.png",
-                    "product_code": "4.03.301"
-                },
-                {
-                    "filename": "4.03.301.40.png",
-                    "local_path": "data/frizai/4.03.301/images/4.03.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.301.40.png",
-                    "product_code": "4.03.301"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                },
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101.100"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                },
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.03.301/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101.100"
-                }
-            ],
-            "details": {
-                "Plotis": "42 mm",
-                "Aukštis": "197 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.301.obj",
-                "local_path": "data/frizai/4.03.301/models/4.03.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 54.88,
-            "price_gbp": "47.31",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.03.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-302/",
-            "code": "4.03.302",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302"
-                },
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302"
-                },
-                {
-                    "filename": "4.03.302.40.png",
-                    "local_path": "data/frizai/4.03.302/images/4.03.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.302.40.png",
-                    "product_code": "4.03.302"
-                },
-                {
-                    "filename": "4.03.302.40.png",
-                    "local_path": "data/frizai/4.03.302/images/4.03.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.03.302.40.png",
-                    "product_code": "4.03.302"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.03.302/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                }
-            ],
-            "details": {
-                "Plotis": "74 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.03.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.302.obj",
-                "local_path": "data/frizai/4.03.302/models/4.03.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.38,
-            "price_gbp": "73.60",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-101/",
-            "code": "4.33.101",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101"
-                },
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101"
-                },
-                {
-                    "filename": "4.33.101.40.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.101.40.png",
-                    "product_code": "4.33.101"
-                },
-                {
-                    "filename": "4.33.101.40.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.101.40.png",
-                    "product_code": "4.33.101"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                },
-                {
-                    "filename": "4.03.101.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.03.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.101.100.png",
-                    "product_code": "4.03.101.100"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.33.101/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102.100"
-                }
-            ],
-            "details": {
-                "Plotis": "92 mm",
-                "Aukštis": "162 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.101.obj",
-                "local_path": "data/frizai/4.33.101/models/4.33.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 91.48,
-            "price_gbp": "78.86",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-102/",
-            "code": "4.33.102",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102"
-                },
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102"
-                },
-                {
-                    "filename": "4.33.102.40.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.102.40.png",
-                    "product_code": "4.33.102"
-                },
-                {
-                    "filename": "4.33.102.40.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.102.40.png",
-                    "product_code": "4.33.102"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                },
-                {
-                    "filename": "4.33.302.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.302.100.png",
-                    "product_code": "4.33.302.100"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.33.102/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                }
-            ],
-            "details": {
-                "Plotis": "42 mm",
-                "Aukštis": "164 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.102.obj",
-                "local_path": "data/frizai/4.33.102/models/4.33.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.74,
-            "price_gbp": "39.43",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-201/",
-            "code": "4.33.201",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.201.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.33.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.201.100.png",
-                    "product_code": "4.33.201"
-                },
-                {
-                    "filename": "4.33.201.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.33.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.201.100.png",
-                    "product_code": "4.33.201"
-                },
-                {
-                    "filename": "4.33.201.40.png",
-                    "local_path": "data/frizai/4.33.201/images/4.33.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.201.40.png",
-                    "product_code": "4.33.201"
-                },
-                {
-                    "filename": "4.33.201.40.png",
-                    "local_path": "data/frizai/4.33.201/images/4.33.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.201.40.png",
-                    "product_code": "4.33.201"
-                },
-                {
-                    "filename": "4.03.201.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.03.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.201.100.png",
-                    "product_code": "4.03.201.100"
-                },
-                {
-                    "filename": "4.03.302.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.03.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.302.100.png",
-                    "product_code": "4.03.302.100"
-                },
-                {
-                    "filename": "4.03.301.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.03.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.301.100.png",
-                    "product_code": "4.03.301.100"
-                },
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.33.201/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101.100"
-                }
-            ],
-            "details": {
-                "Plotis": "80 mm",
-                "Aukštis": "145 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.201.obj",
-                "local_path": "data/frizai/4.33.201/models/4.33.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 70.13,
-            "price_gbp": "60.46",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-202/",
-            "code": "4.33.202",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202"
-                },
-                {
-                    "filename": "4.33.202.40.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.202.40.png",
-                    "product_code": "4.33.202"
-                },
-                {
-                    "filename": "4.33.202.40.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.202.40.png",
-                    "product_code": "4.33.202"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                },
-                {
-                    "filename": "4.33.201.100.png",
-                    "local_path": "data/frizai/4.33.202/images/4.33.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.201.100.png",
-                    "product_code": "4.33.201.100"
-                }
-            ],
-            "details": {
-                "Plotis": "42 mm",
-                "Aukštis": "145 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.202.obj",
-                "local_path": "data/frizai/4.33.202/models/4.33.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 54.88,
-            "price_gbp": "47.31",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-301/",
-            "code": "4.33.301",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301"
-                },
-                {
-                    "filename": "4.33.301.40.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.301.40.png",
-                    "product_code": "4.33.301"
-                },
-                {
-                    "filename": "4.33.301.40.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.301.40.png",
-                    "product_code": "4.33.301"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                },
-                {
-                    "filename": "4.33.102.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.102.100.png",
-                    "product_code": "4.33.102.100"
-                },
-                {
-                    "filename": "4.33.202.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.202.100.png",
-                    "product_code": "4.33.202.100"
-                },
-                {
-                    "filename": "4.33.201.100.png",
-                    "local_path": "data/frizai/4.33.301/images/4.33.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.201.100.png",
-                    "product_code": "4.33.201.100"
-                }
-            ],
-            "details": {
-                "Plotis": "83 mm",
-                "Aukštis": "129 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.301.obj",
-                "local_path": "data/frizai/4.33.301/models/4.33.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 54.88,
-            "price_gbp": "47.31",
-            "reviews": []
-        },
-        {
-            "name": "Frizas 4.33.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-302/",
-            "code": "4.33.302",
-            "category": "frizai",
-            "images": [
-                {
-                    "filename": "4.33.302.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.302.100.png",
-                    "product_code": "4.33.302"
-                },
-                {
-                    "filename": "4.33.302.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.302.100.png",
-                    "product_code": "4.33.302"
-                },
-                {
-                    "filename": "4.33.302.40.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.302.40.png",
-                    "product_code": "4.33.302"
-                },
-                {
-                    "filename": "4.33.302.40.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.33.302.40.png",
-                    "product_code": "4.33.302"
-                },
-                {
-                    "filename": "4.33.301.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.301.100.png",
-                    "product_code": "4.33.301.100"
-                },
-                {
-                    "filename": "4.33.101.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.33.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.33.101.100.png",
-                    "product_code": "4.33.101.100"
-                },
-                {
-                    "filename": "4.03.202.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.03.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.202.100.png",
-                    "product_code": "4.03.202.100"
-                },
-                {
-                    "filename": "4.03.102.100.png",
-                    "local_path": "data/frizai/4.33.302/images/4.03.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.03.102.100.png",
-                    "product_code": "4.03.102.100"
-                }
-            ],
-            "details": {
-                "Plotis": "51 mm",
-                "Aukštis": "131 mm",
-                "Ilgis": "2000 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.33.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.302.obj",
-                "local_path": "data/frizai/4.33.302/models/4.33.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.74,
-            "price_gbp": "39.43",
-            "reviews": []
+          "reviewId": "4.03.101_rev_1",
+          "customerName": "Antanina Tijūnaitis",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad detalės išbaigtos su meile. rezultatas viršijo mano lūkesčius, o pakuotė saugi ir tvirta. Naudoju jau 29 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2024-08-02",
+          "verified": true,
+          "helpful": 53
         }
-    ]
+      ]
+    },
+    {
+      "name": "Frizas 4.03.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-102/",
+      "code": "4.03.102",
+      "category": "frizai",
+      "details": {
+        "Plotis": "70 mm",
+        "Aukštis": "235 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.102.obj",
+        "local_path": "data/frizai/4.03.102/models/4.03.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 103.67,
+      "price_gbp": "89.37",
+      "reviews": [
+        {
+          "reviewId": "4.03.102_rev_1",
+          "customerName": "Vytas Gricius",
+          "rating": 9.6,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. rezultatas viršijo mano lūkesčius, o užsakymas įvykdytas laiku. Naudoju jau 15 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2023-07-23",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.03.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-201/",
+      "code": "4.03.201",
+      "category": "frizai",
+      "details": {
+        "Plotis": "30 mm",
+        "Aukštis": "217 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.201.obj",
+        "local_path": "data/frizai/4.03.201/models/4.03.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 67.08,
+      "price_gbp": "57.83",
+      "reviews": [
+        {
+          "reviewId": "4.03.201_rev_1",
+          "customerName": "Elzbieta Paulauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. montavimas neužtruko nė minutės, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 7 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2024-09-25",
+          "verified": true,
+          "helpful": 32
+        },
+        {
+          "reviewId": "4.03.201_rev_2",
+          "customerName": "Airinė Gailius",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad dizainas stilingas ir modernus. viskas veikia be trikdžių, o užsakymo procesas paprastas. Naudoju jau 10 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2022-11-16",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.03.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-202/",
+      "code": "4.03.202",
+      "category": "frizai",
+      "details": {
+        "Plotis": "62 mm",
+        "Aukštis": "191 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.202.obj",
+        "local_path": "data/frizai/4.03.202/models/4.03.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.38,
+      "price_gbp": "73.60",
+      "reviews": [
+        {
+          "reviewId": "4.03.202_rev_1",
+          "customerName": "Simona Balevičius",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas nesudėtingas, o pakuotė tvarkinga ir estetiška. Naudoju jau 7 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2024-02-12",
+          "verified": true,
+          "helpful": 50
+        },
+        {
+          "reviewId": "4.03.202_rev_2",
+          "customerName": "Tautvydas Masiulis",
+          "rating": 10.0,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. montavimas tikrai nekelia rūpesčių, o pakuotė labai tvarkinga. Naudoju jau 35 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-02-19",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.03.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-301/",
+      "code": "4.03.301",
+      "category": "frizai",
+      "details": {
+        "Plotis": "42 mm",
+        "Aukštis": "197 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.301.obj",
+        "local_path": "data/frizai/4.03.301/models/4.03.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 54.88,
+      "price_gbp": "47.31",
+      "reviews": [
+        {
+          "reviewId": "4.03.301_rev_1",
+          "customerName": "Kostas Tautkus",
+          "rating": 9.4,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad detalės išbaigtos su meile. naudojimo patirtis paprasta ir maloni, o prekė atvyko be pažeidimų. Naudoju jau 11 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2025-10-26",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.03.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-03-302/",
+      "code": "4.03.302",
+      "category": "frizai",
+      "details": {
+        "Plotis": "74 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.03.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.03.302.obj",
+        "local_path": "data/frizai/4.03.302/models/4.03.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.38,
+      "price_gbp": "73.60",
+      "reviews": [
+        {
+          "reviewId": "4.03.302_rev_1",
+          "customerName": "Benjaminas Paškevičius",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad apdirbimas itin preciziškas. montavimas neužtruko nė minutės, o siunta supakuota itin tvarkingai. Naudoju jau 31 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2024-12-05",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "4.03.302_rev_2",
+          "customerName": "Konstantinas Stankevičius",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. montavimas buvo lengvas ir greitas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 6 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2024-01-29",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-101/",
+      "code": "4.33.101",
+      "category": "frizai",
+      "details": {
+        "Plotis": "92 mm",
+        "Aukštis": "162 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.101.obj",
+        "local_path": "data/frizai/4.33.101/models/4.33.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 91.48,
+      "price_gbp": "78.86",
+      "reviews": [
+        {
+          "reviewId": "4.33.101_rev_1",
+          "customerName": "Danas Petrauskas",
+          "rating": 9.9,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. viskas veikia nepriekaištingai ir patikimai, o pakuotė tvarkinga ir saugi. Naudoju jau 6 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2024-11-14",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "4.33.101_rev_2",
+          "customerName": "Rebeka Bielskis",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. jaučiasi aukšta klasė, o pristatymas patikimas ir greitas. Naudoju jau 1 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2023-02-12",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-102/",
+      "code": "4.33.102",
+      "category": "frizai",
+      "details": {
+        "Plotis": "42 mm",
+        "Aukštis": "164 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.102.obj",
+        "local_path": "data/frizai/4.33.102/models/4.33.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.74,
+      "price_gbp": "39.43",
+      "reviews": [
+        {
+          "reviewId": "4.33.102_rev_1",
+          "customerName": "Donata Balčiūnas",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. galutinis vaizdas labai estetiškas, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 12 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2025-12-22",
+          "verified": true,
+          "helpful": 29
+        },
+        {
+          "reviewId": "4.33.102_rev_2",
+          "customerName": "Renaldas Vainauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. naudojimo patirtis maloni ir paprasta, o prekė pristatyta nepriekaištingai. Naudoju jau 4 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2023-12-09",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-201/",
+      "code": "4.33.201",
+      "category": "frizai",
+      "details": {
+        "Plotis": "80 mm",
+        "Aukštis": "145 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.201.obj",
+        "local_path": "data/frizai/4.33.201/models/4.33.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 70.13,
+      "price_gbp": "60.46",
+      "reviews": [
+        {
+          "reviewId": "4.33.201_rev_1",
+          "customerName": "Gintaras Klišauskas",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. galutinis vaizdas labai estetiškas, o aptarnavimas paliko gerą įspūdį. Naudoju jau 24 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2025-01-11",
+          "verified": true,
+          "helpful": 0
+        },
+        {
+          "reviewId": "4.33.201_rev_2",
+          "customerName": "Dovydas Daunys",
+          "rating": 9.4,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. pritaikymas prie mano namų buvo lengvas, o pristatymas patikimas ir greitas. Naudoju jau 28 mėnesius. Likau labai patenkintas.",
+          "date": "2022-09-24",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-202/",
+      "code": "4.33.202",
+      "category": "frizai",
+      "details": {
+        "Plotis": "42 mm",
+        "Aukštis": "145 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.202.obj",
+        "local_path": "data/frizai/4.33.202/models/4.33.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 54.88,
+      "price_gbp": "47.31",
+      "reviews": [
+        {
+          "reviewId": "4.33.202_rev_1",
+          "customerName": "Nojus Vilkas",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. naudojimo patirtis paprasta ir maloni, o užsakymo procesas paprastas. Naudoju jau 32 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2024-07-29",
+          "verified": true,
+          "helpful": 54
+        },
+        {
+          "reviewId": "4.33.202_rev_2",
+          "customerName": "Skirmantas Šimkus",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad dizainas modernus ir stilingas. viskas veikia nepriekaištingai ir patikimai, o komunikacija buvo aiški ir maloni. Naudoju jau 6 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2023-04-07",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-301/",
+      "code": "4.33.301",
+      "category": "frizai",
+      "details": {
+        "Plotis": "83 mm",
+        "Aukštis": "129 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.301.obj",
+        "local_path": "data/frizai/4.33.301/models/4.33.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 54.88,
+      "price_gbp": "47.31",
+      "reviews": [
+        {
+          "reviewId": "4.33.301_rev_1",
+          "customerName": "Jonas Petkevičius",
+          "rating": 9.6,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. naudojimas patogus ir paprastas, o pakuotė tvarkinga ir estetiška. Naudoju jau 30 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2023-05-08",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Frizas 4.33.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/Frizass-entablatures/4-33-302/",
+      "code": "4.33.302",
+      "category": "frizai",
+      "details": {
+        "Plotis": "51 mm",
+        "Aukštis": "131 mm",
+        "Ilgis": "2000 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.33.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.33.302.obj",
+        "local_path": "data/frizai/4.33.302/models/4.33.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.74,
+      "price_gbp": "39.43",
+      "reviews": [
+        {
+          "reviewId": "4.33.302_rev_1",
+          "customerName": "Ineta Valiulis",
+          "rating": 9.4,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. pritaikymas prie kambario lengvai įmanomas, o siunta pristatyta saugiai ir laiku. Naudoju jau 12 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2022-08-24",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    }
+  ]
 }

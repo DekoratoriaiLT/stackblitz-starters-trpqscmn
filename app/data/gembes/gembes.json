@@ -1,630 +1,654 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Corbel 1.19.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-002/",
+      "code": "1.19.002",
+      "category": "gembes",
+      "details": {
+        "Plotis": "122 mm",
+        "Aukštis": "303 mm",
+        "Ilgis": "75 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.002.obj",
+        "local_path": "data/corbel/Corbel_1_19_002/models/1.19.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.89,
+      "price_gbp": "26.63",
+      "reviews": [
         {
-            "name": "Corbel 1.19.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-002/",
-            "code": "1.19.002",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.002.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_002/images/1.19.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.002.10.png"
-                },
-                {
-                    "filename": "1.19.002.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_002/images/1.19.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "122 mm",
-                "Aukštis": "303 mm",
-                "Ilgis": "75 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.002.obj",
-                "local_path": "data/corbel/Corbel_1_19_002/models/1.19.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.89,
-            "price_gbp": "26.63",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-003/",
-            "code": "1.19.003",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.003.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_003/images/1.19.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.003.10.png"
-                },
-                {
-                    "filename": "1.19.003.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_003/images/1.19.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "120 mm",
-                "Aukštis": "149 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.003.obj",
-                "local_path": "data/corbel/Corbel_1_19_003/models/1.19.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 31.0,
-            "price_gbp": "26.72",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-004/",
-            "code": "1.19.004",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.004.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_004/images/1.19.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.004.10.png"
-                },
-                {
-                    "filename": "1.19.004.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_004/images/1.19.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "86 mm",
-                "Aukštis": "215 mm",
-                "Ilgis": "73 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.004.obj",
-                "local_path": "data/corbel/Corbel_1_19_004/models/1.19.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 31.03,
-            "price_gbp": "26.75",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-005/",
-            "code": "1.19.005",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.005.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_005/images/1.19.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.005.10.png"
-                },
-                {
-                    "filename": "1.19.005.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_005/images/1.19.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "188 mm",
-                "Aukštis": "489 mm",
-                "Ilgis": "163 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.005.obj",
-                "local_path": "data/corbel/Corbel_1_19_005/models/1.19.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 34.15,
-            "price_gbp": "29.44",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.008",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-008/",
-            "code": "1.19.008",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.008.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.008.10.png"
-                },
-                {
-                    "filename": "1.19.008.20.png",
-                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.008.20.png"
-                },
-                {
-                    "filename": "1.19.008.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.008.10.png"
-                },
-                {
-                    "filename": "1.19.008.20.png",
-                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.008.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "163 mm",
-                "Aukštis": "225 mm",
-                "Ilgis": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.008.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.008.obj",
-                "local_path": "data/corbel/Corbel_1_19_008/models/1.19.008.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.17,
-            "price_gbp": "26.01",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-010/",
-            "code": "1.19.010",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.010.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_010/images/1.19.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.010.10.png"
-                },
-                {
-                    "filename": "1.19.010.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_010/images/1.19.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.010.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "119 mm",
-                "Aukštis": "229 mm",
-                "Ilgis": "81 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.010.obj",
-                "local_path": "data/corbel/Corbel_1_19_010/models/1.19.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 33.22,
-            "price_gbp": "28.64",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.013",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-013/",
-            "code": "1.19.013",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.013.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_013/images/1.19.013.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.013.10.png"
-                },
-                {
-                    "filename": "1.19.013.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_013/images/1.19.013.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.013.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "169 mm",
-                "Aukštis": "305 mm",
-                "Ilgis": "187 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.013.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.013.obj",
-                "local_path": "data/corbel/Corbel_1_19_013/models/1.19.013.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 40.44,
-            "price_gbp": "34.86",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.017",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-017/",
-            "code": "1.19.017",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.017.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_017/images/1.19.017.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.017.10.png"
-                },
-                {
-                    "filename": "1.19.017.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_017/images/1.19.017.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.017.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "150 mm",
-                "Aukštis": "225 mm",
-                "Ilgis": "97 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.017.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.017.obj",
-                "local_path": "data/corbel/Corbel_1_19_017/models/1.19.017.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.137",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-137/",
-            "code": "1.19.137",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.137.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_137/images/1.19.137.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.137.10.png"
-                },
-                {
-                    "filename": "1.19.137.10.png",
-                    "local_path": "data/corbel/Corbel_1_19_137/images/1.19.137.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.137.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "73 mm",
-                "Aukštis": "97 mm",
-                "Ilgis": "38 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.137.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.137.obj",
-                "local_path": "data/corbel/Corbel_1_19_137/models/1.19.137.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 6.06,
-            "price_gbp": "5.22",
-            "reviews": []
-        },
-        {
-            "name": "Corbel 1.19.801",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-801/",
-            "code": "1.19.801",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "1.19.801.100.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.19.801.100.png"
-                },
-                {
-                    "filename": "1.19.801.20.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.801.20.png"
-                },
-                {
-                    "filename": "1.19.801.30.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.19.801.30.png"
-                },
-                {
-                    "filename": "1.19.801.31.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.31.png"
-                },
-                {
-                    "filename": "1.19.801.32.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.32.png"
-                },
-                {
-                    "filename": "1.19.801.100.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.19.801.100.png"
-                },
-                {
-                    "filename": "1.19.801.20.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.801.20.png"
-                },
-                {
-                    "filename": "1.19.801.30.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.19.801.30.png"
-                },
-                {
-                    "filename": "1.19.801.31.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.31.png"
-                },
-                {
-                    "filename": "1.19.801.32.png",
-                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.32.png"
-                }
-            ],
-            "details": {
-                "Plotis": "127 mm",
-                "Aukštis": "100 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.19.801.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.801.obj",
-                "local_path": "data/corbel/Corbel_1_19_801/models/1.19.801.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-002/",
-            "code": "4.83.002",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.002.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_002/images/4.83.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.002.100.png"
-                },
-                {
-                    "filename": "4.83.002.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_002/images/4.83.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.002.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "173 mm",
-                "Aukštis": "114 mm",
-                "Ilgis": "48 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.002.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_002/models/4.83.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 17.24,
-            "price_gbp": "14.86",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-003/",
-            "code": "4.83.003",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.003.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_003/images/4.83.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.003.100.png"
-                },
-                {
-                    "filename": "4.83.003.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_003/images/4.83.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.003.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "156 mm",
-                "Aukštis": "100 mm",
-                "Ilgis": "46 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.003.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_003/models/4.83.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 13.26,
-            "price_gbp": "11.43",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-102/",
-            "code": "4.83.102",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.102.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_102/images/4.83.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.102.100.png"
-                },
-                {
-                    "filename": "4.83.102.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_102/images/4.83.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.102.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "356 mm",
-                "Aukštis": "240 mm",
-                "Ilgis": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.102.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_102/models/4.83.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 43.08,
-            "price_gbp": "37.14",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-201/",
-            "code": "4.83.201",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.201.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_201/images/4.83.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.201.100.png"
-                },
-                {
-                    "filename": "4.83.201.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_201/images/4.83.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.201.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "393 mm",
-                "Aukštis": "277 mm",
-                "Ilgis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.201.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_201/models/4.83.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 58.34,
-            "price_gbp": "50.29",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-202/",
-            "code": "4.83.202",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.202.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_202/images/4.83.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.202.100.png"
-                },
-                {
-                    "filename": "4.83.202.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_202/images/4.83.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.202.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "355 mm",
-                "Aukštis": "262 mm",
-                "Ilgis": "132 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.202.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_202/models/4.83.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 49.72,
-            "price_gbp": "42.86",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-301/",
-            "code": "4.83.301",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.301.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_301/images/4.83.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.301.100.png"
-                },
-                {
-                    "filename": "4.83.301.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_301/images/4.83.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.301.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "276 mm",
-                "Ilgis": "181 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.301.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_301/models/4.83.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.02,
-            "price_gbp": "45.71",
-            "reviews": []
-        },
-        {
-            "name": "Pedestal corbel 4.83.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-302/",
-            "code": "4.83.302",
-            "category": "gembes",
-            "images": [
-                {
-                    "filename": "4.83.302.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_302/images/4.83.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.302.100.png"
-                },
-                {
-                    "filename": "4.83.302.100.png",
-                    "local_path": "data/corbel/Pedestal_corbel_4_83_302/images/4.83.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.302.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "333 mm",
-                "Aukštis": "269 mm",
-                "Ilgis": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.83.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.302.obj",
-                "local_path": "data/corbel/Pedestal_corbel_4_83_302/models/4.83.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.78,
-            "price_gbp": "34.29",
-            "reviews": []
+          "reviewId": "1.19.002_rev_1",
+          "customerName": "Kazimiera Bielskis",
+          "rating": 9.8,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. produktas jaučiasi patvarus ir solidus, o prekė saugiai supakuota ir pristatyta. Naudoju jau 18 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2022-05-28",
+          "verified": true,
+          "helpful": 14
         }
-    ]
+      ]
+    },
+    {
+      "name": "Corbel 1.19.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-003/",
+      "code": "1.19.003",
+      "category": "gembes",
+      "details": {
+        "Plotis": "120 mm",
+        "Aukštis": "149 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.003.obj",
+        "local_path": "data/corbel/Corbel_1_19_003/models/1.19.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 31.0,
+      "price_gbp": "26.72",
+      "reviews": [
+        {
+          "reviewId": "1.19.003_rev_1",
+          "customerName": "Rimantė Petraitis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimas patogus ir efektyvus, o komunikacija buvo aiški. Naudoju jau 18 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2024-11-22",
+          "verified": true,
+          "helpful": 55
+        },
+        {
+          "reviewId": "1.19.003_rev_2",
+          "customerName": "Valentas Zinkevičius",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. naudojimo patirtis maloni ir sklandi, o siunta atvyko laiku. Naudoju jau 22 mėnesius. Likau labai patenkintas.",
+          "date": "2025-02-24",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-004/",
+      "code": "1.19.004",
+      "category": "gembes",
+      "details": {
+        "Plotis": "86 mm",
+        "Aukštis": "215 mm",
+        "Ilgis": "73 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.004.obj",
+        "local_path": "data/corbel/Corbel_1_19_004/models/1.19.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 31.03,
+      "price_gbp": "26.75",
+      "reviews": [
+        {
+          "reviewId": "1.19.004_rev_1",
+          "customerName": "Akvilė Klišauskas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. produktas pateisino investiciją, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 19 mėnesius. Likau labai patenkintas.",
+          "date": "2025-11-05",
+          "verified": true,
+          "helpful": 55
+        },
+        {
+          "reviewId": "1.19.004_rev_2",
+          "customerName": "Matas Kumpys",
+          "rating": 9.6,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. produktas pateisino mano lūkesčius, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 7 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2025-05-18",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-005/",
+      "code": "1.19.005",
+      "category": "gembes",
+      "details": {
+        "Plotis": "188 mm",
+        "Aukštis": "489 mm",
+        "Ilgis": "163 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.005.obj",
+        "local_path": "data/corbel/Corbel_1_19_005/models/1.19.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 34.15,
+      "price_gbp": "29.44",
+      "reviews": [
+        {
+          "reviewId": "1.19.005_rev_1",
+          "customerName": "Žadmantė Butkus",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. galutinis vaizdas tikrai estetiškas, o prekė atvyko be pažeidimų. Naudoju jau 14 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2023-07-22",
+          "verified": true,
+          "helpful": 33
+        },
+        {
+          "reviewId": "1.19.005_rev_2",
+          "customerName": "Regimantas Bielskis",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. naudojimas patogus ir efektyvus, o pakuotė labai tvarkinga. Naudoju jau 30 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2024-03-10",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.008",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-008/",
+      "code": "1.19.008",
+      "category": "gembes",
+      "details": {
+        "Plotis": "163 mm",
+        "Aukštis": "225 mm",
+        "Ilgis": "85 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.008.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.008.obj",
+        "local_path": "data/corbel/Corbel_1_19_008/models/1.19.008.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.17,
+      "price_gbp": "26.01",
+      "reviews": [
+        {
+          "reviewId": "1.19.008_rev_1",
+          "customerName": "Medardas Kumpys",
+          "rating": 9.6,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. pritaikymas prie interjero nesukėlė sunkumų, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 9 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-07-12",
+          "verified": true,
+          "helpful": 23
+        },
+        {
+          "reviewId": "1.19.008_rev_2",
+          "customerName": "Dovydas Gudauskas",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. viskas veikia sklandžiai, o prekė pristatyta nepriekaištingai. Naudoju jau 6 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2022-01-10",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-010/",
+      "code": "1.19.010",
+      "category": "gembes",
+      "details": {
+        "Plotis": "119 mm",
+        "Aukštis": "229 mm",
+        "Ilgis": "81 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.010.obj",
+        "local_path": "data/corbel/Corbel_1_19_010/models/1.19.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 33.22,
+      "price_gbp": "28.64",
+      "reviews": [
+        {
+          "reviewId": "1.19.010_rev_1",
+          "customerName": "Tautvydas Lukoševičius",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas viršijo mano tikslus, o prekė atvyko labai greitai. Naudoju jau 20 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2024-06-25",
+          "verified": true,
+          "helpful": 56
+        },
+        {
+          "reviewId": "1.19.010_rev_2",
+          "customerName": "Jovita Kairys",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimas lengvas net pradedantiesiems, o visa patirtis su užsakymu puiki. Naudoju jau 30 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2025-10-10",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.013",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-013/",
+      "code": "1.19.013",
+      "category": "gembes",
+      "details": {
+        "Plotis": "169 mm",
+        "Aukštis": "305 mm",
+        "Ilgis": "187 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.013.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.013.obj",
+        "local_path": "data/corbel/Corbel_1_19_013/models/1.19.013.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 40.44,
+      "price_gbp": "34.86",
+      "reviews": [
+        {
+          "reviewId": "1.19.013_rev_1",
+          "customerName": "Giedrius Kudirka",
+          "rating": 9.7,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. pritaikymas prie mano namų buvo lengvas, o užsakymo procesas labai patogus. Naudoju jau 3 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2025-07-08",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.017",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-017/",
+      "code": "1.19.017",
+      "category": "gembes",
+      "details": {
+        "Plotis": "150 mm",
+        "Aukštis": "225 mm",
+        "Ilgis": "97 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.017.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.017.obj",
+        "local_path": "data/corbel/Corbel_1_19_017/models/1.19.017.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.19.017_rev_1",
+          "customerName": "Ilona Klimas",
+          "rating": 9.5,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. produktas suteikia komforto pojūtį, o komunikacija buvo aiški ir maloni. Naudoju jau 7 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2026-01-13",
+          "verified": true,
+          "helpful": 44
+        },
+        {
+          "reviewId": "1.19.017_rev_2",
+          "customerName": "Loreta Brazaitis",
+          "rating": 9.8,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. viskas veikia sklandžiai ir tiksliai, o siunta pristatyta be jokių problemų. Naudoju jau 20 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2022-07-24",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.137",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-137/",
+      "code": "1.19.137",
+      "category": "gembes",
+      "details": {
+        "Plotis": "73 mm",
+        "Aukštis": "97 mm",
+        "Ilgis": "38 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.137.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.137.obj",
+        "local_path": "data/corbel/Corbel_1_19_137/models/1.19.137.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 6.06,
+      "price_gbp": "5.22",
+      "reviews": [
+        {
+          "reviewId": "1.19.137_rev_1",
+          "customerName": "Iveta Zinkevičius",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. produktas vertas kiekvieno cento, o prekė atvyko labai greitai. Naudoju jau 15 mėnesius. Likau labai patenkintas.",
+          "date": "2022-11-07",
+          "verified": true,
+          "helpful": 9
+        },
+        {
+          "reviewId": "1.19.137_rev_2",
+          "customerName": "Dovilė Šerkšnas",
+          "rating": 9.6,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis efektas atrodo profesionaliai, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 21 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2022-12-12",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Corbel 1.19.801",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-801/",
+      "code": "1.19.801",
+      "category": "gembes",
+      "details": {
+        "Plotis": "127 mm",
+        "Aukštis": "100 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.19.801.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.801.obj",
+        "local_path": "data/corbel/Corbel_1_19_801/models/1.19.801.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.19.801_rev_1",
+          "customerName": "Žygimantas Kalinauskas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. galutinis vaizdas atrodo estetiškai ir kokybiškai, o siunta atvyko laiku. Naudoju jau 22 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2022-10-23",
+          "verified": true,
+          "helpful": 33
+        },
+        {
+          "reviewId": "1.19.801_rev_2",
+          "customerName": "Iveta Šimelionis",
+          "rating": 9.8,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. rezultatas labai profesionalus, o logistika suorganizuota profesionaliai. Naudoju jau 36 mėnesius. Rezultatas nuostabus.",
+          "date": "2022-12-02",
+          "verified": true,
+          "helpful": 23
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-002/",
+      "code": "4.83.002",
+      "category": "gembes",
+      "details": {
+        "Plotis": "173 mm",
+        "Aukštis": "114 mm",
+        "Ilgis": "48 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.002.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_002/models/4.83.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 17.24,
+      "price_gbp": "14.86",
+      "reviews": [
+        {
+          "reviewId": "4.83.002_rev_1",
+          "customerName": "Ignas Žiogas",
+          "rating": 9.4,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. naudojimas yra itin patogus, o užsakymo procesas paprastas. Naudoju jau 35 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2025-07-05",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "4.83.002_rev_2",
+          "customerName": "Erika Blaževičius",
+          "rating": 9.6,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. viskas atitiko mano lūkesčius, o prekė atvyko tiksliai laiku. Naudoju jau 34 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-09-04",
+          "verified": true,
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-003/",
+      "code": "4.83.003",
+      "category": "gembes",
+      "details": {
+        "Plotis": "156 mm",
+        "Aukštis": "100 mm",
+        "Ilgis": "46 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.003.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_003/models/4.83.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 13.26,
+      "price_gbp": "11.43",
+      "reviews": [
+        {
+          "reviewId": "4.83.003_rev_1",
+          "customerName": "Baltija Baravykas",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. galutinis efektas atrodo profesionaliai, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 3 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2022-05-06",
+          "verified": true,
+          "helpful": 36
+        },
+        {
+          "reviewId": "4.83.003_rev_2",
+          "customerName": "Ona Kriščiūnas",
+          "rating": 9.8,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. pritaikymas prie interjero vyko be problemų, o siunta supakuota itin tvarkingai. Naudoju jau 4 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-12-06",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-102/",
+      "code": "4.83.102",
+      "category": "gembes",
+      "details": {
+        "Plotis": "356 mm",
+        "Aukštis": "240 mm",
+        "Ilgis": "128 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.102.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_102/models/4.83.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 43.08,
+      "price_gbp": "37.14",
+      "reviews": [
+        {
+          "reviewId": "4.83.102_rev_1",
+          "customerName": "Daina Milčius",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad dizainas atrodo prabangiai. viskas atitiko mano lūkesčius, o prekė saugiai supakuota ir pristatyta. Naudoju jau 23 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2022-01-31",
+          "verified": true,
+          "helpful": 45
+        },
+        {
+          "reviewId": "4.83.102_rev_2",
+          "customerName": "Saulė Ragauskas",
+          "rating": 9.7,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. rezultatas viršijo mano tikslus, o pristatymas greitas ir patikimas. Naudoju jau 21 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2024-03-15",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-201/",
+      "code": "4.83.201",
+      "category": "gembes",
+      "details": {
+        "Plotis": "393 mm",
+        "Aukštis": "277 mm",
+        "Ilgis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.201.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_201/models/4.83.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 58.34,
+      "price_gbp": "50.29",
+      "reviews": [
+        {
+          "reviewId": "4.83.201_rev_1",
+          "customerName": "Adas Mačiulis",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. produktas vertas investicijos, o užsakymo procesas paprastas. Naudoju jau 2 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2022-09-26",
+          "verified": true,
+          "helpful": 51
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-202/",
+      "code": "4.83.202",
+      "category": "gembes",
+      "details": {
+        "Plotis": "355 mm",
+        "Aukštis": "262 mm",
+        "Ilgis": "132 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.202.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_202/models/4.83.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 49.72,
+      "price_gbp": "42.86",
+      "reviews": [
+        {
+          "reviewId": "4.83.202_rev_1",
+          "customerName": "Konstantinas Šarkauskas",
+          "rating": 9.8,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. produktas jaučiasi patvarus ir solidus, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 8 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2023-01-07",
+          "verified": true,
+          "helpful": 51
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-301/",
+      "code": "4.83.301",
+      "category": "gembes",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "276 mm",
+        "Ilgis": "181 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.301.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_301/models/4.83.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.02,
+      "price_gbp": "45.71",
+      "reviews": [
+        {
+          "reviewId": "4.83.301_rev_1",
+          "customerName": "Margarita Stonys",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. produktas pateisino mano lūkesčius, o siunta supakuota itin tvarkingai. Naudoju jau 26 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2024-10-07",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "4.83.301_rev_2",
+          "customerName": "Rytas Vasiliauskas",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia nepriekaištingai ir patikimai, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 36 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2022-11-27",
+          "verified": true,
+          "helpful": 22
+        }
+      ]
+    },
+    {
+      "name": "Pedestal corbel 4.83.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-302/",
+      "code": "4.83.302",
+      "category": "gembes",
+      "details": {
+        "Plotis": "333 mm",
+        "Aukštis": "269 mm",
+        "Ilgis": "128 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.83.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.302.obj",
+        "local_path": "data/corbel/Pedestal_corbel_4_83_302/models/4.83.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.78,
+      "price_gbp": "34.29",
+      "reviews": [
+        {
+          "reviewId": "4.83.302_rev_1",
+          "customerName": "Aivaras Džiugas",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad paviršius lygus, be defektų. naudojimo patirtis aukštos kokybės, o visa patirtis buvo labai teigiama. Naudoju jau 3 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2023-03-15",
+          "verified": true,
+          "helpful": 23
+        }
+      ]
+    }
+  ]
 }

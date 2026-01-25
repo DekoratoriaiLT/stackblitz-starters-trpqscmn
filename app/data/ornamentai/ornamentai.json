@@ -1,1307 +1,1344 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Ornament 1.60.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-003/",
+      "code": "1.60.003",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "26 mm",
+        "Aukštis": "34 mm",
+        "Storis": "13 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.003.obj",
+        "local_path": "data/ornament/Ornament_1_60_003/models/1.60.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.84",
+      "price": 6.77,
+      "reviews": [
         {
-            "name": "Ornament 1.60.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-003/",
-            "code": "1.60.003",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.003.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_003/images/1.60.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.003.100.png"
-                },
-                {
-                    "filename": "1.60.003.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_003/images/1.60.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.003.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "26 mm",
-                "Aukštis": "34 mm",
-                "Storis": "13 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.003.obj",
-                "local_path": "data/ornament/Ornament_1_60_003/models/1.60.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.84",
-            "price": 6.77,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-004/",
-            "code": "1.60.004",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.004.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_004/images/1.60.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.004.100.png"
-                },
-                {
-                    "filename": "1.60.004.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_004/images/1.60.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.004.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "37 mm",
-                "Aukštis": "54 mm",
-                "Storis": "12 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.004.obj",
-                "local_path": "data/ornament/Ornament_1_60_004/models/1.60.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.93",
-            "price": 6.88,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-005/",
-            "code": "1.60.005",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.005.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_005/images/1.60.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.005.100.png"
-                },
-                {
-                    "filename": "1.60.005.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_005/images/1.60.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.005.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "69 mm",
-                "Aukštis": "86 mm",
-                "Storis": "15 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.005.obj",
-                "local_path": "data/ornament/Ornament_1_60_005/models/1.60.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.18",
-            "price": 7.17,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.006",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-006/",
-            "code": "1.60.006",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.006.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_006/images/1.60.006.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.006.100.png"
-                },
-                {
-                    "filename": "1.60.006.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_006/images/1.60.006.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.006.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "59 mm",
-                "Aukštis": "59 mm",
-                "Storis": "10 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.006.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.006.obj",
-                "local_path": "data/ornament/Ornament_1_60_006/models/1.60.006.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.06",
-            "price": 7.03,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.007",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-007/",
-            "code": "1.60.007",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.007.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_007/images/1.60.007.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.007.100.png"
-                },
-                {
-                    "filename": "1.60.007.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_007/images/1.60.007.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.007.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "97 mm",
-                "Aukštis": "155 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.007.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.007.obj",
-                "local_path": "data/ornament/Ornament_1_60_007/models/1.60.007.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.18",
-            "price": 7.17,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.008",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-008/",
-            "code": "1.60.008",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.008.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_008/images/1.60.008.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.008.100.png"
-                },
-                {
-                    "filename": "1.60.008.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_008/images/1.60.008.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.008.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "28 mm",
-                "Aukštis": "82 mm",
-                "Storis": "9 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.008.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.008.obj",
-                "local_path": "data/ornament/Ornament_1_60_008/models/1.60.008.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.84",
-            "price": 6.77,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.009",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-009/",
-            "code": "1.60.009",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.009.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_009/images/1.60.009.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.009.100.png"
-                },
-                {
-                    "filename": "1.60.009.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_009/images/1.60.009.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.009.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "61 mm",
-                "Aukštis": "136 mm",
-                "Storis": "12 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.009.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.009.obj",
-                "local_path": "data/ornament/Ornament_1_60_009/models/1.60.009.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.93",
-            "price": 6.88,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-010/",
-            "code": "1.60.010",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.010.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_010/images/1.60.010.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.010.100.png"
-                },
-                {
-                    "filename": "1.60.010.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_010/images/1.60.010.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.010.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "67 mm",
-                "Aukštis": "165 mm",
-                "Storis": "10 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.010.obj",
-                "local_path": "data/ornament/Ornament_1_60_010/models/1.60.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.93",
-            "price": 6.88,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.011",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-011/",
-            "code": "1.60.011",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.011.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_011/images/1.60.011.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.011.100.png"
-                },
-                {
-                    "filename": "1.60.011.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_011/images/1.60.011.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.011.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "142 mm",
-                "Aukštis": "282 mm",
-                "Storis": "16 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.011.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.011.obj",
-                "local_path": "data/ornament/Ornament_1_60_011/models/1.60.011.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.64",
-            "price": 7.7,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.015",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-015/",
-            "code": "1.60.015",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.015.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_015/images/1.60.015.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.015.100.png"
-                },
-                {
-                    "filename": "1.60.015.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_015/images/1.60.015.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.015.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "51 mm",
-                "Aukštis": "119 mm",
-                "Storis": "22 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.015.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.015.obj",
-                "local_path": "data/ornament/Ornament_1_60_015/models/1.60.015.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.22",
-            "price": 7.22,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.017",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-017/",
-            "code": "1.60.017",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.017.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_017/images/1.60.017.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.017.100.png"
-                },
-                {
-                    "filename": "1.60.017.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_017/images/1.60.017.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.017.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "90 mm",
-                "Aukštis": "90 mm",
-                "Storis": "15 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.017.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.017.obj",
-                "local_path": "data/ornament/Ornament_1_60_017/models/1.60.017.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.71",
-            "price": 7.78,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.019",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-019/",
-            "code": "1.60.019",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.019.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_019/images/1.60.019.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.019.100.png"
-                },
-                {
-                    "filename": "1.60.019.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_019/images/1.60.019.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.019.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "88 mm",
-                "Aukštis": "53 mm",
-                "Storis": "17 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.019.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.019.obj",
-                "local_path": "data/ornament/Ornament_1_60_019/models/1.60.019.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "16.63",
-            "price": 19.29,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.020",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-020/",
-            "code": "1.60.020",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.020.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_020/images/1.60.020.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.020.100.png"
-                },
-                {
-                    "filename": "1.60.020.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_020/images/1.60.020.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.020.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "51 mm",
-                "Aukštis": "155 mm",
-                "Storis": "7 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.020.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.020.obj",
-                "local_path": "data/ornament/Ornament_1_60_020/models/1.60.020.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "7.07",
-            "price": 8.2,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.021",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-021/",
-            "code": "1.60.021",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.021.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_021/images/1.60.021.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.021.100.png"
-                },
-                {
-                    "filename": "1.60.021.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_021/images/1.60.021.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.021.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "817 mm",
-                "Aukštis": "230 mm",
-                "Storis": "44 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.021.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.021.obj",
-                "local_path": "data/ornament/Ornament_1_60_021/models/1.60.021.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "44.80",
-            "price": 51.97,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.022",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-022/",
-            "code": "1.60.022",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.022.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_022/images/1.60.022.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.022.100.png"
-                },
-                {
-                    "filename": "1.60.022.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_022/images/1.60.022.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.022.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "895 mm",
-                "Aukštis": "318 mm",
-                "Storis": "50 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.022.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.022.obj",
-                "local_path": "data/ornament/Ornament_1_60_022/models/1.60.022.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "58.58",
-            "price": 67.95,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.023",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-023/",
-            "code": "1.60.023",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.023.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_023/images/1.60.023.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.023.100.png"
-                },
-                {
-                    "filename": "1.60.023.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_023/images/1.60.023.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.023.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "296 mm",
-                "Aukštis": "158 mm",
-                "Storis": "30 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.023.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.023.obj",
-                "local_path": "data/ornament/Ornament_1_60_023/models/1.60.023.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "25.27",
-            "price": 29.31,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.024",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-024/",
-            "code": "1.60.024",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.024.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_024/images/1.60.024.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.024.100.png"
-                },
-                {
-                    "filename": "1.60.024.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_024/images/1.60.024.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.024.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "236 mm",
-                "Aukštis": "191 mm",
-                "Storis": "24 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.024.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.024.obj",
-                "local_path": "data/ornament/Ornament_1_60_024/models/1.60.024.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "21.59",
-            "price": 25.04,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.025",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-025/",
-            "code": "1.60.025",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.025.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_025/images/1.60.025.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.025.100.png"
-                },
-                {
-                    "filename": "1.60.025.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_025/images/1.60.025.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.025.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "385 mm",
-                "Aukštis": "209 mm",
-                "Storis": "32 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.025.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.025.obj",
-                "local_path": "data/ornament/Ornament_1_60_025/models/1.60.025.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "21.82",
-            "price": 25.31,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.027",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-027/",
-            "code": "1.60.027",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.027.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_027/images/1.60.027.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.027.100.png"
-                },
-                {
-                    "filename": "1.60.027.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_027/images/1.60.027.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.027.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "152 mm",
-                "Storis": "31 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.027.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.027.obj",
-                "local_path": "data/ornament/Ornament_1_60_027/models/1.60.027.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "21.59",
-            "price": 25.04,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.028",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-028/",
-            "code": "1.60.028",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.028.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_028/images/1.60.028.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.028.100.png"
-                },
-                {
-                    "filename": "1.60.028.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_028/images/1.60.028.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.028.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "120 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.028.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.028.obj",
-                "local_path": "data/ornament/Ornament_1_60_028/models/1.60.028.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "27.71",
-            "price": 32.14,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.030",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-030/",
-            "code": "1.60.030",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.030.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_030/images/1.60.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.030.100.png"
-                },
-                {
-                    "filename": "1.60.030.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_030/images/1.60.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.030.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "285 mm",
-                "Aukštis": "154 mm",
-                "Storis": "22 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.030.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.030.obj",
-                "local_path": "data/ornament/Ornament_1_60_030/models/1.60.030.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "20.77",
-            "price": 24.09,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.031",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-031/",
-            "code": "1.60.031",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.031.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_031/images/1.60.031.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.031.100.png"
-                },
-                {
-                    "filename": "1.60.031.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_031/images/1.60.031.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.031.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "232 mm",
-                "Aukštis": "141 mm",
-                "Storis": "28 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.031.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.031.obj",
-                "local_path": "data/ornament/Ornament_1_60_031/models/1.60.031.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "20.58",
-            "price": 23.87,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.032",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-032/",
-            "code": "1.60.032",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.032.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.032.100.png"
-                },
-                {
-                    "filename": "1.60.032.20.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.60.032.20.png"
-                },
-                {
-                    "filename": "1.60.032.30.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.60.032.30.png"
-                },
-                {
-                    "filename": "1.60.032.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.032.100.png"
-                },
-                {
-                    "filename": "1.60.032.20.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.60.032.20.png"
-                },
-                {
-                    "filename": "1.60.032.30.png",
-                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.60.032.30.png"
-                }
-            ],
-            "details": {
-                "Plotis": "604 mm",
-                "Aukštis": "189 mm",
-                "Storis": "50 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.032.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.032.obj",
-                "local_path": "data/ornament/Ornament_1_60_032/models/1.60.032.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "40.14",
-            "price": 46.56,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.034",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-034/",
-            "code": "1.60.034",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.034.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_034/images/1.60.034.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.034.100.png"
-                },
-                {
-                    "filename": "1.60.034.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_034/images/1.60.034.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.034.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "263 mm",
-                "Aukštis": "95 mm",
-                "Storis": "12 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.034.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.034.obj",
-                "local_path": "data/ornament/Ornament_1_60_034/models/1.60.034.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "20.35",
-            "price": 23.61,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.035",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-035/",
-            "code": "1.60.035",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.035.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_035/images/1.60.035.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.035.100.png"
-                },
-                {
-                    "filename": "1.60.035.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_035/images/1.60.035.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.035.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "76 mm",
-                "Aukštis": "142 mm",
-                "Storis": "16 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.035.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.035.obj",
-                "local_path": "data/ornament/Ornament_1_60_035/models/1.60.035.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.46",
-            "price": 7.49,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.036",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-036/",
-            "code": "1.60.036",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.036.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_036/images/1.60.036.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.036.100.png"
-                },
-                {
-                    "filename": "1.60.036.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_036/images/1.60.036.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.036.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "789 mm",
-                "Aukštis": "359 mm",
-                "Storis": "49 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.036.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.036.obj",
-                "local_path": "data/ornament/Ornament_1_60_036/models/1.60.036.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "43.41",
-            "price": 50.36,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.037",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-037/",
-            "code": "1.60.037",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.037.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_037/images/1.60.037.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.037.100.png"
-                },
-                {
-                    "filename": "1.60.037.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_037/images/1.60.037.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.037.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "264 mm",
-                "Aukštis": "297 mm",
-                "Storis": "21 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.037.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.037.obj",
-                "local_path": "data/ornament/Ornament_1_60_037/models/1.60.037.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "25.05",
-            "price": 29.06,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.038",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-038/",
-            "code": "1.60.038",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.038.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_038/images/1.60.038.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.038.100.png"
-                },
-                {
-                    "filename": "1.60.038.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_038/images/1.60.038.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.038.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "120 mm",
-                "Aukštis": "230 mm",
-                "Storis": "23 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.038.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.038.obj",
-                "local_path": "data/ornament/Ornament_1_60_038/models/1.60.038.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "23.92",
-            "price": 27.75,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.108",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-108/",
-            "code": "1.60.108",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.108.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_108/images/1.60.108.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.108.100.png"
-                },
-                {
-                    "filename": "1.60.108.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_108/images/1.60.108.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.108.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "27 mm",
-                "Aukštis": "82 mm",
-                "Storis": "7 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.108.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.108.obj",
-                "local_path": "data/ornament/Ornament_1_60_108/models/1.60.108.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.84",
-            "price": 6.77,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.109",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-109/",
-            "code": "1.60.109",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.109.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_109/images/1.60.109.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.109.100.png"
-                },
-                {
-                    "filename": "1.60.109.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_109/images/1.60.109.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.109.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "62 mm",
-                "Aukštis": "136 mm",
-                "Storis": "13 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.109.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.109.obj",
-                "local_path": "data/ornament/Ornament_1_60_109/models/1.60.109.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.93",
-            "price": 6.88,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.110",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-110/",
-            "code": "1.60.110",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.110.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_110/images/1.60.110.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.110.100.png"
-                },
-                {
-                    "filename": "1.60.110.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_110/images/1.60.110.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.110.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "67 mm",
-                "Aukštis": "165 mm",
-                "Storis": "10 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.110.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.110.obj",
-                "local_path": "data/ornament/Ornament_1_60_110/models/1.60.110.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.93",
-            "price": 6.88,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.111",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-111/",
-            "code": "1.60.111",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.111.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_111/images/1.60.111.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.111.100.png"
-                },
-                {
-                    "filename": "1.60.111.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_111/images/1.60.111.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.111.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "142 mm",
-                "Aukštis": "282 mm",
-                "Storis": "16 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.111.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.111.obj",
-                "local_path": "data/ornament/Ornament_1_60_111/models/1.60.111.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.64",
-            "price": 7.7,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.120",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-120/",
-            "code": "1.60.120",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.120.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_120/images/1.60.120.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.120.100.png"
-                },
-                {
-                    "filename": "1.60.120.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_120/images/1.60.120.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.120.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "51 mm",
-                "Aukštis": "155 mm",
-                "Storis": "7 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.120.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.120.obj",
-                "local_path": "data/ornament/Ornament_1_60_120/models/1.60.120.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "7.07",
-            "price": 8.2,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.123",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-123/",
-            "code": "1.60.123",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.123.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_123/images/1.60.123.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.123.100.png"
-                },
-                {
-                    "filename": "1.60.123.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_123/images/1.60.123.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.123.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "296 mm",
-                "Aukštis": "158 mm",
-                "Storis": "30 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.123.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.123.obj",
-                "local_path": "data/ornament/Ornament_1_60_123/models/1.60.123.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "25.27",
-            "price": 29.31,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.135",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-135/",
-            "code": "1.60.135",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.135.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_135/images/1.60.135.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.135.100.png"
-                },
-                {
-                    "filename": "1.60.135.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_135/images/1.60.135.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.135.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "76 mm",
-                "Aukštis": "142 mm",
-                "Storis": "16 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.135.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.135.obj",
-                "local_path": "data/ornament/Ornament_1_60_135/models/1.60.135.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.46",
-            "price": 7.49,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.501",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-501/",
-            "code": "1.60.501",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.501.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_501/images/1.60.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.501.100.png"
-                },
-                {
-                    "filename": "1.60.501.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_501/images/1.60.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.501.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "170 mm",
-                "Aukštis": "165 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.501.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.501.obj",
-                "local_path": "data/ornament/Ornament_1_60_501/models/1.60.501.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Ornament 1.60.503",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-60-503/",
-            "code": "1.60.503",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "1.60.503.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_503/images/1.60.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.503.100.png"
-                },
-                {
-                    "filename": "1.60.503.100.png",
-                    "local_path": "data/ornament/Ornament_1_60_503/images/1.60.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.503.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "91 mm",
-                "Aukštis": "91 mm",
-                "Storis": "28 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.60.503.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.503.obj",
-                "local_path": "data/ornament/Ornament_1_60_503/models/1.60.503.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Ornament 4.99.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
-            "code": "4.99.001",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "4.99.001.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
-                },
-                {
-                    "filename": "4.99.001.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "458 mm",
-                "Aukštis": "180 mm",
-                "Storis": "42 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.99.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
-                "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "17.60",
-            "price": 20.42,
-            "reviews": []
-        },
-        {
-            "name": "Ornament 4.99.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
-            "code": "4.99.002",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "4.99.002.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
-                },
-                {
-                    "filename": "4.99.002.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "52 mm",
-                "Aukštis": "165 mm",
-                "Storis": "28 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.99.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
-                "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.14",
-            "price": 5.96,
-            "reviews": []
+          "reviewId": "1.60.003_rev_1",
+          "customerName": "Nijolė Kniukšta",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. rezultatas atrodo nepriekaištingai, o logistika suorganizuota profesionaliai. Naudoju jau 31 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2023-08-14",
+          "verified": true,
+          "helpful": 57
         }
-    ]
+      ]
+    },
+    {
+      "name": "Ornament 1.60.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-004/",
+      "code": "1.60.004",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "37 mm",
+        "Aukštis": "54 mm",
+        "Storis": "12 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.004.obj",
+        "local_path": "data/ornament/Ornament_1_60_004/models/1.60.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.93",
+      "price": 6.88,
+      "reviews": [
+        {
+          "reviewId": "1.60.004_rev_1",
+          "customerName": "Jeremijas Burbulis",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimo patirtis paprasta ir maloni, o pakuotė tvarkinga ir estetiška. Naudoju jau 29 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2023-03-10",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-005/",
+      "code": "1.60.005",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "69 mm",
+        "Aukštis": "86 mm",
+        "Storis": "15 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.005.obj",
+        "local_path": "data/ornament/Ornament_1_60_005/models/1.60.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.18",
+      "price": 7.17,
+      "reviews": [
+        {
+          "reviewId": "1.60.005_rev_1",
+          "customerName": "Gabrielius Kavaliauskas",
+          "rating": 9.8,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. montavimas buvo greitas ir paprastas, o pakuotė puikiai apsaugojo produktą. Naudoju jau 20 mėnesius. Likau labai patenkintas.",
+          "date": "2024-05-20",
+          "verified": true,
+          "helpful": 47
+        },
+        {
+          "reviewId": "1.60.005_rev_2",
+          "customerName": "Rebeka Tijūnaitis",
+          "rating": 9.5,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. produktas pateisino mano lūkesčius, o pakuotė saugi ir tvirta. Naudoju jau 35 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2023-10-01",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.006",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-006/",
+      "code": "1.60.006",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "59 mm",
+        "Aukštis": "59 mm",
+        "Storis": "10 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.006.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.006.obj",
+        "local_path": "data/ornament/Ornament_1_60_006/models/1.60.006.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.06",
+      "price": 7.03,
+      "reviews": [
+        {
+          "reviewId": "1.60.006_rev_1",
+          "customerName": "Faustas Dambrauskas",
+          "rating": 9.8,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. rezultatas atrodo nepriekaištingai, o siunta pristatyta kaip sutarta. Naudoju jau 25 mėnesius. Tikrai verta šio produkto.",
+          "date": "2023-07-06",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.007",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-007/",
+      "code": "1.60.007",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "97 mm",
+        "Aukštis": "155 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.007.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.007.obj",
+        "local_path": "data/ornament/Ornament_1_60_007/models/1.60.007.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.18",
+      "price": 7.17,
+      "reviews": [
+        {
+          "reviewId": "1.60.007_rev_1",
+          "customerName": "Edvinas Sabaliauskas",
+          "rating": 9.7,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. naudojimas lengvas net pradedantiesiems, o prekė atvyko labai greitai. Naudoju jau 8 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2025-05-27",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.008",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-008/",
+      "code": "1.60.008",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "28 mm",
+        "Aukštis": "82 mm",
+        "Storis": "9 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.008.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.008.obj",
+        "local_path": "data/ornament/Ornament_1_60_008/models/1.60.008.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.84",
+      "price": 6.77,
+      "reviews": [
+        {
+          "reviewId": "1.60.008_rev_1",
+          "customerName": "Marija Balandis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimas patogus ir efektyvus, o visa patirtis su užsakymu puiki. Naudoju jau 16 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2023-08-06",
+          "verified": true,
+          "helpful": 54
+        },
+        {
+          "reviewId": "1.60.008_rev_2",
+          "customerName": "Rolandas Baravykas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. produktas pateisino mano lūkesčius, o užsakymo procesas aiškus ir paprastas. Naudoju jau 7 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2025-07-01",
+          "verified": true,
+          "helpful": 17
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.009",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-009/",
+      "code": "1.60.009",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "61 mm",
+        "Aukštis": "136 mm",
+        "Storis": "12 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.009.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.009.obj",
+        "local_path": "data/ornament/Ornament_1_60_009/models/1.60.009.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.93",
+      "price": 6.88,
+      "reviews": [
+        {
+          "reviewId": "1.60.009_rev_1",
+          "customerName": "Aleksas Vaitkus",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. naudojimas greitas ir komfortiškas, o pristatymas buvo greitas. Naudoju jau 8 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2025-08-07",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-010/",
+      "code": "1.60.010",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "67 mm",
+        "Aukštis": "165 mm",
+        "Storis": "10 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.010.obj",
+        "local_path": "data/ornament/Ornament_1_60_010/models/1.60.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.93",
+      "price": 6.88,
+      "reviews": [
+        {
+          "reviewId": "1.60.010_rev_1",
+          "customerName": "Eimantas Baronas",
+          "rating": 10.0,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. naudojimas patogus ir efektyvus, o užsakymas įvykdytas laiku. Naudoju jau 35 mėnesius. Rezultatas nuostabus.",
+          "date": "2024-02-22",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.011",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-011/",
+      "code": "1.60.011",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "142 mm",
+        "Aukštis": "282 mm",
+        "Storis": "16 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.011.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.011.obj",
+        "local_path": "data/ornament/Ornament_1_60_011/models/1.60.011.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.64",
+      "price": 7.7,
+      "reviews": [
+        {
+          "reviewId": "1.60.011_rev_1",
+          "customerName": "Ugnius Urbonaitis",
+          "rating": 9.7,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. montavimas nesudėtingas, o siunta pristatyta saugiai ir laiku. Naudoju jau 34 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2023-01-17",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.015",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-015/",
+      "code": "1.60.015",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "51 mm",
+        "Aukštis": "119 mm",
+        "Storis": "22 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.015.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.015.obj",
+        "local_path": "data/ornament/Ornament_1_60_015/models/1.60.015.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.22",
+      "price": 7.22,
+      "reviews": [
+        {
+          "reviewId": "1.60.015_rev_1",
+          "customerName": "Zita Zinkevičius",
+          "rating": 9.9,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad dizainas modernus ir stilingas. viskas veikia sklandžiai ir tiksliai, o komunikacija buvo aiški ir maloni. Naudoju jau 15 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-07-05",
+          "verified": true,
+          "helpful": 52
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.017",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-017/",
+      "code": "1.60.017",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "90 mm",
+        "Aukštis": "90 mm",
+        "Storis": "15 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.017.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.017.obj",
+        "local_path": "data/ornament/Ornament_1_60_017/models/1.60.017.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.71",
+      "price": 7.78,
+      "reviews": [
+        {
+          "reviewId": "1.60.017_rev_1",
+          "customerName": "Romualda Žemaitis",
+          "rating": 9.6,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. pritaikymas prie interjero nekelia problemų, o pakuotė saugi ir tvirta. Naudoju jau 13 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2024-03-24",
+          "verified": true,
+          "helpful": 8
+        },
+        {
+          "reviewId": "1.60.017_rev_2",
+          "customerName": "Milda Lukoševičius",
+          "rating": 9.5,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. galutinis vaizdas tikrai estetiškas, o pristatymas patikimas ir greitas. Naudoju jau 12 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2022-06-12",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.019",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-019/",
+      "code": "1.60.019",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "88 mm",
+        "Aukštis": "53 mm",
+        "Storis": "17 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.019.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.019.obj",
+        "local_path": "data/ornament/Ornament_1_60_019/models/1.60.019.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "16.63",
+      "price": 19.29,
+      "reviews": [
+        {
+          "reviewId": "1.60.019_rev_1",
+          "customerName": "Skolastika Baravykas",
+          "rating": 9.8,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. viskas veikia sklandžiai, o aptarnavimas paliko gerą įspūdį. Naudoju jau 7 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2025-05-25",
+          "verified": true,
+          "helpful": 4
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.020",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-020/",
+      "code": "1.60.020",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "51 mm",
+        "Aukštis": "155 mm",
+        "Storis": "7 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.020.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.020.obj",
+        "local_path": "data/ornament/Ornament_1_60_020/models/1.60.020.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "7.07",
+      "price": 8.2,
+      "reviews": [
+        {
+          "reviewId": "1.60.020_rev_1",
+          "customerName": "Eidmantas Šiugždinis",
+          "rating": 10.0,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. rezultatas viršijo mano tikslus, o pakuotė tvarkinga ir estetiška. Naudoju jau 31 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2023-04-18",
+          "verified": true,
+          "helpful": 37
+        },
+        {
+          "reviewId": "1.60.020_rev_2",
+          "customerName": "Augustinas Mockevičius",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. galutinis vaizdas atrodo estetiškai ir kokybiškai, o visa patirtis sklandi. Naudoju jau 31 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-07-07",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.021",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-021/",
+      "code": "1.60.021",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "817 mm",
+        "Aukštis": "230 mm",
+        "Storis": "44 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.021.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.021.obj",
+        "local_path": "data/ornament/Ornament_1_60_021/models/1.60.021.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "44.80",
+      "price": 51.97,
+      "reviews": [
+        {
+          "reviewId": "1.60.021_rev_1",
+          "customerName": "Anelė Mačiulis",
+          "rating": 9.8,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad paviršius lygus, be defektų. pritaikymas prie interjero sėkmingas, o siunta atvyko laiku. Naudoju jau 17 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2024-06-12",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.022",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-022/",
+      "code": "1.60.022",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "895 mm",
+        "Aukštis": "318 mm",
+        "Storis": "50 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.022.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.022.obj",
+        "local_path": "data/ornament/Ornament_1_60_022/models/1.60.022.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "58.58",
+      "price": 67.95,
+      "reviews": [
+        {
+          "reviewId": "1.60.022_rev_1",
+          "customerName": "Pranciškus Kairys",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. produktas pateisino investiciją, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 24 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-07-11",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.023",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-023/",
+      "code": "1.60.023",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "296 mm",
+        "Aukštis": "158 mm",
+        "Storis": "30 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.023.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.023.obj",
+        "local_path": "data/ornament/Ornament_1_60_023/models/1.60.023.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "25.27",
+      "price": 29.31,
+      "reviews": [
+        {
+          "reviewId": "1.60.023_rev_1",
+          "customerName": "Vygandas Jakubauskas",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. pritaikymas prie interjero sėkmingas, o užsakymas įvykdytas sklandžiai. Naudoju jau 20 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2022-11-21",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "1.60.023_rev_2",
+          "customerName": "Aleksas Barzda",
+          "rating": 9.5,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. galutinis vaizdas labai estetiškas, o aptarnavimas profesionalus ir malonus. Naudoju jau 8 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2025-11-06",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.024",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-024/",
+      "code": "1.60.024",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "236 mm",
+        "Aukštis": "191 mm",
+        "Storis": "24 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.024.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.024.obj",
+        "local_path": "data/ornament/Ornament_1_60_024/models/1.60.024.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "21.59",
+      "price": 25.04,
+      "reviews": [
+        {
+          "reviewId": "1.60.024_rev_1",
+          "customerName": "Edis Žalys",
+          "rating": 9.5,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. montavimas buvo labai paprastas, o pakuotė saugi ir tvirta. Naudoju jau 27 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2023-07-12",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.025",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-025/",
+      "code": "1.60.025",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "385 mm",
+        "Aukštis": "209 mm",
+        "Storis": "32 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.025.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.025.obj",
+        "local_path": "data/ornament/Ornament_1_60_025/models/1.60.025.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "21.82",
+      "price": 25.31,
+      "reviews": [
+        {
+          "reviewId": "1.60.025_rev_1",
+          "customerName": "Beata Šalčius",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. produktas vertas investicijos, o prekė atvyko labai greitai. Naudoju jau 20 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2023-11-08",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "1.60.025_rev_2",
+          "customerName": "Valerijonas Mockevičius",
+          "rating": 9.6,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. montavimas neužtruko nė minutės, o pakuotė tvarkinga ir estetiška. Naudoju jau 35 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2025-11-14",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.027",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-027/",
+      "code": "1.60.027",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "152 mm",
+        "Storis": "31 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.027.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.027.obj",
+        "local_path": "data/ornament/Ornament_1_60_027/models/1.60.027.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "21.59",
+      "price": 25.04,
+      "reviews": [
+        {
+          "reviewId": "1.60.027_rev_1",
+          "customerName": "Indrė Černius",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. viskas atitiko mano lūkesčius, o pakuotė tvarkinga ir estetiška. Naudoju jau 34 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-03-11",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "1.60.027_rev_2",
+          "customerName": "Alma Petraitis",
+          "rating": 9.7,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. produktas pateisino mano lūkesčius, o visa patirtis su užsakymu teigiama. Naudoju jau 33 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-08-20",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.028",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-028/",
+      "code": "1.60.028",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "120 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.028.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.028.obj",
+        "local_path": "data/ornament/Ornament_1_60_028/models/1.60.028.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "27.71",
+      "price": 32.14,
+      "reviews": [
+        {
+          "reviewId": "1.60.028_rev_1",
+          "customerName": "Laima Žiukelis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. naudojimas paprastas ir intuityvus, o visa patirtis sklandi. Naudoju jau 33 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2022-10-30",
+          "verified": true,
+          "helpful": 53
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.030",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-030/",
+      "code": "1.60.030",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "285 mm",
+        "Aukštis": "154 mm",
+        "Storis": "22 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.030.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.030.obj",
+        "local_path": "data/ornament/Ornament_1_60_030/models/1.60.030.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "20.77",
+      "price": 24.09,
+      "reviews": [
+        {
+          "reviewId": "1.60.030_rev_1",
+          "customerName": "Edgaras Baniulis",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad apdirbimas itin preciziškas. naudojimo patirtis puiki, o komunikacija su pardavėju sklandi. Naudoju jau 21 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2022-04-28",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.031",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-031/",
+      "code": "1.60.031",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "232 mm",
+        "Aukštis": "141 mm",
+        "Storis": "28 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.031.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.031.obj",
+        "local_path": "data/ornament/Ornament_1_60_031/models/1.60.031.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "20.58",
+      "price": 23.87,
+      "reviews": [
+        {
+          "reviewId": "1.60.031_rev_1",
+          "customerName": "Valerijonas Sabaliauskas",
+          "rating": 9.9,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. naudojimas paprastas ir intuityvus, o pakuotė tvarkinga ir estetiška. Naudoju jau 14 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2023-04-23",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.032",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-032/",
+      "code": "1.60.032",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "604 mm",
+        "Aukštis": "189 mm",
+        "Storis": "50 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.032.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.032.obj",
+        "local_path": "data/ornament/Ornament_1_60_032/models/1.60.032.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "40.14",
+      "price": 46.56,
+      "reviews": [
+        {
+          "reviewId": "1.60.032_rev_1",
+          "customerName": "Pranė Petraitis",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad dizainas stilingas ir modernus. rezultatas pranoko mano lūkesčius, o visa patirtis buvo labai teigiama. Naudoju jau 22 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-08-05",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.034",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-034/",
+      "code": "1.60.034",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "263 mm",
+        "Aukštis": "95 mm",
+        "Storis": "12 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.034.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.034.obj",
+        "local_path": "data/ornament/Ornament_1_60_034/models/1.60.034.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "20.35",
+      "price": 23.61,
+      "reviews": [
+        {
+          "reviewId": "1.60.034_rev_1",
+          "customerName": "Abraomas Vaitiekūnas",
+          "rating": 9.6,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad dizainas atrodo prabangiai. naudojimas lengvas net pradedantiesiems, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 35 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2022-04-21",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "1.60.034_rev_2",
+          "customerName": "Ineta Gedvilas",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. rezultatas atrodo labai profesionaliai, o visa patirtis su užsakymu teigiama. Naudoju jau 11 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2023-10-14",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.035",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-035/",
+      "code": "1.60.035",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "76 mm",
+        "Aukštis": "142 mm",
+        "Storis": "16 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.035.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.035.obj",
+        "local_path": "data/ornament/Ornament_1_60_035/models/1.60.035.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.46",
+      "price": 7.49,
+      "reviews": [
+        {
+          "reviewId": "1.60.035_rev_1",
+          "customerName": "Violeta Baniulis",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. rezultatas pranoko mano lūkesčius, o prekė buvo saugiai supakuota. Naudoju jau 31 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2022-04-13",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.036",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-036/",
+      "code": "1.60.036",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "789 mm",
+        "Aukštis": "359 mm",
+        "Storis": "49 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.036.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.036.obj",
+        "local_path": "data/ornament/Ornament_1_60_036/models/1.60.036.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "43.41",
+      "price": 50.36,
+      "reviews": [
+        {
+          "reviewId": "1.60.036_rev_1",
+          "customerName": "Lozorius Urbonaitis",
+          "rating": 9.5,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. naudojimo patirtis paprasta ir maloni, o aptarnavimas paliko gerą įspūdį. Naudoju jau 32 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2022-08-26",
+          "verified": true,
+          "helpful": 31
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.037",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-037/",
+      "code": "1.60.037",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "264 mm",
+        "Aukštis": "297 mm",
+        "Storis": "21 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.037.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.037.obj",
+        "local_path": "data/ornament/Ornament_1_60_037/models/1.60.037.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "25.05",
+      "price": 29.06,
+      "reviews": [
+        {
+          "reviewId": "1.60.037_rev_1",
+          "customerName": "Aidas Kleinas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad produktas atrodo solidžiai. naudojimas patogus ir paprastas, o komunikacija buvo aiški. Naudoju jau 16 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2025-04-03",
+          "verified": true,
+          "helpful": 39
+        },
+        {
+          "reviewId": "1.60.037_rev_2",
+          "customerName": "Dalia Balčius",
+          "rating": 9.4,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. montavimas tikrai nekelia rūpesčių, o visa patirtis maloni ir sklandi. Naudoju jau 31 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2025-07-30",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.038",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-038/",
+      "code": "1.60.038",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "120 mm",
+        "Aukštis": "230 mm",
+        "Storis": "23 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.038.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.038.obj",
+        "local_path": "data/ornament/Ornament_1_60_038/models/1.60.038.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "23.92",
+      "price": 27.75,
+      "reviews": [
+        {
+          "reviewId": "1.60.038_rev_1",
+          "customerName": "Dorotėja Lazauskas",
+          "rating": 9.8,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. viskas atitiko mano lūkesčius, o pakuotė tvarkinga ir saugi. Naudoju jau 15 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-08-08",
+          "verified": true,
+          "helpful": 43
+        },
+        {
+          "reviewId": "1.60.038_rev_2",
+          "customerName": "Aurelija Bagdonas",
+          "rating": 9.6,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad dizainas modernus ir stilingas. galutinis vaizdas atitinka nuotraukas, o logistika buvo gerai organizuota. Naudoju jau 14 mėnesius. Tikrai verta šio produkto.",
+          "date": "2023-07-04",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.108",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-108/",
+      "code": "1.60.108",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "27 mm",
+        "Aukštis": "82 mm",
+        "Storis": "7 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.108.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.108.obj",
+        "local_path": "data/ornament/Ornament_1_60_108/models/1.60.108.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.84",
+      "price": 6.77,
+      "reviews": [
+        {
+          "reviewId": "1.60.108_rev_1",
+          "customerName": "Jadvyga Lukoševičius",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. pritaikymas prie interjero vyko be problemų, o užsakymas įvykdytas be problemų. Naudoju jau 9 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2024-02-09",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.109",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-109/",
+      "code": "1.60.109",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "62 mm",
+        "Aukštis": "136 mm",
+        "Storis": "13 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.109.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.109.obj",
+        "local_path": "data/ornament/Ornament_1_60_109/models/1.60.109.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.93",
+      "price": 6.88,
+      "reviews": [
+        {
+          "reviewId": "1.60.109_rev_1",
+          "customerName": "Frederikas Žebrauskas",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. pritaikymas prie interjero sėkmingas, o užsakymo procesas labai patogus. Naudoju jau 19 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2023-10-11",
+          "verified": true,
+          "helpful": 11
+        },
+        {
+          "reviewId": "1.60.109_rev_2",
+          "customerName": "Alina Stankevičius",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. naudojimas lengvas net pradedantiesiems, o logistika efektyvi ir profesionali. Naudoju jau 25 mėnesius. Tikrai verta šio produkto.",
+          "date": "2023-03-13",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.110",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-110/",
+      "code": "1.60.110",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "67 mm",
+        "Aukštis": "165 mm",
+        "Storis": "10 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.110.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.110.obj",
+        "local_path": "data/ornament/Ornament_1_60_110/models/1.60.110.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.93",
+      "price": 6.88,
+      "reviews": [
+        {
+          "reviewId": "1.60.110_rev_1",
+          "customerName": "Gintas Vaičiūnas",
+          "rating": 9.6,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad dizainas stilingas ir modernus. naudojimo patirtis paprasta ir maloni, o visa patirtis buvo labai teigiama. Naudoju jau 19 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2025-04-21",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.111",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-111/",
+      "code": "1.60.111",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "142 mm",
+        "Aukštis": "282 mm",
+        "Storis": "16 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.111.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.111.obj",
+        "local_path": "data/ornament/Ornament_1_60_111/models/1.60.111.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.64",
+      "price": 7.7,
+      "reviews": [
+        {
+          "reviewId": "1.60.111_rev_1",
+          "customerName": "Rolandas Čepulis",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. naudojimo patirtis labai teigiama, o pakuotė saugi ir tvirta. Naudoju jau 25 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2023-08-11",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.120",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-120/",
+      "code": "1.60.120",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "51 mm",
+        "Aukštis": "155 mm",
+        "Storis": "7 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.120.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.120.obj",
+        "local_path": "data/ornament/Ornament_1_60_120/models/1.60.120.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "7.07",
+      "price": 8.2,
+      "reviews": [
+        {
+          "reviewId": "1.60.120_rev_1",
+          "customerName": "Ingrida Puodžiūnas",
+          "rating": 9.8,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. pritaikymas prie kambario lengvai įmanomas, o visa patirtis maloni ir sklandi. Naudoju jau 26 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-09-05",
+          "verified": true,
+          "helpful": 58
+        },
+        {
+          "reviewId": "1.60.120_rev_2",
+          "customerName": "Gintarė Baronas",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad apdirbimas itin preciziškas. viskas atitiko mano lūkesčius, o pakuotė tvarkinga ir saugi. Naudoju jau 20 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2022-10-11",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.123",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-123/",
+      "code": "1.60.123",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "296 mm",
+        "Aukštis": "158 mm",
+        "Storis": "30 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.123.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.123.obj",
+        "local_path": "data/ornament/Ornament_1_60_123/models/1.60.123.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "25.27",
+      "price": 29.31,
+      "reviews": [
+        {
+          "reviewId": "1.60.123_rev_1",
+          "customerName": "Austėja Žiogas",
+          "rating": 9.4,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. galutinis vaizdas labai estetiškas, o pristatymas buvo greitas. Naudoju jau 2 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-08-14",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "1.60.123_rev_2",
+          "customerName": "Margarita Milčius",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. galutinis efektas atrodo profesionaliai, o komunikacija buvo aiški. Naudoju jau 8 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2024-03-19",
+          "verified": true,
+          "helpful": 31
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.135",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-135/",
+      "code": "1.60.135",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "76 mm",
+        "Aukštis": "142 mm",
+        "Storis": "16 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.135.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.135.obj",
+        "local_path": "data/ornament/Ornament_1_60_135/models/1.60.135.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.46",
+      "price": 7.49,
+      "reviews": [
+        {
+          "reviewId": "1.60.135_rev_1",
+          "customerName": "Medardas Jakštas",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad kokybė yra išskirtinė. montavimas tikrai nekelia rūpesčių, o siunta pristatyta kaip sutarta. Naudoju jau 24 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2022-09-15",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.501",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-501/",
+      "code": "1.60.501",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "170 mm",
+        "Aukštis": "165 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.501.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.501.obj",
+        "local_path": "data/ornament/Ornament_1_60_501/models/1.60.501.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.60.501_rev_1",
+          "customerName": "Emilija Gailius",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad detalės išbaigtos su meile. naudojimo patirtis aukštos kokybės, o komunikacija buvo aiški. Naudoju jau 16 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-02-09",
+          "verified": true,
+          "helpful": 13
+        },
+        {
+          "reviewId": "1.60.501_rev_2",
+          "customerName": "Saulutė Kalinauskas",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad dizainas stilingas ir modernus. galutinis vaizdas atitinka nuotraukas, o komunikacija buvo aiški ir maloni. Naudoju jau 20 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2025-07-04",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Ornament 1.60.503",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-60-503/",
+      "code": "1.60.503",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "91 mm",
+        "Aukštis": "91 mm",
+        "Storis": "28 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.60.503.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.503.obj",
+        "local_path": "data/ornament/Ornament_1_60_503/models/1.60.503.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.60.503_rev_1",
+          "customerName": "Naglis Stankevičius",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. montavimas tikrai nekelia rūpesčių, o komunikacija su pardavėju puiki. Naudoju jau 3 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2024-08-20",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Ornament 4.99.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
+      "code": "4.99.001",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "458 mm",
+        "Aukštis": "180 mm",
+        "Storis": "42 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.99.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
+        "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "17.60",
+      "price": 20.42,
+      "reviews": [
+        {
+          "reviewId": "4.99.001_rev_1",
+          "customerName": "Nomeda Staniulis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. rezultatas viršijo mano lūkesčius, o siunta atvyko laiku. Naudoju jau 18 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-09-14",
+          "verified": true,
+          "helpful": 26
+        },
+        {
+          "reviewId": "4.99.001_rev_2",
+          "customerName": "Toma Dargis",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. montavimas nesudėtingas, o prekė pristatyta nepriekaištingai. Naudoju jau 30 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2025-05-04",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Ornament 4.99.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
+      "code": "4.99.002",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "52 mm",
+        "Aukštis": "165 mm",
+        "Storis": "28 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.99.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
+        "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.14",
+      "price": 5.96,
+      "reviews": [
+        {
+          "reviewId": "4.99.002_rev_1",
+          "customerName": "Justina Dargis",
+          "rating": 9.4,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. naudojimas patogus ir paprastas, o pristatymas buvo greitas. Naudoju jau 11 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2024-03-13",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    }
+  ]
 }

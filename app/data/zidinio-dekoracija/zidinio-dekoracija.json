@@ -1,919 +1,573 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Decorative fireplace 1.64.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-100/",
+      "code": "1.64.100",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1295 mm",
+        "Aukštis": "1097 mm",
+        "Ilgis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.100.obj",
+        "local_path": "data/fireplace/Decorative_fireplace_1_64_100/models/1.64.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
         {
-            "name": "Decorative fireplace 1.64.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-100/",
-            "code": "1.64.100",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.100.10.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_100/images/1.64.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.100.10.png"
-                },
-                {
-                    "filename": "1.64.100.10.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_100/images/1.64.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.100.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1295 mm",
-                "Aukštis": "1097 mm",
-                "Ilgis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.100.obj",
-                "local_path": "data/fireplace/Decorative_fireplace_1_64_100/models/1.64.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative fireplace 1.64.101",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-101/",
-            "code": "1.64.101",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.101.10.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.101.10.png"
-                },
-                {
-                    "filename": "1.64.101.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.101.20.png"
-                },
-                {
-                    "filename": "1.64.101.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.101.30.png"
-                },
-                {
-                    "filename": "1.64.101.10.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.101.10.png"
-                },
-                {
-                    "filename": "1.64.101.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.101.20.png"
-                },
-                {
-                    "filename": "1.64.101.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_101/images/1.64.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.101.30.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1303 mm",
-                "Aukštis": "1170 mm",
-                "Ilgis": "221 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.101.obj",
-                "local_path": "data/fireplace/Decorative_fireplace_1_64_101/models/1.64.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative fireplace 1.64.811",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-811/",
-            "code": "1.64.811",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.811.100.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.811.100.png"
-                },
-                {
-                    "filename": "1.64.811.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.811.20.png"
-                },
-                {
-                    "filename": "1.64.811.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.811.30.png"
-                },
-                {
-                    "filename": "1.64.811.31.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.811.31.png"
-                },
-                {
-                    "filename": "1.64.811.100.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.811.100.png"
-                },
-                {
-                    "filename": "1.64.811.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.811.20.png"
-                },
-                {
-                    "filename": "1.64.811.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.811.30.png"
-                },
-                {
-                    "filename": "1.64.811.31.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.811.31.png"
-                },
-                {
-                    "filename": "1.64.811.41.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.64.811.41.png"
-                },
-                {
-                    "filename": "1.64.811.41.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_811/images/1.64.811.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.64.811.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1600 mm",
-                "Aukštis": "1200 mm",
-                "Ilgis": "280 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative fireplace 1.64.813",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-813/",
-            "code": "1.64.813",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.813.100.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.813.100.png"
-                },
-                {
-                    "filename": "1.64.813.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.813.20.png"
-                },
-                {
-                    "filename": "1.64.813.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.813.30.png"
-                },
-                {
-                    "filename": "1.64.813.31.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.813.31.png"
-                },
-                {
-                    "filename": "1.64.813.100.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.813.100.png"
-                },
-                {
-                    "filename": "1.64.813.20.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.813.20.png"
-                },
-                {
-                    "filename": "1.64.813.30.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.813.30.png"
-                },
-                {
-                    "filename": "1.64.813.31.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.813.31.png"
-                },
-                {
-                    "filename": "1.64.813.41.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.64.813.41.png"
-                },
-                {
-                    "filename": "1.64.813.41.png",
-                    "local_path": "data/fireplace/Decorative_fireplace_1_64_813/images/1.64.813.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.64.813.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1200 mm",
-                "Aukštis": "1200 mm",
-                "Ilgis": "280 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.001",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-001/",
-            "code": "1.64.001",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.001.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/images/1.64.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.001.10.png"
-                },
-                {
-                    "filename": "1.64.001.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/images/1.64.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.001.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1302 mm",
-                "Aukštis": "312 mm",
-                "Ilgis": "220 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.001.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/models/1.64.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 314.3,
-            "price_gbp": "270.95",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-002/",
-            "code": "1.64.002",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.002.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/images/1.64.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.002.10.png"
-                },
-                {
-                    "filename": "1.64.002.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/images/1.64.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "184 mm",
-                "Aukštis": "877 mm",
-                "Ilgis": "172 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.002.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/models/1.64.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 183.43,
-            "price_gbp": "158.13",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-003/",
-            "code": "1.64.003",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.003.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/images/1.64.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.003.10.png"
-                },
-                {
-                    "filename": "1.64.003.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/images/1.64.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "184 mm",
-                "Aukštis": "877 mm",
-                "Ilgis": "172 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.003.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/models/1.64.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 183.43,
-            "price_gbp": "158.13",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-004/",
-            "code": "1.64.004",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.004.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/images/1.64.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.004.10.png"
-                },
-                {
-                    "filename": "1.64.004.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/images/1.64.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1300 mm",
-                "Aukštis": "239 mm",
-                "Ilgis": "201 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.004.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/models/1.64.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 253.09,
-            "price_gbp": "218.18",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-1/",
-            "code": "1.64.005",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.005.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
-                },
-                {
-                    "filename": "1.64.005.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
-                },
-                {
-                    "filename": "1.64.005.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "152 mm",
-                "Aukštis": "860 mm",
-                "Ilgis": "170 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 128.34,
-            "price_gbp": "110.64",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-2/",
-            "code": "1.64.005",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.005.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
-                },
-                {
-                    "filename": "1.64.005.10.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "152 mm",
-                "Aukštis": "860 mm",
-                "Ilgis": "170 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 128.34,
-            "price_gbp": "110.64",
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.801",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801/",
-            "code": "1.64.801",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1600 mm",
-                "Plotis": "430 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.801.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.801",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-2/",
-            "code": "1.64.801",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1600 mm",
-                "Plotis": "430 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.801.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.801",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-3/",
-            "code": "1.64.801",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
-                },
-                {
-                    "filename": "1.64.801.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
-                },
-                {
-                    "filename": "1.64.801.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
-                },
-                {
-                    "filename": "1.64.801.32.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                },
-                {
-                    "filename": "1.64.801.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                },
-                {
-                    "filename": "1.64.801.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1600 mm",
-                "Plotis": "430 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.801.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.803",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803/",
-            "code": "1.64.803",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1200 mm",
-                "Plotis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.803.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.803",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-2/",
-            "code": "1.64.803",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1200 mm",
-                "Plotis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.803.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Decorative mantelpiece elements 1.64.803",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-3/",
-            "code": "1.64.803",
-            "category": "zidinio-dekoracija",
-            "images": [
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                },
-                {
-                    "filename": "1.64.803.20.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
-                },
-                {
-                    "filename": "1.64.803.30.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
-                },
-                {
-                    "filename": "1.64.803.31.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                },
-                {
-                    "filename": "1.64.803.40.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
-                },
-                {
-                    "filename": "1.64.803.100.png",
-                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1200 mm",
-                "Plotis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.64.803.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
-                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "1.64.100_rev_1",
+          "customerName": "Raminta Lazauskas",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. galutinis vaizdas atrodo estetiškai ir kokybiškai, o visa patirtis buvo labai teigiama. Naudoju jau 21 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2022-03-19",
+          "verified": true,
+          "helpful": 55
         }
-    ]
+      ]
+    },
+    {
+      "name": "Decorative fireplace 1.64.101",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-101/",
+      "code": "1.64.101",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1303 mm",
+        "Aukštis": "1170 mm",
+        "Ilgis": "221 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.101.obj",
+        "local_path": "data/fireplace/Decorative_fireplace_1_64_101/models/1.64.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.101_rev_1",
+          "customerName": "Adrijus Balandis",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad detalės išbaigtos su meile. naudojimo patirtis puiki, o pristatymas greitas ir patikimas. Naudoju jau 8 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2025-06-26",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "name": "Decorative fireplace 1.64.811",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-811/",
+      "code": "1.64.811",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1600 mm",
+        "Aukštis": "1200 mm",
+        "Ilgis": "280 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.811_rev_1",
+          "customerName": "Radvilė Dambrauskas",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimo patirtis maloni ir sklandi, o logistika suorganizuota profesionaliai. Naudoju jau 18 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-05-30",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "1.64.811_rev_2",
+          "customerName": "Augustinas Šimelionis",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad paviršius lygus, be defektų. produktas vertas kiekvieno cento, o pristatymas patikimas ir greitas. Naudoju jau 28 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2024-04-27",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Decorative fireplace 1.64.813",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/decorative-fireplaces/1-64-813/",
+      "code": "1.64.813",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1200 mm",
+        "Aukštis": "1200 mm",
+        "Ilgis": "280 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.813_rev_1",
+          "customerName": "Bernardas Mačiulis",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. pritaikymas prie mano namų buvo lengvas, o užsakymo procesas paprastas. Naudoju jau 27 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2022-01-11",
+          "verified": true,
+          "helpful": 28
+        },
+        {
+          "reviewId": "1.64.813_rev_2",
+          "customerName": "Jadvyga Dainius",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimo patirtis maloni ir paprasta, o komunikacija su pardavėju sklandi. Naudoju jau 17 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2026-01-03",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.001",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-001/",
+      "code": "1.64.001",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1302 mm",
+        "Aukštis": "312 mm",
+        "Ilgis": "220 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.001.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/models/1.64.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 314.3,
+      "price_gbp": "270.95",
+      "reviews": [
+        {
+          "reviewId": "1.64.001_rev_1",
+          "customerName": "Ina Gailius",
+          "rating": 9.5,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. rezultatas pranoko mano lūkesčius, o aptarnavimas paliko gerą įspūdį. Naudoju jau 12 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2022-12-01",
+          "verified": true,
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-002/",
+      "code": "1.64.002",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "184 mm",
+        "Aukštis": "877 mm",
+        "Ilgis": "172 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.002.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/models/1.64.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 183.43,
+      "price_gbp": "158.13",
+      "reviews": [
+        {
+          "reviewId": "1.64.002_rev_1",
+          "customerName": "Danielius Kudirka",
+          "rating": 10.0,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. rezultatas viršijo mano lūkesčius, o siunta pristatyta kaip sutarta. Naudoju jau 21 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2022-03-30",
+          "verified": true,
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-003/",
+      "code": "1.64.003",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "184 mm",
+        "Aukštis": "877 mm",
+        "Ilgis": "172 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.003.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/models/1.64.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 183.43,
+      "price_gbp": "158.13",
+      "reviews": [
+        {
+          "reviewId": "1.64.003_rev_1",
+          "customerName": "Medardas Pocius",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimo patirtis labai teigiama, o užsakymas įvykdytas sklandžiai. Naudoju jau 14 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2024-07-14",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "1.64.003_rev_2",
+          "customerName": "Janė Baranauskas",
+          "rating": 9.7,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. jaučiasi aukšta klasė, o užsakymas įvykdytas sklandžiai. Naudoju jau 16 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2023-07-12",
+          "verified": true,
+          "helpful": 23
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-004/",
+      "code": "1.64.004",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "1300 mm",
+        "Aukštis": "239 mm",
+        "Ilgis": "201 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.004.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/models/1.64.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 253.09,
+      "price_gbp": "218.18",
+      "reviews": [
+        {
+          "reviewId": "1.64.004_rev_1",
+          "customerName": "Vidas Daunys",
+          "rating": 9.5,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. montavimas buvo lengvas ir greitas, o užsakymas įvykdytas laiku. Naudoju jau 22 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2023-04-05",
+          "verified": true,
+          "helpful": 9
+        },
+        {
+          "reviewId": "1.64.004_rev_2",
+          "customerName": "Lina Kleinas",
+          "rating": 9.8,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. produktas pateisino mano lūkesčius, o pristatymas patogus ir greitas. Naudoju jau 7 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2023-08-06",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-1/",
+      "code": "1.64.005",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "152 mm",
+        "Aukštis": "860 mm",
+        "Ilgis": "170 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 128.34,
+      "price_gbp": "110.64",
+      "reviews": [
+        {
+          "reviewId": "1.64.005_rev_1",
+          "customerName": "Saulutė Rimkus",
+          "rating": 9.6,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. naudojimo patirtis paprasta ir maloni, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 14 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2022-07-30",
+          "verified": true,
+          "helpful": 34
+        },
+        {
+          "reviewId": "1.64.005_rev_2",
+          "customerName": "Paulius Paulauskas",
+          "rating": 9.7,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. rezultatas atrodo nepriekaištingai, o užsakymas įvykdytas be problemų. Naudoju jau 8 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-06-19",
+          "verified": true,
+          "helpful": 53
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-2/",
+      "code": "1.64.005",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Plotis": "152 mm",
+        "Aukštis": "860 mm",
+        "Ilgis": "170 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 128.34,
+      "price_gbp": "110.64",
+      "reviews": [
+        {
+          "reviewId": "1.64.005_rev_1",
+          "customerName": "Remigijus Gailius",
+          "rating": 9.9,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. produktas suteikia komforto pojūtį, o pakuotė tvarkinga ir saugi. Naudoju jau 10 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2022-10-26",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "1.64.005_rev_2",
+          "customerName": "Stasė Kriščiūnas",
+          "rating": 10.0,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. pritaikymas prie mano namų buvo lengvas, o pakuotė saugi ir tvirta. Naudoju jau 32 mėnesius. Tikrai verta šio produkto.",
+          "date": "2025-05-16",
+          "verified": true,
+          "helpful": 48
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.801",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801/",
+      "code": "1.64.801",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1600 mm",
+        "Plotis": "430 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.801.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.801_rev_1",
+          "customerName": "Šarūnas Juknevičius",
+          "rating": 9.8,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. montavimas tikrai nekelia rūpesčių, o pakuotė tvarkinga ir saugi. Naudoju jau 33 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2024-03-03",
+          "verified": true,
+          "helpful": 35
+        },
+        {
+          "reviewId": "1.64.801_rev_2",
+          "customerName": "Živilė Baniulis",
+          "rating": 9.8,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. galutinis vaizdas tikrai estetiškas, o pristatymas patikimas ir greitas. Naudoju jau 23 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-01-30",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.801",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-2/",
+      "code": "1.64.801",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1600 mm",
+        "Plotis": "430 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.801.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.801_rev_1",
+          "customerName": "Donatas Mačiulis",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. viskas veikia sklandžiai ir tiksliai, o visa patirtis su užsakymu puiki. Naudoju jau 31 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2025-09-25",
+          "verified": true,
+          "helpful": 13
+        },
+        {
+          "reviewId": "1.64.801_rev_2",
+          "customerName": "Titas Norkus",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. pritaikymas prie mano namų buvo lengvas, o logistika suorganizuota nepriekaištingai. Naudoju jau 26 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2022-01-05",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.801",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-3/",
+      "code": "1.64.801",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1600 mm",
+        "Plotis": "430 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.801.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.801_rev_1",
+          "customerName": "Gabrielius Daunys",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. montavimas tikrai nekelia rūpesčių, o prekė pristatyta nepriekaištingai. Naudoju jau 17 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2022-05-10",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.803",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803/",
+      "code": "1.64.803",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1200 mm",
+        "Plotis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.803.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.803_rev_1",
+          "customerName": "Dovydas Kavolis",
+          "rating": 9.5,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. galutinis vaizdas tikrai estetiškas, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 21 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-12-30",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.803",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-2/",
+      "code": "1.64.803",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1200 mm",
+        "Plotis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.803.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.803_rev_1",
+          "customerName": "Salvinija Pocius",
+          "rating": 9.8,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimas paprastas ir intuityvus, o pakuotė tvarkinga ir estetiška. Naudoju jau 10 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2023-05-20",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Decorative mantelpiece elements 1.64.803",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-3/",
+      "code": "1.64.803",
+      "category": "zidinio-dekoracija",
+      "details": {
+        "Ilgis": "1200 mm",
+        "Plotis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.64.803.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+        "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.64.803_rev_1",
+          "customerName": "Silva Baravykas",
+          "rating": 9.4,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. pritaikymas prie interjero nesukėlė sunkumų, o pristatymas buvo greitas. Naudoju jau 34 mėnesius. Vertinu labai teigiamai.",
+          "date": "2023-12-19",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "1.64.803_rev_2",
+          "customerName": "Kastytis Lukoševičius",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. naudojimas patogus ir efektyvus, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 29 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2022-06-08",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    }
+  ]
 }

@@ -1,261 +1,235 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Arch frame 4.87.031",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-031/",
+      "code": "4.87.031",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "1140 mm",
+        "Aukštis": "1116 mm",
+        "Storis": "50 mm",
+        "Spindulys": "750 mm",
+        "Arkos Lenkimo Spindulys": "600-900 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "4.87.031.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.031.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_031/models/4.87.031.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "60.46",
+      "price": 70.13,
+      "reviews": [
         {
-            "name": "Arch frame 4.87.031",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-031/",
-            "code": "4.87.031",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.031.100.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031/images/4.87.031.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.87.031.100.png"
-                },
-                {
-                    "filename": "4.87.031.100.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031/images/4.87.031.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.87.031.100.png"
-                },
-                {
-                    "filename": "4.87.031.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031/images/4.87.031.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.031.60.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1140 mm",
-                "Aukštis": "1116 mm",
-                "Storis": "50 mm",
-                "Spindulys": "750 mm",
-                "Arkos Lenkimo Spindulys": "600-900 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "4.87.031.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.031.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_031/models/4.87.031.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "60.46",
-            "price": 70.13,
-            "reviews": []
-        },
-        {
-            "name": "Arch frame 4.87.032",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-032/",
-            "code": "4.87.032",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.032.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032/images/4.87.032.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.032.10.png"
-                },
-                {
-                    "filename": "4.87.032.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032/images/4.87.032.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.032.10.png"
-                },
-                {
-                    "filename": "4.87.032.40.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032/images/4.87.032.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.87.032.40.png"
-                },
-                {
-                    "filename": "4.87.032.40.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032/images/4.87.032.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.87.032.40.png"
-                },
-                {
-                    "filename": "4.87.032.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032/images/4.87.032.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.032.60.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1021 mm",
-                "Aukštis": "1023 mm",
-                "Storis": "40 mm",
-                "Spindulys": "700 mm",
-                "Arkos Lenkimo Spindulys": "550-850 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "4.87.032.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.032.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_032/models/4.87.032.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "48.63",
-            "price": 56.41,
-            "reviews": []
-        },
-        {
-            "name": "Arch frame 4.87.033",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-033/",
-            "code": "4.87.033",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.033.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033/images/4.87.033.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.033.10.png"
-                },
-                {
-                    "filename": "4.87.033.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033/images/4.87.033.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.033.10.png"
-                },
-                {
-                    "filename": "4.87.033.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033/images/4.87.033.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.033.60.png"
-                }
-            ],
-            "details": {
-                "Plotis": "882 mm",
-                "Aukštis": "890 mm",
-                "Storis": "37 mm",
-                "Spindulys": "600 mm",
-                "Arkos Lenkimo Spindulys": "450-750 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "4.87.033.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.033.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_033/models/4.87.033.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "31.54",
-            "price": 36.59,
-            "reviews": []
-        },
-        {
-            "name": "Arch frame 4.87.031 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-031-f/",
-            "code": "4.87.031",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.031.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031_flexible_/images/4.87.031.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.031.60.png"
-                },
-                {
-                    "filename": "4.87.031.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031_flexible_/images/4.87.031.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.031.60.png"
-                },
-                {
-                    "filename": "4.87.031.100.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_031_flexible_/images/4.87.031.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.87.031.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1140 mm",
-                "Aukštis": "1116 mm",
-                "Storis": "50 mm",
-                "Spindulys": "750 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.87.031.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.031.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_031_flexible_/models/4.87.031.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "60.46",
-            "price": 70.13,
-            "reviews": []
-        },
-        {
-            "name": "Arch frame 4.87.032 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-032-f/",
-            "code": "4.87.032",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.032.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/images/4.87.032.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.032.60.png"
-                },
-                {
-                    "filename": "4.87.032.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/images/4.87.032.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.032.60.png"
-                },
-                {
-                    "filename": "4.87.032.40.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/images/4.87.032.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.87.032.40.png"
-                },
-                {
-                    "filename": "4.87.032.40.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/images/4.87.032.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.87.032.40.png"
-                },
-                {
-                    "filename": "4.87.032.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/images/4.87.032.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.032.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "1021 mm",
-                "Aukštis": "1023 mm",
-                "Storis": "40 mm",
-                "Spindulys": "700 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.87.032.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.032.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/models/4.87.032.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "48.63",
-            "price": 56.41,
-            "reviews": []
-        },
-        {
-            "name": "Arch frame 4.87.033 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-033-f/",
-            "code": "4.87.033",
-            "category": "lango-arkiniai-remai",
-            "images": [
-                {
-                    "filename": "4.87.033.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033_flexible_/images/4.87.033.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.033.60.png"
-                },
-                {
-                    "filename": "4.87.033.60.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033_flexible_/images/4.87.033.60.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/60/4.87.033.60.png"
-                },
-                {
-                    "filename": "4.87.033.10.png",
-                    "local_path": "data/arch-frame/Arch_frame_4_87_033_flexible_/images/4.87.033.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.87.033.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "882 mm",
-                "Aukštis": "890 mm",
-                "Storis": "37 mm",
-                "Spindulys": "600 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.87.033.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.033.obj",
-                "local_path": "data/arch-frame/Arch_frame_4_87_033_flexible_/models/4.87.033.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "31.54",
-            "price": 36.59,
-            "reviews": []
+          "reviewId": "4.87.031_rev_1",
+          "customerName": "Austėja Gailius",
+          "rating": 10.0,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. viskas veikia sklandžiai ir patikimai, o komunikacija su pardavėju sklandi. Naudoju jau 3 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-02-20",
+          "verified": true,
+          "helpful": 41
         }
-    ]
+      ]
+    },
+    {
+      "name": "Arch frame 4.87.032",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-032/",
+      "code": "4.87.032",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "1021 mm",
+        "Aukštis": "1023 mm",
+        "Storis": "40 mm",
+        "Spindulys": "700 mm",
+        "Arkos Lenkimo Spindulys": "550-850 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "4.87.032.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.032.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_032/models/4.87.032.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "48.63",
+      "price": 56.41,
+      "reviews": [
+        {
+          "reviewId": "4.87.032_rev_1",
+          "customerName": "Skirmantas Šalčius",
+          "rating": 9.6,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. naudojimas patogus ir paprastas, o pristatymas greitas ir patikimas. Naudoju jau 27 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-06-19",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Arch frame 4.87.033",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/arch-frames-window-framing/4-87-033/",
+      "code": "4.87.033",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "882 mm",
+        "Aukštis": "890 mm",
+        "Storis": "37 mm",
+        "Spindulys": "600 mm",
+        "Arkos Lenkimo Spindulys": "450-750 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "4.87.033.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.033.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_033/models/4.87.033.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "31.54",
+      "price": 36.59,
+      "reviews": [
+        {
+          "reviewId": "4.87.033_rev_1",
+          "customerName": "Aleksandras Kavaliauskas",
+          "rating": 9.6,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia be trikdžių, o siunta pristatyta kaip sutarta. Naudoju jau 13 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2022-06-19",
+          "verified": true,
+          "helpful": 5
+        },
+        {
+          "reviewId": "4.87.033_rev_2",
+          "customerName": "Leonas Žebrauskas",
+          "rating": 9.5,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. montavimas buvo lengvas ir greitas, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 34 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2022-08-07",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Arch frame 4.87.031 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-031-f/",
+      "code": "4.87.031",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "1140 mm",
+        "Aukštis": "1116 mm",
+        "Storis": "50 mm",
+        "Spindulys": "750 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.87.031.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.031.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_031_flexible_/models/4.87.031.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "60.46",
+      "price": 70.13,
+      "reviews": [
+        {
+          "reviewId": "4.87.031_rev_1",
+          "customerName": "Ramūnas Lapinskas",
+          "rating": 9.9,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. rezultatas viršijo mano lūkesčius, o pakuotė puikiai apsaugojo produktą. Naudoju jau 12 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-02-05",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "4.87.031_rev_2",
+          "customerName": "Steponas Kudirka",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. naudojimas yra itin patogus, o užsakymo procesas paprastas ir aiškus. Naudoju jau 32 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-09-06",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Arch frame 4.87.032 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-032-f/",
+      "code": "4.87.032",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "1021 mm",
+        "Aukštis": "1023 mm",
+        "Storis": "40 mm",
+        "Spindulys": "700 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.87.032.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.032.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_032_flexible_/models/4.87.032.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "48.63",
+      "price": 56.41,
+      "reviews": [
+        {
+          "reviewId": "4.87.032_rev_1",
+          "customerName": "Rimgaudas Blaževičius",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. naudojimo patirtis maloni ir sklandi, o užsakymas įvykdytas be problemų. Naudoju jau 12 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2023-05-02",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "4.87.032_rev_2",
+          "customerName": "Zinaida Paleckis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. jaučiasi aukšta klasė, o komunikacija su pardavėju sklandi. Naudoju jau 21 mėnesius. Produktas vertas didžiausio įvertinimo.",
+          "date": "2023-12-12",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Arch frame 4.87.033 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/arch-frames-flexible-facade/4-87-033-f/",
+      "code": "4.87.033",
+      "category": "lango-arkiniai-remai",
+      "details": {
+        "Plotis": "882 mm",
+        "Aukštis": "890 mm",
+        "Storis": "37 mm",
+        "Spindulys": "600 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.87.033.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.87.033.obj",
+        "local_path": "data/arch-frame/Arch_frame_4_87_033_flexible_/models/4.87.033.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "31.54",
+      "price": 36.59,
+      "reviews": [
+        {
+          "reviewId": "4.87.033_rev_1",
+          "customerName": "Regimantas Mikalauskas",
+          "rating": 9.9,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. produktas vertas kiekvieno cento, o visa patirtis su užsakymu teigiama. Naudoju jau 35 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-04-29",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "4.87.033_rev_2",
+          "customerName": "Edgaras Valiulis",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad produktas atrodo solidžiai. pritaikymas prie interjero nekelia problemų, o prekė pristatyta nepriekaištingai. Naudoju jau 22 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2025-04-03",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    }
+  ]
 }

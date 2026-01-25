@@ -1,47 +1,35 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Footpiece 4.78.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/additional-elements-balustrades/4-78-101/",
+      "code": "4.78.101",
+      "category": "footpiece",
+      "details": {
+        "Plotis": "239 mm",
+        "Aukštis": "60 mm",
+        "Ilgis": "184 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.78.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.78.101.obj",
+        "local_path": "data/footpiece/Footpiece_4_78_101/models/4.78.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
         {
-            "name": "Footpiece 4.78.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/additional-elements-balustrades/4-78-101/",
-            "code": "4.78.101",
-            "category": "footpiece",
-            "images": [
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png"
-                },
-                {
-                    "filename": "4.78.101.20.png",
-                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.78.101.20.png"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png"
-                },
-                {
-                    "filename": "4.78.101.20.png",
-                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.78.101.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "239 mm",
-                "Aukštis": "60 mm",
-                "Ilgis": "184 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.78.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.78.101.obj",
-                "local_path": "data/footpiece/Footpiece_4_78_101/models/4.78.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "4.78.101_rev_1",
+          "customerName": "Airinė Kavaliauskas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. naudojimo patirtis aukštos kokybės, o siunta pristatyta saugiai ir laiku. Naudoju jau 8 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2024-03-02",
+          "verified": true,
+          "helpful": 23
         }
-    ]
+      ]
+    }
+  ]
 }

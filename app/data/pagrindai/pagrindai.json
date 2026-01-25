@@ -1,1779 +1,1952 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Base 1.13.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-100/",
+      "code": "1.13.100",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "391 mm",
+        "Aukštis": "697 mm",
+        "Ilgis": "391 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.13.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.100.obj",
+        "local_path": "data/base/Base_1_13_100/models/1.13.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 247.56,
+      "price_gbp": "213.41",
+      "reviews": [
         {
-            "name": "Base 1.13.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-100/",
-            "code": "1.13.100",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.13.100.10.png",
-                    "local_path": "data/base/Base_1_13_100/images/1.13.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.100.10.png"
-                },
-                {
-                    "filename": "1.13.100.10.png",
-                    "local_path": "data/base/Base_1_13_100/images/1.13.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.100.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "391 mm",
-                "Aukštis": "697 mm",
-                "Ilgis": "391 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.13.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.100.obj",
-                "local_path": "data/base/Base_1_13_100/models/1.13.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 247.56,
-            "price_gbp": "213.41",
-            "reviews": []
+          "reviewId": "1.13.100_rev_1",
+          "customerName": "Danguolė Žiogas",
+          "rating": 9.6,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimas lengvas net pradedantiesiems, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 16 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2025-01-08",
+          "verified": true,
+          "helpful": 21
         },
         {
-            "name": "Base 1.13.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-200/",
-            "code": "1.13.200",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.13.200.10.png",
-                    "local_path": "data/base/Base_1_13_200/images/1.13.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.200.10.png"
-                },
-                {
-                    "filename": "1.13.200.10.png",
-                    "local_path": "data/base/Base_1_13_200/images/1.13.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.200.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "377 mm",
-                "Aukštis": "171 mm",
-                "Ilgis": "377 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.13.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.200.obj",
-                "local_path": "data/base/Base_1_13_200/models/1.13.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 122.93,
-            "price_gbp": "105.97",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.13.500",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-500/",
-            "code": "1.13.500",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.13.500.10.png",
-                    "local_path": "data/base/Base_1_13_500/images/1.13.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.500.10.png"
-                },
-                {
-                    "filename": "1.13.500.10.png",
-                    "local_path": "data/base/Base_1_13_500/images/1.13.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.500.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "261 mm",
-                "Aukštis": "110 mm",
-                "Ilgis": "261 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.13.500.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.500.obj",
-                "local_path": "data/base/Base_1_13_500/models/1.13.500.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 95.41,
-            "price_gbp": "82.25",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.13.700",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-700/",
-            "code": "1.13.700",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.13.700.10.png",
-                    "local_path": "data/base/Base_1_13_700/images/1.13.700.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.700.10.png"
-                },
-                {
-                    "filename": "1.13.700.10.png",
-                    "local_path": "data/base/Base_1_13_700/images/1.13.700.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.700.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "224 mm",
-                "Aukštis": "115 mm",
-                "Ilgis": "224 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.13.700.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.700.obj",
-                "local_path": "data/base/Base_1_13_700/models/1.13.700.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 83.44,
-            "price_gbp": "71.93",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.13.900",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-900/",
-            "code": "1.13.900",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.13.900.10.png",
-                    "local_path": "data/base/Base_1_13_900/images/1.13.900.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.900.10.png"
-                },
-                {
-                    "filename": "1.13.900.10.png",
-                    "local_path": "data/base/Base_1_13_900/images/1.13.900.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.900.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "214 mm",
-                "Aukštis": "118 mm",
-                "Ilgis": "214 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.13.900.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.900.obj",
-                "local_path": "data/base/Base_1_13_900/models/1.13.900.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.11,
-            "price_gbp": "73.37",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-100/",
-            "code": "1.17.100",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.100.10.png",
-                    "local_path": "data/base/Base_1_17_100/images/1.17.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.100.10.png"
-                },
-                {
-                    "filename": "1.17.100.10.png",
-                    "local_path": "data/base/Base_1_17_100/images/1.17.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.100.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "391 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "193 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.100.obj",
-                "local_path": "data/base/Base_1_17_100/models/1.17.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 110.06,
-            "price_gbp": "94.88",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-200/",
-            "code": "1.17.200",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.200.10.png",
-                    "local_path": "data/base/Base_1_17_200/images/1.17.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.200.10.png"
-                },
-                {
-                    "filename": "1.17.200.10.png",
-                    "local_path": "data/base/Base_1_17_200/images/1.17.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.200.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "378 mm",
-                "Aukštis": "171 mm",
-                "Ilgis": "188 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.200.obj",
-                "local_path": "data/base/Base_1_17_200/models/1.17.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 47.7,
-            "price_gbp": "41.12",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.500",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-500/",
-            "code": "1.17.500",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.500.10.png",
-                    "local_path": "data/base/Base_1_17_500/images/1.17.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.500.10.png"
-                },
-                {
-                    "filename": "1.17.500.10.png",
-                    "local_path": "data/base/Base_1_17_500/images/1.17.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.500.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "110 mm",
-                "Ilgis": "130 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.500.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.500.obj",
-                "local_path": "data/base/Base_1_17_500/models/1.17.500.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 42.79,
-            "price_gbp": "36.89",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.600",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-600/",
-            "code": "1.17.600",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.600.10.png",
-                    "local_path": "data/base/Base_1_17_600/images/1.17.600.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.600.10.png"
-                },
-                {
-                    "filename": "1.17.600.10.png",
-                    "local_path": "data/base/Base_1_17_600/images/1.17.600.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.600.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "275 mm",
-                "Aukštis": "695 mm",
-                "Ilgis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.600.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.600.obj",
-                "local_path": "data/base/Base_1_17_600/models/1.17.600.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 80.24,
-            "price_gbp": "69.17",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.700",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-700/",
-            "code": "1.17.700",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.700.10.png",
-                    "local_path": "data/base/Base_1_17_700/images/1.17.700.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.700.10.png"
-                },
-                {
-                    "filename": "1.17.700.10.png",
-                    "local_path": "data/base/Base_1_17_700/images/1.17.700.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.700.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "225 mm",
-                "Aukštis": "115 mm",
-                "Ilgis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.700.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.700.obj",
-                "local_path": "data/base/Base_1_17_700/models/1.17.700.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.7,
-            "price_gbp": "35.95",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.17.900",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-900/",
-            "code": "1.17.900",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.17.900.10.png",
-                    "local_path": "data/base/Base_1_17_900/images/1.17.900.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.900.10.png"
-                },
-                {
-                    "filename": "1.17.900.10.png",
-                    "local_path": "data/base/Base_1_17_900/images/1.17.900.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.900.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "214 mm",
-                "Aukštis": "119 mm",
-                "Ilgis": "106 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.17.900.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.900.obj",
-                "local_path": "data/base/Base_1_17_900/models/1.17.900.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 42.58,
-            "price_gbp": "36.71",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-100/",
-            "code": "1.23.100",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.100.10.png",
-                    "local_path": "data/base/Base_1_23_100/images/1.23.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.100.10.png"
-                },
-                {
-                    "filename": "1.23.100.10.png",
-                    "local_path": "data/base/Base_1_23_100/images/1.23.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.100.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "214 mm",
-                "Aukštis": "540 mm",
-                "Ilgis": "55 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.100.obj",
-                "local_path": "data/base/Base_1_23_100/models/1.23.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.32,
-            "price_gbp": "33.90",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-200/",
-            "code": "1.23.200",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.200.10.png",
-                    "local_path": "data/base/Base_1_23_200/images/1.23.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.200.10.png"
-                },
-                {
-                    "filename": "1.23.200.10.png",
-                    "local_path": "data/base/Base_1_23_200/images/1.23.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.200.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "542 mm",
-                "Aukštis": "372 mm",
-                "Ilgis": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.200.obj",
-                "local_path": "data/base/Base_1_23_200/models/1.23.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 56.27,
-            "price_gbp": "48.51",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.300",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-300/",
-            "code": "1.23.300",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.300.10.png",
-                    "local_path": "data/base/Base_1_23_300/images/1.23.300.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.300.10.png"
-                },
-                {
-                    "filename": "1.23.300.10.png",
-                    "local_path": "data/base/Base_1_23_300/images/1.23.300.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.300.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "300 mm",
-                "Aukštis": "752 mm",
-                "Ilgis": "75 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.300.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.300.obj",
-                "local_path": "data/base/Base_1_23_300/models/1.23.300.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 44.34,
-            "price_gbp": "38.22",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.400",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-400/",
-            "code": "1.23.400",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.400.10.png",
-                    "local_path": "data/base/Base_1_23_400/images/1.23.400.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.400.10.png"
-                },
-                {
-                    "filename": "1.23.400.10.png",
-                    "local_path": "data/base/Base_1_23_400/images/1.23.400.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.400.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "390 mm",
-                "Aukštis": "905 mm",
-                "Ilgis": "70 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.400.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.400.obj",
-                "local_path": "data/base/Base_1_23_400/models/1.23.400.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 60.06,
-            "price_gbp": "51.78",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.500",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-500/",
-            "code": "1.23.500",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.500.10.png",
-                    "local_path": "data/base/Base_1_23_500/images/1.23.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.500.10.png"
-                },
-                {
-                    "filename": "1.23.500.10.png",
-                    "local_path": "data/base/Base_1_23_500/images/1.23.500.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.500.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "578 mm",
-                "Aukštis": "301 mm",
-                "Ilgis": "62 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.500.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.500.obj",
-                "local_path": "data/base/Base_1_23_500/models/1.23.500.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 43.12,
-            "price_gbp": "37.17",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.23.600",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-600/",
-            "code": "1.23.600",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.23.600.10.png",
-                    "local_path": "data/base/Base_1_23_600/images/1.23.600.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.600.10.png"
-                },
-                {
-                    "filename": "1.23.600.10.png",
-                    "local_path": "data/base/Base_1_23_600/images/1.23.600.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.600.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "117 mm",
-                "Aukštis": "255 mm",
-                "Ilgis": "25 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.23.600.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.600.obj",
-                "local_path": "data/base/Base_1_23_600/models/1.23.600.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 32.5,
-            "price_gbp": "28.02",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-010/",
-            "code": "1.54.010",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.010.100.png",
-                    "local_path": "data/base/Base_1_54_010/images/1.54.010.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.010.100.png"
-                },
-                {
-                    "filename": "1.54.010.100.png",
-                    "local_path": "data/base/Base_1_54_010/images/1.54.010.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.010.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "96 mm",
-                "Aukštis": "248 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.010.obj",
-                "local_path": "data/base/Base_1_54_010/models/1.54.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 18.49,
-            "price_gbp": "15.94",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.030",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-030/",
-            "code": "1.54.030",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.030.100.png",
-                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
-                },
-                {
-                    "filename": "1.54.030.100.png",
-                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "108 mm",
-                "Aukštis": "228 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.030.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
-                "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 17.3,
-            "price_gbp": "14.91",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.030",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-030-2/",
-            "code": "1.54.030",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.030.100.png",
-                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
-                },
-                {
-                    "filename": "1.54.030.100.png",
-                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "108 mm",
-                "Aukštis": "228 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.030.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
-                "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 17.3,
-            "price_gbp": "14.91",
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.040",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-040/",
-            "code": "1.54.040",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.040.100.png",
-                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
-                },
-                {
-                    "filename": "1.54.040.100.png",
-                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "115 mm",
-                "Aukštis": "249 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.040.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
-                "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.040",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-040-2/",
-            "code": "1.54.040",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.040.100.png",
-                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
-                },
-                {
-                    "filename": "1.54.040.100.png",
-                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "115 mm",
-                "Aukštis": "249 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.040.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
-                "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.050",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-050/",
-            "code": "1.54.050",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.050.100.png",
-                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
-                },
-                {
-                    "filename": "1.54.050.100.png",
-                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "90 mm",
-                "Aukštis": "299 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.050",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-050-2/",
-            "code": "1.54.050",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.050.100.png",
-                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
-                },
-                {
-                    "filename": "1.54.050.100.png",
-                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "90 mm",
-                "Aukštis": "299 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.060",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-060/",
-            "code": "1.54.060",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.060.100.png",
-                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
-                },
-                {
-                    "filename": "1.54.060.100.png",
-                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "110 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.060.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
-                "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.060",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-060-2/",
-            "code": "1.54.060",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.060.100.png",
-                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
-                },
-                {
-                    "filename": "1.54.060.100.png",
-                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "110 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.060.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
-                "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.070",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-070/",
-            "code": "1.54.070",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.070.100.png",
-                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
-                },
-                {
-                    "filename": "1.54.070.100.png",
-                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "110 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.070.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
-                "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 1.54.070",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-070-2/",
-            "code": "1.54.070",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "1.54.070.100.png",
-                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
-                },
-                {
-                    "filename": "1.54.070.100.png",
-                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "110 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.070.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
-                "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-001/",
-            "code": "4.13.001",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.001.10.png",
-                    "local_path": "data/base/Base_4_13_001/images/4.13.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.001.10.png"
-                },
-                {
-                    "filename": "4.13.001.10.png",
-                    "local_path": "data/base/Base_4_13_001/images/4.13.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.001.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "487 mm",
-                "Aukštis": "198 mm",
-                "Ilgis": "487 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.001.obj",
-                "local_path": "data/base/Base_4_13_001/models/4.13.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 164.38,
-            "price_gbp": "141.71",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-002/",
-            "code": "4.13.002",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.002.10.png",
-                    "local_path": "data/base/Base_4_13_002/images/4.13.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.002.10.png"
-                },
-                {
-                    "filename": "4.13.002.10.png",
-                    "local_path": "data/base/Base_4_13_002/images/4.13.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "506 mm",
-                "Aukštis": "215 mm",
-                "Ilgis": "506 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.002.obj",
-                "local_path": "data/base/Base_4_13_002/models/4.13.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 201.5,
-            "price_gbp": "173.71",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-101/",
-            "code": "4.13.101",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.101.10.png",
-                    "local_path": "data/base/Base_4_13_101/images/4.13.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.101.10.png"
-                },
-                {
-                    "filename": "4.13.101.10.png",
-                    "local_path": "data/base/Base_4_13_101/images/4.13.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "440 mm",
-                "Aukštis": "180 mm",
-                "Ilgis": "440 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.101.obj",
-                "local_path": "data/base/Base_4_13_101/models/4.13.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 148.48,
-            "price_gbp": "128.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-201/",
-            "code": "4.13.201",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.201.10.png",
-                    "local_path": "data/base/Base_4_13_201/images/4.13.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.201.10.png"
-                },
-                {
-                    "filename": "4.13.201.10.png",
-                    "local_path": "data/base/Base_4_13_201/images/4.13.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "411 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "411 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.201.obj",
-                "local_path": "data/base/Base_4_13_201/models/4.13.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 148.48,
-            "price_gbp": "128.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-202/",
-            "code": "4.13.202",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.202.10.png",
-                    "local_path": "data/base/Base_4_13_202/images/4.13.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.202.10.png"
-                },
-                {
-                    "filename": "4.13.202.10.png",
-                    "local_path": "data/base/Base_4_13_202/images/4.13.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "411 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "411 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.202.obj",
-                "local_path": "data/base/Base_4_13_202/models/4.13.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 106.06,
-            "price_gbp": "91.43",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-301/",
-            "code": "4.13.301",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.301.10.png",
-                    "local_path": "data/base/Base_4_13_301/images/4.13.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.301.10.png"
-                },
-                {
-                    "filename": "4.13.301.10.png",
-                    "local_path": "data/base/Base_4_13_301/images/4.13.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "370 mm",
-                "Aukštis": "161 mm",
-                "Ilgis": "370 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.301.obj",
-                "local_path": "data/base/Base_4_13_301/models/4.13.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 79.54,
-            "price_gbp": "68.57",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.13.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-302/",
-            "code": "4.13.302",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.13.302.10.png",
-                    "local_path": "data/base/Base_4_13_302/images/4.13.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.302.10.png"
-                },
-                {
-                    "filename": "4.13.302.10.png",
-                    "local_path": "data/base/Base_4_13_302/images/4.13.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "370 mm",
-                "Aukštis": "161 mm",
-                "Ilgis": "370 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.13.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.302.obj",
-                "local_path": "data/base/Base_4_13_302/models/4.13.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 148.48,
-            "price_gbp": "128.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-001/",
-            "code": "4.17.001",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.001.10.png",
-                    "local_path": "data/base/Base_4_17_001/images/4.17.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.001.10.png"
-                },
-                {
-                    "filename": "4.17.001.10.png",
-                    "local_path": "data/base/Base_4_17_001/images/4.17.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.001.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "487 mm",
-                "Aukštis": "198 mm",
-                "Ilgis": "242 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.001.obj",
-                "local_path": "data/base/Base_4_17_001/models/4.17.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 82.2,
-            "price_gbp": "70.86",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-002/",
-            "code": "4.17.002",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.002.10.png",
-                    "local_path": "data/base/Base_4_17_002/images/4.17.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.002.10.png"
-                },
-                {
-                    "filename": "4.17.002.10.png",
-                    "local_path": "data/base/Base_4_17_002/images/4.17.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "507 mm",
-                "Aukštis": "215 mm",
-                "Ilgis": "253 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.002.obj",
-                "local_path": "data/base/Base_4_17_002/models/4.17.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 100.76,
-            "price_gbp": "86.86",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-101/",
-            "code": "4.17.101",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.101.10.png",
-                    "local_path": "data/base/Base_4_17_101/images/4.17.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.101.10.png"
-                },
-                {
-                    "filename": "4.17.101.10.png",
-                    "local_path": "data/base/Base_4_17_101/images/4.17.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "440 mm",
-                "Aukštis": "180 mm",
-                "Ilgis": "217 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.101.obj",
-                "local_path": "data/base/Base_4_17_101/models/4.17.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 58.34,
-            "price_gbp": "50.29",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-201/",
-            "code": "4.17.201",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.201.10.png",
-                    "local_path": "data/base/Base_4_17_201/images/4.17.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.201.10.png"
-                },
-                {
-                    "filename": "4.17.201.10.png",
-                    "local_path": "data/base/Base_4_17_201/images/4.17.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "410 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "205 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.201.obj",
-                "local_path": "data/base/Base_4_17_201/models/4.17.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 58.34,
-            "price_gbp": "50.29",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-202/",
-            "code": "4.17.202",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.202.10.png",
-                    "local_path": "data/base/Base_4_17_202/images/4.17.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.202.10.png"
-                },
-                {
-                    "filename": "4.17.202.10.png",
-                    "local_path": "data/base/Base_4_17_202/images/4.17.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "411 mm",
-                "Aukštis": "171 mm",
-                "Ilgis": "204 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.202.obj",
-                "local_path": "data/base/Base_4_17_202/models/4.17.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.02,
-            "price_gbp": "45.71",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-301/",
-            "code": "4.17.301",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.301.10.png",
-                    "local_path": "data/base/Base_4_17_301/images/4.17.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.301.10.png"
-                },
-                {
-                    "filename": "4.17.301.10.png",
-                    "local_path": "data/base/Base_4_17_301/images/4.17.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "369 mm",
-                "Aukštis": "161 mm",
-                "Ilgis": "184 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.301.obj",
-                "local_path": "data/base/Base_4_17_301/models/4.17.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 49.72,
-            "price_gbp": "42.86",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.17.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-302/",
-            "code": "4.17.302",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.17.302.10.png",
-                    "local_path": "data/base/Base_4_17_302/images/4.17.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.302.10.png"
-                },
-                {
-                    "filename": "4.17.302.10.png",
-                    "local_path": "data/base/Base_4_17_302/images/4.17.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "372 mm",
-                "Aukštis": "160 mm",
-                "Ilgis": "185 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.17.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.302.obj",
-                "local_path": "data/base/Base_4_17_302/models/4.17.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 46.4,
-            "price_gbp": "40.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.23.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-101/",
-            "code": "4.23.101",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.23.101.10.png",
-                    "local_path": "data/base/Base_4_23_101/images/4.23.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.101.10.png"
-                },
-                {
-                    "filename": "4.23.101.10.png",
-                    "local_path": "data/base/Base_4_23_101/images/4.23.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "181 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.23.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.101.obj",
-                "local_path": "data/base/Base_4_23_101/models/4.23.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 46.4,
-            "price_gbp": "40.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.23.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-201/",
-            "code": "4.23.201",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.23.201.10.png",
-                    "local_path": "data/base/Base_4_23_201/images/4.23.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.201.10.png"
-                },
-                {
-                    "filename": "4.23.201.10.png",
-                    "local_path": "data/base/Base_4_23_201/images/4.23.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "375 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.23.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.201.obj",
-                "local_path": "data/base/Base_4_23_201/models/4.23.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 46.4,
-            "price_gbp": "40.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.23.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-301/",
-            "code": "4.23.301",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.23.301.10.png",
-                    "local_path": "data/base/Base_4_23_301/images/4.23.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.301.10.png"
-                },
-                {
-                    "filename": "4.23.301.10.png",
-                    "local_path": "data/base/Base_4_23_301/images/4.23.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "348 mm",
-                "Aukštis": "160 mm",
-                "Ilgis": "113 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.23.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.301.obj",
-                "local_path": "data/base/Base_4_23_301/models/4.23.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 49.72,
-            "price_gbp": "42.86",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.47.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-201/",
-            "code": "4.47.201",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.47.201.10.png",
-                    "local_path": "data/base/Base_4_47_201/images/4.47.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.201.10.png"
-                },
-                {
-                    "filename": "4.47.201.10.png",
-                    "local_path": "data/base/Base_4_47_201/images/4.47.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "272 mm",
-                "Aukštis": "115 mm",
-                "Ilgis": "136 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.47.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.201.obj",
-                "local_path": "data/base/Base_4_47_201/models/4.47.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 32.48,
-            "price_gbp": "28.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.47.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-202/",
-            "code": "4.47.202",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.47.202.10.png",
-                    "local_path": "data/base/Base_4_47_202/images/4.47.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.202.10.png"
-                },
-                {
-                    "filename": "4.47.202.10.png",
-                    "local_path": "data/base/Base_4_47_202/images/4.47.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "270 mm",
-                "Aukštis": "117 mm",
-                "Ilgis": "136 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.47.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.202.obj",
-                "local_path": "data/base/Base_4_47_202/models/4.47.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 32.48,
-            "price_gbp": "28.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.47.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-301/",
-            "code": "4.47.301",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.47.301.10.png",
-                    "local_path": "data/base/Base_4_47_301/images/4.47.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.301.10.png"
-                },
-                {
-                    "filename": "4.47.301.10.png",
-                    "local_path": "data/base/Base_4_47_301/images/4.47.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "244 mm",
-                "Aukštis": "107 mm",
-                "Ilgis": "122 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.47.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.301.obj",
-                "local_path": "data/base/Base_4_47_301/models/4.47.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 37.12,
-            "price_gbp": "32.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.47.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-302/",
-            "code": "4.47.302",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.47.302.10.png",
-                    "local_path": "data/base/Base_4_47_302/images/4.47.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.302.10.png"
-                },
-                {
-                    "filename": "4.47.302.10.png",
-                    "local_path": "data/base/Base_4_47_302/images/4.47.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "243 mm",
-                "Aukštis": "107 mm",
-                "Ilgis": "122 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.47.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.302.obj",
-                "local_path": "data/base/Base_4_47_302/models/4.47.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 37.12,
-            "price_gbp": "32.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.53.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-101/",
-            "code": "4.53.101",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.53.101.10.png",
-                    "local_path": "data/base/Base_4_53_101/images/4.53.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.101.10.png"
-                },
-                {
-                    "filename": "4.53.101.10.png",
-                    "local_path": "data/base/Base_4_53_101/images/4.53.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "120 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.53.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.101.obj",
-                "local_path": "data/base/Base_4_53_101/models/4.53.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 27.84,
-            "price_gbp": "24.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.53.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-201/",
-            "code": "4.53.201",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.53.201.10.png",
-                    "local_path": "data/base/Base_4_53_201/images/4.53.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.201.10.png"
-                },
-                {
-                    "filename": "4.53.201.10.png",
-                    "local_path": "data/base/Base_4_53_201/images/4.53.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "252 mm",
-                "Aukštis": "121 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.53.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.201.obj",
-                "local_path": "data/base/Base_4_53_201/models/4.53.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 27.84,
-            "price_gbp": "24.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.53.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-301/",
-            "code": "4.53.301",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.53.301.10.png",
-                    "local_path": "data/base/Base_4_53_301/images/4.53.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.301.10.png"
-                },
-                {
-                    "filename": "4.53.301.10.png",
-                    "local_path": "data/base/Base_4_53_301/images/4.53.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "226 mm",
-                "Aukštis": "109 mm",
-                "Ilgis": "76 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.53.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.301.obj",
-                "local_path": "data/base/Base_4_53_301/models/4.53.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 23.2,
-            "price_gbp": "20.00",
-            "reviews": []
-        },
-        {
-            "name": "Base 4.53.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-302/",
-            "code": "4.53.302",
-            "category": "pagrindai",
-            "images": [
-                {
-                    "filename": "4.53.302.10.png",
-                    "local_path": "data/base/Base_4_53_302/images/4.53.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.302.10.png"
-                },
-                {
-                    "filename": "4.53.302.10.png",
-                    "local_path": "data/base/Base_4_53_302/images/4.53.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "226 mm",
-                "Aukštis": "108 mm",
-                "Ilgis": "76 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.53.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.302.obj",
-                "local_path": "data/base/Base_4_53_302/models/4.53.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 23.2,
-            "price_gbp": "20.00",
-            "reviews": []
+          "reviewId": "1.13.100_rev_2",
+          "customerName": "Renata Navickas",
+          "rating": 9.5,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimas greitas ir komfortiškas, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 8 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2024-12-29",
+          "verified": true,
+          "helpful": 48
         }
-    ]
+      ]
+    },
+    {
+      "name": "Base 1.13.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-200/",
+      "code": "1.13.200",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "377 mm",
+        "Aukštis": "171 mm",
+        "Ilgis": "377 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.13.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.200.obj",
+        "local_path": "data/base/Base_1_13_200/models/1.13.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 122.93,
+      "price_gbp": "105.97",
+      "reviews": [
+        {
+          "reviewId": "1.13.200_rev_1",
+          "customerName": "Birutė Puidokas",
+          "rating": 10.0,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimas patogus ir efektyvus, o prekė buvo saugiai supakuota. Naudoju jau 5 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2024-03-17",
+          "verified": true,
+          "helpful": 14
+        },
+        {
+          "reviewId": "1.13.200_rev_2",
+          "customerName": "Grigalius Brazaitis",
+          "rating": 10.0,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad detalės išbaigtos su meile. viskas veikia nepriekaištingai ir patikimai, o komunikacija buvo aiški ir maloni. Naudoju jau 19 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2025-03-05",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Base 1.13.500",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-500/",
+      "code": "1.13.500",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "261 mm",
+        "Aukštis": "110 mm",
+        "Ilgis": "261 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.13.500.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.500.obj",
+        "local_path": "data/base/Base_1_13_500/models/1.13.500.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 95.41,
+      "price_gbp": "82.25",
+      "reviews": [
+        {
+          "reviewId": "1.13.500_rev_1",
+          "customerName": "Teisutis Urbonaitis",
+          "rating": 9.9,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. galutinis vaizdas atrodo estetiškai ir kokybiškai, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 4 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2024-03-05",
+          "verified": true,
+          "helpful": 32
+        },
+        {
+          "reviewId": "1.13.500_rev_2",
+          "customerName": "Pranciškus Vaitiekūnas",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimo patirtis paprasta ir maloni, o pristatymas buvo greitas. Naudoju jau 23 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2023-08-30",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Base 1.13.700",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-700/",
+      "code": "1.13.700",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "224 mm",
+        "Aukštis": "115 mm",
+        "Ilgis": "224 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.13.700.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.700.obj",
+        "local_path": "data/base/Base_1_13_700/models/1.13.700.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 83.44,
+      "price_gbp": "71.93",
+      "reviews": [
+        {
+          "reviewId": "1.13.700_rev_1",
+          "customerName": "Alvydas Jakštas",
+          "rating": 9.6,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. produktas pateisino investiciją, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 9 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2022-01-01",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.13.700_rev_2",
+          "customerName": "Marijus Voveris",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. galutinis vaizdas tikrai estetiškas, o siunta supakuota itin tvarkingai. Naudoju jau 12 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-10-09",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Base 1.13.900",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-900/",
+      "code": "1.13.900",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "214 mm",
+        "Aukštis": "118 mm",
+        "Ilgis": "214 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.13.900.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.900.obj",
+        "local_path": "data/base/Base_1_13_900/models/1.13.900.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.11,
+      "price_gbp": "73.37",
+      "reviews": [
+        {
+          "reviewId": "1.13.900_rev_1",
+          "customerName": "Ina Kairys",
+          "rating": 9.8,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. viskas veikia be trikdžių, o pakuotė tvarkinga ir saugi. Naudoju jau 34 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2024-08-03",
+          "verified": true,
+          "helpful": 38
+        },
+        {
+          "reviewId": "1.13.900_rev_2",
+          "customerName": "Marcelijus Stonys",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. montavimas nesudėtingas, o logistika suorganizuota nepriekaištingai. Naudoju jau 31 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2024-06-23",
+          "verified": true,
+          "helpful": 31
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-100/",
+      "code": "1.17.100",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "391 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "193 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.100.obj",
+        "local_path": "data/base/Base_1_17_100/models/1.17.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 110.06,
+      "price_gbp": "94.88",
+      "reviews": [
+        {
+          "reviewId": "1.17.100_rev_1",
+          "customerName": "Sigita Gailius",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. rezultatas atrodo labai profesionaliai, o visa patirtis su užsakymu teigiama. Naudoju jau 32 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2024-01-14",
+          "verified": true,
+          "helpful": 35
+        },
+        {
+          "reviewId": "1.17.100_rev_2",
+          "customerName": "Armandas Voveris",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad dizainas atrodo prabangiai. pritaikymas prie interjero nesukėlė sunkumų, o pristatymas patikimas ir greitas. Naudoju jau 23 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2022-12-19",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-200/",
+      "code": "1.17.200",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "378 mm",
+        "Aukštis": "171 mm",
+        "Ilgis": "188 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.200.obj",
+        "local_path": "data/base/Base_1_17_200/models/1.17.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 47.7,
+      "price_gbp": "41.12",
+      "reviews": [
+        {
+          "reviewId": "1.17.200_rev_1",
+          "customerName": "Elena Gricius",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. pritaikymas prie interjero vyko be problemų, o pakuotė tvarkinga ir estetiška. Naudoju jau 25 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2023-08-01",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.500",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-500/",
+      "code": "1.17.500",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "110 mm",
+        "Ilgis": "130 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.500.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.500.obj",
+        "local_path": "data/base/Base_1_17_500/models/1.17.500.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 42.79,
+      "price_gbp": "36.89",
+      "reviews": [
+        {
+          "reviewId": "1.17.500_rev_1",
+          "customerName": "Jelena Petrauskas",
+          "rating": 9.5,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad dizainas stilingas ir modernus. montavimas buvo labai paprastas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 18 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2023-09-12",
+          "verified": true,
+          "helpful": 22
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.600",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-600/",
+      "code": "1.17.600",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "275 mm",
+        "Aukštis": "695 mm",
+        "Ilgis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.600.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.600.obj",
+        "local_path": "data/base/Base_1_17_600/models/1.17.600.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 80.24,
+      "price_gbp": "69.17",
+      "reviews": [
+        {
+          "reviewId": "1.17.600_rev_1",
+          "customerName": "Pranas Šiugždinis",
+          "rating": 9.4,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. pritaikymas prie interjero vyko be problemų, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 3 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2022-08-08",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.700",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-700/",
+      "code": "1.17.700",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "225 mm",
+        "Aukštis": "115 mm",
+        "Ilgis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.700.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.700.obj",
+        "local_path": "data/base/Base_1_17_700/models/1.17.700.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.7,
+      "price_gbp": "35.95",
+      "reviews": [
+        {
+          "reviewId": "1.17.700_rev_1",
+          "customerName": "Laurynas Mačiulis",
+          "rating": 9.7,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. rezultatas labai profesionalus, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 30 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2022-04-23",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Base 1.17.900",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-900/",
+      "code": "1.17.900",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "214 mm",
+        "Aukštis": "119 mm",
+        "Ilgis": "106 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.17.900.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.900.obj",
+        "local_path": "data/base/Base_1_17_900/models/1.17.900.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 42.58,
+      "price_gbp": "36.71",
+      "reviews": [
+        {
+          "reviewId": "1.17.900_rev_1",
+          "customerName": "Regimantas Vaitkus",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. rezultatas atrodo labai profesionaliai, o siunta pristatyta saugiai ir laiku. Naudoju jau 31 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2025-11-30",
+          "verified": true,
+          "helpful": 48
+        },
+        {
+          "reviewId": "1.17.900_rev_2",
+          "customerName": "Pranciška Voveris",
+          "rating": 9.5,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. pritaikymas prie interjero sėkmingas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 20 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2025-09-30",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-100/",
+      "code": "1.23.100",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "214 mm",
+        "Aukštis": "540 mm",
+        "Ilgis": "55 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.100.obj",
+        "local_path": "data/base/Base_1_23_100/models/1.23.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.32,
+      "price_gbp": "33.90",
+      "reviews": [
+        {
+          "reviewId": "1.23.100_rev_1",
+          "customerName": "Dalia Miškinis",
+          "rating": 9.7,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. produktas vertas kiekvieno cento, o siunta pristatyta kaip sutarta. Naudoju jau 23 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2023-11-02",
+          "verified": true,
+          "helpful": 52
+        },
+        {
+          "reviewId": "1.23.100_rev_2",
+          "customerName": "Austėja Tijūnaitis",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. montavimas buvo greitas ir paprastas, o aptarnavimas malonus. Naudoju jau 18 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2023-03-25",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-200/",
+      "code": "1.23.200",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "542 mm",
+        "Aukštis": "372 mm",
+        "Ilgis": "85 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.200.obj",
+        "local_path": "data/base/Base_1_23_200/models/1.23.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 56.27,
+      "price_gbp": "48.51",
+      "reviews": [
+        {
+          "reviewId": "1.23.200_rev_1",
+          "customerName": "Remis Baniulis",
+          "rating": 9.4,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. viskas veikia sklandžiai, o visa patirtis su užsakymu puiki. Naudoju jau 8 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2024-08-11",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "1.23.200_rev_2",
+          "customerName": "Agota Lukoševičius",
+          "rating": 9.6,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. galutinis efektas atrodo profesionaliai, o pakuotė puikiai apsaugojo produktą. Naudoju jau 32 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2024-07-29",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.300",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-300/",
+      "code": "1.23.300",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "300 mm",
+        "Aukštis": "752 mm",
+        "Ilgis": "75 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.300.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.300.obj",
+        "local_path": "data/base/Base_1_23_300/models/1.23.300.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 44.34,
+      "price_gbp": "38.22",
+      "reviews": [
+        {
+          "reviewId": "1.23.300_rev_1",
+          "customerName": "Laimis Baniulis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. montavimas neužtruko nė minutės, o siunta pristatyta kaip sutarta. Naudoju jau 23 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2023-04-13",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.400",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-400/",
+      "code": "1.23.400",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "390 mm",
+        "Aukštis": "905 mm",
+        "Ilgis": "70 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.400.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.400.obj",
+        "local_path": "data/base/Base_1_23_400/models/1.23.400.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 60.06,
+      "price_gbp": "51.78",
+      "reviews": [
+        {
+          "reviewId": "1.23.400_rev_1",
+          "customerName": "Leonas Masiulis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. rezultatas atrodo nepriekaištingai, o siunta atvyko laiku. Naudoju jau 8 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-05-13",
+          "verified": true,
+          "helpful": 36
+        },
+        {
+          "reviewId": "1.23.400_rev_2",
+          "customerName": "Salomėja Šalčius",
+          "rating": 10.0,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas pranoko mano lūkesčius, o komunikacija su pardavėju sklandi. Naudoju jau 1 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2026-01-20",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.500",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-500/",
+      "code": "1.23.500",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "578 mm",
+        "Aukštis": "301 mm",
+        "Ilgis": "62 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.500.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.500.obj",
+        "local_path": "data/base/Base_1_23_500/models/1.23.500.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 43.12,
+      "price_gbp": "37.17",
+      "reviews": [
+        {
+          "reviewId": "1.23.500_rev_1",
+          "customerName": "Marytė Šimelionis",
+          "rating": 9.6,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia sklandžiai ir tiksliai, o aptarnavimas paliko gerą įspūdį. Naudoju jau 36 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2025-08-03",
+          "verified": true,
+          "helpful": 39
+        },
+        {
+          "reviewId": "1.23.500_rev_2",
+          "customerName": "Salvinija Petrauskas",
+          "rating": 9.8,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. viskas veikia nepriekaištingai, o logistika suorganizuota profesionaliai. Naudoju jau 4 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2024-04-20",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Base 1.23.600",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-600/",
+      "code": "1.23.600",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "117 mm",
+        "Aukštis": "255 mm",
+        "Ilgis": "25 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.23.600.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.600.obj",
+        "local_path": "data/base/Base_1_23_600/models/1.23.600.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 32.5,
+      "price_gbp": "28.02",
+      "reviews": [
+        {
+          "reviewId": "1.23.600_rev_1",
+          "customerName": "Ramutė Masiulis",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. galutinis vaizdas atitinka nuotraukas, o siunta atvyko saugiai ir laiku. Naudoju jau 25 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-06-19",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-010/",
+      "code": "1.54.010",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "96 mm",
+        "Aukštis": "248 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.010.obj",
+        "local_path": "data/base/Base_1_54_010/models/1.54.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 18.49,
+      "price_gbp": "15.94",
+      "reviews": [
+        {
+          "reviewId": "1.54.010_rev_1",
+          "customerName": "Alfonsas Kriščiūnas",
+          "rating": 10.0,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas neužtruko nė minutės, o pakuotė puikiai apsaugojo produktą. Naudoju jau 24 mėnesius. Vertinu labai teigiamai.",
+          "date": "2024-06-13",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.030",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-030/",
+      "code": "1.54.030",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "108 mm",
+        "Aukštis": "228 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.030.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
+        "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 17.3,
+      "price_gbp": "14.91",
+      "reviews": [
+        {
+          "reviewId": "1.54.030_rev_1",
+          "customerName": "Danas Paškevičius",
+          "rating": 9.5,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas buvo lengvas ir greitas, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 1 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2024-07-19",
+          "verified": true,
+          "helpful": 51
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.030",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-030-2/",
+      "code": "1.54.030",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "108 mm",
+        "Aukštis": "228 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.030.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
+        "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 17.3,
+      "price_gbp": "14.91",
+      "reviews": [
+        {
+          "reviewId": "1.54.030_rev_1",
+          "customerName": "Ernestas Dambrauskas",
+          "rating": 9.7,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. rezultatas viršijo mano lūkesčius, o pristatymas patogus ir greitas. Naudoju jau 1 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2025-02-21",
+          "verified": true,
+          "helpful": 40
+        },
+        {
+          "reviewId": "1.54.030_rev_2",
+          "customerName": "Girdutis Vaitkevičius",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. rezultatas viršijo mano tikslus, o aptarnavimas profesionalus ir malonus. Naudoju jau 20 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2024-12-01",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.040",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-040/",
+      "code": "1.54.040",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "115 mm",
+        "Aukštis": "249 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.040.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
+        "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.040_rev_1",
+          "customerName": "Feliksas Baronas",
+          "rating": 9.9,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. produktas pateisino investiciją, o logistika efektyvi ir profesionali. Naudoju jau 7 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2024-04-25",
+          "verified": true,
+          "helpful": 50
+        },
+        {
+          "reviewId": "1.54.040_rev_2",
+          "customerName": "Raimondas Vilkas",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimas lengvas net pradedantiesiems, o pakuotė saugi ir tvirta. Naudoju jau 11 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2022-06-15",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.040",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-040-2/",
+      "code": "1.54.040",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "115 mm",
+        "Aukštis": "249 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.040.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
+        "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.040_rev_1",
+          "customerName": "Ina Balčius",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. viskas atitiko mano lūkesčius, o pristatymas greitas ir patikimas. Naudoju jau 22 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2022-07-23",
+          "verified": true,
+          "helpful": 17
+        },
+        {
+          "reviewId": "1.54.040_rev_2",
+          "customerName": "Arvydas Žalys",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. jaučiasi aukšta klasė, o pakuotė tvarkinga ir estetiška. Naudoju jau 31 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-10-03",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.050",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-050/",
+      "code": "1.54.050",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "90 mm",
+        "Aukštis": "299 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.050_rev_1",
+          "customerName": "Dalius Stonys",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad dizainas atrodo prabangiai. pritaikymas prie interjero vyko be problemų, o užsakymo procesas paprastas. Naudoju jau 23 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2022-09-07",
+          "verified": true,
+          "helpful": 1
+        },
+        {
+          "reviewId": "1.54.050_rev_2",
+          "customerName": "Danguolė Baravykas",
+          "rating": 9.4,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. pritaikymas prie interjero nekelia problemų, o prekė atvyko be pažeidimų. Naudoju jau 3 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2025-04-15",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.050",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-050-2/",
+      "code": "1.54.050",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "90 mm",
+        "Aukštis": "299 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.050_rev_1",
+          "customerName": "Vygantas Baranauskas",
+          "rating": 9.8,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. rezultatas viršijo mano tikslus, o logistika efektyvi ir profesionali. Naudoju jau 34 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2025-01-06",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.060",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-060/",
+      "code": "1.54.060",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "110 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.060.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
+        "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.060_rev_1",
+          "customerName": "Jurga Daunys",
+          "rating": 9.7,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis efektas labai estetiškas, o pakuotė labai tvarkinga. Naudoju jau 26 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2024-07-11",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "1.54.060_rev_2",
+          "customerName": "Artūras Aleknavičius",
+          "rating": 10.0,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad paviršius lygus, be defektų. rezultatas viršijo mano lūkesčius, o užsakymo procesas paprastas. Naudoju jau 27 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2022-05-22",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.060",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-060-2/",
+      "code": "1.54.060",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "110 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.060.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
+        "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.060_rev_1",
+          "customerName": "Antanas Klimas",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. produktas suteikia komforto pojūtį, o prekė saugiai supakuota ir pristatyta. Naudoju jau 25 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2024-01-25",
+          "verified": true,
+          "helpful": 27
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.070",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-070/",
+      "code": "1.54.070",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "110 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.070.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
+        "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.070_rev_1",
+          "customerName": "Liucija Kniukšta",
+          "rating": 10.0,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. montavimas nesudėtingas, o užsakymas įvykdytas be problemų. Naudoju jau 9 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2025-10-11",
+          "verified": true,
+          "helpful": 4
+        },
+        {
+          "reviewId": "1.54.070_rev_2",
+          "customerName": "Rūta Kazėnas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. rezultatas viršijo mano lūkesčius, o pakuotė labai tvarkinga. Naudoju jau 33 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2022-11-12",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Base 1.54.070",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-070-2/",
+      "code": "1.54.070",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "110 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.070.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
+        "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.54.070_rev_1",
+          "customerName": "Žadmantė Šarka",
+          "rating": 9.7,
+          "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad dizainas atrodo prabangiai. viskas veikia nepriekaištingai, o prekė atvyko be pažeidimų. Naudoju jau 29 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2023-12-15",
+          "verified": true,
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-001/",
+      "code": "4.13.001",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "487 mm",
+        "Aukštis": "198 mm",
+        "Ilgis": "487 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.001.obj",
+        "local_path": "data/base/Base_4_13_001/models/4.13.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 164.38,
+      "price_gbp": "141.71",
+      "reviews": [
+        {
+          "reviewId": "4.13.001_rev_1",
+          "customerName": "Medardas Baravykas",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. rezultatas labai profesionalus, o pakuotė saugi ir tvirta. Naudoju jau 9 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2022-09-06",
+          "verified": true,
+          "helpful": 18
+        },
+        {
+          "reviewId": "4.13.001_rev_2",
+          "customerName": "Rimgaudas Petraitis",
+          "rating": 10.0,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia sklandžiai ir tiksliai, o logistika buvo gerai organizuota. Naudoju jau 17 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2024-04-27",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-002/",
+      "code": "4.13.002",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "506 mm",
+        "Aukštis": "215 mm",
+        "Ilgis": "506 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.002.obj",
+        "local_path": "data/base/Base_4_13_002/models/4.13.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 201.5,
+      "price_gbp": "173.71",
+      "reviews": [
+        {
+          "reviewId": "4.13.002_rev_1",
+          "customerName": "Povilas Jakštas",
+          "rating": 9.5,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. produktas suteikia komforto pojūtį, o pristatymas greitas ir patikimas. Naudoju jau 20 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2022-08-01",
+          "verified": true,
+          "helpful": 47
+        },
+        {
+          "reviewId": "4.13.002_rev_2",
+          "customerName": "Rimvydas Milčius",
+          "rating": 9.6,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. montavimas buvo labai paprastas, o užsakymas įvykdytas be problemų. Naudoju jau 19 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-09-21",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-101/",
+      "code": "4.13.101",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "440 mm",
+        "Aukštis": "180 mm",
+        "Ilgis": "440 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.101.obj",
+        "local_path": "data/base/Base_4_13_101/models/4.13.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 148.48,
+      "price_gbp": "128.00",
+      "reviews": [
+        {
+          "reviewId": "4.13.101_rev_1",
+          "customerName": "Regina Gailius",
+          "rating": 9.6,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius lygus, be defektų. viskas atitiko mano lūkesčius, o pristatymas greitas ir patikimas. Naudoju jau 18 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2023-04-14",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-201/",
+      "code": "4.13.201",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "411 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "411 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.201.obj",
+        "local_path": "data/base/Base_4_13_201/models/4.13.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 148.48,
+      "price_gbp": "128.00",
+      "reviews": [
+        {
+          "reviewId": "4.13.201_rev_1",
+          "customerName": "Artūras Kalinauskas",
+          "rating": 10.0,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. rezultatas viršijo mano lūkesčius, o prekė atvyko be pažeidimų. Naudoju jau 20 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-08-02",
+          "verified": true,
+          "helpful": 4
+        },
+        {
+          "reviewId": "4.13.201_rev_2",
+          "customerName": "Aurimas Puidokas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. produktas pateisino mano lūkesčius, o pristatymas patikimas ir greitas. Naudoju jau 2 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2022-12-24",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-202/",
+      "code": "4.13.202",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "411 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "411 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.202.obj",
+        "local_path": "data/base/Base_4_13_202/models/4.13.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 106.06,
+      "price_gbp": "91.43",
+      "reviews": [
+        {
+          "reviewId": "4.13.202_rev_1",
+          "customerName": "Ugnius Puidokas",
+          "rating": 9.6,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. jaučiasi aukšta klasė, o siunta pristatyta be jokių problemų. Naudoju jau 6 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2023-12-03",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "4.13.202_rev_2",
+          "customerName": "Izabelė Zinkevičius",
+          "rating": 10.0,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad dizainas stilingas ir modernus. rezultatas labai profesionalus, o prekė atvyko tiksliai laiku. Naudoju jau 36 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2022-04-30",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-301/",
+      "code": "4.13.301",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "370 mm",
+        "Aukštis": "161 mm",
+        "Ilgis": "370 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.301.obj",
+        "local_path": "data/base/Base_4_13_301/models/4.13.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 79.54,
+      "price_gbp": "68.57",
+      "reviews": [
+        {
+          "reviewId": "4.13.301_rev_1",
+          "customerName": "Zita Butkus",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad apdirbimas itin preciziškas. viskas veikia nepriekaištingai ir patikimai, o aptarnavimas profesionalus ir malonus. Naudoju jau 18 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2025-07-04",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "4.13.301_rev_2",
+          "customerName": "Stasys Dargis",
+          "rating": 9.5,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. jaučiasi aukšta klasė, o užsakymo procesas labai patogus. Naudoju jau 16 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-10-22",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Base 4.13.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-302/",
+      "code": "4.13.302",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "370 mm",
+        "Aukštis": "161 mm",
+        "Ilgis": "370 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.13.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.302.obj",
+        "local_path": "data/base/Base_4_13_302/models/4.13.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 148.48,
+      "price_gbp": "128.00",
+      "reviews": [
+        {
+          "reviewId": "4.13.302_rev_1",
+          "customerName": "Irina Petraitis",
+          "rating": 9.4,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. galutinis vaizdas atrodo estetiškai ir kokybiškai, o logistika efektyvi ir profesionali. Naudoju jau 26 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2022-09-05",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "4.13.302_rev_2",
+          "customerName": "Ina Paleckis",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad dizainas stilingas ir modernus. montavimas neužtruko nė minutės, o siunta atvyko laiku. Naudoju jau 7 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2022-02-05",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-001/",
+      "code": "4.17.001",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "487 mm",
+        "Aukštis": "198 mm",
+        "Ilgis": "242 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.001.obj",
+        "local_path": "data/base/Base_4_17_001/models/4.17.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 82.2,
+      "price_gbp": "70.86",
+      "reviews": [
+        {
+          "reviewId": "4.17.001_rev_1",
+          "customerName": "Julius Kalinauskas",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. viskas veikia sklandžiai, o pristatymas greitas ir patikimas. Naudoju jau 27 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-08-10",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-002/",
+      "code": "4.17.002",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "507 mm",
+        "Aukštis": "215 mm",
+        "Ilgis": "253 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.002.obj",
+        "local_path": "data/base/Base_4_17_002/models/4.17.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 100.76,
+      "price_gbp": "86.86",
+      "reviews": [
+        {
+          "reviewId": "4.17.002_rev_1",
+          "customerName": "Sandra Gailius",
+          "rating": 9.9,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. rezultatas labai profesionalus, o prekė atvyko labai greitai. Naudoju jau 2 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2025-01-27",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-101/",
+      "code": "4.17.101",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "440 mm",
+        "Aukštis": "180 mm",
+        "Ilgis": "217 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.101.obj",
+        "local_path": "data/base/Base_4_17_101/models/4.17.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 58.34,
+      "price_gbp": "50.29",
+      "reviews": [
+        {
+          "reviewId": "4.17.101_rev_1",
+          "customerName": "Zigmas Vainorius",
+          "rating": 9.5,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. jaučiasi aukšta klasė, o visa patirtis maloni ir sklandi. Naudoju jau 29 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-10-20",
+          "verified": true,
+          "helpful": 3
+        },
+        {
+          "reviewId": "4.17.101_rev_2",
+          "customerName": "Nojus Kleinas",
+          "rating": 9.9,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. galutinis vaizdas tikrai estetiškas, o užsakymo procesas paprastas. Naudoju jau 1 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-09-22",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-201/",
+      "code": "4.17.201",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "410 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "205 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.201.obj",
+        "local_path": "data/base/Base_4_17_201/models/4.17.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 58.34,
+      "price_gbp": "50.29",
+      "reviews": [
+        {
+          "reviewId": "4.17.201_rev_1",
+          "customerName": "Audronė Varnas",
+          "rating": 9.8,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. produktas vertas investicijos, o komunikacija buvo aiški. Naudoju jau 14 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2024-02-02",
+          "verified": true,
+          "helpful": 11
+        },
+        {
+          "reviewId": "4.17.201_rev_2",
+          "customerName": "Jurgita Tautkus",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. produktas vertas kiekvieno cento, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 17 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2022-05-29",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-202/",
+      "code": "4.17.202",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "411 mm",
+        "Aukštis": "171 mm",
+        "Ilgis": "204 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.202.obj",
+        "local_path": "data/base/Base_4_17_202/models/4.17.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.02,
+      "price_gbp": "45.71",
+      "reviews": [
+        {
+          "reviewId": "4.17.202_rev_1",
+          "customerName": "Bernardas Valiulis",
+          "rating": 9.6,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. naudojimo patirtis maloni ir sklandi, o komunikacija su pardavėju sklandi. Naudoju jau 11 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2025-01-03",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-301/",
+      "code": "4.17.301",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "369 mm",
+        "Aukštis": "161 mm",
+        "Ilgis": "184 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.301.obj",
+        "local_path": "data/base/Base_4_17_301/models/4.17.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 49.72,
+      "price_gbp": "42.86",
+      "reviews": [
+        {
+          "reviewId": "4.17.301_rev_1",
+          "customerName": "Norvaidė Kudirka",
+          "rating": 9.7,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. pritaikymas prie interjero nekelia problemų, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 9 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-02-08",
+          "verified": true,
+          "helpful": 50
+        },
+        {
+          "reviewId": "4.17.301_rev_2",
+          "customerName": "Gabija Žukauskas",
+          "rating": 9.5,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad kokybė yra išskirtinė. produktas vertas investicijos, o užsakymo procesas aiškus ir paprastas. Naudoju jau 2 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2026-01-01",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Base 4.17.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-302/",
+      "code": "4.17.302",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "372 mm",
+        "Aukštis": "160 mm",
+        "Ilgis": "185 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.17.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.302.obj",
+        "local_path": "data/base/Base_4_17_302/models/4.17.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 46.4,
+      "price_gbp": "40.00",
+      "reviews": [
+        {
+          "reviewId": "4.17.302_rev_1",
+          "customerName": "Dalia Vaitiekūnas",
+          "rating": 9.5,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. viskas veikia sklandžiai, o užsakymas įvykdytas laiku. Naudoju jau 27 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2024-12-05",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Base 4.23.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-101/",
+      "code": "4.23.101",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "181 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.23.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.101.obj",
+        "local_path": "data/base/Base_4_23_101/models/4.23.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 46.4,
+      "price_gbp": "40.00",
+      "reviews": [
+        {
+          "reviewId": "4.23.101_rev_1",
+          "customerName": "Linas Klimas",
+          "rating": 9.4,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. naudojimo patirtis maloni ir paprasta, o prekė buvo saugiai supakuota. Naudoju jau 30 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2024-05-31",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Base 4.23.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-201/",
+      "code": "4.23.201",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "375 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.23.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.201.obj",
+        "local_path": "data/base/Base_4_23_201/models/4.23.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 46.4,
+      "price_gbp": "40.00",
+      "reviews": [
+        {
+          "reviewId": "4.23.201_rev_1",
+          "customerName": "Zenonas Rakauskas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. galutinis vaizdas tikrai estetiškas, o aptarnavimas malonus. Naudoju jau 25 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-07-17",
+          "verified": true,
+          "helpful": 14
+        },
+        {
+          "reviewId": "4.23.201_rev_2",
+          "customerName": "Laima Kudirka",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. naudojimo patirtis maloni ir paprasta, o pristatymas greitas ir patikimas. Naudoju jau 12 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2025-11-22",
+          "verified": true,
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "name": "Base 4.23.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-301/",
+      "code": "4.23.301",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "348 mm",
+        "Aukštis": "160 mm",
+        "Ilgis": "113 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.23.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.301.obj",
+        "local_path": "data/base/Base_4_23_301/models/4.23.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 49.72,
+      "price_gbp": "42.86",
+      "reviews": [
+        {
+          "reviewId": "4.23.301_rev_1",
+          "customerName": "Pranciška Bružas",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. naudojimas paprastas ir intuityvus, o siunta supakuota itin tvarkingai. Naudoju jau 26 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2025-04-17",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Base 4.47.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-201/",
+      "code": "4.47.201",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "272 mm",
+        "Aukštis": "115 mm",
+        "Ilgis": "136 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.47.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.201.obj",
+        "local_path": "data/base/Base_4_47_201/models/4.47.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 32.48,
+      "price_gbp": "28.00",
+      "reviews": [
+        {
+          "reviewId": "4.47.201_rev_1",
+          "customerName": "Alma Norkus",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. pritaikymas prie interjero sėkmingas, o pakuotė labai tvarkinga. Naudoju jau 17 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2025-12-03",
+          "verified": true,
+          "helpful": 51
+        },
+        {
+          "reviewId": "4.47.201_rev_2",
+          "customerName": "Vygandas Varna",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. produktas pateisino investiciją, o logistika suorganizuota nepriekaištingai. Naudoju jau 22 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2022-08-11",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Base 4.47.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-202/",
+      "code": "4.47.202",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "270 mm",
+        "Aukštis": "117 mm",
+        "Ilgis": "136 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.47.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.202.obj",
+        "local_path": "data/base/Base_4_47_202/models/4.47.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 32.48,
+      "price_gbp": "28.00",
+      "reviews": [
+        {
+          "reviewId": "4.47.202_rev_1",
+          "customerName": "Vytautė Dambrauskas",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. naudojimo patirtis labai teigiama, o komunikacija su pardavėju puiki. Naudoju jau 1 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2025-12-02",
+          "verified": true,
+          "helpful": 52
+        }
+      ]
+    },
+    {
+      "name": "Base 4.47.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-301/",
+      "code": "4.47.301",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "244 mm",
+        "Aukštis": "107 mm",
+        "Ilgis": "122 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.47.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.301.obj",
+        "local_path": "data/base/Base_4_47_301/models/4.47.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 37.12,
+      "price_gbp": "32.00",
+      "reviews": [
+        {
+          "reviewId": "4.47.301_rev_1",
+          "customerName": "Mykolas Naruševičius",
+          "rating": 10.0,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. naudojimo patirtis labai teigiama, o užsakymo procesas labai patogus. Naudoju jau 26 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-11-19",
+          "verified": true,
+          "helpful": 18
+        },
+        {
+          "reviewId": "4.47.301_rev_2",
+          "customerName": "Jadvyga Kavaliauskas",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad apdirbimas itin preciziškas. naudojimas paprastas ir intuityvus, o prekė atvyko be pažeidimų. Naudoju jau 6 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2024-03-05",
+          "verified": true,
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "name": "Base 4.47.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-302/",
+      "code": "4.47.302",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "243 mm",
+        "Aukštis": "107 mm",
+        "Ilgis": "122 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.47.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.302.obj",
+        "local_path": "data/base/Base_4_47_302/models/4.47.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 37.12,
+      "price_gbp": "32.00",
+      "reviews": [
+        {
+          "reviewId": "4.47.302_rev_1",
+          "customerName": "Daiva Katkus",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. naudojimas lengvas net pradedantiesiems, o siunta pristatyta saugiai ir laiku. Naudoju jau 31 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2023-07-07",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Base 4.53.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-101/",
+      "code": "4.53.101",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "120 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.53.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.101.obj",
+        "local_path": "data/base/Base_4_53_101/models/4.53.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 27.84,
+      "price_gbp": "24.00",
+      "reviews": [
+        {
+          "reviewId": "4.53.101_rev_1",
+          "customerName": "Aušra Džiugas",
+          "rating": 10.0,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimas paprastas ir intuityvus, o pakuotė tvarkinga ir saugi. Naudoju jau 27 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-02-07",
+          "verified": true,
+          "helpful": 5
+        },
+        {
+          "reviewId": "4.53.101_rev_2",
+          "customerName": "Leopoldas Daukantas",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas buvo labai paprastas, o prekė buvo saugiai supakuota. Naudoju jau 5 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2022-12-10",
+          "verified": true,
+          "helpful": 54
+        }
+      ]
+    },
+    {
+      "name": "Base 4.53.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-201/",
+      "code": "4.53.201",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "252 mm",
+        "Aukštis": "121 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.53.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.201.obj",
+        "local_path": "data/base/Base_4_53_201/models/4.53.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 27.84,
+      "price_gbp": "24.00",
+      "reviews": [
+        {
+          "reviewId": "4.53.201_rev_1",
+          "customerName": "Deividas Bublys",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. viskas atitiko mano lūkesčius, o visa patirtis maloni ir sklandi. Naudoju jau 20 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2025-12-01",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Base 4.53.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-301/",
+      "code": "4.53.301",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "226 mm",
+        "Aukštis": "109 mm",
+        "Ilgis": "76 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.53.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.301.obj",
+        "local_path": "data/base/Base_4_53_301/models/4.53.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 23.2,
+      "price_gbp": "20.00",
+      "reviews": [
+        {
+          "reviewId": "4.53.301_rev_1",
+          "customerName": "Monika Dambrauskas",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad paviršius lygus, be defektų. jaučiasi aukšta klasė, o visa patirtis buvo labai teigiama. Naudoju jau 16 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2025-05-29",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Base 4.53.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-302/",
+      "code": "4.53.302",
+      "category": "pagrindai",
+      "details": {
+        "Plotis": "226 mm",
+        "Aukštis": "108 mm",
+        "Ilgis": "76 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.53.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.302.obj",
+        "local_path": "data/base/Base_4_53_302/models/4.53.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 23.2,
+      "price_gbp": "20.00",
+      "reviews": [
+        {
+          "reviewId": "4.53.302_rev_1",
+          "customerName": "Arkadijus Janulis",
+          "rating": 9.6,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimas lengvas net pradedantiesiems, o visa patirtis maloni ir sklandi. Naudoju jau 23 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2022-09-24",
+          "verified": true,
+          "helpful": 36
+        },
+        {
+          "reviewId": "4.53.302_rev_2",
+          "customerName": "Genė Lapinskas",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. pritaikymas prie kambario lengvai įmanomas, o visa patirtis maloni ir sklandi. Naudoju jau 32 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2024-05-09",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    }
+  ]
 }

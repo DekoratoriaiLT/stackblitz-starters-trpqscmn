@@ -1,70 +1,75 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Ornament 4.99.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
+      "code": "4.99.001",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "458 mm",
+        "Aukštis": "180 mm",
+        "Storis": "42 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.99.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
+        "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "17.60",
+      "price": 20.42,
+      "reviews": [
         {
-            "name": "Ornament 4.99.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
-            "code": "4.99.001",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "4.99.001.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
-                },
-                {
-                    "filename": "4.99.001.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "458 mm",
-                "Aukštis": "180 mm",
-                "Storis": "42 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.99.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
-                "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "17.60",
-            "price": 20.42,
-            "reviews": []
+          "reviewId": "4.99.001_rev_1",
+          "customerName": "Simona Stankevičius",
+          "rating": 9.4,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. galutinis vaizdas labai estetiškas, o pakuotė puikiai apsaugojo produktą. Naudoju jau 5 mėnesius. Rezultatas nuostabus.",
+          "date": "2025-11-05",
+          "verified": true,
+          "helpful": 4
+        }
+      ]
+    },
+    {
+      "name": "Ornament 4.99.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
+      "code": "4.99.002",
+      "category": "ornamentai",
+      "details": {
+        "Plotis": "52 mm",
+        "Aukštis": "165 mm",
+        "Storis": "28 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.99.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
+        "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "5.14",
+      "price": 5.96,
+      "reviews": [
+        {
+          "reviewId": "4.99.002_rev_1",
+          "customerName": "Nora Petraitis",
+          "rating": 9.8,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. produktas pateisino mano lūkesčius, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 24 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2023-12-09",
+          "verified": true,
+          "helpful": 20
         },
         {
-            "name": "Ornament 4.99.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
-            "code": "4.99.002",
-            "category": "ornamentai",
-            "images": [
-                {
-                    "filename": "4.99.002.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
-                },
-                {
-                    "filename": "4.99.002.100.png",
-                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "52 mm",
-                "Aukštis": "165 mm",
-                "Storis": "28 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.99.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
-                "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "5.14",
-            "price": 5.96,
-            "reviews": []
+          "reviewId": "4.99.002_rev_2",
+          "customerName": "Samuelis Jakštas",
+          "rating": 9.4,
+          "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad dizainas atrodo prabangiai. montavimas buvo lengvas ir greitas, o užsakymas įvykdytas be problemų. Naudoju jau 26 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2022-04-20",
+          "verified": true,
+          "helpful": 28
         }
-    ]
+      ]
+    }
+  ]
 }

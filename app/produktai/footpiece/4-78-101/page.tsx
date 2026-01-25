@@ -12,14 +12,14 @@ const getProduct = async (productCode: string) => {
 
 const getStructuredData = (product: any) => {
   const canonicalUrl = `https://www.dekoratoriai.lt/produktai/footpiece/${product.code}`;
-  const description = `${product.name} - Premium interior decoration product with high-quality gypsum molding.`;
+  const description = `${product.name} - Aukštos kokybės interjero dekoracijos product with high-quality gypsum molding.`;
 
   const productSchema = {
     "@context": "https://schema.org/",
     "@type": "Product",
     name: product.name,
     description,
-    image: product.images[0]?.url || '',
+    
     url: canonicalUrl,
     brand: {
       "@type": "Brand",

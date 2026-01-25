@@ -1,830 +1,691 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Pilaster 1.20.001",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-001/",
+      "code": "1.20.001",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "345 mm",
+        "Aukštis": "2971 mm",
+        "Ilgis": "95 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.001.obj",
+        "local_path": "data/pilaster/1.20.001/models/1.20.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
         {
-            "name": "Pilaster 1.20.001",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-001/",
-            "code": "1.20.001",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.001.10.png",
-                    "local_path": "data/pilaster/1.20.001/images/1.20.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.001.10.png",
-                    "product_code": "1.20.001"
-                },
-                {
-                    "filename": "1.20.001.10.png",
-                    "local_path": "data/pilaster/1.20.001/images/1.20.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.001.10.png",
-                    "product_code": "1.20.001"
-                },
-                {
-                    "filename": "1.20.001.40.png",
-                    "local_path": "data/pilaster/1.20.001/images/1.20.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.001.40.png",
-                    "product_code": "1.20.001"
-                },
-                {
-                    "filename": "1.20.001.40.png",
-                    "local_path": "data/pilaster/1.20.001/images/1.20.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.001.40.png",
-                    "product_code": "1.20.001"
-                }
-            ],
-            "details": {
-                "Plotis": "345 mm",
-                "Aukštis": "2971 mm",
-                "Ilgis": "95 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.001.obj",
-                "local_path": "data/pilaster/1.20.001/models/1.20.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
+          "reviewId": "1.20.001_rev_1",
+          "customerName": "Evaldas Daunys",
+          "rating": 9.7,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis efektas labai estetiškas, o aptarnavimas profesionalus ir malonus. Naudoju jau 4 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2025-02-18",
+          "verified": true,
+          "helpful": 57
         },
         {
-            "name": "Pilaster 1.20.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-002/",
-            "code": "1.20.002",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.002.10.png",
-                    "local_path": "data/pilaster/1.20.002/images/1.20.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.002.10.png",
-                    "product_code": "1.20.002"
-                },
-                {
-                    "filename": "1.20.002.10.png",
-                    "local_path": "data/pilaster/1.20.002/images/1.20.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.002.10.png",
-                    "product_code": "1.20.002"
-                },
-                {
-                    "filename": "1.20.002.40.png",
-                    "local_path": "data/pilaster/1.20.002/images/1.20.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.002.40.png",
-                    "product_code": "1.20.002"
-                },
-                {
-                    "filename": "1.20.002.40.png",
-                    "local_path": "data/pilaster/1.20.002/images/1.20.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.002.40.png",
-                    "product_code": "1.20.002"
-                }
-            ],
-            "details": {
-                "Plotis": "354 mm",
-                "Aukštis": "2972 mm",
-                "Ilgis": "97 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.002.obj",
-                "local_path": "data/pilaster/1.20.002/models/1.20.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.101",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-101/",
-            "code": "1.20.101",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.101.10.png",
-                    "local_path": "data/pilaster/1.20.101/images/1.20.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.101.10.png",
-                    "product_code": "1.20.101"
-                },
-                {
-                    "filename": "1.20.101.10.png",
-                    "local_path": "data/pilaster/1.20.101/images/1.20.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.101.10.png",
-                    "product_code": "1.20.101"
-                },
-                {
-                    "filename": "1.20.101.40.png",
-                    "local_path": "data/pilaster/1.20.101/images/1.20.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.101.40.png",
-                    "product_code": "1.20.101"
-                },
-                {
-                    "filename": "1.20.101.40.png",
-                    "local_path": "data/pilaster/1.20.101/images/1.20.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.101.40.png",
-                    "product_code": "1.20.101"
-                }
-            ],
-            "details": {
-                "Plotis": "403 mm",
-                "Aukštis": "3083 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.101.obj",
-                "local_path": "data/pilaster/1.20.101/models/1.20.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.102",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-102/",
-            "code": "1.20.102",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.102.10.png",
-                    "local_path": "data/pilaster/1.20.102/images/1.20.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.102.10.png",
-                    "product_code": "1.20.102"
-                },
-                {
-                    "filename": "1.20.102.10.png",
-                    "local_path": "data/pilaster/1.20.102/images/1.20.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.102.10.png",
-                    "product_code": "1.20.102"
-                },
-                {
-                    "filename": "1.20.102.40.png",
-                    "local_path": "data/pilaster/1.20.102/images/1.20.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.102.40.png",
-                    "product_code": "1.20.102"
-                },
-                {
-                    "filename": "1.20.102.40.png",
-                    "local_path": "data/pilaster/1.20.102/images/1.20.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.102.40.png",
-                    "product_code": "1.20.102"
-                }
-            ],
-            "details": {
-                "Plotis": "602 mm",
-                "Aukštis": "arbitrary",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.102.obj",
-                "local_path": "data/pilaster/1.20.102/models/1.20.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.103",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-103/",
-            "code": "1.20.103",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.103.10.png",
-                    "local_path": "data/pilaster/1.20.103/images/1.20.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.103.10.png",
-                    "product_code": "1.20.103"
-                },
-                {
-                    "filename": "1.20.103.10.png",
-                    "local_path": "data/pilaster/1.20.103/images/1.20.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.103.10.png",
-                    "product_code": "1.20.103"
-                },
-                {
-                    "filename": "1.20.103.40.png",
-                    "local_path": "data/pilaster/1.20.103/images/1.20.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.103.40.png",
-                    "product_code": "1.20.103"
-                },
-                {
-                    "filename": "1.20.103.40.png",
-                    "local_path": "data/pilaster/1.20.103/images/1.20.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.103.40.png",
-                    "product_code": "1.20.103"
-                }
-            ],
-            "details": {
-                "Plotis": "152 mm",
-                "Aukštis": "2353 mm",
-                "Ilgis": "45 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.103.obj",
-                "local_path": "data/pilaster/1.20.103/models/1.20.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.201",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-201/",
-            "code": "1.20.201",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.201.10.png",
-                    "local_path": "data/pilaster/1.20.201/images/1.20.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.201.10.png",
-                    "product_code": "1.20.201"
-                },
-                {
-                    "filename": "1.20.201.10.png",
-                    "local_path": "data/pilaster/1.20.201/images/1.20.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.201.10.png",
-                    "product_code": "1.20.201"
-                },
-                {
-                    "filename": "1.20.201.40.png",
-                    "local_path": "data/pilaster/1.20.201/images/1.20.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.201.40.png",
-                    "product_code": "1.20.201"
-                },
-                {
-                    "filename": "1.20.201.40.png",
-                    "local_path": "data/pilaster/1.20.201/images/1.20.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.201.40.png",
-                    "product_code": "1.20.201"
-                }
-            ],
-            "details": {
-                "Plotis": "470 mm",
-                "Aukštis": "2668 mm",
-                "Ilgis": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.201.obj",
-                "local_path": "data/pilaster/1.20.201/models/1.20.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.202",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-202/",
-            "code": "1.20.202",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.202.10.png",
-                    "local_path": "data/pilaster/1.20.202/images/1.20.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.202.10.png",
-                    "product_code": "1.20.202"
-                },
-                {
-                    "filename": "1.20.202.10.png",
-                    "local_path": "data/pilaster/1.20.202/images/1.20.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.202.10.png",
-                    "product_code": "1.20.202"
-                },
-                {
-                    "filename": "1.20.202.40.png",
-                    "local_path": "data/pilaster/1.20.202/images/1.20.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.202.40.png",
-                    "product_code": "1.20.202"
-                },
-                {
-                    "filename": "1.20.202.40.png",
-                    "local_path": "data/pilaster/1.20.202/images/1.20.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.202.40.png",
-                    "product_code": "1.20.202"
-                }
-            ],
-            "details": {
-                "Plotis": "470 mm",
-                "Aukštis": "2963 mm",
-                "Ilgis": "85 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.202.obj",
-                "local_path": "data/pilaster/1.20.202/models/1.20.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.301",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-301/",
-            "code": "1.20.301",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.301.10.png",
-                    "local_path": "data/pilaster/1.20.301/images/1.20.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.301.10.png",
-                    "product_code": "1.20.301"
-                },
-                {
-                    "filename": "1.20.301.10.png",
-                    "local_path": "data/pilaster/1.20.301/images/1.20.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.301.10.png",
-                    "product_code": "1.20.301"
-                },
-                {
-                    "filename": "1.20.301.40.png",
-                    "local_path": "data/pilaster/1.20.301/images/1.20.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.301.40.png",
-                    "product_code": "1.20.301"
-                },
-                {
-                    "filename": "1.20.301.40.png",
-                    "local_path": "data/pilaster/1.20.301/images/1.20.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.301.40.png",
-                    "product_code": "1.20.301"
-                }
-            ],
-            "details": {
-                "Plotis": "232 mm",
-                "Aukštis": "2690 mm",
-                "Ilgis": "68 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.301.obj",
-                "local_path": "data/pilaster/1.20.301/models/1.20.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.302",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-302/",
-            "code": "1.20.302",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.302.10.png",
-                    "local_path": "data/pilaster/1.20.302/images/1.20.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.302.10.png",
-                    "product_code": "1.20.302"
-                },
-                {
-                    "filename": "1.20.302.10.png",
-                    "local_path": "data/pilaster/1.20.302/images/1.20.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.302.10.png",
-                    "product_code": "1.20.302"
-                },
-                {
-                    "filename": "1.20.302.40.png",
-                    "local_path": "data/pilaster/1.20.302/images/1.20.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.302.40.png",
-                    "product_code": "1.20.302"
-                },
-                {
-                    "filename": "1.20.302.40.png",
-                    "local_path": "data/pilaster/1.20.302/images/1.20.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.302.40.png",
-                    "product_code": "1.20.302"
-                }
-            ],
-            "details": {
-                "Plotis": "419 mm",
-                "Aukštis": "2888 mm",
-                "Ilgis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.302.obj",
-                "local_path": "data/pilaster/1.20.302/models/1.20.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 1.20.303",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-303/",
-            "code": "1.20.303",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "1.20.303.10.png",
-                    "local_path": "data/pilaster/1.20.303/images/1.20.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.303.10.png",
-                    "product_code": "1.20.303"
-                },
-                {
-                    "filename": "1.20.303.10.png",
-                    "local_path": "data/pilaster/1.20.303/images/1.20.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.20.303.10.png",
-                    "product_code": "1.20.303"
-                },
-                {
-                    "filename": "1.20.303.40.png",
-                    "local_path": "data/pilaster/1.20.303/images/1.20.303.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.303.40.png",
-                    "product_code": "1.20.303"
-                },
-                {
-                    "filename": "1.20.303.40.png",
-                    "local_path": "data/pilaster/1.20.303/images/1.20.303.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.20.303.40.png",
-                    "product_code": "1.20.303"
-                }
-            ],
-            "details": {
-                "Plotis": "419 mm",
-                "Aukštis": "3183 mm",
-                "Ilgis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.20.303.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.303.obj",
-                "local_path": "data/pilaster/1.20.303/models/1.20.303.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-101/",
-            "code": "4.20.101",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.101.10.png",
-                    "local_path": "data/pilaster/4.20.101/images/4.20.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.101.10.png",
-                    "product_code": "4.20.101"
-                },
-                {
-                    "filename": "4.20.101.10.png",
-                    "local_path": "data/pilaster/4.20.101/images/4.20.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.101.10.png",
-                    "product_code": "4.20.101"
-                },
-                {
-                    "filename": "4.20.101.40.png",
-                    "local_path": "data/pilaster/4.20.101/images/4.20.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.101.40.png",
-                    "product_code": "4.20.101"
-                },
-                {
-                    "filename": "4.20.101.40.png",
-                    "local_path": "data/pilaster/4.20.101/images/4.20.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.101.40.png",
-                    "product_code": "4.20.101"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "2664 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.101.obj",
-                "local_path": "data/pilaster/4.20.101/models/4.20.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-102/",
-            "code": "4.20.102",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.102.10.png",
-                    "local_path": "data/pilaster/4.20.102/images/4.20.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.102.10.png",
-                    "product_code": "4.20.102"
-                },
-                {
-                    "filename": "4.20.102.10.png",
-                    "local_path": "data/pilaster/4.20.102/images/4.20.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.102.10.png",
-                    "product_code": "4.20.102"
-                },
-                {
-                    "filename": "4.20.102.40.png",
-                    "local_path": "data/pilaster/4.20.102/images/4.20.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.102.40.png",
-                    "product_code": "4.20.102"
-                },
-                {
-                    "filename": "4.20.102.40.png",
-                    "local_path": "data/pilaster/4.20.102/images/4.20.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.102.40.png",
-                    "product_code": "4.20.102"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "2663 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.102.obj",
-                "local_path": "data/pilaster/4.20.102/models/4.20.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.103",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-103/",
-            "code": "4.20.103",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.103.10.png",
-                    "local_path": "data/pilaster/4.20.103/images/4.20.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.103.10.png",
-                    "product_code": "4.20.103"
-                },
-                {
-                    "filename": "4.20.103.10.png",
-                    "local_path": "data/pilaster/4.20.103/images/4.20.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.103.10.png",
-                    "product_code": "4.20.103"
-                }
-            ],
-            "details": {
-                "Plotis": "357 mm",
-                "Aukštis": "2005 mm",
-                "Ilgis": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.103.obj",
-                "local_path": "data/pilaster/4.20.103/models/4.20.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.104",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-104/",
-            "code": "4.20.104",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.104.10.png",
-                    "local_path": "data/pilaster/4.20.104/images/4.20.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.104.10.png",
-                    "product_code": "4.20.104"
-                },
-                {
-                    "filename": "4.20.104.10.png",
-                    "local_path": "data/pilaster/4.20.104/images/4.20.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.104.10.png",
-                    "product_code": "4.20.104"
-                }
-            ],
-            "details": {
-                "Plotis": "357 mm",
-                "Aukštis": "2005 mm",
-                "Ilgis": "128 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.104.obj",
-                "local_path": "data/pilaster/4.20.104/models/4.20.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-201/",
-            "code": "4.20.201",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.201.10.png",
-                    "local_path": "data/pilaster/4.20.201/images/4.20.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.201.10.png",
-                    "product_code": "4.20.201"
-                },
-                {
-                    "filename": "4.20.201.10.png",
-                    "local_path": "data/pilaster/4.20.201/images/4.20.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.201.10.png",
-                    "product_code": "4.20.201"
-                },
-                {
-                    "filename": "4.20.201.40.png",
-                    "local_path": "data/pilaster/4.20.201/images/4.20.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.201.40.png",
-                    "product_code": "4.20.201"
-                },
-                {
-                    "filename": "4.20.201.40.png",
-                    "local_path": "data/pilaster/4.20.201/images/4.20.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.201.40.png",
-                    "product_code": "4.20.201"
-                }
-            ],
-            "details": {
-                "Plotis": "444 mm",
-                "Aukštis": "2658 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.201.obj",
-                "local_path": "data/pilaster/4.20.201/models/4.20.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-202/",
-            "code": "4.20.202",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.202.10.png",
-                    "local_path": "data/pilaster/4.20.202/images/4.20.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.202.10.png",
-                    "product_code": "4.20.202"
-                },
-                {
-                    "filename": "4.20.202.10.png",
-                    "local_path": "data/pilaster/4.20.202/images/4.20.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.202.10.png",
-                    "product_code": "4.20.202"
-                },
-                {
-                    "filename": "4.20.202.40.png",
-                    "local_path": "data/pilaster/4.20.202/images/4.20.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.202.40.png",
-                    "product_code": "4.20.202"
-                },
-                {
-                    "filename": "4.20.202.40.png",
-                    "local_path": "data/pilaster/4.20.202/images/4.20.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.202.40.png",
-                    "product_code": "4.20.202"
-                }
-            ],
-            "details": {
-                "Plotis": "444 mm",
-                "Aukštis": "2653 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.202.obj",
-                "local_path": "data/pilaster/4.20.202/models/4.20.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.203",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-203/",
-            "code": "4.20.203",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.203.10.png",
-                    "local_path": "data/pilaster/4.20.203/images/4.20.203.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.203.10.png",
-                    "product_code": "4.20.203"
-                },
-                {
-                    "filename": "4.20.203.10.png",
-                    "local_path": "data/pilaster/4.20.203/images/4.20.203.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.203.10.png",
-                    "product_code": "4.20.203"
-                }
-            ],
-            "details": {
-                "Plotis": "356 mm",
-                "Aukštis": "2499 mm",
-                "Ilgis": "134 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.203.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.203.obj",
-                "local_path": "data/pilaster/4.20.203/models/4.20.203.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.204",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-204/",
-            "code": "4.20.204",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.204.10.png",
-                    "local_path": "data/pilaster/4.20.204/images/4.20.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.204.10.png",
-                    "product_code": "4.20.204"
-                },
-                {
-                    "filename": "4.20.204.10.png",
-                    "local_path": "data/pilaster/4.20.204/images/4.20.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.204.10.png",
-                    "product_code": "4.20.204"
-                }
-            ],
-            "details": {
-                "Plotis": "356 mm",
-                "Aukštis": "2519 mm",
-                "Ilgis": "134 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.204.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.204.obj",
-                "local_path": "data/pilaster/4.20.204/models/4.20.204.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Pilaster 4.20.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-301/",
-            "code": "4.20.301",
-            "category": "piliastrai",
-            "images": [
-                {
-                    "filename": "4.20.301.10.png",
-                    "local_path": "data/pilaster/4.20.301/images/4.20.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.301.10.png",
-                    "product_code": "4.20.301"
-                },
-                {
-                    "filename": "4.20.301.10.png",
-                    "local_path": "data/pilaster/4.20.301/images/4.20.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.20.301.10.png",
-                    "product_code": "4.20.301"
-                },
-                {
-                    "filename": "4.20.301.40.png",
-                    "local_path": "data/pilaster/4.20.301/images/4.20.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.301.40.png",
-                    "product_code": "4.20.301"
-                },
-                {
-                    "filename": "4.20.301.40.png",
-                    "local_path": "data/pilaster/4.20.301/images/4.20.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.20.301.40.png",
-                    "product_code": "4.20.301"
-                }
-            ],
-            "details": {
-                "Plotis": "417 mm",
-                "Aukštis": "2669 mm",
-                "Ilgis": "151 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.20.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.301.obj",
-                "local_path": "data/pilaster/4.20.301/models/4.20.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
+          "reviewId": "1.20.001_rev_2",
+          "customerName": "Adolfas Masiulis",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. produktas suteikia komforto pojūtį, o siunta pristatyta kaip sutarta. Naudoju jau 2 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2023-09-22",
+          "verified": true,
+          "helpful": 0
         }
-    ]
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-002/",
+      "code": "1.20.002",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "354 mm",
+        "Aukštis": "2972 mm",
+        "Ilgis": "97 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.002.obj",
+        "local_path": "data/pilaster/1.20.002/models/1.20.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.002_rev_1",
+          "customerName": "Janina Kalnietis",
+          "rating": 9.6,
+          "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. produktas vertas investicijos, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 31 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2024-10-31",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.101",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-101/",
+      "code": "1.20.101",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "403 mm",
+        "Aukštis": "3083 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.101.obj",
+        "local_path": "data/pilaster/1.20.101/models/1.20.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.101_rev_1",
+          "customerName": "Jolita Balandis",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimo patirtis maloni ir paprasta, o komunikacija su pardavėju puiki. Naudoju jau 24 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2023-03-09",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.102",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-102/",
+      "code": "1.20.102",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "602 mm",
+        "Aukštis": "arbitrary",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.102.obj",
+        "local_path": "data/pilaster/1.20.102/models/1.20.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.102_rev_1",
+          "customerName": "Abraomas Liauga",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad dizainas modernus ir stilingas. viskas veikia sklandžiai, o pakuotė labai tvarkinga. Naudoju jau 26 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-05-02",
+          "verified": true,
+          "helpful": 0
+        },
+        {
+          "reviewId": "1.20.102_rev_2",
+          "customerName": "Gabrielius Zabielskas",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. galutinis vaizdas tikrai estetiškas, o visa patirtis maloni ir sklandi. Naudoju jau 3 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2024-04-21",
+          "verified": true,
+          "helpful": 47
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.103",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-103/",
+      "code": "1.20.103",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "152 mm",
+        "Aukštis": "2353 mm",
+        "Ilgis": "45 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.103.obj",
+        "local_path": "data/pilaster/1.20.103/models/1.20.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.103_rev_1",
+          "customerName": "Indrė Jakubauskas",
+          "rating": 9.5,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. produktas suteikia komforto pojūtį, o logistika suorganizuota nepriekaištingai. Naudoju jau 35 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-05-07",
+          "verified": true,
+          "helpful": 40
+        },
+        {
+          "reviewId": "1.20.103_rev_2",
+          "customerName": "Margarita Varnas",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad paviršius lygus, be defektų. naudojimo patirtis maloni ir sklandi, o užsakymo procesas labai patogus. Naudoju jau 36 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-07-15",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.201",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-201/",
+      "code": "1.20.201",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "470 mm",
+        "Aukštis": "2668 mm",
+        "Ilgis": "85 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.201.obj",
+        "local_path": "data/pilaster/1.20.201/models/1.20.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.201_rev_1",
+          "customerName": "Leonas Mikalauskas",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. rezultatas atrodo labai profesionaliai, o aptarnavimas paliko gerą įspūdį. Naudoju jau 23 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2024-12-01",
+          "verified": true,
+          "helpful": 13
+        },
+        {
+          "reviewId": "1.20.201_rev_2",
+          "customerName": "Arkadijus Petrauskas",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad produktas atrodo solidžiai. naudojimo patirtis puiki, o siunta atvyko laiku. Naudoju jau 3 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2023-07-17",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.202",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-202/",
+      "code": "1.20.202",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "470 mm",
+        "Aukštis": "2963 mm",
+        "Ilgis": "85 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.202.obj",
+        "local_path": "data/pilaster/1.20.202/models/1.20.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.202_rev_1",
+          "customerName": "Lukas Katkus",
+          "rating": 9.7,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. naudojimas greitas ir komfortiškas, o užsakymo procesas paprastas. Naudoju jau 10 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2023-12-02",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.301",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-301/",
+      "code": "1.20.301",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "232 mm",
+        "Aukštis": "2690 mm",
+        "Ilgis": "68 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.301.obj",
+        "local_path": "data/pilaster/1.20.301/models/1.20.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.301_rev_1",
+          "customerName": "Henrikas Vasiliauskas",
+          "rating": 9.8,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad dizainas atrodo prabangiai. viskas veikia sklandžiai ir patikimai, o komunikacija su pardavėju sklandi. Naudoju jau 11 mėnesius. Vertinu labai teigiamai.",
+          "date": "2022-06-10",
+          "verified": true,
+          "helpful": 13
+        },
+        {
+          "reviewId": "1.20.301_rev_2",
+          "customerName": "Regina Bielskis",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimas greitas ir komfortiškas, o siunta supakuota itin tvarkingai. Naudoju jau 1 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2024-01-20",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.302",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-302/",
+      "code": "1.20.302",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "419 mm",
+        "Aukštis": "2888 mm",
+        "Ilgis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.302.obj",
+        "local_path": "data/pilaster/1.20.302/models/1.20.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.302_rev_1",
+          "customerName": "Simas Šarka",
+          "rating": 9.7,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. pritaikymas prie mano namų buvo lengvas, o prekė buvo saugiai supakuota. Naudoju jau 36 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2023-12-26",
+          "verified": true,
+          "helpful": 52
+        },
+        {
+          "reviewId": "1.20.302_rev_2",
+          "customerName": "Laimutis Mačiulis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. rezultatas viršijo mano tikslus, o siunta pristatyta saugiai ir laiku. Naudoju jau 10 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2024-05-02",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 1.20.303",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-303/",
+      "code": "1.20.303",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "419 mm",
+        "Aukštis": "3183 mm",
+        "Ilgis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.20.303.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.20.303.obj",
+        "local_path": "data/pilaster/1.20.303/models/1.20.303.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.20.303_rev_1",
+          "customerName": "Valerija Milčius",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. pritaikymas prie mano namų buvo lengvas, o pakuotė tvarkinga ir estetiška. Naudoju jau 19 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2023-03-01",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-101/",
+      "code": "4.20.101",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "2664 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.101.obj",
+        "local_path": "data/pilaster/4.20.101/models/4.20.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.101_rev_1",
+          "customerName": "Zigmas Klišauskas",
+          "rating": 10.0,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. montavimas buvo labai paprastas, o visa patirtis su užsakymu puiki. Naudoju jau 32 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2022-03-01",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "4.20.101_rev_2",
+          "customerName": "Ramūnas Džiugas",
+          "rating": 9.8,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. montavimas buvo labai paprastas, o logistika efektyvi ir profesionali. Naudoju jau 19 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2023-09-29",
+          "verified": true,
+          "helpful": 27
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-102/",
+      "code": "4.20.102",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "2663 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.102.obj",
+        "local_path": "data/pilaster/4.20.102/models/4.20.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.102_rev_1",
+          "customerName": "Alma Tijūnaitis",
+          "rating": 9.9,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. produktas suteikia komforto pojūtį, o visa patirtis maloni ir sklandi. Naudoju jau 36 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2023-07-04",
+          "verified": true,
+          "helpful": 50
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.103",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-103/",
+      "code": "4.20.103",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "357 mm",
+        "Aukštis": "2005 mm",
+        "Ilgis": "128 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.103.obj",
+        "local_path": "data/pilaster/4.20.103/models/4.20.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.103_rev_1",
+          "customerName": "Eidvilas Urbonas",
+          "rating": 9.6,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimo patirtis maloni ir paprasta, o pristatymas patogus ir greitas. Naudoju jau 7 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2026-01-22",
+          "verified": true,
+          "helpful": 14
+        },
+        {
+          "reviewId": "4.20.103_rev_2",
+          "customerName": "Margarita Puodžiūnas",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. montavimas nesudėtingas, o siunta pristatyta kaip sutarta. Naudoju jau 19 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2025-09-28",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.104",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-104/",
+      "code": "4.20.104",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "357 mm",
+        "Aukštis": "2005 mm",
+        "Ilgis": "128 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.104.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.104.obj",
+        "local_path": "data/pilaster/4.20.104/models/4.20.104.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.104_rev_1",
+          "customerName": "Kristina Balčiūnas",
+          "rating": 9.4,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad dizainas modernus ir stilingas. galutinis vaizdas atitinka nuotraukas, o prekė pristatyta nepriekaištingai. Naudoju jau 14 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-06-30",
+          "verified": true,
+          "helpful": 33
+        },
+        {
+          "reviewId": "4.20.104_rev_2",
+          "customerName": "Indrė Staniulis",
+          "rating": 9.8,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. montavimas buvo greitas ir paprastas, o pakuotė tvarkinga ir estetiška. Naudoju jau 11 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2024-02-01",
+          "verified": true,
+          "helpful": 53
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-201/",
+      "code": "4.20.201",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "444 mm",
+        "Aukštis": "2658 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.201.obj",
+        "local_path": "data/pilaster/4.20.201/models/4.20.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.201_rev_1",
+          "customerName": "Agnius Petraitis",
+          "rating": 9.4,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. viskas veikia be trikdžių, o pristatymas patogus ir greitas. Naudoju jau 36 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2022-01-23",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-202/",
+      "code": "4.20.202",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "444 mm",
+        "Aukštis": "2653 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.202.obj",
+        "local_path": "data/pilaster/4.20.202/models/4.20.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.202_rev_1",
+          "customerName": "Liuda Janulis",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. montavimas buvo greitas ir paprastas, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 22 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2022-01-22",
+          "verified": true,
+          "helpful": 55
+        },
+        {
+          "reviewId": "4.20.202_rev_2",
+          "customerName": "Žygimantas Vilkas",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. naudojimo patirtis maloni ir sklandi, o pakuotė tvarkinga ir estetiška. Naudoju jau 1 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2025-08-24",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.203",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-203/",
+      "code": "4.20.203",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "356 mm",
+        "Aukštis": "2499 mm",
+        "Ilgis": "134 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.203.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.203.obj",
+        "local_path": "data/pilaster/4.20.203/models/4.20.203.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.203_rev_1",
+          "customerName": "Nerijus Žiogas",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad kokybė yra išskirtinė. rezultatas viršijo mano tikslus, o pristatymas greitas ir patikimas. Naudoju jau 10 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2023-08-18",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "4.20.203_rev_2",
+          "customerName": "Stanislovas Rimkus",
+          "rating": 9.7,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad paviršius lygus, be defektų. produktas pateisino investiciją, o prekė atvyko labai greitai. Naudoju jau 15 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2024-05-03",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.204",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-204/",
+      "code": "4.20.204",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "356 mm",
+        "Aukštis": "2519 mm",
+        "Ilgis": "134 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.204.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.204.obj",
+        "local_path": "data/pilaster/4.20.204/models/4.20.204.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.204_rev_1",
+          "customerName": "Saulė Vaičiūnas",
+          "rating": 9.5,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. produktas pateisino investiciją, o prekė saugiai supakuota ir pristatyta. Naudoju jau 34 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2022-09-06",
+          "verified": true,
+          "helpful": 42
+        },
+        {
+          "reviewId": "4.20.204_rev_2",
+          "customerName": "Svajūnas Kniukšta",
+          "rating": 9.7,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. naudojimo patirtis maloni ir paprasta, o prekė atvyko tiksliai laiku. Naudoju jau 19 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2022-07-13",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Pilaster 4.20.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-301/",
+      "code": "4.20.301",
+      "category": "piliastrai",
+      "details": {
+        "Plotis": "417 mm",
+        "Aukštis": "2669 mm",
+        "Ilgis": "151 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.20.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.20.301.obj",
+        "local_path": "data/pilaster/4.20.301/models/4.20.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "4.20.301_rev_1",
+          "customerName": "Alfreda Daukantas",
+          "rating": 9.7,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad detalės išbaigtos su meile. montavimas neužtruko nė minutės, o pakuotė saugi ir tvirta. Naudoju jau 7 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2023-11-06",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "4.20.301_rev_2",
+          "customerName": "Gintas Klimas",
+          "rating": 9.4,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. galutinis efektas labai estetiškas, o siunta supakuota itin tvarkingai. Naudoju jau 10 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2025-06-22",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    }
+  ]
 }

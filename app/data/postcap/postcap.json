@@ -1,92 +1,86 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Flat post cap 4.73.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-101/",
+      "code": "4.73.101",
+      "category": "postcap",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "55 mm",
+        "Ilgis": "270 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.73.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.101.obj",
+        "local_path": "data/postcap/Flat_post_cap_4_73_101/models/4.73.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.78,
+      "price_gbp": "34.29",
+      "reviews": [
         {
-            "name": "Flat post cap 4.73.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-101/",
-            "code": "4.73.101",
-            "category": "postcap",
-            "images": [
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png"
-                },
-                {
-                    "filename": "4.73.101.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.101.20.png"
-                },
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png"
-                },
-                {
-                    "filename": "4.73.101.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.101.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "55 mm",
-                "Ilgis": "270 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.73.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.101.obj",
-                "local_path": "data/postcap/Flat_post_cap_4_73_101/models/4.73.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.78,
-            "price_gbp": "34.29",
-            "reviews": []
+          "reviewId": "4.73.101_rev_1",
+          "customerName": "Lionginas Burbulis",
+          "rating": 9.5,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. pritaikymas prie interjero nesukėlė sunkumų, o siunta supakuota itin tvarkingai. Naudoju jau 8 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-01-08",
+          "verified": true,
+          "helpful": 5
         },
         {
-            "name": "Flat post cap 4.73.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-201/",
-            "code": "4.73.201",
-            "category": "postcap",
-            "images": [
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png"
-                },
-                {
-                    "filename": "4.73.201.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.201.20.png"
-                },
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png"
-                },
-                {
-                    "filename": "4.73.201.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.201.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "220 mm",
-                "Aukštis": "46 mm",
-                "Ilgis": "220 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.73.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.201.obj",
-                "local_path": "data/postcap/Flat_post_cap_4_73_201/models/4.73.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.46,
-            "price_gbp": "31.43",
-            "reviews": []
+          "reviewId": "4.73.101_rev_2",
+          "customerName": "Norbertas Daunys",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. naudojimo patirtis labai teigiama, o užsakymo procesas aiškus ir paprastas. Naudoju jau 20 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2024-12-12",
+          "verified": true,
+          "helpful": 36
         }
-    ]
+      ]
+    },
+    {
+      "name": "Flat post cap 4.73.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-201/",
+      "code": "4.73.201",
+      "category": "postcap",
+      "details": {
+        "Plotis": "220 mm",
+        "Aukštis": "46 mm",
+        "Ilgis": "220 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.73.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.201.obj",
+        "local_path": "data/postcap/Flat_post_cap_4_73_201/models/4.73.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.46,
+      "price_gbp": "31.43",
+      "reviews": [
+        {
+          "reviewId": "4.73.201_rev_1",
+          "customerName": "Virginija Kniukšta",
+          "rating": 9.6,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. naudojimas greitas ir komfortiškas, o pakuotė labai tvarkinga. Naudoju jau 24 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2023-11-13",
+          "verified": true,
+          "helpful": 54
+        },
+        {
+          "reviewId": "4.73.201_rev_2",
+          "customerName": "Izaokas Petrauskas",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. naudojimo patirtis labai teigiama, o pakuotė labai tvarkinga. Naudoju jau 32 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2023-09-05",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    }
+  ]
 }

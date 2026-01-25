@@ -1,156 +1,118 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "pedimentai 1.63.001",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pedimentais/1-63-001/",
+      "code": "1.63.001",
+      "category": "pedimentai",
+      "details": {
+        "Ilgis": "1280 mm",
+        "Aukštis": "146 mm",
+        "Plotis": "57 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.63.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.001.obj",
+        "local_path": "data/pedimentai/pedimentai_1_63_001/models/1.63.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.12,
+      "price_gbp": "45.79",
+      "reviews": [
         {
-            "name": "pedimentai 1.63.001",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pedimentais/1-63-001/",
-            "code": "1.63.001",
-            "category": "pedimentai",
-            "images": [
-                {
-                    "filename": "1.63.001.10.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_001/images/1.63.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.001.10.png"
-                },
-                {
-                    "filename": "1.63.001.10.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_001/images/1.63.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.001.10.png"
-                },
-                {
-                    "filename": "1.63.001.40.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_001/images/1.63.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.001.40.png"
-                },
-                {
-                    "filename": "1.63.001.40.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_001/images/1.63.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.001.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1280 mm",
-                "Aukštis": "146 mm",
-                "Plotis": "57 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.63.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.001.obj",
-                "local_path": "data/pedimentai/pedimentai_1_63_001/models/1.63.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.12,
-            "price_gbp": "45.79",
-            "reviews": []
+          "reviewId": "1.63.001_rev_1",
+          "customerName": "Remigijus Klišauskas",
+          "rating": 9.9,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad produktas atrodo solidžiai. naudojimo patirtis labai teigiama, o užsakymo procesas labai patogus. Naudoju jau 22 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2024-11-15",
+          "verified": true,
+          "helpful": 43
         },
         {
-            "name": "pedimentai 1.63.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pedimentais/1-63-002/",
-            "code": "1.63.002",
-            "category": "pedimentai",
-            "images": [
-                {
-                    "filename": "1.63.002.10.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_002/images/1.63.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.002.10.png"
-                },
-                {
-                    "filename": "1.63.002.10.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_002/images/1.63.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.002.10.png"
-                },
-                {
-                    "filename": "1.63.002.40.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_002/images/1.63.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.002.40.png"
-                },
-                {
-                    "filename": "1.63.002.40.png",
-                    "local_path": "data/pedimentai/pedimentai_1_63_002/images/1.63.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.002.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1280 mm",
-                "Aukštis": "146 mm",
-                "Plotis": "57 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.63.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.002.obj",
-                "local_path": "data/pedimentai/pedimentai_1_63_002/models/1.63.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 50.0,
-            "price_gbp": "43.10",
-            "reviews": []
-        },
-        {
-            "name": "pedimentai 4.89.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pedimentais-facade/4-89-001/",
-            "code": "4.89.001",
-            "category": "pedimentai",
-            "images": [
-                {
-                    "filename": "4.89.001.100.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.89.001.100.png"
-                },
-                {
-                    "filename": "4.89.001.20.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.89.001.20.png"
-                },
-                {
-                    "filename": "4.89.001.30.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/4.89.001.30.png"
-                },
-                {
-                    "filename": "4.89.001.100.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.89.001.100.png"
-                },
-                {
-                    "filename": "4.89.001.20.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.89.001.20.png"
-                },
-                {
-                    "filename": "4.89.001.30.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/4.89.001.30.png"
-                },
-                {
-                    "filename": "4.89.001.40.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.89.001.40.png"
-                },
-                {
-                    "filename": "4.89.001.40.png",
-                    "local_path": "data/pedimentai/pedimentai_4_89_001/images/4.89.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.89.001.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "902 mm",
-                "Aukštis": "510 mm",
-                "Plotis": "54 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.89.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.89.001.obj",
-                "local_path": "data/pedimentai/pedimentai_4_89_001/models/4.89.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 109.38,
-            "price_gbp": "94.29",
-            "reviews": []
+          "reviewId": "1.63.001_rev_2",
+          "customerName": "Virkantas Jakubauskas",
+          "rating": 9.5,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. produktas suteikia komforto pojūtį, o komunikacija buvo aiški ir maloni. Naudoju jau 32 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-07-10",
+          "verified": true,
+          "helpful": 39
         }
-    ]
+      ]
+    },
+    {
+      "name": "pedimentai 1.63.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pedimentais/1-63-002/",
+      "code": "1.63.002",
+      "category": "pedimentai",
+      "details": {
+        "Ilgis": "1280 mm",
+        "Aukštis": "146 mm",
+        "Plotis": "57 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.63.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.002.obj",
+        "local_path": "data/pedimentai/pedimentai_1_63_002/models/1.63.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 50.0,
+      "price_gbp": "43.10",
+      "reviews": [
+        {
+          "reviewId": "1.63.002_rev_1",
+          "customerName": "Lozorius Dargis",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad paviršius lygus, be defektų. naudojimo patirtis aukštos kokybės, o visa patirtis su užsakymu puiki. Naudoju jau 34 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2025-01-11",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "1.63.002_rev_2",
+          "customerName": "Marytė Gailius",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. viskas veikia sklandžiai ir patikimai, o komunikacija su pardavėju sklandi. Naudoju jau 13 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2024-07-27",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "pedimentai 4.89.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/pedimentais-facade/4-89-001/",
+      "code": "4.89.001",
+      "category": "pedimentai",
+      "details": {
+        "Ilgis": "902 mm",
+        "Aukštis": "510 mm",
+        "Plotis": "54 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.89.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.89.001.obj",
+        "local_path": "data/pedimentai/pedimentai_4_89_001/models/4.89.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 109.38,
+      "price_gbp": "94.29",
+      "reviews": [
+        {
+          "reviewId": "4.89.001_rev_1",
+          "customerName": "Adolfas Bružas",
+          "rating": 9.5,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. rezultatas labai profesionalus, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 7 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2023-01-12",
+          "verified": true,
+          "helpful": 50
+        }
+      ]
+    }
+  ]
 }

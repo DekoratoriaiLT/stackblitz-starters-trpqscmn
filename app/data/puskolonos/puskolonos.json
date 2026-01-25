@@ -1,1573 +1,1221 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Half column 1.10.101",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-101/",
+      "code": "1.10.101",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "317 mm",
+        "Aukštis": "2695 mm",
+        "Storis": "159 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.101.obj",
+        "local_path": "data/half-column/1.10.101/models/1.10.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
         {
-            "name": "Half column 1.10.101",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-101/",
-            "code": "1.10.101",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.101.10.png",
-                    "local_path": "data/half-column/1.10.101/images/1.10.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.101.10.png",
-                    "product_code": "1.10.101"
-                },
-                {
-                    "filename": "1.10.101.10.png",
-                    "local_path": "data/half-column/1.10.101/images/1.10.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.101.10.png",
-                    "product_code": "1.10.101"
-                },
-                {
-                    "filename": "1.10.101.40.png",
-                    "local_path": "data/half-column/1.10.101/images/1.10.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.101.40.png",
-                    "product_code": "1.10.101"
-                },
-                {
-                    "filename": "1.10.101.40.png",
-                    "local_path": "data/half-column/1.10.101/images/1.10.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.101.40.png",
-                    "product_code": "1.10.101"
-                }
-            ],
-            "details": {
-                "Plotis": "317 mm",
-                "Aukštis": "2695 mm",
-                "Storis": "159 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.101.obj",
-                "local_path": "data/half-column/1.10.101/models/1.10.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.102",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-102/",
-            "code": "1.10.102",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.102.10.png",
-                    "local_path": "data/half-column/1.10.102/images/1.10.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.102.10.png",
-                    "product_code": "1.10.102"
-                },
-                {
-                    "filename": "1.10.102.10.png",
-                    "local_path": "data/half-column/1.10.102/images/1.10.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.102.10.png",
-                    "product_code": "1.10.102"
-                },
-                {
-                    "filename": "1.10.102.40.png",
-                    "local_path": "data/half-column/1.10.102/images/1.10.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.102.40.png",
-                    "product_code": "1.10.102"
-                },
-                {
-                    "filename": "1.10.102.40.png",
-                    "local_path": "data/half-column/1.10.102/images/1.10.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.102.40.png",
-                    "product_code": "1.10.102"
-                }
-            ],
-            "details": {
-                "Plotis": "225 mm",
-                "Aukštis": "2695 mm",
-                "Storis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.102.obj",
-                "local_path": "data/half-column/1.10.102/models/1.10.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.103",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-103/",
-            "code": "1.10.103",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.103.10.png",
-                    "local_path": "data/half-column/1.10.103/images/1.10.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.103.10.png",
-                    "product_code": "1.10.103"
-                },
-                {
-                    "filename": "1.10.103.10.png",
-                    "local_path": "data/half-column/1.10.103/images/1.10.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.103.10.png",
-                    "product_code": "1.10.103"
-                },
-                {
-                    "filename": "1.10.103.40.png",
-                    "local_path": "data/half-column/1.10.103/images/1.10.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.103.40.png",
-                    "product_code": "1.10.103"
-                },
-                {
-                    "filename": "1.10.103.40.png",
-                    "local_path": "data/half-column/1.10.103/images/1.10.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.103.40.png",
-                    "product_code": "1.10.103"
-                }
-            ],
-            "details": {
-                "Plotis": "275 mm",
-                "Aukštis": "2912 mm",
-                "Storis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.103.obj",
-                "local_path": "data/half-column/1.10.103/models/1.10.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.104",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-104/",
-            "code": "1.10.104",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.104.10.png",
-                    "local_path": "data/half-column/1.10.104/images/1.10.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.104.10.png",
-                    "product_code": "1.10.104"
-                },
-                {
-                    "filename": "1.10.104.10.png",
-                    "local_path": "data/half-column/1.10.104/images/1.10.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.104.10.png",
-                    "product_code": "1.10.104"
-                },
-                {
-                    "filename": "1.10.104.40.png",
-                    "local_path": "data/half-column/1.10.104/images/1.10.104.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.104.40.png",
-                    "product_code": "1.10.104"
-                },
-                {
-                    "filename": "1.10.104.40.png",
-                    "local_path": "data/half-column/1.10.104/images/1.10.104.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.104.40.png",
-                    "product_code": "1.10.104"
-                }
-            ],
-            "details": {
-                "Plotis": "271 mm",
-                "Aukštis": "2217 mm",
-                "Storis": "135 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.104.obj",
-                "local_path": "data/half-column/1.10.104/models/1.10.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.105",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-105/",
-            "code": "1.10.105",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.105.10.png",
-                    "local_path": "data/half-column/1.10.105/images/1.10.105.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.105.10.png",
-                    "product_code": "1.10.105"
-                },
-                {
-                    "filename": "1.10.105.10.png",
-                    "local_path": "data/half-column/1.10.105/images/1.10.105.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.105.10.png",
-                    "product_code": "1.10.105"
-                },
-                {
-                    "filename": "1.10.105.40.png",
-                    "local_path": "data/half-column/1.10.105/images/1.10.105.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.105.40.png",
-                    "product_code": "1.10.105"
-                },
-                {
-                    "filename": "1.10.105.40.png",
-                    "local_path": "data/half-column/1.10.105/images/1.10.105.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.105.40.png",
-                    "product_code": "1.10.105"
-                }
-            ],
-            "details": {
-                "Plotis": "391 mm",
-                "Aukštis": "3268 mm",
-                "Storis": "193 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.105.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.105.obj",
-                "local_path": "data/half-column/1.10.105/models/1.10.105.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.106",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-106/",
-            "code": "1.10.106",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.106.10.png",
-                    "local_path": "data/half-column/1.10.106/images/1.10.106.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.106.10.png",
-                    "product_code": "1.10.106"
-                },
-                {
-                    "filename": "1.10.106.10.png",
-                    "local_path": "data/half-column/1.10.106/images/1.10.106.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.106.10.png",
-                    "product_code": "1.10.106"
-                },
-                {
-                    "filename": "1.10.106.40.png",
-                    "local_path": "data/half-column/1.10.106/images/1.10.106.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.106.40.png",
-                    "product_code": "1.10.106"
-                },
-                {
-                    "filename": "1.10.106.40.png",
-                    "local_path": "data/half-column/1.10.106/images/1.10.106.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.106.40.png",
-                    "product_code": "1.10.106"
-                }
-            ],
-            "details": {
-                "Plotis": "378 mm",
-                "Aukštis": "2741 mm",
-                "Storis": "188 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.106.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.106.obj",
-                "local_path": "data/half-column/1.10.106/models/1.10.106.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.201",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-201/",
-            "code": "1.10.201",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.201.100.png",
-                    "local_path": "data/half-column/1.10.201/images/1.10.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.10.201.100.png",
-                    "product_code": "1.10.201"
-                },
-                {
-                    "filename": "1.10.201.100.png",
-                    "local_path": "data/half-column/1.10.201/images/1.10.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.10.201.100.png",
-                    "product_code": "1.10.201"
-                },
-                {
-                    "filename": "1.10.201.40.png",
-                    "local_path": "data/half-column/1.10.201/images/1.10.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.201.40.png",
-                    "product_code": "1.10.201"
-                },
-                {
-                    "filename": "1.10.201.40.png",
-                    "local_path": "data/half-column/1.10.201/images/1.10.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.201.40.png",
-                    "product_code": "1.10.201"
-                }
-            ],
-            "details": {
-                "Plotis": "311 mm",
-                "Aukštis": "2728 mm",
-                "Storis": "156 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.201.obj",
-                "local_path": "data/half-column/1.10.201/models/1.10.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.202",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-202/",
-            "code": "1.10.202",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.202.100.png",
-                    "local_path": "data/half-column/1.10.202/images/1.10.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.10.202.100.png",
-                    "product_code": "1.10.202"
-                },
-                {
-                    "filename": "1.10.202.100.png",
-                    "local_path": "data/half-column/1.10.202/images/1.10.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.10.202.100.png",
-                    "product_code": "1.10.202"
-                },
-                {
-                    "filename": "1.10.202.40.png",
-                    "local_path": "data/half-column/1.10.202/images/1.10.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.202.40.png",
-                    "product_code": "1.10.202"
-                },
-                {
-                    "filename": "1.10.202.40.png",
-                    "local_path": "data/half-column/1.10.202/images/1.10.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.202.40.png",
-                    "product_code": "1.10.202"
-                }
-            ],
-            "details": {
-                "Plotis": "237 mm",
-                "Aukštis": "2695 mm",
-                "Storis": "109 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.202.obj",
-                "local_path": "data/half-column/1.10.202/models/1.10.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.203",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-203/",
-            "code": "1.10.203",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.203.10.png",
-                    "local_path": "data/half-column/1.10.203/images/1.10.203.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.203.10.png",
-                    "product_code": "1.10.203"
-                },
-                {
-                    "filename": "1.10.203.10.png",
-                    "local_path": "data/half-column/1.10.203/images/1.10.203.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.203.10.png",
-                    "product_code": "1.10.203"
-                },
-                {
-                    "filename": "1.10.203.40.png",
-                    "local_path": "data/half-column/1.10.203/images/1.10.203.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.203.40.png",
-                    "product_code": "1.10.203"
-                },
-                {
-                    "filename": "1.10.203.40.png",
-                    "local_path": "data/half-column/1.10.203/images/1.10.203.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.203.40.png",
-                    "product_code": "1.10.203"
-                }
-            ],
-            "details": {
-                "Plotis": "280 mm",
-                "Aukštis": "2846 mm",
-                "Storis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.203.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.203.obj",
-                "local_path": "data/half-column/1.10.203/models/1.10.203.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.204",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-204/",
-            "code": "1.10.204",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.204.10.png",
-                    "local_path": "data/half-column/1.10.204/images/1.10.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.204.10.png",
-                    "product_code": "1.10.204"
-                },
-                {
-                    "filename": "1.10.204.10.png",
-                    "local_path": "data/half-column/1.10.204/images/1.10.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.204.10.png",
-                    "product_code": "1.10.204"
-                },
-                {
-                    "filename": "1.10.204.40.png",
-                    "local_path": "data/half-column/1.10.204/images/1.10.204.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.204.40.png",
-                    "product_code": "1.10.204"
-                },
-                {
-                    "filename": "1.10.204.40.png",
-                    "local_path": "data/half-column/1.10.204/images/1.10.204.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.204.40.png",
-                    "product_code": "1.10.204"
-                }
-            ],
-            "details": {
-                "Plotis": "280 mm",
-                "Aukštis": "2151 mm",
-                "Storis": "137 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.204.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.204.obj",
-                "local_path": "data/half-column/1.10.204/models/1.10.204.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.205",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-205/",
-            "code": "1.10.205",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.205.10.png",
-                    "local_path": "data/half-column/1.10.205/images/1.10.205.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.205.10.png",
-                    "product_code": "1.10.205"
-                },
-                {
-                    "filename": "1.10.205.10.png",
-                    "local_path": "data/half-column/1.10.205/images/1.10.205.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.205.10.png",
-                    "product_code": "1.10.205"
-                },
-                {
-                    "filename": "1.10.205.40.png",
-                    "local_path": "data/half-column/1.10.205/images/1.10.205.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.205.40.png",
-                    "product_code": "1.10.205"
-                },
-                {
-                    "filename": "1.10.205.40.png",
-                    "local_path": "data/half-column/1.10.205/images/1.10.205.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.205.40.png",
-                    "product_code": "1.10.205"
-                }
-            ],
-            "details": {
-                "Plotis": "391 mm",
-                "Aukštis": "3147 mm",
-                "Storis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.205.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.205.obj",
-                "local_path": "data/half-column/1.10.205/models/1.10.205.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.206",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-206/",
-            "code": "1.10.206",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.206.10.png",
-                    "local_path": "data/half-column/1.10.206/images/1.10.206.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.206.10.png",
-                    "product_code": "1.10.206"
-                },
-                {
-                    "filename": "1.10.206.10.png",
-                    "local_path": "data/half-column/1.10.206/images/1.10.206.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.206.10.png",
-                    "product_code": "1.10.206"
-                },
-                {
-                    "filename": "1.10.206.40.png",
-                    "local_path": "data/half-column/1.10.206/images/1.10.206.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.206.40.png",
-                    "product_code": "1.10.206"
-                },
-                {
-                    "filename": "1.10.206.40.png",
-                    "local_path": "data/half-column/1.10.206/images/1.10.206.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.206.40.png",
-                    "product_code": "1.10.206"
-                }
-            ],
-            "details": {
-                "Plotis": "390 mm",
-                "Aukštis": "2620 mm",
-                "Storis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.206.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.206.obj",
-                "local_path": "data/half-column/1.10.206/models/1.10.206.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.207",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-207/",
-            "code": "1.10.207",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.207.10.png",
-                    "local_path": "data/half-column/1.10.207/images/1.10.207.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.207.10.png",
-                    "product_code": "1.10.207"
-                },
-                {
-                    "filename": "1.10.207.10.png",
-                    "local_path": "data/half-column/1.10.207/images/1.10.207.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.207.10.png",
-                    "product_code": "1.10.207"
-                },
-                {
-                    "filename": "1.10.207.40.png",
-                    "local_path": "data/half-column/1.10.207/images/1.10.207.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.207.40.png",
-                    "product_code": "1.10.207"
-                },
-                {
-                    "filename": "1.10.207.40.png",
-                    "local_path": "data/half-column/1.10.207/images/1.10.207.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.207.40.png",
-                    "product_code": "1.10.207"
-                }
-            ],
-            "details": {
-                "Plotis": "392 mm",
-                "Aukštis": "3125 mm",
-                "Storis": "196 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.207.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.207.obj",
-                "local_path": "data/half-column/1.10.207/models/1.10.207.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.208",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-208/",
-            "code": "1.10.208",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.208.10.png",
-                    "local_path": "data/half-column/1.10.208/images/1.10.208.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.208.10.png",
-                    "product_code": "1.10.208"
-                },
-                {
-                    "filename": "1.10.208.10.png",
-                    "local_path": "data/half-column/1.10.208/images/1.10.208.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.208.10.png",
-                    "product_code": "1.10.208"
-                }
-            ],
-            "details": {
-                "Plotis": "392 mm",
-                "Aukštis": "2685 mm",
-                "Storis": "194 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.208.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.208.obj",
-                "local_path": "data/half-column/1.10.208/models/1.10.208.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.209",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-209/",
-            "code": "1.10.209",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.209.10.png",
-                    "local_path": "data/half-column/1.10.209/images/1.10.209.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.209.10.png",
-                    "product_code": "1.10.209"
-                },
-                {
-                    "filename": "1.10.209.10.png",
-                    "local_path": "data/half-column/1.10.209/images/1.10.209.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.209.10.png",
-                    "product_code": "1.10.209"
-                },
-                {
-                    "filename": "1.10.209.40.png",
-                    "local_path": "data/half-column/1.10.209/images/1.10.209.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.209.40.png",
-                    "product_code": "1.10.209"
-                },
-                {
-                    "filename": "1.10.209.40.png",
-                    "local_path": "data/half-column/1.10.209/images/1.10.209.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.209.40.png",
-                    "product_code": "1.10.209"
-                }
-            ],
-            "details": {
-                "Plotis": "438 mm",
-                "Aukštis": "3170 mm",
-                "Storis": "193 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.209.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.209.obj",
-                "local_path": "data/half-column/1.10.209/models/1.10.209.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.210",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-210/",
-            "code": "1.10.210",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.210.10.png",
-                    "local_path": "data/half-column/1.10.210/images/1.10.210.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.210.10.png",
-                    "product_code": "1.10.210"
-                },
-                {
-                    "filename": "1.10.210.10.png",
-                    "local_path": "data/half-column/1.10.210/images/1.10.210.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.210.10.png",
-                    "product_code": "1.10.210"
-                },
-                {
-                    "filename": "1.10.210.40.png",
-                    "local_path": "data/half-column/1.10.210/images/1.10.210.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.210.40.png",
-                    "product_code": "1.10.210"
-                },
-                {
-                    "filename": "1.10.210.40.png",
-                    "local_path": "data/half-column/1.10.210/images/1.10.210.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.210.40.png",
-                    "product_code": "1.10.210"
-                }
-            ],
-            "details": {
-                "Plotis": "438 mm",
-                "Aukštis": "2643 mm",
-                "Storis": "188 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.210.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.210.obj",
-                "local_path": "data/half-column/1.10.210/models/1.10.210.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.211",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-211/",
-            "code": "1.10.211",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.211.10.png",
-                    "local_path": "data/half-column/1.10.211/images/1.10.211.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.211.10.png",
-                    "product_code": "1.10.211"
-                },
-                {
-                    "filename": "1.10.211.10.png",
-                    "local_path": "data/half-column/1.10.211/images/1.10.211.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.211.10.png",
-                    "product_code": "1.10.211"
-                }
-            ],
-            "details": {
-                "Plotis": "438 mm",
-                "Aukštis": "3217 mm",
-                "Storis": "193 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.211.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.211.obj",
-                "local_path": "data/half-column/1.10.211/models/1.10.211.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.212",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-212/",
-            "code": "1.10.212",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.212.10.png",
-                    "local_path": "data/half-column/1.10.212/images/1.10.212.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.212.10.png",
-                    "product_code": "1.10.212"
-                },
-                {
-                    "filename": "1.10.212.10.png",
-                    "local_path": "data/half-column/1.10.212/images/1.10.212.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.212.10.png",
-                    "product_code": "1.10.212"
-                },
-                {
-                    "filename": "1.10.212.40.png",
-                    "local_path": "data/half-column/1.10.212/images/1.10.212.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.212.40.png",
-                    "product_code": "1.10.212"
-                },
-                {
-                    "filename": "1.10.212.40.png",
-                    "local_path": "data/half-column/1.10.212/images/1.10.212.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.212.40.png",
-                    "product_code": "1.10.212"
-                }
-            ],
-            "details": {
-                "Plotis": "440 mm",
-                "Aukštis": "2644 mm",
-                "Storis": "190 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.212.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.212.obj",
-                "local_path": "data/half-column/1.10.212/models/1.10.212.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.213",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-213/",
-            "code": "1.10.213",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.213.10.png",
-                    "local_path": "data/half-column/1.10.213/images/1.10.213.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.213.10.png",
-                    "product_code": "1.10.213"
-                },
-                {
-                    "filename": "1.10.213.10.png",
-                    "local_path": "data/half-column/1.10.213/images/1.10.213.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.213.10.png",
-                    "product_code": "1.10.213"
-                },
-                {
-                    "filename": "1.10.213.40.png",
-                    "local_path": "data/half-column/1.10.213/images/1.10.213.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.213.40.png",
-                    "product_code": "1.10.213"
-                },
-                {
-                    "filename": "1.10.213.40.png",
-                    "local_path": "data/half-column/1.10.213/images/1.10.213.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.213.40.png",
-                    "product_code": "1.10.213"
-                }
-            ],
-            "details": {
-                "Plotis": "391 mm",
-                "Aukštis": "3149 mm",
-                "Storis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.213.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.213.obj",
-                "local_path": "data/half-column/1.10.213/models/1.10.213.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.214",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-214/",
-            "code": "1.10.214",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.214.10.png",
-                    "local_path": "data/half-column/1.10.214/images/1.10.214.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.214.10.png",
-                    "product_code": "1.10.214"
-                },
-                {
-                    "filename": "1.10.214.10.png",
-                    "local_path": "data/half-column/1.10.214/images/1.10.214.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.214.10.png",
-                    "product_code": "1.10.214"
-                },
-                {
-                    "filename": "1.10.214.40.png",
-                    "local_path": "data/half-column/1.10.214/images/1.10.214.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.214.40.png",
-                    "product_code": "1.10.214"
-                },
-                {
-                    "filename": "1.10.214.40.png",
-                    "local_path": "data/half-column/1.10.214/images/1.10.214.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.214.40.png",
-                    "product_code": "1.10.214"
-                }
-            ],
-            "details": {
-                "Plotis": "390 mm",
-                "Aukštis": "2622 mm",
-                "Storis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.214.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.214.obj",
-                "local_path": "data/half-column/1.10.214/models/1.10.214.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.301",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-301/",
-            "code": "1.10.301",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.301.10.png",
-                    "local_path": "data/half-column/1.10.301/images/1.10.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.301.10.png",
-                    "product_code": "1.10.301"
-                },
-                {
-                    "filename": "1.10.301.10.png",
-                    "local_path": "data/half-column/1.10.301/images/1.10.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.301.10.png",
-                    "product_code": "1.10.301"
-                },
-                {
-                    "filename": "1.10.301.40.png",
-                    "local_path": "data/half-column/1.10.301/images/1.10.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.301.40.png",
-                    "product_code": "1.10.301"
-                },
-                {
-                    "filename": "1.10.301.40.png",
-                    "local_path": "data/half-column/1.10.301/images/1.10.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.301.40.png",
-                    "product_code": "1.10.301"
-                }
-            ],
-            "details": {
-                "Plotis": "299 mm",
-                "Aukštis": "2725 mm",
-                "Storis": "148 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.301.obj",
-                "local_path": "data/half-column/1.10.301/models/1.10.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.302",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-302/",
-            "code": "1.10.302",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.302.10.png",
-                    "local_path": "data/half-column/1.10.302/images/1.10.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.302.10.png",
-                    "product_code": "1.10.302"
-                },
-                {
-                    "filename": "1.10.302.10.png",
-                    "local_path": "data/half-column/1.10.302/images/1.10.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.302.10.png",
-                    "product_code": "1.10.302"
-                },
-                {
-                    "filename": "1.10.302.40.png",
-                    "local_path": "data/half-column/1.10.302/images/1.10.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.302.40.png",
-                    "product_code": "1.10.302"
-                },
-                {
-                    "filename": "1.10.302.40.png",
-                    "local_path": "data/half-column/1.10.302/images/1.10.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.302.40.png",
-                    "product_code": "1.10.302"
-                }
-            ],
-            "details": {
-                "Plotis": "224 mm",
-                "Aukštis": "2695 mm",
-                "Storis": "115 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.302.obj",
-                "local_path": "data/half-column/1.10.302/models/1.10.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.303",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-303/",
-            "code": "1.10.303",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.303.10.png",
-                    "local_path": "data/half-column/1.10.303/images/1.10.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.303.10.png",
-                    "product_code": "1.10.303"
-                },
-                {
-                    "filename": "1.10.303.10.png",
-                    "local_path": "data/half-column/1.10.303/images/1.10.303.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.303.10.png",
-                    "product_code": "1.10.303"
-                },
-                {
-                    "filename": "1.10.303.40.png",
-                    "local_path": "data/half-column/1.10.303/images/1.10.303.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.303.40.png",
-                    "product_code": "1.10.303"
-                },
-                {
-                    "filename": "1.10.303.40.png",
-                    "local_path": "data/half-column/1.10.303/images/1.10.303.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.303.40.png",
-                    "product_code": "1.10.303"
-                }
-            ],
-            "details": {
-                "Plotis": "454 mm",
-                "Aukštis": "3367 mm",
-                "Storis": "230 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.303.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.303.obj",
-                "local_path": "data/half-column/1.10.303/models/1.10.303.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 1.10.304",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-304/",
-            "code": "1.10.304",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "1.10.304.10.png",
-                    "local_path": "data/half-column/1.10.304/images/1.10.304.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.304.10.png",
-                    "product_code": "1.10.304"
-                },
-                {
-                    "filename": "1.10.304.10.png",
-                    "local_path": "data/half-column/1.10.304/images/1.10.304.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.10.304.10.png",
-                    "product_code": "1.10.304"
-                },
-                {
-                    "filename": "1.10.304.40.png",
-                    "local_path": "data/half-column/1.10.304/images/1.10.304.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.304.40.png",
-                    "product_code": "1.10.304"
-                },
-                {
-                    "filename": "1.10.304.40.png",
-                    "local_path": "data/half-column/1.10.304/images/1.10.304.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.10.304.40.png",
-                    "product_code": "1.10.304"
-                }
-            ],
-            "details": {
-                "Plotis": "427 mm",
-                "Aukštis": "2839 mm",
-                "Storis": "214 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.10.304.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.304.obj",
-                "local_path": "data/half-column/1.10.304/models/1.10.304.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-101/",
-            "code": "4.10.101",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.101.10.png",
-                    "local_path": "data/half-column/4.10.101/images/4.10.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.101.10.png",
-                    "product_code": "4.10.101"
-                },
-                {
-                    "filename": "4.10.101.10.png",
-                    "local_path": "data/half-column/4.10.101/images/4.10.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.101.10.png",
-                    "product_code": "4.10.101"
-                },
-                {
-                    "filename": "4.10.101.40.png",
-                    "local_path": "data/half-column/4.10.101/images/4.10.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.101.40.png",
-                    "product_code": "4.10.101"
-                },
-                {
-                    "filename": "4.10.101.40.png",
-                    "local_path": "data/half-column/4.10.101/images/4.10.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.101.40.png",
-                    "product_code": "4.10.101"
-                }
-            ],
-            "details": {
-                "Plotis": "440 mm",
-                "Aukštis": "2676 mm",
-                "Storis": "217 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.101.obj",
-                "local_path": "data/half-column/4.10.101/models/4.10.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-102/",
-            "code": "4.10.102",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.102.10.png",
-                    "local_path": "data/half-column/4.10.102/images/4.10.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.102.10.png",
-                    "product_code": "4.10.102"
-                },
-                {
-                    "filename": "4.10.102.10.png",
-                    "local_path": "data/half-column/4.10.102/images/4.10.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.102.10.png",
-                    "product_code": "4.10.102"
-                },
-                {
-                    "filename": "4.10.102.40.png",
-                    "local_path": "data/half-column/4.10.102/images/4.10.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.102.40.png",
-                    "product_code": "4.10.102"
-                },
-                {
-                    "filename": "4.10.102.40.png",
-                    "local_path": "data/half-column/4.10.102/images/4.10.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.102.40.png",
-                    "product_code": "4.10.102"
-                }
-            ],
-            "details": {
-                "Plotis": "440 mm",
-                "Aukštis": "2667 mm",
-                "Storis": "217 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.102.obj",
-                "local_path": "data/half-column/4.10.102/models/4.10.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.103",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-103/",
-            "code": "4.10.103",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.103.10.png",
-                    "local_path": "data/half-column/4.10.103/images/4.10.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.103.10.png",
-                    "product_code": "4.10.103"
-                },
-                {
-                    "filename": "4.10.103.10.png",
-                    "local_path": "data/half-column/4.10.103/images/4.10.103.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.103.10.png",
-                    "product_code": "4.10.103"
-                },
-                {
-                    "filename": "4.10.103.40.png",
-                    "local_path": "data/half-column/4.10.103/images/4.10.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.103.40.png",
-                    "product_code": "4.10.103"
-                },
-                {
-                    "filename": "4.10.103.40.png",
-                    "local_path": "data/half-column/4.10.103/images/4.10.103.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.103.40.png",
-                    "product_code": "4.10.103"
-                }
-            ],
-            "details": {
-                "Plotis": "543 mm",
-                "Aukštis": "arbitrary",
-                "Storis": "272 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.103.obj",
-                "local_path": "data/half-column/4.10.103/models/4.10.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.104",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-104/",
-            "code": "4.10.104",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.104.10.png",
-                    "local_path": "data/half-column/4.10.104/images/4.10.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.104.10.png",
-                    "product_code": "4.10.104"
-                },
-                {
-                    "filename": "4.10.104.10.png",
-                    "local_path": "data/half-column/4.10.104/images/4.10.104.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.104.10.png",
-                    "product_code": "4.10.104"
-                }
-            ],
-            "details": {
-                "Plotis": "392 mm",
-                "Aukštis": "2038 mm",
-                "Storis": "197 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.104.obj",
-                "local_path": "data/half-column/4.10.104/models/4.10.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-201/",
-            "code": "4.10.201",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.201.10.png",
-                    "local_path": "data/half-column/4.10.201/images/4.10.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.201.10.png",
-                    "product_code": "4.10.201"
-                },
-                {
-                    "filename": "4.10.201.10.png",
-                    "local_path": "data/half-column/4.10.201/images/4.10.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.201.10.png",
-                    "product_code": "4.10.201"
-                },
-                {
-                    "filename": "4.10.201.40.png",
-                    "local_path": "data/half-column/4.10.201/images/4.10.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.201.40.png",
-                    "product_code": "4.10.201"
-                },
-                {
-                    "filename": "4.10.201.40.png",
-                    "local_path": "data/half-column/4.10.201/images/4.10.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.201.40.png",
-                    "product_code": "4.10.201"
-                }
-            ],
-            "details": {
-                "Plotis": "434 mm",
-                "Aukštis": "2622 mm",
-                "Storis": "205 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.201.obj",
-                "local_path": "data/half-column/4.10.201/models/4.10.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-202/",
-            "code": "4.10.202",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.202.10.png",
-                    "local_path": "data/half-column/4.10.202/images/4.10.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.202.10.png",
-                    "product_code": "4.10.202"
-                },
-                {
-                    "filename": "4.10.202.10.png",
-                    "local_path": "data/half-column/4.10.202/images/4.10.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.202.10.png",
-                    "product_code": "4.10.202"
-                },
-                {
-                    "filename": "4.10.202.40.png",
-                    "local_path": "data/half-column/4.10.202/images/4.10.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.202.40.png",
-                    "product_code": "4.10.202"
-                },
-                {
-                    "filename": "4.10.202.40.png",
-                    "local_path": "data/half-column/4.10.202/images/4.10.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.202.40.png",
-                    "product_code": "4.10.202"
-                }
-            ],
-            "details": {
-                "Plotis": "434 mm",
-                "Aukštis": "2669 mm",
-                "Storis": "205 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.202.obj",
-                "local_path": "data/half-column/4.10.202/models/4.10.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.204",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-204/",
-            "code": "4.10.204",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.204.10.png",
-                    "local_path": "data/half-column/4.10.204/images/4.10.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.204.10.png",
-                    "product_code": "4.10.204"
-                },
-                {
-                    "filename": "4.10.204.10.png",
-                    "local_path": "data/half-column/4.10.204/images/4.10.204.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.204.10.png",
-                    "product_code": "4.10.204"
-                }
-            ],
-            "details": {
-                "Plotis": "393 mm",
-                "Aukštis": "2087 mm",
-                "Storis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.204.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.204.obj",
-                "local_path": "data/half-column/4.10.204/models/4.10.204.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.205",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-205/",
-            "code": "4.10.205",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.205.10.png",
-                    "local_path": "data/half-column/4.10.205/images/4.10.205.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.205.10.png",
-                    "product_code": "4.10.205"
-                },
-                {
-                    "filename": "4.10.205.10.png",
-                    "local_path": "data/half-column/4.10.205/images/4.10.205.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.205.10.png",
-                    "product_code": "4.10.205"
-                }
-            ],
-            "details": {
-                "Plotis": "635 mm",
-                "Aukštis": "2908 mm",
-                "Storis": "270 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.205.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.205.obj",
-                "local_path": "data/half-column/4.10.205/models/4.10.205.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.206",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-206/",
-            "code": "4.10.206",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.206.10.png",
-                    "local_path": "data/half-column/4.10.206/images/4.10.206.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.206.10.png",
-                    "product_code": "4.10.206"
-                },
-                {
-                    "filename": "4.10.206.10.png",
-                    "local_path": "data/half-column/4.10.206/images/4.10.206.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.206.10.png",
-                    "product_code": "4.10.206"
-                },
-                {
-                    "filename": "4.10.206.40.png",
-                    "local_path": "data/half-column/4.10.206/images/4.10.206.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.206.40.png",
-                    "product_code": "4.10.206"
-                },
-                {
-                    "filename": "4.10.206.40.png",
-                    "local_path": "data/half-column/4.10.206/images/4.10.206.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.206.40.png",
-                    "product_code": "4.10.206"
-                }
-            ],
-            "details": {
-                "Plotis": "635 mm",
-                "Aukštis": "arbitrary",
-                "Storis": "269 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.206.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.206.obj",
-                "local_path": "data/half-column/4.10.206/models/4.10.206.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-301/",
-            "code": "4.10.301",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.301.10.png",
-                    "local_path": "data/half-column/4.10.301/images/4.10.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.301.10.png",
-                    "product_code": "4.10.301"
-                },
-                {
-                    "filename": "4.10.301.10.png",
-                    "local_path": "data/half-column/4.10.301/images/4.10.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.301.10.png",
-                    "product_code": "4.10.301"
-                }
-            ],
-            "details": {
-                "Plotis": "397 mm",
-                "Aukštis": "2687 mm",
-                "Storis": "206 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.301.obj",
-                "local_path": "data/half-column/4.10.301/models/4.10.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.305",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-305/",
-            "code": "4.10.305",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.305.10.png",
-                    "local_path": "data/half-column/4.10.305/images/4.10.305.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.305.10.png",
-                    "product_code": "4.10.305"
-                },
-                {
-                    "filename": "4.10.305.10.png",
-                    "local_path": "data/half-column/4.10.305/images/4.10.305.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.305.10.png",
-                    "product_code": "4.10.305"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "2051 mm",
-                "Storis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.305.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.305.obj",
-                "local_path": "data/half-column/4.10.305/models/4.10.305.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.306",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-306/",
-            "code": "4.10.306",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.306.10.png",
-                    "local_path": "data/half-column/4.10.306/images/4.10.306.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.306.10.png",
-                    "product_code": "4.10.306"
-                },
-                {
-                    "filename": "4.10.306.10.png",
-                    "local_path": "data/half-column/4.10.306/images/4.10.306.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.306.10.png",
-                    "product_code": "4.10.306"
-                }
-            ],
-            "details": {
-                "Plotis": "648 mm",
-                "Aukštis": "3177 mm",
-                "Storis": "326 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.306.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.306.obj",
-                "local_path": "data/half-column/4.10.306/models/4.10.306.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Half column 4.10.307",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-307/",
-            "code": "4.10.307",
-            "category": "puskolonos",
-            "images": [
-                {
-                    "filename": "4.10.307.10.png",
-                    "local_path": "data/half-column/4.10.307/images/4.10.307.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.307.10.png",
-                    "product_code": "4.10.307"
-                },
-                {
-                    "filename": "4.10.307.10.png",
-                    "local_path": "data/half-column/4.10.307/images/4.10.307.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.10.307.10.png",
-                    "product_code": "4.10.307"
-                },
-                {
-                    "filename": "4.10.307.40.png",
-                    "local_path": "data/half-column/4.10.307/images/4.10.307.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.307.40.png",
-                    "product_code": "4.10.307"
-                },
-                {
-                    "filename": "4.10.307.40.png",
-                    "local_path": "data/half-column/4.10.307/images/4.10.307.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.10.307.40.png",
-                    "product_code": "4.10.307"
-                }
-            ],
-            "details": {
-                "Plotis": "644 mm",
-                "Aukštis": "savavališkai",
-                "Storis": "327 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.10.307.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.307.obj",
-                "local_path": "data/half-column/4.10.307/models/4.10.307.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
+          "reviewId": "1.10.101_rev_1",
+          "customerName": "Nomeda Račkauskas",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. naudojimo patirtis labai teigiama, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 2 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2025-04-29",
+          "verified": true,
+          "helpful": 59
         }
-    ]
+      ]
+    },
+    {
+      "name": "Half column 1.10.102",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-102/",
+      "code": "1.10.102",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "225 mm",
+        "Aukštis": "2695 mm",
+        "Storis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.102.obj",
+        "local_path": "data/half-column/1.10.102/models/1.10.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.102_rev_1",
+          "customerName": "Irma Kairys",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. galutinis efektas atrodo profesionaliai, o prekė atvyko be pažeidimų. Naudoju jau 31 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2022-09-06",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.103",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-103/",
+      "code": "1.10.103",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "275 mm",
+        "Aukštis": "2912 mm",
+        "Storis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.103.obj",
+        "local_path": "data/half-column/1.10.103/models/1.10.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.103_rev_1",
+          "customerName": "Liūtas Baravykas",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad detalės išbaigtos su meile. viskas atitiko mano lūkesčius, o prekė buvo saugiai supakuota. Naudoju jau 25 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2024-04-03",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.104",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-104/",
+      "code": "1.10.104",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "271 mm",
+        "Aukštis": "2217 mm",
+        "Storis": "135 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.104.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.104.obj",
+        "local_path": "data/half-column/1.10.104/models/1.10.104.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.104_rev_1",
+          "customerName": "Rytas Kairys",
+          "rating": 9.8,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. galutinis vaizdas tikrai estetiškas, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 2 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2024-08-25",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "1.10.104_rev_2",
+          "customerName": "Lozorius Brazaitis",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. rezultatas atrodo nepriekaištingai, o visa patirtis su užsakymu teigiama. Naudoju jau 35 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2022-06-28",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.105",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-105/",
+      "code": "1.10.105",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "391 mm",
+        "Aukštis": "3268 mm",
+        "Storis": "193 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.105.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.105.obj",
+        "local_path": "data/half-column/1.10.105/models/1.10.105.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.105_rev_1",
+          "customerName": "Ignas Daunys",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. viskas veikia be trikdžių, o siunta pristatyta be jokių problemų. Naudoju jau 24 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2024-01-13",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.10.105_rev_2",
+          "customerName": "Veronika Kazlauskas",
+          "rating": 9.4,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. viskas veikia nepriekaištingai ir patikimai, o pakuotė labai tvarkinga. Naudoju jau 32 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2024-03-31",
+          "verified": true,
+          "helpful": 49
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.106",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-106/",
+      "code": "1.10.106",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "378 mm",
+        "Aukštis": "2741 mm",
+        "Storis": "188 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.106.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.106.obj",
+        "local_path": "data/half-column/1.10.106/models/1.10.106.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.106_rev_1",
+          "customerName": "Albertas Puodžiūnas",
+          "rating": 10.0,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. galutinis vaizdas atrodo estetiškai ir kokybiškai, o užsakymas įvykdytas laiku. Naudoju jau 23 mėnesius. Vertinu labai teigiamai.",
+          "date": "2023-01-15",
+          "verified": true,
+          "helpful": 1
+        },
+        {
+          "reviewId": "1.10.106_rev_2",
+          "customerName": "Janina Šimkus",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad kokybė yra išskirtinė. galutinis vaizdas tikrai estetiškas, o pakuotė labai tvarkinga. Naudoju jau 5 mėnesius. Likau labai patenkintas.",
+          "date": "2024-12-09",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.201",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-201/",
+      "code": "1.10.201",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "311 mm",
+        "Aukštis": "2728 mm",
+        "Storis": "156 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.201.obj",
+        "local_path": "data/half-column/1.10.201/models/1.10.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.201_rev_1",
+          "customerName": "Elvyra Maželis",
+          "rating": 9.9,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas labai profesionalus, o prekė buvo saugiai supakuota. Naudoju jau 32 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2023-10-13",
+          "verified": true,
+          "helpful": 49
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.202",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-202/",
+      "code": "1.10.202",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "237 mm",
+        "Aukštis": "2695 mm",
+        "Storis": "109 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.202.obj",
+        "local_path": "data/half-column/1.10.202/models/1.10.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.202_rev_1",
+          "customerName": "Liūtas Gailius",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. naudojimo patirtis paprasta ir maloni, o pakuotė puikiai apsaugojo produktą. Naudoju jau 4 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2025-10-14",
+          "verified": true,
+          "helpful": 48
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.203",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-203/",
+      "code": "1.10.203",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "280 mm",
+        "Aukštis": "2846 mm",
+        "Storis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.203.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.203.obj",
+        "local_path": "data/half-column/1.10.203/models/1.10.203.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.203_rev_1",
+          "customerName": "Elzbieta Kavolis",
+          "rating": 9.5,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. pritaikymas prie interjero nekelia problemų, o siunta pristatyta saugiai ir laiku. Naudoju jau 29 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2022-07-26",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.204",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-204/",
+      "code": "1.10.204",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "280 mm",
+        "Aukštis": "2151 mm",
+        "Storis": "137 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.204.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.204.obj",
+        "local_path": "data/half-column/1.10.204/models/1.10.204.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.204_rev_1",
+          "customerName": "Sonata Lukoševičius",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. viskas veikia sklandžiai ir patikimai, o užsakymas įvykdytas sklandžiai. Naudoju jau 16 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2024-01-15",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "1.10.204_rev_2",
+          "customerName": "Martynas Paleckis",
+          "rating": 9.5,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. pritaikymas prie interjero nesukėlė sunkumų, o visa patirtis maloni ir sklandi. Naudoju jau 28 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2025-07-22",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.205",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-205/",
+      "code": "1.10.205",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "391 mm",
+        "Aukštis": "3147 mm",
+        "Storis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.205.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.205.obj",
+        "local_path": "data/half-column/1.10.205/models/1.10.205.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.205_rev_1",
+          "customerName": "Aspazija Puodžiūnas",
+          "rating": 9.8,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. montavimas neužtruko nė minutės, o siunta pristatyta be jokių problemų. Naudoju jau 26 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2024-08-13",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.206",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-206/",
+      "code": "1.10.206",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "390 mm",
+        "Aukštis": "2620 mm",
+        "Storis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.206.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.206.obj",
+        "local_path": "data/half-column/1.10.206/models/1.10.206.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.206_rev_1",
+          "customerName": "Egidijus Rimšas",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. pritaikymas prie interjero vyko be problemų, o visa patirtis buvo labai teigiama. Naudoju jau 34 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2023-12-03",
+          "verified": true,
+          "helpful": 56
+        },
+        {
+          "reviewId": "1.10.206_rev_2",
+          "customerName": "Dalia Šalčius",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad apdirbimas itin preciziškas. viskas veikia sklandžiai ir tiksliai, o pristatymas patogus ir greitas. Naudoju jau 14 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2024-05-30",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.207",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-207/",
+      "code": "1.10.207",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "392 mm",
+        "Aukštis": "3125 mm",
+        "Storis": "196 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.207.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.207.obj",
+        "local_path": "data/half-column/1.10.207/models/1.10.207.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.207_rev_1",
+          "customerName": "Olivija Žemaitis",
+          "rating": 9.9,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis vaizdas atitinka nuotraukas, o pakuotė tvarkinga ir saugi. Naudoju jau 21 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-09-04",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.208",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-208/",
+      "code": "1.10.208",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "392 mm",
+        "Aukštis": "2685 mm",
+        "Storis": "194 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.208.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.208.obj",
+        "local_path": "data/half-column/1.10.208/models/1.10.208.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.208_rev_1",
+          "customerName": "Modestas Mockus",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas buvo greitas ir paprastas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 6 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2022-08-09",
+          "verified": true,
+          "helpful": 34
+        },
+        {
+          "reviewId": "1.10.208_rev_2",
+          "customerName": "Natalija Daukantas",
+          "rating": 9.5,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. viskas veikia nepriekaištingai, o aptarnavimas profesionalus ir malonus. Naudoju jau 35 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2022-11-25",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.209",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-209/",
+      "code": "1.10.209",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "438 mm",
+        "Aukštis": "3170 mm",
+        "Storis": "193 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.209.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.209.obj",
+        "local_path": "data/half-column/1.10.209/models/1.10.209.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.209_rev_1",
+          "customerName": "Kristina Petraitis",
+          "rating": 9.4,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimo patirtis puiki, o aptarnavimas profesionalus ir malonus. Naudoju jau 24 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2025-11-01",
+          "verified": true,
+          "helpful": 37
+        },
+        {
+          "reviewId": "1.10.209_rev_2",
+          "customerName": "Kostas Kavolis",
+          "rating": 10.0,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. montavimas nesudėtingas, o visa patirtis sklandi. Naudoju jau 11 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2025-06-02",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.210",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-210/",
+      "code": "1.10.210",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "438 mm",
+        "Aukštis": "2643 mm",
+        "Storis": "188 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.210.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.210.obj",
+        "local_path": "data/half-column/1.10.210/models/1.10.210.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.210_rev_1",
+          "customerName": "Albina Staniulis",
+          "rating": 9.7,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. galutinis vaizdas atrodo estetiškai ir kokybiškai, o užsakymo procesas paprastas. Naudoju jau 29 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-03-03",
+          "verified": true,
+          "helpful": 5
+        },
+        {
+          "reviewId": "1.10.210_rev_2",
+          "customerName": "Vaidotas Mačiulis",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. montavimas nesudėtingas, o pakuotė labai tvarkinga. Naudoju jau 4 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2025-08-31",
+          "verified": true,
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.211",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-211/",
+      "code": "1.10.211",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "438 mm",
+        "Aukštis": "3217 mm",
+        "Storis": "193 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.211.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.211.obj",
+        "local_path": "data/half-column/1.10.211/models/1.10.211.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.211_rev_1",
+          "customerName": "Daina Gricius",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. naudojimas patogus ir paprastas, o užsakymo procesas paprastas ir aiškus. Naudoju jau 13 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2025-07-17",
+          "verified": true,
+          "helpful": 48
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.212",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-212/",
+      "code": "1.10.212",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "440 mm",
+        "Aukštis": "2644 mm",
+        "Storis": "190 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.212.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.212.obj",
+        "local_path": "data/half-column/1.10.212/models/1.10.212.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.212_rev_1",
+          "customerName": "Magdalena Rimkus",
+          "rating": 9.5,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. galutinis efektas labai estetiškas, o pristatymas greitas ir patikimas. Naudoju jau 13 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2023-05-04",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "1.10.212_rev_2",
+          "customerName": "Silva Šerkšnas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. naudojimas greitas ir komfortiškas, o užsakymo procesas paprastas. Naudoju jau 12 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2024-07-14",
+          "verified": true,
+          "helpful": 52
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.213",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-213/",
+      "code": "1.10.213",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "391 mm",
+        "Aukštis": "3149 mm",
+        "Storis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.213.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.213.obj",
+        "local_path": "data/half-column/1.10.213/models/1.10.213.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.213_rev_1",
+          "customerName": "Elzbieta Kairys",
+          "rating": 9.8,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad dizainas atrodo prabangiai. pritaikymas prie kambario lengvai įmanomas, o pristatymas patogus ir greitas. Naudoju jau 31 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2025-08-01",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.214",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-214/",
+      "code": "1.10.214",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "390 mm",
+        "Aukštis": "2622 mm",
+        "Storis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.214.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.214.obj",
+        "local_path": "data/half-column/1.10.214/models/1.10.214.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.214_rev_1",
+          "customerName": "Pranciška Rakauskas",
+          "rating": 9.4,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. viskas veikia nepriekaištingai, o visa patirtis su užsakymu teigiama. Naudoju jau 34 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2026-01-21",
+          "verified": true,
+          "helpful": 16
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.301",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-301/",
+      "code": "1.10.301",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "299 mm",
+        "Aukštis": "2725 mm",
+        "Storis": "148 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.301.obj",
+        "local_path": "data/half-column/1.10.301/models/1.10.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.301_rev_1",
+          "customerName": "Morkus Ašmonas",
+          "rating": 10.0,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. produktas jaučiasi patvarus ir solidus, o užsakymo procesas aiškus ir paprastas. Naudoju jau 12 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2024-04-08",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.302",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-302/",
+      "code": "1.10.302",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "224 mm",
+        "Aukštis": "2695 mm",
+        "Storis": "115 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.302.obj",
+        "local_path": "data/half-column/1.10.302/models/1.10.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.302_rev_1",
+          "customerName": "Regina Žalys",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad apdirbimas itin preciziškas. viskas veikia nepriekaištingai ir patikimai, o užsakymas įvykdytas sklandžiai. Naudoju jau 30 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-04-25",
+          "verified": true,
+          "helpful": 54
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.303",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-303/",
+      "code": "1.10.303",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "454 mm",
+        "Aukštis": "3367 mm",
+        "Storis": "230 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.303.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.303.obj",
+        "local_path": "data/half-column/1.10.303/models/1.10.303.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.303_rev_1",
+          "customerName": "Marijonas Brazaitis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. montavimas tikrai nekelia rūpesčių, o prekė pristatyta nepriekaištingai. Naudoju jau 32 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2022-12-28",
+          "verified": true,
+          "helpful": 51
+        },
+        {
+          "reviewId": "1.10.303_rev_2",
+          "customerName": "Toma Tamošiūnas",
+          "rating": 9.8,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. rezultatas pranoko mano lūkesčius, o pristatymas buvo greitas. Naudoju jau 3 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2022-11-05",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Half column 1.10.304",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/half-columns/1-10-304/",
+      "code": "1.10.304",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "427 mm",
+        "Aukštis": "2839 mm",
+        "Storis": "214 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.10.304.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.10.304.obj",
+        "local_path": "data/half-column/1.10.304/models/1.10.304.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.10.304_rev_1",
+          "customerName": "Kostas Bublys",
+          "rating": 9.6,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. naudojimo patirtis maloni ir paprasta, o užsakymas įvykdytas laiku. Naudoju jau 27 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-07-13",
+          "verified": true,
+          "helpful": 55
+        },
+        {
+          "reviewId": "1.10.304_rev_2",
+          "customerName": "Artūras Džiugas",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. naudojimas paprastas ir intuityvus, o pakuotė tvarkinga ir estetiška. Naudoju jau 8 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2022-05-13",
+          "verified": true,
+          "helpful": 17
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-101/",
+      "code": "4.10.101",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "440 mm",
+        "Aukštis": "2676 mm",
+        "Storis": "217 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.101.obj",
+        "local_path": "data/half-column/4.10.101/models/4.10.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.101_rev_1",
+          "customerName": "Zita Rimkus",
+          "rating": 9.7,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. galutinis vaizdas atitinka nuotraukas, o pristatymas greitas ir patikimas. Naudoju jau 31 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2023-06-20",
+          "verified": true,
+          "helpful": 29
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-102/",
+      "code": "4.10.102",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "440 mm",
+        "Aukštis": "2667 mm",
+        "Storis": "217 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.102.obj",
+        "local_path": "data/half-column/4.10.102/models/4.10.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.102_rev_1",
+          "customerName": "Kastytis Dambrauskas",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. pritaikymas prie mano namų buvo lengvas, o logistika efektyvi ir profesionali. Naudoju jau 25 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2023-05-27",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "4.10.102_rev_2",
+          "customerName": "Birutė Klimas",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimas yra itin patogus, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 16 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-02-02",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.103",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-103/",
+      "code": "4.10.103",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "543 mm",
+        "Aukštis": "arbitrary",
+        "Storis": "272 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.103.obj",
+        "local_path": "data/half-column/4.10.103/models/4.10.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.103_rev_1",
+          "customerName": "Raminta Puidokas",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis vaizdas atrodo estetiškai ir kokybiškai, o užsakymas įvykdytas be problemų. Naudoju jau 1 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2023-01-02",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.104",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-104/",
+      "code": "4.10.104",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "392 mm",
+        "Aukštis": "2038 mm",
+        "Storis": "197 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.104.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.104.obj",
+        "local_path": "data/half-column/4.10.104/models/4.10.104.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.104_rev_1",
+          "customerName": "Angela Sabaliauskas",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad dizainas atrodo prabangiai. produktas suteikia komforto pojūtį, o visa patirtis su užsakymu teigiama. Naudoju jau 14 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-09-10",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-201/",
+      "code": "4.10.201",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "434 mm",
+        "Aukštis": "2622 mm",
+        "Storis": "205 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.201.obj",
+        "local_path": "data/half-column/4.10.201/models/4.10.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.201_rev_1",
+          "customerName": "Grigalius Klišauskas",
+          "rating": 9.7,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. montavimas neužtruko nė minutės, o prekė pristatyta nepriekaištingai. Naudoju jau 34 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2024-11-17",
+          "verified": true,
+          "helpful": 17
+        },
+        {
+          "reviewId": "4.10.201_rev_2",
+          "customerName": "Justina Urbonaitis",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. viskas veikia nepriekaištingai, o užsakymo procesas labai patogus. Naudoju jau 31 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2025-02-26",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-202/",
+      "code": "4.10.202",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "434 mm",
+        "Aukštis": "2669 mm",
+        "Storis": "205 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.202.obj",
+        "local_path": "data/half-column/4.10.202/models/4.10.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.202_rev_1",
+          "customerName": "Vilija Kavolis",
+          "rating": 9.7,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. viskas atitiko mano lūkesčius, o logistika buvo gerai organizuota. Naudoju jau 4 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2023-04-28",
+          "verified": true,
+          "helpful": 28
+        },
+        {
+          "reviewId": "4.10.202_rev_2",
+          "customerName": "Albertas Lapinskas",
+          "rating": 10.0,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. rezultatas viršijo mano tikslus, o siunta pristatyta kaip sutarta. Naudoju jau 28 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2025-11-21",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.204",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-204/",
+      "code": "4.10.204",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "393 mm",
+        "Aukštis": "2087 mm",
+        "Storis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.204.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.204.obj",
+        "local_path": "data/half-column/4.10.204/models/4.10.204.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.204_rev_1",
+          "customerName": "Eugenija Mockus",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. produktas vertas kiekvieno cento, o pakuotė tvarkinga ir estetiška. Naudoju jau 11 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2022-12-19",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.205",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-205/",
+      "code": "4.10.205",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "635 mm",
+        "Aukštis": "2908 mm",
+        "Storis": "270 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.205.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.205.obj",
+        "local_path": "data/half-column/4.10.205/models/4.10.205.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.205_rev_1",
+          "customerName": "Augustinas Lukoševičius",
+          "rating": 9.4,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. naudojimo patirtis labai teigiama, o užsakymas įvykdytas be problemų. Naudoju jau 26 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2022-03-03",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.206",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-206/",
+      "code": "4.10.206",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "635 mm",
+        "Aukštis": "arbitrary",
+        "Storis": "269 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.206.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.206.obj",
+        "local_path": "data/half-column/4.10.206/models/4.10.206.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.206_rev_1",
+          "customerName": "Mikalojus Račkauskas",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. produktas vertas kiekvieno cento, o siunta pristatyta kaip sutarta. Naudoju jau 25 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2022-05-11",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-301/",
+      "code": "4.10.301",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "397 mm",
+        "Aukštis": "2687 mm",
+        "Storis": "206 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.301.obj",
+        "local_path": "data/half-column/4.10.301/models/4.10.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.301_rev_1",
+          "customerName": "Laimutė Baravykas",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad dizainas stilingas ir modernus. rezultatas viršijo mano tikslus, o užsakymas įvykdytas be problemų. Naudoju jau 16 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2022-07-10",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.305",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-305/",
+      "code": "4.10.305",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "2051 mm",
+        "Storis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.305.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.305.obj",
+        "local_path": "data/half-column/4.10.305/models/4.10.305.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.305_rev_1",
+          "customerName": "Armandas Masiulis",
+          "rating": 9.8,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. galutinis efektas labai estetiškas, o komunikacija su pardavėju puiki. Naudoju jau 28 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2022-12-09",
+          "verified": true,
+          "helpful": 22
+        },
+        {
+          "reviewId": "4.10.305_rev_2",
+          "customerName": "Ina Baranauskas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad apdirbimas itin preciziškas. naudojimas patogus ir efektyvus, o logistika suorganizuota profesionaliai. Naudoju jau 5 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2023-04-27",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.306",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-306/",
+      "code": "4.10.306",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "648 mm",
+        "Aukštis": "3177 mm",
+        "Storis": "326 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.306.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.306.obj",
+        "local_path": "data/half-column/4.10.306/models/4.10.306.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.306_rev_1",
+          "customerName": "Virgilijus Janulis",
+          "rating": 9.7,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. viskas veikia sklandžiai ir patikimai, o užsakymo procesas paprastas. Naudoju jau 26 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2025-10-22",
+          "verified": true,
+          "helpful": 57
+        },
+        {
+          "reviewId": "4.10.306_rev_2",
+          "customerName": "Laimis Baravykas",
+          "rating": 9.9,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad dizainas atrodo prabangiai. jaučiasi aukšta klasė, o logistika buvo gerai organizuota. Naudoju jau 28 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2025-12-22",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Half column 4.10.307",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/columns-facade/half-columns-columns-facade/4-10-307/",
+      "code": "4.10.307",
+      "category": "puskolonos",
+      "details": {
+        "Plotis": "644 mm",
+        "Aukštis": "savavališkai",
+        "Storis": "327 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.10.307.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.10.307.obj",
+        "local_path": "data/half-column/4.10.307/models/4.10.307.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.10.307_rev_1",
+          "customerName": "Romanas Skrebiškis",
+          "rating": 9.6,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. naudojimas lengvas net pradedantiesiems, o užsakymo procesas paprastas ir aiškus. Naudoju jau 33 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-04-20",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    }
+  ]
 }

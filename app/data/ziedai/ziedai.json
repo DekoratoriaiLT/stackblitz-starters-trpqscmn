@@ -1,205 +1,220 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Ring 1.11.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-100/",
+      "code": "1.11.100",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "279 mm",
+        "Plotis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.100.obj",
+        "local_path": "data/ring/Ring_1_11_100/models/1.11.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 5.77,
+      "price_gbp": "4.97",
+      "reviews": [
         {
-            "name": "Ring 1.11.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-100/",
-            "code": "1.11.100",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.11.100.10.png",
-                    "local_path": "data/ring/Ring_1_11_100/images/1.11.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.100.10.png"
-                },
-                {
-                    "filename": "1.11.100.10.png",
-                    "local_path": "data/ring/Ring_1_11_100/images/1.11.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.100.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "279 mm",
-                "Plotis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.100.obj",
-                "local_path": "data/ring/Ring_1_11_100/models/1.11.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 5.77,
-            "price_gbp": "4.97",
-            "reviews": []
+          "reviewId": "1.11.100_rev_1",
+          "customerName": "Aspazija Bielskis",
+          "rating": 9.5,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. montavimas buvo greitas ir paprastas, o aptarnavimas malonus. Naudoju jau 24 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2022-08-09",
+          "verified": true,
+          "helpful": 14
         },
         {
-            "name": "Ring 1.11.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-200/",
-            "code": "1.11.200",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.11.200.10.png",
-                    "local_path": "data/ring/Ring_1_11_200/images/1.11.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.200.10.png"
-                },
-                {
-                    "filename": "1.11.200.10.png",
-                    "local_path": "data/ring/Ring_1_11_200/images/1.11.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.200.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "279 mm",
-                "Plotis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.200.obj",
-                "local_path": "data/ring/Ring_1_11_200/models/1.11.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 5.77,
-            "price_gbp": "4.97",
-            "reviews": []
-        },
-        {
-            "name": "Ring 1.11.300",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-300/",
-            "code": "1.11.300",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.11.300.10.png",
-                    "local_path": "data/ring/Ring_1_11_300/images/1.11.300.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.300.10.png"
-                },
-                {
-                    "filename": "1.11.300.10.png",
-                    "local_path": "data/ring/Ring_1_11_300/images/1.11.300.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.300.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "297 mm",
-                "Plotis": "44 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.300.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.300.obj",
-                "local_path": "data/ring/Ring_1_11_300/models/1.11.300.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 8.42,
-            "price_gbp": "7.26",
-            "reviews": []
-        },
-        {
-            "name": "Ring 1.15.100",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-100/",
-            "code": "1.15.100",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.15.100.10.png",
-                    "local_path": "data/ring/Ring_1_15_100/images/1.15.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.100.10.png"
-                },
-                {
-                    "filename": "1.15.100.10.png",
-                    "local_path": "data/ring/Ring_1_15_100/images/1.15.100.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.100.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "279 mm",
-                "Ilgis": "138 mm",
-                "Plotis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.100.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.100.obj",
-                "local_path": "data/ring/Ring_1_15_100/models/1.15.100.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 2.9,
-            "price_gbp": "2.50",
-            "reviews": []
-        },
-        {
-            "name": "Ring 1.15.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-200/",
-            "code": "1.15.200",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.15.200.10.png",
-                    "local_path": "data/ring/Ring_1_15_200/images/1.15.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.200.10.png"
-                },
-                {
-                    "filename": "1.15.200.10.png",
-                    "local_path": "data/ring/Ring_1_15_200/images/1.15.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.200.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "279 mm",
-                "Ilgis": "138 mm",
-                "Plotis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.200.obj",
-                "local_path": "data/ring/Ring_1_15_200/models/1.15.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 2.9,
-            "price_gbp": "2.50",
-            "reviews": []
-        },
-        {
-            "name": "Ring 1.15.300",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-300/",
-            "code": "1.15.300",
-            "category": "ziedai",
-            "images": [
-                {
-                    "filename": "1.15.300.100.png",
-                    "local_path": "data/ring/Ring_1_15_300/images/1.15.300.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.15.300.100.png"
-                },
-                {
-                    "filename": "1.15.300.100.png",
-                    "local_path": "data/ring/Ring_1_15_300/images/1.15.300.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.15.300.100.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "297 mm",
-                "Ilgis": "147 mm",
-                "Plotis": "45 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.300.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.300.obj",
-                "local_path": "data/ring/Ring_1_15_300/models/1.15.300.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 4.29,
-            "price_gbp": "3.70",
-            "reviews": []
+          "reviewId": "1.11.100_rev_2",
+          "customerName": "Angela Stankevičius",
+          "rating": 9.5,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. rezultatas pranoko mano lūkesčius, o logistika buvo gerai organizuota. Naudoju jau 22 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-01-15",
+          "verified": true,
+          "helpful": 52
         }
-    ]
+      ]
+    },
+    {
+      "name": "Ring 1.11.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-200/",
+      "code": "1.11.200",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "279 mm",
+        "Plotis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.200.obj",
+        "local_path": "data/ring/Ring_1_11_200/models/1.11.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 5.77,
+      "price_gbp": "4.97",
+      "reviews": [
+        {
+          "reviewId": "1.11.200_rev_1",
+          "customerName": "Arvydas Paškevičius",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. naudojimo patirtis maloni ir paprasta, o pristatymas greitas ir patikimas. Naudoju jau 8 mėnesius. Produktas vertas didžiausio įvertinimo.",
+          "date": "2024-07-27",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.11.200_rev_2",
+          "customerName": "Rita Petraitis",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. naudojimo patirtis maloni ir paprasta, o užsakymas įvykdytas be problemų. Naudoju jau 15 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2024-11-10",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Ring 1.11.300",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-300/",
+      "code": "1.11.300",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "297 mm",
+        "Plotis": "44 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.300.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.300.obj",
+        "local_path": "data/ring/Ring_1_11_300/models/1.11.300.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 8.42,
+      "price_gbp": "7.26",
+      "reviews": [
+        {
+          "reviewId": "1.11.300_rev_1",
+          "customerName": "Joana Milčius",
+          "rating": 9.4,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. rezultatas labai profesionalus, o pristatymas patogus ir greitas. Naudoju jau 25 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2024-07-26",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Ring 1.15.100",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-100/",
+      "code": "1.15.100",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "279 mm",
+        "Ilgis": "138 mm",
+        "Plotis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.100.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.100.obj",
+        "local_path": "data/ring/Ring_1_15_100/models/1.15.100.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 2.9,
+      "price_gbp": "2.50",
+      "reviews": [
+        {
+          "reviewId": "1.15.100_rev_1",
+          "customerName": "Arvydas Kleinas",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. naudojimo patirtis maloni ir sklandi, o pristatymas patikimas ir greitas. Naudoju jau 34 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2023-04-24",
+          "verified": true,
+          "helpful": 49
+        }
+      ]
+    },
+    {
+      "name": "Ring 1.15.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-200/",
+      "code": "1.15.200",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "279 mm",
+        "Ilgis": "138 mm",
+        "Plotis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.200.obj",
+        "local_path": "data/ring/Ring_1_15_200/models/1.15.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 2.9,
+      "price_gbp": "2.50",
+      "reviews": [
+        {
+          "reviewId": "1.15.200_rev_1",
+          "customerName": "Lidija Bielskis",
+          "rating": 9.8,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. produktas pateisino mano lūkesčius, o logistika buvo gerai organizuota. Naudoju jau 8 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2023-12-19",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "1.15.200_rev_2",
+          "customerName": "Stasė Dargis",
+          "rating": 9.7,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. pritaikymas prie interjero nekelia problemų, o komunikacija buvo aiški ir maloni. Naudoju jau 35 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2024-01-17",
+          "verified": true,
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "name": "Ring 1.15.300",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-300/",
+      "code": "1.15.300",
+      "category": "ziedai",
+      "details": {
+        "Skersmuo": "297 mm",
+        "Ilgis": "147 mm",
+        "Plotis": "45 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.300.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.300.obj",
+        "local_path": "data/ring/Ring_1_15_300/models/1.15.300.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 4.29,
+      "price_gbp": "3.70",
+      "reviews": [
+        {
+          "reviewId": "1.15.300_rev_1",
+          "customerName": "Lozorius Gedvilas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. naudojimo patirtis paprasta ir maloni, o užsakymas įvykdytas sklandžiai. Naudoju jau 11 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-07-13",
+          "verified": true,
+          "helpful": 22
+        }
+      ]
+    }
+  ]
 }

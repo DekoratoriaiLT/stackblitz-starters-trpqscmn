@@ -1,1701 +1,1204 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Moulding corner 1.52.279",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-279/",
+      "code": "1.52.279",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "358 mm",
+        "Aukštis": "323 mm",
+        "Storis": "22 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.279.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.279.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_279/models/1.52.279.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "14.47",
+      "price": 16.79,
+      "reviews": [
         {
-            "name": "Moulding corner 1.52.279",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-279/",
-            "code": "1.52.279",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.279.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.279.100.png"
-                },
-                {
-                    "filename": "1.52.279.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.279.100.png"
-                },
-                {
-                    "filename": "1.52.279.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.279.41.png"
-                },
-                {
-                    "filename": "1.52.279.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_279/images/1.52.279.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.279.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "358 mm",
-                "Aukštis": "323 mm",
-                "Storis": "22 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.279.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.279.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_279/models/1.52.279.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "14.47",
-            "price": 16.79,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.283",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-283/",
-            "code": "1.52.283",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.283.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.283.100.png"
-                },
-                {
-                    "filename": "1.52.283.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.283.100.png"
-                },
-                {
-                    "filename": "1.52.283.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.283.41.png"
-                },
-                {
-                    "filename": "1.52.283.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_283/images/1.52.283.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.283.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "260 mm",
-                "Storis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.283.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.283.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_283/models/1.52.283.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "15.87",
-            "price": 18.41,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.284",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-284/",
-            "code": "1.52.284",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.284.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.284.100.png"
-                },
-                {
-                    "filename": "1.52.284.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.284.100.png"
-                },
-                {
-                    "filename": "1.52.284.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.284.41.png"
-                },
-                {
-                    "filename": "1.52.284.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_284/images/1.52.284.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.284.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "255 mm",
-                "Aukštis": "256 mm",
-                "Storis": "27 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.284.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.284.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_284/models/1.52.284.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "15.30",
-            "price": 17.75,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.285",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-285/",
-            "code": "1.52.285",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.285.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.285.100.png"
-                },
-                {
-                    "filename": "1.52.285.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.285.100.png"
-                },
-                {
-                    "filename": "1.52.285.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.285.41.png"
-                },
-                {
-                    "filename": "1.52.285.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_285/images/1.52.285.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.285.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "181 mm",
-                "Aukštis": "181 mm",
-                "Storis": "24 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.285.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.285.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_285/models/1.52.285.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.31",
-            "price": 15.44,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.286",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-286/",
-            "code": "1.52.286",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.286.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.286.100.png"
-                },
-                {
-                    "filename": "1.52.286.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.286.100.png"
-                },
-                {
-                    "filename": "1.52.286.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.286.41.png"
-                },
-                {
-                    "filename": "1.52.286.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_286/images/1.52.286.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.286.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "199 mm",
-                "Aukštis": "199 mm",
-                "Storis": "12 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.286.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.286.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_286/models/1.52.286.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.17",
-            "price": 14.12,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.287",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-287/",
-            "code": "1.52.287",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.287.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.287.100.png"
-                },
-                {
-                    "filename": "1.52.287.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.287.100.png"
-                },
-                {
-                    "filename": "1.52.287.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.287.41.png"
-                },
-                {
-                    "filename": "1.52.287.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_287/images/1.52.287.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.287.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "300 mm",
-                "Aukštis": "300 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.287.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.287.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_287/models/1.52.287.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.95",
-            "price": 15.02,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.288",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-288/",
-            "code": "1.52.288",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.288.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.288.100.png"
-                },
-                {
-                    "filename": "1.52.288.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.288.100.png"
-                },
-                {
-                    "filename": "1.52.288.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.288.41.png"
-                },
-                {
-                    "filename": "1.52.288.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_288/images/1.52.288.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.288.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "272 mm",
-                "Aukštis": "269 mm",
-                "Storis": "32 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.288.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.288.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_288/models/1.52.288.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.93",
-            "price": 16.16,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.289",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-289/",
-            "code": "1.52.289",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.289.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.289.100.png"
-                },
-                {
-                    "filename": "1.52.289.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.289.100.png"
-                },
-                {
-                    "filename": "1.52.289.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.289.41.png"
-                },
-                {
-                    "filename": "1.52.289.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_289/images/1.52.289.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.289.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "300 mm",
-                "Aukštis": "104 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.289.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.289.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_289/models/1.52.289.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.35",
-            "price": 14.33,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.290",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-290/",
-            "code": "1.52.290",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.290.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.290.100.png"
-                },
-                {
-                    "filename": "1.52.290.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.290.100.png"
-                },
-                {
-                    "filename": "1.52.290.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.290.41.png"
-                },
-                {
-                    "filename": "1.52.290.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_290/images/1.52.290.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.290.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "213 mm",
-                "Aukštis": "395 mm",
-                "Storis": "23 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.290.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.290.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_290/models/1.52.290.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.31",
-            "price": 15.44,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.291",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-291/",
-            "code": "1.52.291",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.291.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.291.100.png"
-                },
-                {
-                    "filename": "1.52.291.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.291.100.png"
-                },
-                {
-                    "filename": "1.52.291.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.291.41.png"
-                },
-                {
-                    "filename": "1.52.291.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_291/images/1.52.291.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.291.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "195 mm",
-                "Aukštis": "195 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.291.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.291.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_291/models/1.52.291.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.70",
-            "price": 14.73,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.292",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-292/",
-            "code": "1.52.292",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.292.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.292.100.png"
-                },
-                {
-                    "filename": "1.52.292.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.292.100.png"
-                },
-                {
-                    "filename": "1.52.292.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.292.41.png"
-                },
-                {
-                    "filename": "1.52.292.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_292/images/1.52.292.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.292.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "255 mm",
-                "Aukštis": "255 mm",
-                "Storis": "19 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.292.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.292.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_292/models/1.52.292.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.66",
-            "price": 15.85,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.293",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-293/",
-            "code": "1.52.293",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.293.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.293.100.png"
-                },
-                {
-                    "filename": "1.52.293.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.293.100.png"
-                },
-                {
-                    "filename": "1.52.293.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.293.41.png"
-                },
-                {
-                    "filename": "1.52.293.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_293/images/1.52.293.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.293.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "213 mm",
-                "Aukštis": "395 mm",
-                "Storis": "23 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.293.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.293.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_293/models/1.52.293.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.31",
-            "price": 15.44,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.294",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-294/",
-            "code": "1.52.294",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.294.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.294.100.png"
-                },
-                {
-                    "filename": "1.52.294.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.294.100.png"
-                },
-                {
-                    "filename": "1.52.294.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.294.41.png"
-                },
-                {
-                    "filename": "1.52.294.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_294/images/1.52.294.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.294.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "261 mm",
-                "Aukštis": "261 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.294.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.294.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_294/models/1.52.294.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.93",
-            "price": 16.16,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.295",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-295/",
-            "code": "1.52.295",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.295.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.295.100.png"
-                },
-                {
-                    "filename": "1.52.295.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.295.100.png"
-                },
-                {
-                    "filename": "1.52.295.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.295.41.png"
-                },
-                {
-                    "filename": "1.52.295.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_295/images/1.52.295.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.295.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "195 mm",
-                "Aukštis": "195 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.295.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.295.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_295/models/1.52.295.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.70",
-            "price": 14.73,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.296",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-296/",
-            "code": "1.52.296",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.296.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.296.100.png"
-                },
-                {
-                    "filename": "1.52.296.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.296.100.png"
-                },
-                {
-                    "filename": "1.52.296.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.296.41.png"
-                },
-                {
-                    "filename": "1.52.296.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_296/images/1.52.296.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.296.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "270 mm",
-                "Aukštis": "390 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.296.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.296.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_296/models/1.52.296.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "15.30",
-            "price": 17.75,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.297",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-297/",
-            "code": "1.52.297",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.297.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.297.100.png"
-                },
-                {
-                    "filename": "1.52.297.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.297.100.png"
-                },
-                {
-                    "filename": "1.52.297.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.297.41.png"
-                },
-                {
-                    "filename": "1.52.297.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_297/images/1.52.297.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.297.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "215 mm",
-                "Aukštis": "215 mm",
-                "Storis": "21 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.297.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.297.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_297/models/1.52.297.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.42",
-            "price": 14.41,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.298",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-298/",
-            "code": "1.52.298",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.298.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.298.100.png"
-                },
-                {
-                    "filename": "1.52.298.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.298.100.png"
-                },
-                {
-                    "filename": "1.52.298.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.298.41.png"
-                },
-                {
-                    "filename": "1.52.298.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_298/images/1.52.298.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.298.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "215 mm",
-                "Aukštis": "215 mm",
-                "Storis": "21 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.298.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.298.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_298/models/1.52.298.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.42",
-            "price": 14.41,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.299",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-299/",
-            "code": "1.52.299",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.299.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.299.100.png"
-                },
-                {
-                    "filename": "1.52.299.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.299.100.png"
-                },
-                {
-                    "filename": "1.52.299.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.299.41.png"
-                },
-                {
-                    "filename": "1.52.299.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_299/images/1.52.299.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.299.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "358 mm",
-                "Aukštis": "323 mm",
-                "Storis": "22 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.299.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.299.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_299/models/1.52.299.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "14.47",
-            "price": 16.79,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.301",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-301/",
-            "code": "1.52.301",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.301.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.301.100.png"
-                },
-                {
-                    "filename": "1.52.301.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.301.30.png"
-                },
-                {
-                    "filename": "1.52.301.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.31.png"
-                },
-                {
-                    "filename": "1.52.301.32.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.32.png"
-                },
-                {
-                    "filename": "1.52.301.33.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.33.png"
-                },
-                {
-                    "filename": "1.52.301.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.301.100.png"
-                },
-                {
-                    "filename": "1.52.301.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.301.30.png"
-                },
-                {
-                    "filename": "1.52.301.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.31.png"
-                },
-                {
-                    "filename": "1.52.301.32.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.32.png"
-                },
-                {
-                    "filename": "1.52.301.33.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.301.33.png"
-                },
-                {
-                    "filename": "1.52.301.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.301.41.png"
-                },
-                {
-                    "filename": "1.52.301.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_301/images/1.52.301.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.301.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "210 mm",
-                "Aukštis": "210 mm",
-                "Storis": "16 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.301.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_301/models/1.52.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.30",
-            "price": 14.27,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.302",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-302/",
-            "code": "1.52.302",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.302.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.302.100.png"
-                },
-                {
-                    "filename": "1.52.302.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.302.100.png"
-                },
-                {
-                    "filename": "1.52.302.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.302.41.png"
-                },
-                {
-                    "filename": "1.52.302.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_302/images/1.52.302.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.302.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "215 mm",
-                "Aukštis": "215 mm",
-                "Storis": "25 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.302.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_302/models/1.52.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.63",
-            "price": 14.65,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.308",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-308/",
-            "code": "1.52.308",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.308.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.308.100.png"
-                },
-                {
-                    "filename": "1.52.308.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.308.100.png"
-                },
-                {
-                    "filename": "1.52.308.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.308.41.png"
-                },
-                {
-                    "filename": "1.52.308.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_308/images/1.52.308.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.308.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "160 mm",
-                "Aukštis": "160 mm",
-                "Storis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.308.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.308.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_308/models/1.52.308.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.17",
-            "price": 14.12,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.312",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-312/",
-            "code": "1.52.312",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.312.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.312.100.png"
-                },
-                {
-                    "filename": "1.52.312.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.312.100.png"
-                },
-                {
-                    "filename": "1.52.312.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.312.41.png"
-                },
-                {
-                    "filename": "1.52.312.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_312/images/1.52.312.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.312.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "208 mm",
-                "Aukštis": "210 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.312.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.312.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_312/models/1.52.312.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.30",
-            "price": 14.27,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.314",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-314/",
-            "code": "1.52.314",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.314.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.314.100.png"
-                },
-                {
-                    "filename": "1.52.314.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.314.100.png"
-                },
-                {
-                    "filename": "1.52.314.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.314.41.png"
-                },
-                {
-                    "filename": "1.52.314.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_314/images/1.52.314.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.314.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "270 mm",
-                "Aukštis": "390 mm",
-                "Storis": "18 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.314.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.314.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_314/models/1.52.314.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "15.30",
-            "price": 17.75,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.322",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-322/",
-            "code": "1.52.322",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.322.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.322.100.png"
-                },
-                {
-                    "filename": "1.52.322.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.322.100.png"
-                },
-                {
-                    "filename": "1.52.322.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.322.41.png"
-                },
-                {
-                    "filename": "1.52.322.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_322/images/1.52.322.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.322.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "110 mm",
-                "Aukštis": "110 mm",
-                "Storis": "12 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.322.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.322.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_322/models/1.52.322.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "11.68",
-            "price": 13.55,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.348",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-348/",
-            "code": "1.52.348",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.348.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.348.100.png"
-                },
-                {
-                    "filename": "1.52.348.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.348.100.png"
-                },
-                {
-                    "filename": "1.52.348.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.348.41.png"
-                },
-                {
-                    "filename": "1.52.348.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_348/images/1.52.348.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.348.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "250 mm",
-                "Aukštis": "250 mm",
-                "Storis": "25 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.348.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.348.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_348/models/1.52.348.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "12.35",
-            "price": 14.33,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.375",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-375/",
-            "code": "1.52.375",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.375.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.375.100.png"
-                },
-                {
-                    "filename": "1.52.375.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.375.100.png"
-                },
-                {
-                    "filename": "1.52.375.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.375.41.png"
-                },
-                {
-                    "filename": "1.52.375.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_375/images/1.52.375.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.375.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "318 mm",
-                "Aukštis": "321 mm",
-                "Storis": "23 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.375.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.375.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_375/models/1.52.375.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "16.67",
-            "price": 19.34,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.400",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-400/",
-            "code": "1.52.400",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.400.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.400.100.png"
-                },
-                {
-                    "filename": "1.52.400.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.400.100.png"
-                },
-                {
-                    "filename": "1.52.400.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.400.41.png"
-                },
-                {
-                    "filename": "1.52.400.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_400/images/1.52.400.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.400.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "294 mm",
-                "Aukštis": "294 mm",
-                "Storis": "26 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.400.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.400.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_400/models/1.52.400.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "13.41",
-            "price": 15.56,
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.810",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-810/",
-            "code": "1.52.810",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.810.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.810.100.png"
-                },
-                {
-                    "filename": "1.52.810.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.810.20.png"
-                },
-                {
-                    "filename": "1.52.810.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.810.30.png"
-                },
-                {
-                    "filename": "1.52.810.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.810.31.png"
-                },
-                {
-                    "filename": "1.52.810.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.810.100.png"
-                },
-                {
-                    "filename": "1.52.810.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.810.20.png"
-                },
-                {
-                    "filename": "1.52.810.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.810.30.png"
-                },
-                {
-                    "filename": "1.52.810.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.810.31.png"
-                },
-                {
-                    "filename": "1.52.810.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.810.41.png"
-                },
-                {
-                    "filename": "1.52.810.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_810/images/1.52.810.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.810.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "280 mm",
-                "Aukštis": "280 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.810.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.810.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_810/models/1.52.810.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.812",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-812/",
-            "code": "1.52.812",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.812.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.812.100.png"
-                },
-                {
-                    "filename": "1.52.812.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.812.20.png"
-                },
-                {
-                    "filename": "1.52.812.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.812.30.png"
-                },
-                {
-                    "filename": "1.52.812.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.812.31.png"
-                },
-                {
-                    "filename": "1.52.812.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.812.100.png"
-                },
-                {
-                    "filename": "1.52.812.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.812.20.png"
-                },
-                {
-                    "filename": "1.52.812.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.812.30.png"
-                },
-                {
-                    "filename": "1.52.812.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.812.31.png"
-                },
-                {
-                    "filename": "1.52.812.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.812.41.png"
-                },
-                {
-                    "filename": "1.52.812.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_812/images/1.52.812.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.812.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "280 mm",
-                "Aukštis": "280 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.812.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.812.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_812/models/1.52.812.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.815",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-815/",
-            "code": "1.52.815",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.815.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.815.100.png"
-                },
-                {
-                    "filename": "1.52.815.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.815.20.png"
-                },
-                {
-                    "filename": "1.52.815.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.815.30.png"
-                },
-                {
-                    "filename": "1.52.815.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.31.png"
-                },
-                {
-                    "filename": "1.52.815.32.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.32.png"
-                },
-                {
-                    "filename": "1.52.815.33.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.33.png"
-                },
-                {
-                    "filename": "1.52.815.34.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.34.png"
-                },
-                {
-                    "filename": "1.52.815.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.815.100.png"
-                },
-                {
-                    "filename": "1.52.815.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.815.20.png"
-                },
-                {
-                    "filename": "1.52.815.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.815.30.png"
-                },
-                {
-                    "filename": "1.52.815.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.31.png"
-                },
-                {
-                    "filename": "1.52.815.32.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.32.png"
-                },
-                {
-                    "filename": "1.52.815.33.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.33.png"
-                },
-                {
-                    "filename": "1.52.815.34.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.815.34.png"
-                },
-                {
-                    "filename": "1.52.815.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.815.41.png"
-                },
-                {
-                    "filename": "1.52.815.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_815/images/1.52.815.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.815.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "245 mm",
-                "Aukštis": "245 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.815.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.815.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_815/models/1.52.815.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.816",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-816/",
-            "code": "1.52.816",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.816.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.816.100.png"
-                },
-                {
-                    "filename": "1.52.816.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.816.20.png"
-                },
-                {
-                    "filename": "1.52.816.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.816.30.png"
-                },
-                {
-                    "filename": "1.52.816.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.816.31.png"
-                },
-                {
-                    "filename": "1.52.816.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.816.100.png"
-                },
-                {
-                    "filename": "1.52.816.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.816.20.png"
-                },
-                {
-                    "filename": "1.52.816.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.816.30.png"
-                },
-                {
-                    "filename": "1.52.816.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.816.31.png"
-                },
-                {
-                    "filename": "1.52.816.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.816.41.png"
-                },
-                {
-                    "filename": "1.52.816.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_816/images/1.52.816.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.816.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "300 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.816.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.816.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_816/models/1.52.816.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.817",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-817/",
-            "code": "1.52.817",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.817.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.817.100.png"
-                },
-                {
-                    "filename": "1.52.817.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.817.20.png"
-                },
-                {
-                    "filename": "1.52.817.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.817.30.png"
-                },
-                {
-                    "filename": "1.52.817.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.817.31.png"
-                },
-                {
-                    "filename": "1.52.817.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.817.100.png"
-                },
-                {
-                    "filename": "1.52.817.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.817.20.png"
-                },
-                {
-                    "filename": "1.52.817.30.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.52.817.30.png"
-                },
-                {
-                    "filename": "1.52.817.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.817.31.png"
-                },
-                {
-                    "filename": "1.52.817.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.817.41.png"
-                },
-                {
-                    "filename": "1.52.817.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_817/images/1.52.817.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.817.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "300 mm",
-                "Aukštis": "300 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.818",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-818/",
-            "code": "1.52.818",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.818.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.818.100.png"
-                },
-                {
-                    "filename": "1.52.818.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.818.20.png"
-                },
-                {
-                    "filename": "1.52.818.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.818.31.png"
-                },
-                {
-                    "filename": "1.52.818.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.818.100.png"
-                },
-                {
-                    "filename": "1.52.818.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.818.20.png"
-                },
-                {
-                    "filename": "1.52.818.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.818.31.png"
-                },
-                {
-                    "filename": "1.52.818.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.818.41.png"
-                },
-                {
-                    "filename": "1.52.818.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_818/images/1.52.818.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.818.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "131 mm",
-                "Aukštis": "200 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.818.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.818.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_818/models/1.52.818.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Moulding corner 1.52.819",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-819/",
-            "code": "1.52.819",
-            "category": "apvadu-kampai",
-            "images": [
-                {
-                    "filename": "1.52.819.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.819.100.png"
-                },
-                {
-                    "filename": "1.52.819.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.819.20.png"
-                },
-                {
-                    "filename": "1.52.819.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.819.31.png"
-                },
-                {
-                    "filename": "1.52.819.100.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.52.819.100.png"
-                },
-                {
-                    "filename": "1.52.819.20.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.52.819.20.png"
-                },
-                {
-                    "filename": "1.52.819.31.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.52.819.31.png"
-                },
-                {
-                    "filename": "1.52.819.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.819.41.png"
-                },
-                {
-                    "filename": "1.52.819.41.png",
-                    "local_path": "data/moulding/Moulding_corner_1_52_819/images/1.52.819.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.52.819.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "106 mm",
-                "Aukštis": "200 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.52.819.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.819.obj",
-                "local_path": "data/moulding/Moulding_corner_1_52_819/models/1.52.819.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
+          "reviewId": "1.52.279_rev_1",
+          "customerName": "Vilma Gailius",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. naudojimas patogus ir efektyvus, o logistika buvo gerai organizuota. Naudoju jau 6 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2023-01-09",
+          "verified": true,
+          "helpful": 43
         }
-    ]
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.283",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-283/",
+      "code": "1.52.283",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "260 mm",
+        "Storis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.283.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.283.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_283/models/1.52.283.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "15.87",
+      "price": 18.41,
+      "reviews": [
+        {
+          "reviewId": "1.52.283_rev_1",
+          "customerName": "Eduardas Baronas",
+          "rating": 9.7,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. pritaikymas prie interjero sėkmingas, o siunta atvyko laiku. Naudoju jau 19 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2023-07-14",
+          "verified": true,
+          "helpful": 55
+        },
+        {
+          "reviewId": "1.52.283_rev_2",
+          "customerName": "Dovilė Kalinauskas",
+          "rating": 9.9,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. rezultatas atrodo labai profesionaliai, o pakuotė tvarkinga ir saugi. Naudoju jau 3 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2023-09-27",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.284",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-284/",
+      "code": "1.52.284",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "255 mm",
+        "Aukštis": "256 mm",
+        "Storis": "27 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.284.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.284.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_284/models/1.52.284.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "15.30",
+      "price": 17.75,
+      "reviews": [
+        {
+          "reviewId": "1.52.284_rev_1",
+          "customerName": "Motiejus Vilkas",
+          "rating": 9.5,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. naudojimo patirtis puiki, o pristatymas buvo greitas. Naudoju jau 25 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2024-09-04",
+          "verified": true,
+          "helpful": 45
+        },
+        {
+          "reviewId": "1.52.284_rev_2",
+          "customerName": "Zita Stankevičius",
+          "rating": 9.9,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad kokybė yra išskirtinė. naudojimo patirtis puiki, o visa patirtis su užsakymu puiki. Naudoju jau 29 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2022-09-02",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.285",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-285/",
+      "code": "1.52.285",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "181 mm",
+        "Aukštis": "181 mm",
+        "Storis": "24 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.285.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.285.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_285/models/1.52.285.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.31",
+      "price": 15.44,
+      "reviews": [
+        {
+          "reviewId": "1.52.285_rev_1",
+          "customerName": "Raimundas Balevičius",
+          "rating": 10.0,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. produktas pateisino investiciją, o pakuotė puikiai apsaugojo produktą. Naudoju jau 20 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2024-07-14",
+          "verified": true,
+          "helpful": 5
+        },
+        {
+          "reviewId": "1.52.285_rev_2",
+          "customerName": "Donata Varna",
+          "rating": 10.0,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. naudojimas lengvas net pradedantiesiems, o užsakymas įvykdytas be problemų. Naudoju jau 32 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2024-06-26",
+          "verified": true,
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.286",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-286/",
+      "code": "1.52.286",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "199 mm",
+        "Aukštis": "199 mm",
+        "Storis": "12 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.286.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.286.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_286/models/1.52.286.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.17",
+      "price": 14.12,
+      "reviews": [
+        {
+          "reviewId": "1.52.286_rev_1",
+          "customerName": "Kostas Pocius",
+          "rating": 9.6,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. naudojimo patirtis aukštos kokybės, o pristatymas patikimas ir greitas. Naudoju jau 11 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-07-01",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.287",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-287/",
+      "code": "1.52.287",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "300 mm",
+        "Aukštis": "300 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.287.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.287.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_287/models/1.52.287.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.95",
+      "price": 15.02,
+      "reviews": [
+        {
+          "reviewId": "1.52.287_rev_1",
+          "customerName": "Izabelė Šiugždinis",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. naudojimas yra itin patogus, o komunikacija buvo aiški. Naudoju jau 26 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2023-03-23",
+          "verified": true,
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.288",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-288/",
+      "code": "1.52.288",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "272 mm",
+        "Aukštis": "269 mm",
+        "Storis": "32 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.288.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.288.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_288/models/1.52.288.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.93",
+      "price": 16.16,
+      "reviews": [
+        {
+          "reviewId": "1.52.288_rev_1",
+          "customerName": "Marius Jakštas",
+          "rating": 9.8,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. viskas veikia be trikdžių, o pakuotė labai tvarkinga. Naudoju jau 16 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2024-03-25",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.289",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-289/",
+      "code": "1.52.289",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "300 mm",
+        "Aukštis": "104 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.289.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.289.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_289/models/1.52.289.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.35",
+      "price": 14.33,
+      "reviews": [
+        {
+          "reviewId": "1.52.289_rev_1",
+          "customerName": "Benjaminas Bagdonas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. rezultatas viršijo mano lūkesčius, o prekė atvyko be pažeidimų. Naudoju jau 18 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-06-14",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.290",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-290/",
+      "code": "1.52.290",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "213 mm",
+        "Aukštis": "395 mm",
+        "Storis": "23 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.290.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.290.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_290/models/1.52.290.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.31",
+      "price": 15.44,
+      "reviews": [
+        {
+          "reviewId": "1.52.290_rev_1",
+          "customerName": "Barbora Puidokas",
+          "rating": 9.5,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. naudojimo patirtis labai teigiama, o aptarnavimas paliko gerą įspūdį. Naudoju jau 16 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2022-08-30",
+          "verified": true,
+          "helpful": 34
+        },
+        {
+          "reviewId": "1.52.290_rev_2",
+          "customerName": "Arkadijus Tijūnaitis",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. galutinis vaizdas atitinka nuotraukas, o pakuotė tvarkinga ir saugi. Naudoju jau 2 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2024-10-27",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.291",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-291/",
+      "code": "1.52.291",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "195 mm",
+        "Aukštis": "195 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.291.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.291.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_291/models/1.52.291.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.70",
+      "price": 14.73,
+      "reviews": [
+        {
+          "reviewId": "1.52.291_rev_1",
+          "customerName": "Diana Valiulis",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. pritaikymas prie interjero nekelia problemų, o prekė atvyko labai greitai. Naudoju jau 14 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2024-05-07",
+          "verified": true,
+          "helpful": 46
+        },
+        {
+          "reviewId": "1.52.291_rev_2",
+          "customerName": "Vida Šimkus",
+          "rating": 9.9,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. galutinis vaizdas tikrai estetiškas, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 30 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2025-08-05",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.292",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-292/",
+      "code": "1.52.292",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "255 mm",
+        "Aukštis": "255 mm",
+        "Storis": "19 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.292.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.292.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_292/models/1.52.292.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.66",
+      "price": 15.85,
+      "reviews": [
+        {
+          "reviewId": "1.52.292_rev_1",
+          "customerName": "Vaidas Milčius",
+          "rating": 9.5,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimas greitas ir komfortiškas, o prekė atvyko be pažeidimų. Naudoju jau 25 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2024-02-13",
+          "verified": true,
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.293",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-293/",
+      "code": "1.52.293",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "213 mm",
+        "Aukštis": "395 mm",
+        "Storis": "23 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.293.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.293.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_293/models/1.52.293.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.31",
+      "price": 15.44,
+      "reviews": [
+        {
+          "reviewId": "1.52.293_rev_1",
+          "customerName": "Albina Urbonaitis",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. naudojimas yra itin patogus, o aptarnavimas profesionalus ir malonus. Naudoju jau 18 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2025-11-06",
+          "verified": true,
+          "helpful": 20
+        },
+        {
+          "reviewId": "1.52.293_rev_2",
+          "customerName": "Amalija Žalys",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. naudojimo patirtis paprasta ir maloni, o prekė buvo saugiai supakuota. Naudoju jau 11 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2023-01-28",
+          "verified": true,
+          "helpful": 31
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.294",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-294/",
+      "code": "1.52.294",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "261 mm",
+        "Aukštis": "261 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.294.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.294.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_294/models/1.52.294.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.93",
+      "price": 16.16,
+      "reviews": [
+        {
+          "reviewId": "1.52.294_rev_1",
+          "customerName": "Benediktas Mockevičius",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad kokybė yra išskirtinė. produktas vertas kiekvieno cento, o visa patirtis sklandi. Naudoju jau 14 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2025-04-03",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "1.52.294_rev_2",
+          "customerName": "Donata Šemeta",
+          "rating": 9.4,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. viskas veikia nepriekaištingai, o visa patirtis buvo labai teigiama. Naudoju jau 27 mėnesius. Vertinu labai teigiamai.",
+          "date": "2022-09-04",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.295",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-295/",
+      "code": "1.52.295",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "195 mm",
+        "Aukštis": "195 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.295.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.295.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_295/models/1.52.295.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.70",
+      "price": 14.73,
+      "reviews": [
+        {
+          "reviewId": "1.52.295_rev_1",
+          "customerName": "Natalija Barzda",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. galutinis vaizdas tikrai estetiškas, o pristatymas greitas ir patikimas. Naudoju jau 14 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-01-12",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.296",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-296/",
+      "code": "1.52.296",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "270 mm",
+        "Aukštis": "390 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.296.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.296.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_296/models/1.52.296.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "15.30",
+      "price": 17.75,
+      "reviews": [
+        {
+          "reviewId": "1.52.296_rev_1",
+          "customerName": "Leopoldas Petrauskas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. viskas veikia nepriekaištingai, o visa patirtis sklandi. Naudoju jau 14 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2023-12-07",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.297",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-297/",
+      "code": "1.52.297",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "215 mm",
+        "Aukštis": "215 mm",
+        "Storis": "21 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.297.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.297.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_297/models/1.52.297.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.42",
+      "price": 14.41,
+      "reviews": [
+        {
+          "reviewId": "1.52.297_rev_1",
+          "customerName": "Arkadijus Katkus",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad dizainas modernus ir stilingas. produktas vertas kiekvieno cento, o prekė atvyko tiksliai laiku. Naudoju jau 33 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2023-03-31",
+          "verified": true,
+          "helpful": 53
+        },
+        {
+          "reviewId": "1.52.297_rev_2",
+          "customerName": "Bronislovas Gailius",
+          "rating": 9.5,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad dizainas stilingas ir modernus. naudojimo patirtis aukštos kokybės, o pristatymas buvo greitas. Naudoju jau 33 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2023-10-29",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.298",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-298/",
+      "code": "1.52.298",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "215 mm",
+        "Aukštis": "215 mm",
+        "Storis": "21 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.298.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.298.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_298/models/1.52.298.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.42",
+      "price": 14.41,
+      "reviews": [
+        {
+          "reviewId": "1.52.298_rev_1",
+          "customerName": "Birutė Šimelionis",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad kokybė yra išskirtinė. rezultatas pranoko mano lūkesčius, o siunta atvyko laiku. Naudoju jau 20 mėnesius. Tikrai verta šio produkto.",
+          "date": "2025-05-23",
+          "verified": true,
+          "helpful": 42
+        },
+        {
+          "reviewId": "1.52.298_rev_2",
+          "customerName": "Petras Daukantas",
+          "rating": 9.5,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. montavimas buvo greitas ir paprastas, o pristatymas greitas ir patikimas. Naudoju jau 33 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-11-09",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.299",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-299/",
+      "code": "1.52.299",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "358 mm",
+        "Aukštis": "323 mm",
+        "Storis": "22 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.299.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.299.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_299/models/1.52.299.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "14.47",
+      "price": 16.79,
+      "reviews": [
+        {
+          "reviewId": "1.52.299_rev_1",
+          "customerName": "Adomas Zinkevičius",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. produktas pateisino mano lūkesčius, o užsakymas įvykdytas sklandžiai. Naudoju jau 8 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2022-05-16",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.301",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-301/",
+      "code": "1.52.301",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "210 mm",
+        "Aukštis": "210 mm",
+        "Storis": "16 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.301.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_301/models/1.52.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.30",
+      "price": 14.27,
+      "reviews": [
+        {
+          "reviewId": "1.52.301_rev_1",
+          "customerName": "Valerija Vilkas",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. viskas veikia be trikdžių, o siunta pristatyta saugiai ir laiku. Naudoju jau 7 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2024-10-31",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.302",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-302/",
+      "code": "1.52.302",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "215 mm",
+        "Aukštis": "215 mm",
+        "Storis": "25 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.302.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_302/models/1.52.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.63",
+      "price": 14.65,
+      "reviews": [
+        {
+          "reviewId": "1.52.302_rev_1",
+          "customerName": "Amalija Kalnietis",
+          "rating": 9.9,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. galutinis vaizdas labai estetiškas, o visa patirtis buvo labai teigiama. Naudoju jau 17 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2026-01-01",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.308",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-308/",
+      "code": "1.52.308",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "160 mm",
+        "Aukštis": "160 mm",
+        "Storis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.308.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.308.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_308/models/1.52.308.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.17",
+      "price": 14.12,
+      "reviews": [
+        {
+          "reviewId": "1.52.308_rev_1",
+          "customerName": "Morkus Varnas",
+          "rating": 9.8,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis vaizdas labai estetiškas, o prekė buvo saugiai supakuota. Naudoju jau 3 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-02-22",
+          "verified": true,
+          "helpful": 51
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.312",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-312/",
+      "code": "1.52.312",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "208 mm",
+        "Aukštis": "210 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.312.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.312.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_312/models/1.52.312.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.30",
+      "price": 14.27,
+      "reviews": [
+        {
+          "reviewId": "1.52.312_rev_1",
+          "customerName": "Felicija Staniulis",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. viskas veikia be trikdžių, o logistika suorganizuota nepriekaištingai. Naudoju jau 15 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2024-05-06",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "1.52.312_rev_2",
+          "customerName": "Lionginas Valiulis",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. jaučiasi aukšta klasė, o užsakymo procesas paprastas. Naudoju jau 23 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2024-03-28",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.314",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-314/",
+      "code": "1.52.314",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "270 mm",
+        "Aukštis": "390 mm",
+        "Storis": "18 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.314.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.314.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_314/models/1.52.314.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "15.30",
+      "price": 17.75,
+      "reviews": [
+        {
+          "reviewId": "1.52.314_rev_1",
+          "customerName": "Klaudijus Kairys",
+          "rating": 9.5,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad dizainas stilingas ir modernus. viskas atitiko mano lūkesčius, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 1 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2022-02-04",
+          "verified": true,
+          "helpful": 18
+        },
+        {
+          "reviewId": "1.52.314_rev_2",
+          "customerName": "Algimantas Paškevičius",
+          "rating": 10.0,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. produktas suteikia komforto pojūtį, o pristatymas greitas ir patikimas. Naudoju jau 21 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2025-04-08",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.322",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-322/",
+      "code": "1.52.322",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "110 mm",
+        "Aukštis": "110 mm",
+        "Storis": "12 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.322.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.322.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_322/models/1.52.322.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "11.68",
+      "price": 13.55,
+      "reviews": [
+        {
+          "reviewId": "1.52.322_rev_1",
+          "customerName": "Liūtas Paleckis",
+          "rating": 9.8,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. viskas veikia sklandžiai, o visa patirtis buvo labai teigiama. Naudoju jau 26 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2023-02-05",
+          "verified": true,
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.348",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-348/",
+      "code": "1.52.348",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "250 mm",
+        "Aukštis": "250 mm",
+        "Storis": "25 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.348.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.348.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_348/models/1.52.348.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "12.35",
+      "price": 14.33,
+      "reviews": [
+        {
+          "reviewId": "1.52.348_rev_1",
+          "customerName": "Valerijonas Baniulis",
+          "rating": 9.8,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. galutinis vaizdas atitinka nuotraukas, o komunikacija su pardavėju puiki. Naudoju jau 27 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-09-17",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "1.52.348_rev_2",
+          "customerName": "Renaldas Stonys",
+          "rating": 10.0,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. naudojimas patogus ir paprastas, o komunikacija buvo aiški. Naudoju jau 6 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2024-06-25",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.375",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-375/",
+      "code": "1.52.375",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "318 mm",
+        "Aukštis": "321 mm",
+        "Storis": "23 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.375.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.375.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_375/models/1.52.375.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "16.67",
+      "price": 19.34,
+      "reviews": [
+        {
+          "reviewId": "1.52.375_rev_1",
+          "customerName": "Arvydas Kavolis",
+          "rating": 9.8,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimas lengvas net pradedantiesiems, o užsakymo procesas aiškus ir paprastas. Naudoju jau 24 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2025-05-28",
+          "verified": true,
+          "helpful": 37
+        },
+        {
+          "reviewId": "1.52.375_rev_2",
+          "customerName": "Linas Staniulis",
+          "rating": 9.8,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimas lengvas net pradedantiesiems, o užsakymas įvykdytas laiku. Naudoju jau 36 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-10-13",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.400",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-400/",
+      "code": "1.52.400",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "294 mm",
+        "Aukštis": "294 mm",
+        "Storis": "26 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.400.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.400.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_400/models/1.52.400.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "13.41",
+      "price": 15.56,
+      "reviews": [
+        {
+          "reviewId": "1.52.400_rev_1",
+          "customerName": "Mindaugas Gedvilas",
+          "rating": 9.7,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. rezultatas pranoko mano lūkesčius, o logistika suorganizuota profesionaliai. Naudoju jau 12 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2025-04-30",
+          "verified": true,
+          "helpful": 23
+        },
+        {
+          "reviewId": "1.52.400_rev_2",
+          "customerName": "Renatas Rakauskas",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. produktas pateisino mano lūkesčius, o pakuotė tvarkinga ir saugi. Naudoju jau 16 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2025-09-20",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.810",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-810/",
+      "code": "1.52.810",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "280 mm",
+        "Aukštis": "280 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.810.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.810.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_810/models/1.52.810.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.810_rev_1",
+          "customerName": "Pijus Kavaliauskas",
+          "rating": 9.8,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. pritaikymas prie interjero sėkmingas, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 18 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2023-01-14",
+          "verified": true,
+          "helpful": 35
+        },
+        {
+          "reviewId": "1.52.810_rev_2",
+          "customerName": "Ingrida Kleinas",
+          "rating": 9.6,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. viskas veikia be trikdžių, o prekė pristatyta nepriekaištingai. Naudoju jau 14 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2023-07-07",
+          "verified": true,
+          "helpful": 17
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.812",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-812/",
+      "code": "1.52.812",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "280 mm",
+        "Aukštis": "280 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.812.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.812.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_812/models/1.52.812.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.812_rev_1",
+          "customerName": "Izabelė Zinkevičius",
+          "rating": 9.4,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. viskas veikia nepriekaištingai, o aptarnavimas profesionalus ir malonus. Naudoju jau 24 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2024-04-16",
+          "verified": true,
+          "helpful": 22
+        },
+        {
+          "reviewId": "1.52.812_rev_2",
+          "customerName": "Kristupas Klimas",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. montavimas nesudėtingas, o logistika suorganizuota profesionaliai. Naudoju jau 5 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2022-08-13",
+          "verified": true,
+          "helpful": 22
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.815",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-815/",
+      "code": "1.52.815",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "245 mm",
+        "Aukštis": "245 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.815.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.815.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_815/models/1.52.815.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.815_rev_1",
+          "customerName": "Indrė Adomaitis",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. produktas pateisino investiciją, o užsakymo procesas paprastas. Naudoju jau 5 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2024-05-03",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "1.52.815_rev_2",
+          "customerName": "Vygandas Šarkauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. naudojimo patirtis labai teigiama, o prekė atvyko be pažeidimų. Naudoju jau 10 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2025-10-25",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.816",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-816/",
+      "code": "1.52.816",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "300 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.816.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.816.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_816/models/1.52.816.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.816_rev_1",
+          "customerName": "Ieva Rutkauskas",
+          "rating": 9.9,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. naudojimo patirtis labai teigiama, o komunikacija su pardavėju sklandi. Naudoju jau 28 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2024-06-25",
+          "verified": true,
+          "helpful": 34
+        },
+        {
+          "reviewId": "1.52.816_rev_2",
+          "customerName": "Renatas Paleckis",
+          "rating": 9.7,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad paviršius lygus, be defektų. montavimas buvo lengvas ir greitas, o užsakymo procesas paprastas. Naudoju jau 21 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2025-04-19",
+          "verified": true,
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.817",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-817/",
+      "code": "1.52.817",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "300 mm",
+        "Aukštis": "300 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.817_rev_1",
+          "customerName": "Jurgis Rutkauskas",
+          "rating": 9.8,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia sklandžiai ir patikimai, o užsakymas įvykdytas sklandžiai. Naudoju jau 18 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2024-10-06",
+          "verified": true,
+          "helpful": 29
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.818",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-818/",
+      "code": "1.52.818",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "131 mm",
+        "Aukštis": "200 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.818.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.818.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_818/models/1.52.818.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.818_rev_1",
+          "customerName": "Tylenis Švedas",
+          "rating": 10.0,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. produktas vertas kiekvieno cento, o užsakymas įvykdytas be problemų. Naudoju jau 23 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2024-05-21",
+          "verified": true,
+          "helpful": 14
+        },
+        {
+          "reviewId": "1.52.818_rev_2",
+          "customerName": "Izaokas Klišauskas",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad dizainas stilingas ir modernus. viskas veikia sklandžiai ir patikimai, o visa patirtis maloni ir sklandi. Naudoju jau 27 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-05-07",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Moulding corner 1.52.819",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-819/",
+      "code": "1.52.819",
+      "category": "apvadu-kampai",
+      "details": {
+        "Plotis": "106 mm",
+        "Aukštis": "200 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.52.819.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.819.obj",
+        "local_path": "data/moulding/Moulding_corner_1_52_819/models/1.52.819.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.52.819_rev_1",
+          "customerName": "Laimis Balandis",
+          "rating": 9.5,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad detalės išbaigtos su meile. rezultatas pranoko mano lūkesčius, o visa patirtis buvo labai teigiama. Naudoju jau 16 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2024-10-18",
+          "verified": true,
+          "helpful": 53
+        }
+      ]
+    }
+  ]
 }

@@ -1,338 +1,66 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Balustrade base 4.74.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-101/",
+      "code": "4.74.101",
+      "category": "balustrados-pagrindai",
+      "details": {
+        "Ilgis": "3000 mm",
+        "Aukštis": "100 mm",
+        "Storis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.74.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
+        "local_path": "data/balustrade/4.74.101/models/4.74.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "291.43",
+      "price": 338.06,
+      "reviews": [
         {
-            "name": "Balustrade base 4.74.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-101/",
-            "code": "4.74.101",
-            "category": "balustrados-pagrindai",
-            "images": [
-                {
-                    "filename": "4.74.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png",
-                    "product_code": "4.74.101"
-                },
-                {
-                    "filename": "4.74.101.20.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png",
-                    "product_code": "4.74.101"
-                },
-                {
-                    "filename": "4.74.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png",
-                    "product_code": "4.74.101"
-                },
-                {
-                    "filename": "4.74.101.20.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png",
-                    "product_code": "4.74.101"
-                },
-                {
-                    "filename": "4.76.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.76.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png",
-                    "product_code": "4.76.101.10"
-                },
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png",
-                    "product_code": "4.73.101.10"
-                },
-                {
-                    "filename": "4.77.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.77.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png",
-                    "product_code": "4.77.101.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.71.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.71.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png",
-                    "product_code": "4.71.101.10"
-                },
-                {
-                    "filename": "4.72.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.72.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png",
-                    "product_code": "4.72.101.10"
-                },
-                {
-                    "filename": "4.75.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.75.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.75.101.10.png",
-                    "product_code": "4.75.101.10"
-                },
-                {
-                    "filename": "4.76.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.76.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png",
-                    "product_code": "4.76.101.10"
-                },
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png",
-                    "product_code": "4.73.101.10"
-                },
-                {
-                    "filename": "4.77.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.77.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png",
-                    "product_code": "4.77.101.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.71.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.71.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png",
-                    "product_code": "4.71.101.10"
-                },
-                {
-                    "filename": "4.72.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.72.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png",
-                    "product_code": "4.72.101.10"
-                },
-                {
-                    "filename": "4.75.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.75.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.75.101.10.png",
-                    "product_code": "4.75.101.10"
-                },
-                {
-                    "filename": "4.76.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.76.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png",
-                    "product_code": "4.76.101.10"
-                },
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png",
-                    "product_code": "4.73.101.10"
-                },
-                {
-                    "filename": "4.77.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.77.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png",
-                    "product_code": "4.77.101.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.74.201.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png",
-                    "product_code": "4.74.201.10"
-                },
-                {
-                    "filename": "4.74.201.10.png",
-                    "local_path": "data/balustrade/4.74.101/images/4.74.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png",
-                    "product_code": "4.74.201.10"
-                }
-            ],
-            "details": {
-                "Ilgis": "3000 mm",
-                "Aukštis": "100 mm",
-                "Storis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.74.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
-                "local_path": "data/balustrade/4.74.101/models/4.74.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "291.43",
-            "price": 338.06,
-            "reviews": []
-        },
-        {
-            "name": "Balustrade base 4.74.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-201/",
-            "code": "4.74.201",
-            "category": "balustrados-pagrindai",
-            "images": [
-                {
-                    "filename": "4.74.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png",
-                    "product_code": "4.74.201"
-                },
-                {
-                    "filename": "4.74.201.20.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png",
-                    "product_code": "4.74.201"
-                },
-                {
-                    "filename": "4.74.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png",
-                    "product_code": "4.74.201"
-                },
-                {
-                    "filename": "4.74.201.20.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png",
-                    "product_code": "4.74.201"
-                },
-                {
-                    "filename": "4.76.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.76.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png",
-                    "product_code": "4.76.201.10"
-                },
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png",
-                    "product_code": "4.73.201.10"
-                },
-                {
-                    "filename": "4.77.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.77.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png",
-                    "product_code": "4.77.201.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.71.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.71.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png",
-                    "product_code": "4.71.201.10"
-                },
-                {
-                    "filename": "4.72.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.72.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png",
-                    "product_code": "4.72.201.10"
-                },
-                {
-                    "filename": "4.75.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.75.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.75.201.10.png",
-                    "product_code": "4.75.201.10"
-                },
-                {
-                    "filename": "4.76.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.76.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png",
-                    "product_code": "4.76.201.10"
-                },
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png",
-                    "product_code": "4.73.201.10"
-                },
-                {
-                    "filename": "4.77.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.77.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png",
-                    "product_code": "4.77.201.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.71.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.71.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png",
-                    "product_code": "4.71.201.10"
-                },
-                {
-                    "filename": "4.72.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.72.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png",
-                    "product_code": "4.72.201.10"
-                },
-                {
-                    "filename": "4.75.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.75.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.75.201.10.png",
-                    "product_code": "4.75.201.10"
-                },
-                {
-                    "filename": "4.76.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.76.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png",
-                    "product_code": "4.76.201.10"
-                },
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png",
-                    "product_code": "4.73.201.10"
-                },
-                {
-                    "filename": "4.77.201.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.77.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png",
-                    "product_code": "4.77.201.10"
-                },
-                {
-                    "filename": "4.78.101.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.78.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png",
-                    "product_code": "4.78.101.10"
-                },
-                {
-                    "filename": "4.74.101.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png",
-                    "product_code": "4.74.101.10"
-                },
-                {
-                    "filename": "4.74.101.10.png",
-                    "local_path": "data/balustrade/4.74.201/images/4.74.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png",
-                    "product_code": "4.74.101.10"
-                }
-            ],
-            "details": {
-                "Ilgis": "3000 mm",
-                "Aukštis": "89 mm",
-                "Storis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.74.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
-                "local_path": "data/balustrade/4.74.201/models/4.74.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "240.00",
-            "price": 278.4,
-            "reviews": []
+          "reviewId": "4.74.101_rev_1",
+          "customerName": "Julija Rimkevičius",
+          "rating": 9.6,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. rezultatas viršijo mano lūkesčius, o visa patirtis su užsakymu teigiama. Naudoju jau 34 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2024-07-21",
+          "verified": true,
+          "helpful": 18
         }
-    ]
+      ]
+    },
+    {
+      "name": "Balustrade base 4.74.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-201/",
+      "code": "4.74.201",
+      "category": "balustrados-pagrindai",
+      "details": {
+        "Ilgis": "3000 mm",
+        "Aukštis": "89 mm",
+        "Storis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.74.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
+        "local_path": "data/balustrade/4.74.201/models/4.74.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "240.00",
+      "price": 278.4,
+      "reviews": [
+        {
+          "reviewId": "4.74.201_rev_1",
+          "customerName": "Zita Zinkevičius",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. naudojimas patogus ir paprastas, o užsakymo procesas paprastas ir aiškus. Naudoju jau 32 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-02-11",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    }
+  ]
 }

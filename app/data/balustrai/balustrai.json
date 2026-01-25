@@ -1,92 +1,77 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Baluster 4.71.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-101/",
+      "code": "4.71.101",
+      "category": "balustrai",
+      "details": {
+        "Plotis": "120 mm",
+        "Aukštis": "784 mm",
+        "Ilgis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.71.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.101.obj",
+        "local_path": "data/balustrade/Baluster_4_71_101/models/4.71.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 75.56,
+      "price_gbp": "65.14",
+      "reviews": [
         {
-            "name": "Baluster 4.71.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-101/",
-            "code": "4.71.101",
-            "category": "balustrai",
-            "images": [
-                {
-                    "filename": "4.71.101.10.png",
-                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png"
-                },
-                {
-                    "filename": "4.71.101.20.png",
-                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.101.20.png"
-                },
-                {
-                    "filename": "4.71.101.10.png",
-                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png"
-                },
-                {
-                    "filename": "4.71.101.20.png",
-                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.101.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "120 mm",
-                "Aukštis": "784 mm",
-                "Ilgis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.71.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.101.obj",
-                "local_path": "data/balustrade/Baluster_4_71_101/models/4.71.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 75.56,
-            "price_gbp": "65.14",
-            "reviews": []
+          "reviewId": "4.71.101_rev_1",
+          "customerName": "Vladas Ivanauskas",
+          "rating": 9.7,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. rezultatas pranoko mano lūkesčius, o pakuotė tvarkinga ir saugi. Naudoju jau 3 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-10-26",
+          "verified": true,
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "name": "Baluster 4.71.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-201/",
+      "code": "4.71.201",
+      "category": "balustrai",
+      "details": {
+        "Plotis": "90 mm",
+        "Aukštis": "790 mm",
+        "Ilgis": "90 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.71.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.201.obj",
+        "local_path": "data/balustrade/Baluster_4_71_201/models/4.71.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 47.72,
+      "price_gbp": "41.14",
+      "reviews": [
+        {
+          "reviewId": "4.71.201_rev_1",
+          "customerName": "Agota Rimkus",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. naudojimo patirtis puiki, o pristatymas greitas ir patikimas. Naudoju jau 34 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2023-06-30",
+          "verified": true,
+          "helpful": 26
         },
         {
-            "name": "Baluster 4.71.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-201/",
-            "code": "4.71.201",
-            "category": "balustrai",
-            "images": [
-                {
-                    "filename": "4.71.201.10.png",
-                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png"
-                },
-                {
-                    "filename": "4.71.201.20.png",
-                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.201.20.png"
-                },
-                {
-                    "filename": "4.71.201.10.png",
-                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png"
-                },
-                {
-                    "filename": "4.71.201.20.png",
-                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.201.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "90 mm",
-                "Aukštis": "790 mm",
-                "Ilgis": "90 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.71.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.201.obj",
-                "local_path": "data/balustrade/Baluster_4_71_201/models/4.71.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 47.72,
-            "price_gbp": "41.14",
-            "reviews": []
+          "reviewId": "4.71.201_rev_2",
+          "customerName": "Pranas Skrebiškis",
+          "rating": 9.6,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. montavimas buvo greitas ir paprastas, o pakuotė tvarkinga ir estetiška. Naudoju jau 27 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2022-02-04",
+          "verified": true,
+          "helpful": 22
         }
-    ]
+      ]
+    }
+  ]
 }

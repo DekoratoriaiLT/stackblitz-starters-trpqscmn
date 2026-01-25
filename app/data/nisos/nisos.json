@@ -1,52 +1,65 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Niche 0-1.61.101-1.61.110",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-101-1-61-110/",
+      "code": "0-1.61.101-1.61.110",
+      "category": "nisos",
+      "details": {
+        "Plotis": "418 mm",
+        "Aukštis": "758 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
         {
-            "name": "Niche 0-1.61.101-1.61.110",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-101-1-61-110/",
-            "code": "0-1.61.101-1.61.110",
-            "category": "nisos",
-            "images": [
-                {
-                    "filename": "0-1.61.101-1.61.110.10.png",
-                    "local_path": "data/niche/Niche/images/0-1.61.101-1.61.110.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/0-1.61.101-1.61.110.10.png",
-                    "product_code": "0-1.61.101-1.61.110.10"
-                }
-            ],
-            "details": {
-                "Plotis": "418 mm",
-                "Aukštis": "758 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "0-1.61.101-1.61.110_rev_1",
+          "customerName": "Kostas Brazaitis",
+          "rating": 9.8,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. montavimas buvo greitas ir paprastas, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 1 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2024-04-15",
+          "verified": true,
+          "helpful": 37
         },
         {
-            "name": "Niche 0-1.61.102-1.61.120",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-102-1-61-120/",
-            "code": "0-1.61.102-1.61.120",
-            "category": "nisos",
-            "images": [
-                {
-                    "filename": "0-1.61.102-1.61.120.10.png",
-                    "local_path": "data/niche/Niche/images/0-1.61.102-1.61.120.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/0-1.61.102-1.61.120.10.png",
-                    "product_code": "0-1.61.102-1.61.120.10"
-                }
-            ],
-            "details": {
-                "Plotis": "655 mm",
-                "Aukštis": "1135 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "0-1.61.101-1.61.110_rev_2",
+          "customerName": "Simonas Masiulis",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad apdirbimas itin preciziškas. naudojimo patirtis labai teigiama, o siunta pristatyta be jokių problemų. Naudoju jau 13 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2024-08-17",
+          "verified": true,
+          "helpful": 23
         }
-    ]
+      ]
+    },
+    {
+      "name": "Niche 0-1.61.102-1.61.120",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-102-1-61-120/",
+      "code": "0-1.61.102-1.61.120",
+      "category": "nisos",
+      "details": {
+        "Plotis": "655 mm",
+        "Aukštis": "1135 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "0-1.61.102-1.61.120_rev_1",
+          "customerName": "Eidmantas Vaitkus",
+          "rating": 9.5,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimo patirtis maloni ir sklandi, o siunta atvyko saugiai ir laiku. Naudoju jau 34 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2022-07-20",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    }
+  ]
 }

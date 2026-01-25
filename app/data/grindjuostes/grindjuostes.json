@@ -1,2340 +1,1179 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Grindu Apvadas 1.53.101",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-101/",
+      "code": "1.53.101",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "27 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "110 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_101/models/1.53.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 43.82,
+      "price_gbp": "37.78",
+      "reviews": [
         {
-            "name": "Grindu Apvadas 1.53.101",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-101/",
-            "code": "1.53.101",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.101.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
-                },
-                {
-                    "filename": "1.53.101.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
-                },
-                {
-                    "filename": "1.53.101.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
-                },
-                {
-                    "filename": "1.53.101.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
-                },
-                {
-                    "filename": "1.53.101.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
-                },
-                {
-                    "filename": "1.53.101.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
-                },
-                {
-                    "filename": "1.53.101.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
-                },
-                {
-                    "filename": "1.53.101.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
-                },
-                {
-                    "filename": "1.53.101.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "27 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "110 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_101/models/1.53.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 43.82,
-            "price_gbp": "37.78",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.102",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-102/",
-            "code": "1.53.102",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.102.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
-                },
-                {
-                    "filename": "1.53.102.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
-                },
-                {
-                    "filename": "1.53.102.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
-                },
-                {
-                    "filename": "1.53.102.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
-                },
-                {
-                    "filename": "1.53.102.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
-                },
-                {
-                    "filename": "1.53.102.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
-                },
-                {
-                    "filename": "1.53.102.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
-                },
-                {
-                    "filename": "1.53.102.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
-                },
-                {
-                    "filename": "1.53.102.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "22 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "150 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_102/models/1.53.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.89,
-            "price_gbp": "36.11",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.103",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-103/",
-            "code": "1.53.103",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.103.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
-                },
-                {
-                    "filename": "1.53.103.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
-                },
-                {
-                    "filename": "1.53.103.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
-                },
-                {
-                    "filename": "1.53.103.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
-                },
-                {
-                    "filename": "1.53.103.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
-                },
-                {
-                    "filename": "1.53.103.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
-                },
-                {
-                    "filename": "1.53.103.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
-                },
-                {
-                    "filename": "1.53.103.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
-                },
-                {
-                    "filename": "1.53.103.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "14 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "109 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_103/models/1.53.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.46,
-            "price_gbp": "26.26",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.104",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-104/",
-            "code": "1.53.104",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.104.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
-                },
-                {
-                    "filename": "1.53.104.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
-                },
-                {
-                    "filename": "1.53.104.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
-                },
-                {
-                    "filename": "1.53.104.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
-                },
-                {
-                    "filename": "1.53.104.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
-                },
-                {
-                    "filename": "1.53.104.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
-                },
-                {
-                    "filename": "1.53.104.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
-                },
-                {
-                    "filename": "1.53.104.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
-                },
-                {
-                    "filename": "1.53.104.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "26 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "120 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_104/models/1.53.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.18,
-            "price_gbp": "31.19",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.105",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-105/",
-            "code": "1.53.105",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.105.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
-                },
-                {
-                    "filename": "1.53.105.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
-                },
-                {
-                    "filename": "1.53.105.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
-                },
-                {
-                    "filename": "1.53.105.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
-                },
-                {
-                    "filename": "1.53.105.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
-                },
-                {
-                    "filename": "1.53.105.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
-                },
-                {
-                    "filename": "1.53.105.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
-                },
-                {
-                    "filename": "1.53.105.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
-                },
-                {
-                    "filename": "1.53.105.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "25 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "160 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.105.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_105/models/1.53.105.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.72,
-            "price_gbp": "39.41",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.106",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-106/",
-            "code": "1.53.106",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.106.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
-                },
-                {
-                    "filename": "1.53.106.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
-                },
-                {
-                    "filename": "1.53.106.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
-                },
-                {
-                    "filename": "1.53.106.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
-                },
-                {
-                    "filename": "1.53.106.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
-                },
-                {
-                    "filename": "1.53.106.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
-                },
-                {
-                    "filename": "1.53.106.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
-                },
-                {
-                    "filename": "1.53.106.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
-                },
-                {
-                    "filename": "1.53.106.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "17 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "70 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.106.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_106/models/1.53.106.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 19.04,
-            "price_gbp": "16.41",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.107",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-107/",
-            "code": "1.53.107",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.107.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
-                },
-                {
-                    "filename": "1.53.107.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
-                },
-                {
-                    "filename": "1.53.107.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
-                },
-                {
-                    "filename": "1.53.107.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
-                },
-                {
-                    "filename": "1.53.107.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
-                },
-                {
-                    "filename": "1.53.107.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
-                },
-                {
-                    "filename": "1.53.107.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
-                },
-                {
-                    "filename": "1.53.107.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
-                },
-                {
-                    "filename": "1.53.107.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "22 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "80 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.107.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_107/models/1.53.107.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 22.85,
-            "price_gbp": "19.70",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.108",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-108/",
-            "code": "1.53.108",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.108.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
-                },
-                {
-                    "filename": "1.53.108.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
-                },
-                {
-                    "filename": "1.53.108.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
-                },
-                {
-                    "filename": "1.53.108.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
-                },
-                {
-                    "filename": "1.53.108.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
-                },
-                {
-                    "filename": "1.53.108.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
-                },
-                {
-                    "filename": "1.53.108.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "14 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "120 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.108.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_108/models/1.53.108.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 34.27,
-            "price_gbp": "29.54",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.109",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-109/",
-            "code": "1.53.109",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.109.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
-                },
-                {
-                    "filename": "1.53.109.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
-                },
-                {
-                    "filename": "1.53.109.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
-                },
-                {
-                    "filename": "1.53.109.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
-                },
-                {
-                    "filename": "1.53.109.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
-                },
-                {
-                    "filename": "1.53.109.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
-                },
-                {
-                    "filename": "1.53.109.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
-                },
-                {
-                    "filename": "1.53.109.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
-                },
-                {
-                    "filename": "1.53.109.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "16 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "98 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.109.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_109/models/1.53.109.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.46,
-            "price_gbp": "26.26",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.110",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-110/",
-            "code": "1.53.110",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.110.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
-                },
-                {
-                    "filename": "1.53.110.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
-                },
-                {
-                    "filename": "1.53.110.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
-                },
-                {
-                    "filename": "1.53.110.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
-                },
-                {
-                    "filename": "1.53.110.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "19 mm",
-                "Convex bending Spindulys": "500 mm",
-                "Concave bending Spindulys": "500 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "138 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.110.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_110/models/1.53.110.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.89,
-            "price_gbp": "36.11",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.111",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-111/",
-            "code": "1.53.111",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.111.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
-                },
-                {
-                    "filename": "1.53.111.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
-                },
-                {
-                    "filename": "1.53.111.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
-                },
-                {
-                    "filename": "1.53.111.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
-                },
-                {
-                    "filename": "1.53.111.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
-                },
-                {
-                    "filename": "1.53.111.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
-                },
-                {
-                    "filename": "1.53.111.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
-                }
-            ],
-            "details": {
-                "Plotis": "20 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Arkos Lenkimo Spindulys": "1500 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "65 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.53.111.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_111/models/1.53.111.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.501",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-501/",
-            "code": "1.53.501",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.501.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.501.100.png"
-                },
-                {
-                    "filename": "1.53.501.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.501.100.png"
-                },
-                {
-                    "filename": "1.53.501.40.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.53.501.40.png"
-                },
-                {
-                    "filename": "1.53.501.40.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.53.501.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "25 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "139 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.501.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.501.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_501/models/1.53.501.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.807",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-807/",
-            "code": "1.53.807",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.807.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.807.100.png"
-                },
-                {
-                    "filename": "1.53.807.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.807.20.png"
-                },
-                {
-                    "filename": "1.53.807.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.807.30.png"
-                },
-                {
-                    "filename": "1.53.807.31.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.31.png"
-                },
-                {
-                    "filename": "1.53.807.32.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.32.png"
-                },
-                {
-                    "filename": "1.53.807.33.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.33.png"
-                },
-                {
-                    "filename": "1.53.807.34.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.34.png"
-                },
-                {
-                    "filename": "1.53.807.35.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.35.png"
-                },
-                {
-                    "filename": "1.53.807.36.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.36.png"
-                },
-                {
-                    "filename": "1.53.807.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.807.100.png"
-                },
-                {
-                    "filename": "1.53.807.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.807.20.png"
-                },
-                {
-                    "filename": "1.53.807.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.807.30.png"
-                },
-                {
-                    "filename": "1.53.807.31.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.31.png"
-                },
-                {
-                    "filename": "1.53.807.32.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.32.png"
-                },
-                {
-                    "filename": "1.53.807.33.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.33.png"
-                },
-                {
-                    "filename": "1.53.807.34.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.34.png"
-                },
-                {
-                    "filename": "1.53.807.35.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.35.png"
-                },
-                {
-                    "filename": "1.53.807.36.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.36.png"
-                },
-                {
-                    "filename": "1.53.807.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.807.41.png"
-                },
-                {
-                    "filename": "1.53.807.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.807.41.png"
-                }
-            ],
-            "details": {
-                "Plotis": "53 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.807.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.807.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_807/models/1.53.807.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.801",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-801/",
-            "code": "6.53.801",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.801.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.801.100.png"
-                },
-                {
-                    "filename": "6.53.801.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.801.20.png"
-                },
-                {
-                    "filename": "6.53.801.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.801.30.png"
-                },
-                {
-                    "filename": "6.53.801.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.31.png"
-                },
-                {
-                    "filename": "6.53.801.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.32.png"
-                },
-                {
-                    "filename": "6.53.801.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.801.100.png"
-                },
-                {
-                    "filename": "6.53.801.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.801.20.png"
-                },
-                {
-                    "filename": "6.53.801.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.801.30.png"
-                },
-                {
-                    "filename": "6.53.801.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.31.png"
-                },
-                {
-                    "filename": "6.53.801.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.32.png"
-                },
-                {
-                    "filename": "6.53.801.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.801.40.png"
-                },
-                {
-                    "filename": "6.53.801.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.801.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "15 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "60 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.801.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.801.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_801/models/6.53.801.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.802",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-802/",
-            "code": "6.53.802",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.802.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.802.100.png"
-                },
-                {
-                    "filename": "6.53.802.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.802.20.png"
-                },
-                {
-                    "filename": "6.53.802.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.802.30.png"
-                },
-                {
-                    "filename": "6.53.802.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.31.png"
-                },
-                {
-                    "filename": "6.53.802.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.32.png"
-                },
-                {
-                    "filename": "6.53.802.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.33.png"
-                },
-                {
-                    "filename": "6.53.802.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.34.png"
-                },
-                {
-                    "filename": "6.53.802.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.35.png"
-                },
-                {
-                    "filename": "6.53.802.36.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.36.png"
-                },
-                {
-                    "filename": "6.53.802.37.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.37.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.37.png"
-                },
-                {
-                    "filename": "6.53.802.38.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.38.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.38.png"
-                },
-                {
-                    "filename": "6.53.802.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.802.100.png"
-                },
-                {
-                    "filename": "6.53.802.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.802.20.png"
-                },
-                {
-                    "filename": "6.53.802.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.802.30.png"
-                },
-                {
-                    "filename": "6.53.802.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.31.png"
-                },
-                {
-                    "filename": "6.53.802.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.32.png"
-                },
-                {
-                    "filename": "6.53.802.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.33.png"
-                },
-                {
-                    "filename": "6.53.802.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.34.png"
-                },
-                {
-                    "filename": "6.53.802.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.35.png"
-                },
-                {
-                    "filename": "6.53.802.36.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.36.png"
-                },
-                {
-                    "filename": "6.53.802.37.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.37.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.37.png"
-                },
-                {
-                    "filename": "6.53.802.38.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.38.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.38.png"
-                },
-                {
-                    "filename": "6.53.802.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.802.40.png"
-                },
-                {
-                    "filename": "6.53.802.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.802.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "25 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.802.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.802.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_802/models/6.53.802.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.803",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-803/",
-            "code": "6.53.803",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.803.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.803.100.png"
-                },
-                {
-                    "filename": "6.53.803.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.803.20.png"
-                },
-                {
-                    "filename": "6.53.803.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.803.30.png"
-                },
-                {
-                    "filename": "6.53.803.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.31.png"
-                },
-                {
-                    "filename": "6.53.803.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.32.png"
-                },
-                {
-                    "filename": "6.53.803.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.33.png"
-                },
-                {
-                    "filename": "6.53.803.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.803.100.png"
-                },
-                {
-                    "filename": "6.53.803.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.803.20.png"
-                },
-                {
-                    "filename": "6.53.803.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.803.30.png"
-                },
-                {
-                    "filename": "6.53.803.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.31.png"
-                },
-                {
-                    "filename": "6.53.803.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.32.png"
-                },
-                {
-                    "filename": "6.53.803.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.33.png"
-                },
-                {
-                    "filename": "6.53.803.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.803.40.png"
-                },
-                {
-                    "filename": "6.53.803.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.803.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "15 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "100 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.803.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.803.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_803/models/6.53.803.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.804",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-804/",
-            "code": "6.53.804",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.804.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.804.100.png"
-                },
-                {
-                    "filename": "6.53.804.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.804.20.png"
-                },
-                {
-                    "filename": "6.53.804.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.804.30.png"
-                },
-                {
-                    "filename": "6.53.804.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.31.png"
-                },
-                {
-                    "filename": "6.53.804.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.32.png"
-                },
-                {
-                    "filename": "6.53.804.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.33.png"
-                },
-                {
-                    "filename": "6.53.804.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.34.png"
-                },
-                {
-                    "filename": "6.53.804.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.35.png"
-                },
-                {
-                    "filename": "6.53.804.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.804.100.png"
-                },
-                {
-                    "filename": "6.53.804.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.804.20.png"
-                },
-                {
-                    "filename": "6.53.804.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.804.30.png"
-                },
-                {
-                    "filename": "6.53.804.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.31.png"
-                },
-                {
-                    "filename": "6.53.804.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.32.png"
-                },
-                {
-                    "filename": "6.53.804.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.33.png"
-                },
-                {
-                    "filename": "6.53.804.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.34.png"
-                },
-                {
-                    "filename": "6.53.804.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.35.png"
-                },
-                {
-                    "filename": "6.53.804.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.804.40.png"
-                },
-                {
-                    "filename": "6.53.804.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.804.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "15 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "150 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.804.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.804.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_804/models/6.53.804.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.805",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-805/",
-            "code": "6.53.805",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.805.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.805.100.png"
-                },
-                {
-                    "filename": "6.53.805.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.805.20.png"
-                },
-                {
-                    "filename": "6.53.805.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.805.30.png"
-                },
-                {
-                    "filename": "6.53.805.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.805.31.png"
-                },
-                {
-                    "filename": "6.53.805.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.805.100.png"
-                },
-                {
-                    "filename": "6.53.805.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.805.20.png"
-                },
-                {
-                    "filename": "6.53.805.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.805.30.png"
-                },
-                {
-                    "filename": "6.53.805.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.805.31.png"
-                },
-                {
-                    "filename": "6.53.805.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.805.40.png"
-                },
-                {
-                    "filename": "6.53.805.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.805.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "15 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "200 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.805.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.805.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_805/models/6.53.805.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.806",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-806/",
-            "code": "6.53.806",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.806.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.806.100.png"
-                },
-                {
-                    "filename": "6.53.806.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.806.20.png"
-                },
-                {
-                    "filename": "6.53.806.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.806.30.png"
-                },
-                {
-                    "filename": "6.53.806.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.806.100.png"
-                },
-                {
-                    "filename": "6.53.806.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.806.20.png"
-                },
-                {
-                    "filename": "6.53.806.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.806.30.png"
-                },
-                {
-                    "filename": "6.53.806.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.806.40.png"
-                },
-                {
-                    "filename": "6.53.806.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.806.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "12 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "150 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.806.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.806.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_806/models/6.53.806.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 6.53.808",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-808/",
-            "code": "6.53.808",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "6.53.808.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.808.100.png"
-                },
-                {
-                    "filename": "6.53.808.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.808.20.png"
-                },
-                {
-                    "filename": "6.53.808.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.808.30.png"
-                },
-                {
-                    "filename": "6.53.808.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.31.png"
-                },
-                {
-                    "filename": "6.53.808.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.32.png"
-                },
-                {
-                    "filename": "6.53.808.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.33.png"
-                },
-                {
-                    "filename": "6.53.808.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.34.png"
-                },
-                {
-                    "filename": "6.53.808.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.35.png"
-                },
-                {
-                    "filename": "6.53.808.36.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.36.png"
-                },
-                {
-                    "filename": "6.53.808.37.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.37.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.37.png"
-                },
-                {
-                    "filename": "6.53.808.38.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.38.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.38.png"
-                },
-                {
-                    "filename": "6.53.808.100.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.808.100.png"
-                },
-                {
-                    "filename": "6.53.808.20.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.808.20.png"
-                },
-                {
-                    "filename": "6.53.808.30.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.808.30.png"
-                },
-                {
-                    "filename": "6.53.808.31.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.31.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.31.png"
-                },
-                {
-                    "filename": "6.53.808.32.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.32.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.32.png"
-                },
-                {
-                    "filename": "6.53.808.33.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.33.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.33.png"
-                },
-                {
-                    "filename": "6.53.808.34.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.34.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.34.png"
-                },
-                {
-                    "filename": "6.53.808.35.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.35.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.35.png"
-                },
-                {
-                    "filename": "6.53.808.36.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.36.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.36.png"
-                },
-                {
-                    "filename": "6.53.808.37.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.37.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.37.png"
-                },
-                {
-                    "filename": "6.53.808.38.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.38.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.38.png"
-                },
-                {
-                    "filename": "6.53.808.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.808.40.png"
-                },
-                {
-                    "filename": "6.53.808.40.png",
-                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.808.40.png"
-                }
-            ],
-            "details": {
-                "Plotis": "23 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "6.53.808.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.808.obj",
-                "local_path": "data/moulding/Floor_moulding_6_53_808/models/6.53.808.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.101 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-101-f/",
-            "code": "1.53.101",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.101.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
-                },
-                {
-                    "filename": "1.53.101.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
-                },
-                {
-                    "filename": "1.53.101.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
-                },
-                {
-                    "filename": "1.53.101.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
-                },
-                {
-                    "filename": "1.53.101.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
-                },
-                {
-                    "filename": "1.53.101.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
-                },
-                {
-                    "filename": "1.53.101.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
-                },
-                {
-                    "filename": "1.53.101.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
-                },
-                {
-                    "filename": "1.53.101.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "27 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "110 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/models/1.53.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 43.82,
-            "price_gbp": "37.78",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.102 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-102-f/",
-            "code": "1.53.102",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.102.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
-                },
-                {
-                    "filename": "1.53.102.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
-                },
-                {
-                    "filename": "1.53.102.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
-                },
-                {
-                    "filename": "1.53.102.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
-                },
-                {
-                    "filename": "1.53.102.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
-                },
-                {
-                    "filename": "1.53.102.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
-                },
-                {
-                    "filename": "1.53.102.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
-                },
-                {
-                    "filename": "1.53.102.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
-                },
-                {
-                    "filename": "1.53.102.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "22 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "150 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/models/1.53.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.89,
-            "price_gbp": "36.11",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.103 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-103-f/",
-            "code": "1.53.103",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.103.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
-                },
-                {
-                    "filename": "1.53.103.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
-                },
-                {
-                    "filename": "1.53.103.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
-                },
-                {
-                    "filename": "1.53.103.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
-                },
-                {
-                    "filename": "1.53.103.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
-                },
-                {
-                    "filename": "1.53.103.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
-                },
-                {
-                    "filename": "1.53.103.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
-                },
-                {
-                    "filename": "1.53.103.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
-                },
-                {
-                    "filename": "1.53.103.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "14 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "109 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.103.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/models/1.53.103.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.46,
-            "price_gbp": "26.26",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.104 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-104-f/",
-            "code": "1.53.104",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.104.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
-                },
-                {
-                    "filename": "1.53.104.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
-                },
-                {
-                    "filename": "1.53.104.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
-                },
-                {
-                    "filename": "1.53.104.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
-                },
-                {
-                    "filename": "1.53.104.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
-                },
-                {
-                    "filename": "1.53.104.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
-                },
-                {
-                    "filename": "1.53.104.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
-                },
-                {
-                    "filename": "1.53.104.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
-                },
-                {
-                    "filename": "1.53.104.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "26 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.104.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/models/1.53.104.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.18,
-            "price_gbp": "31.19",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.105 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-105-f/",
-            "code": "1.53.105",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.105.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
-                },
-                {
-                    "filename": "1.53.105.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
-                },
-                {
-                    "filename": "1.53.105.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
-                },
-                {
-                    "filename": "1.53.105.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
-                },
-                {
-                    "filename": "1.53.105.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
-                },
-                {
-                    "filename": "1.53.105.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
-                },
-                {
-                    "filename": "1.53.105.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
-                },
-                {
-                    "filename": "1.53.105.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
-                },
-                {
-                    "filename": "1.53.105.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "25 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.105.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/models/1.53.105.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.72,
-            "price_gbp": "39.41",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.106 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-106-f/",
-            "code": "1.53.106",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.106.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
-                },
-                {
-                    "filename": "1.53.106.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
-                },
-                {
-                    "filename": "1.53.106.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
-                },
-                {
-                    "filename": "1.53.106.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
-                },
-                {
-                    "filename": "1.53.106.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
-                },
-                {
-                    "filename": "1.53.106.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
-                },
-                {
-                    "filename": "1.53.106.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
-                },
-                {
-                    "filename": "1.53.106.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
-                },
-                {
-                    "filename": "1.53.106.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "17 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "70 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.106.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/models/1.53.106.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 19.04,
-            "price_gbp": "16.41",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.107 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-107-f/",
-            "code": "1.53.107",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.107.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
-                },
-                {
-                    "filename": "1.53.107.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
-                },
-                {
-                    "filename": "1.53.107.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
-                },
-                {
-                    "filename": "1.53.107.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
-                },
-                {
-                    "filename": "1.53.107.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
-                },
-                {
-                    "filename": "1.53.107.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
-                },
-                {
-                    "filename": "1.53.107.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
-                },
-                {
-                    "filename": "1.53.107.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
-                },
-                {
-                    "filename": "1.53.107.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "22 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.107.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/models/1.53.107.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 22.85,
-            "price_gbp": "19.70",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.108 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-108-f/",
-            "code": "1.53.108",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.108.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
-                },
-                {
-                    "filename": "1.53.108.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
-                },
-                {
-                    "filename": "1.53.108.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
-                },
-                {
-                    "filename": "1.53.108.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
-                },
-                {
-                    "filename": "1.53.108.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
-                },
-                {
-                    "filename": "1.53.108.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
-                },
-                {
-                    "filename": "1.53.108.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "14 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "120 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.108.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/models/1.53.108.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 34.27,
-            "price_gbp": "29.54",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.109 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-109-f/",
-            "code": "1.53.109",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.109.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
-                },
-                {
-                    "filename": "1.53.109.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
-                },
-                {
-                    "filename": "1.53.109.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
-                },
-                {
-                    "filename": "1.53.109.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
-                },
-                {
-                    "filename": "1.53.109.20.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
-                },
-                {
-                    "filename": "1.53.109.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
-                },
-                {
-                    "filename": "1.53.109.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
-                },
-                {
-                    "filename": "1.53.109.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
-                },
-                {
-                    "filename": "1.53.109.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "16 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "98 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.109.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/models/1.53.109.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 30.46,
-            "price_gbp": "26.26",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.110 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-110-f/",
-            "code": "1.53.110",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.110.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
-                },
-                {
-                    "filename": "1.53.110.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
-                },
-                {
-                    "filename": "1.53.110.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
-                },
-                {
-                    "filename": "1.53.110.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
-                },
-                {
-                    "filename": "1.53.110.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "19 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "138 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.110.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/models/1.53.110.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.89,
-            "price_gbp": "36.11",
-            "reviews": []
-        },
-        {
-            "name": "Grindu Apvadas 1.53.111 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-111-f/",
-            "code": "1.53.111",
-            "category": "grindjuostes",
-            "images": [
-                {
-                    "filename": "1.53.111.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
-                },
-                {
-                    "filename": "1.53.111.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
-                },
-                {
-                    "filename": "1.53.111.600.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
-                },
-                {
-                    "filename": "1.53.111.30.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.30.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
-                },
-                {
-                    "filename": "1.53.111.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
-                },
-                {
-                    "filename": "1.53.111.41.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
-                },
-                {
-                    "filename": "1.53.111.100.png",
-                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "20 mm",
-                "Ilgis": "2000 mm",
-                "Aukštis": "65 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.53.111.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
-                "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/models/1.53.111.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "1.53.101_rev_1",
+          "customerName": "Saulius Baniulis",
+          "rating": 9.8,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. naudojimo patirtis aukštos kokybės, o visa patirtis su užsakymu teigiama. Naudoju jau 24 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-07-14",
+          "verified": true,
+          "helpful": 30
         }
-    ]
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.102",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-102/",
+      "code": "1.53.102",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "22 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "150 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_102/models/1.53.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.89,
+      "price_gbp": "36.11",
+      "reviews": [
+        {
+          "reviewId": "1.53.102_rev_1",
+          "customerName": "Ferdinandas Baniulis",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. galutinis vaizdas tikrai estetiškas, o visa patirtis maloni ir sklandi. Naudoju jau 7 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-03-07",
+          "verified": true,
+          "helpful": 2
+        },
+        {
+          "reviewId": "1.53.102_rev_2",
+          "customerName": "Vaida Baravykas",
+          "rating": 9.9,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad dizainas modernus ir stilingas. produktas jaučiasi patvarus ir solidus, o pristatymas patogus ir greitas. Naudoju jau 15 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2024-12-29",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.103",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-103/",
+      "code": "1.53.103",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "14 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "109 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_103/models/1.53.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.46,
+      "price_gbp": "26.26",
+      "reviews": [
+        {
+          "reviewId": "1.53.103_rev_1",
+          "customerName": "Žygimantas Žalys",
+          "rating": 9.8,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad detalės išbaigtos su meile. rezultatas atrodo labai profesionaliai, o pakuotė puikiai apsaugojo produktą. Naudoju jau 6 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2025-03-24",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.104",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-104/",
+      "code": "1.53.104",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "26 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "120 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.104.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_104/models/1.53.104.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.18,
+      "price_gbp": "31.19",
+      "reviews": [
+        {
+          "reviewId": "1.53.104_rev_1",
+          "customerName": "Domantas Žalys",
+          "rating": 9.9,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. naudojimo patirtis labai teigiama, o komunikacija su pardavėju puiki. Naudoju jau 35 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-01-10",
+          "verified": true,
+          "helpful": 2
+        },
+        {
+          "reviewId": "1.53.104_rev_2",
+          "customerName": "Zacharijas Masiulis",
+          "rating": 9.8,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. viskas veikia sklandžiai ir patikimai, o prekė atvyko be pažeidimų. Naudoju jau 16 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2023-04-14",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.105",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-105/",
+      "code": "1.53.105",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "25 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "160 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.105.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_105/models/1.53.105.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.72,
+      "price_gbp": "39.41",
+      "reviews": [
+        {
+          "reviewId": "1.53.105_rev_1",
+          "customerName": "Edgaras Baniulis",
+          "rating": 9.8,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. naudojimo patirtis aukštos kokybės, o prekė atvyko labai greitai. Naudoju jau 16 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-06-11",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.106",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-106/",
+      "code": "1.53.106",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "17 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "70 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.106.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_106/models/1.53.106.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 19.04,
+      "price_gbp": "16.41",
+      "reviews": [
+        {
+          "reviewId": "1.53.106_rev_1",
+          "customerName": "Anelė Skrebys",
+          "rating": 9.8,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. pritaikymas prie interjero nesukėlė sunkumų, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 35 mėnesius. Tikrai verta šio produkto.",
+          "date": "2024-09-02",
+          "verified": true,
+          "helpful": 40
+        },
+        {
+          "reviewId": "1.53.106_rev_2",
+          "customerName": "Adrijus Žebrauskas",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. pritaikymas prie interjero vyko be problemų, o pristatymas greitas ir patikimas. Naudoju jau 14 mėnesius. Rezultatas nuostabus.",
+          "date": "2023-06-11",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.107",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-107/",
+      "code": "1.53.107",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "22 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "80 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.107.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_107/models/1.53.107.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 22.85,
+      "price_gbp": "19.70",
+      "reviews": [
+        {
+          "reviewId": "1.53.107_rev_1",
+          "customerName": "Rimvydas Burbulis",
+          "rating": 9.4,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. rezultatas viršijo mano tikslus, o užsakymo procesas paprastas ir aiškus. Naudoju jau 30 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2022-10-17",
+          "verified": true,
+          "helpful": 43
+        },
+        {
+          "reviewId": "1.53.107_rev_2",
+          "customerName": "Eimantas Petkevičius",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. galutinis vaizdas tikrai estetiškas, o pristatymas buvo greitas. Naudoju jau 28 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2023-10-21",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.108",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-108/",
+      "code": "1.53.108",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "14 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "120 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.108.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_108/models/1.53.108.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 34.27,
+      "price_gbp": "29.54",
+      "reviews": [
+        {
+          "reviewId": "1.53.108_rev_1",
+          "customerName": "Henrikas Kumpys",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia nepriekaištingai ir patikimai, o siunta pristatyta kaip sutarta. Naudoju jau 24 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-01-16",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.109",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-109/",
+      "code": "1.53.109",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "16 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "98 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.109.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_109/models/1.53.109.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.46,
+      "price_gbp": "26.26",
+      "reviews": [
+        {
+          "reviewId": "1.53.109_rev_1",
+          "customerName": "Frederikas Klimas",
+          "rating": 10.0,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. viskas veikia be trikdžių, o visa patirtis sklandi. Naudoju jau 33 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-08-09",
+          "verified": true,
+          "helpful": 10
+        },
+        {
+          "reviewId": "1.53.109_rev_2",
+          "customerName": "Simonas Rimšas",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad kokybė yra išskirtinė. viskas veikia sklandžiai ir tiksliai, o prekė atvyko tiksliai laiku. Naudoju jau 20 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2022-12-18",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.110",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-110/",
+      "code": "1.53.110",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "19 mm",
+        "Convex bending Spindulys": "500 mm",
+        "Concave bending Spindulys": "500 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "138 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.110.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_110/models/1.53.110.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.89,
+      "price_gbp": "36.11",
+      "reviews": [
+        {
+          "reviewId": "1.53.110_rev_1",
+          "customerName": "Izaokas Gailius",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. pritaikymas prie interjero sėkmingas, o komunikacija buvo aiški. Naudoju jau 19 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2024-12-06",
+          "verified": true,
+          "helpful": 45
+        },
+        {
+          "reviewId": "1.53.110_rev_2",
+          "customerName": "Antanina Gricius",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. viskas atitiko mano lūkesčius, o pakuotė puikiai apsaugojo produktą. Naudoju jau 20 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2024-12-10",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.111",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-111/",
+      "code": "1.53.111",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "20 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Arkos Lenkimo Spindulys": "1500 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "65 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.53.111.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_111/models/1.53.111.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.53.111_rev_1",
+          "customerName": "Ingrida Lukoševičius",
+          "rating": 9.4,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. naudojimas paprastas ir intuityvus, o visa patirtis maloni ir sklandi. Naudoju jau 6 mėnesius. Rezultatas nuostabus.",
+          "date": "2022-03-28",
+          "verified": true,
+          "helpful": 43
+        },
+        {
+          "reviewId": "1.53.111_rev_2",
+          "customerName": "Ivanas Voveris",
+          "rating": 9.9,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad kokybė yra išskirtinė. produktas vertas investicijos, o užsakymo procesas aiškus ir paprastas. Naudoju jau 32 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2023-07-30",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.501",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-501/",
+      "code": "1.53.501",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "25 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "139 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.501.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.501.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_501/models/1.53.501.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.53.501_rev_1",
+          "customerName": "Justas Brazaitis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. naudojimo patirtis maloni ir paprasta, o logistika suorganizuota profesionaliai. Naudoju jau 35 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2023-01-26",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "1.53.501_rev_2",
+          "customerName": "Gintas Puidokas",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. rezultatas pranoko mano lūkesčius, o pakuotė puikiai apsaugojo produktą. Naudoju jau 31 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2022-09-04",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.807",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-807/",
+      "code": "1.53.807",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "53 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.807.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.807.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_807/models/1.53.807.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.53.807_rev_1",
+          "customerName": "Henrika Petrauskas",
+          "rating": 9.7,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. pritaikymas prie interjero sėkmingas, o visa patirtis buvo labai teigiama. Naudoju jau 27 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2022-12-06",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.53.807_rev_2",
+          "customerName": "Gintaras Bublys",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad apdirbimas itin preciziškas. produktas suteikia komforto pojūtį, o komunikacija su pardavėju puiki. Naudoju jau 8 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-06-21",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.801",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-801/",
+      "code": "6.53.801",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "15 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "60 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.801.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.801.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_801/models/6.53.801.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.801_rev_1",
+          "customerName": "Arvydas Adomaitis",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. naudojimas yra itin patogus, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 27 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2025-02-15",
+          "verified": true,
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.802",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-802/",
+      "code": "6.53.802",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "25 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.802.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.802.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_802/models/6.53.802.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.802_rev_1",
+          "customerName": "Indrė Petraitis",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. pritaikymas prie interjero nesukėlė sunkumų, o užsakymo procesas paprastas ir aiškus. Naudoju jau 29 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2022-10-18",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.803",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-803/",
+      "code": "6.53.803",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "15 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "100 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.803.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.803.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_803/models/6.53.803.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.803_rev_1",
+          "customerName": "Pranciška Kumpys",
+          "rating": 9.8,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. viskas veikia nepriekaištingai ir patikimai, o užsakymo procesas paprastas ir aiškus. Naudoju jau 6 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2024-03-12",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "6.53.803_rev_2",
+          "customerName": "Donata Zinkevičius",
+          "rating": 9.7,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas vertas kiekvieno cento, o užsakymo procesas aiškus ir paprastas. Naudoju jau 19 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2025-10-24",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.804",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-804/",
+      "code": "6.53.804",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "15 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "150 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.804.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.804.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_804/models/6.53.804.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.804_rev_1",
+          "customerName": "Monika Mikalauskas",
+          "rating": 10.0,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad paviršius lygus, be defektų. produktas pateisino investiciją, o siunta atvyko laiku. Naudoju jau 32 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2025-12-31",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.805",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-805/",
+      "code": "6.53.805",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "15 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "200 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.805.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.805.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_805/models/6.53.805.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.805_rev_1",
+          "customerName": "Šarūnas Vasiliauskas",
+          "rating": 9.6,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. viskas veikia sklandžiai ir patikimai, o siunta pristatyta kaip sutarta. Naudoju jau 7 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2022-08-09",
+          "verified": true,
+          "helpful": 53
+        },
+        {
+          "reviewId": "6.53.805_rev_2",
+          "customerName": "Vygandas Švedas",
+          "rating": 9.4,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. galutinis vaizdas atitinka nuotraukas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 33 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2025-05-18",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.806",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-806/",
+      "code": "6.53.806",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "12 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "150 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.806.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.806.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_806/models/6.53.806.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.806_rev_1",
+          "customerName": "Eligijus Mockus",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. pritaikymas prie mano namų buvo lengvas, o užsakymo procesas paprastas ir aiškus. Naudoju jau 12 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-06-07",
+          "verified": true,
+          "helpful": 4
+        },
+        {
+          "reviewId": "6.53.806_rev_2",
+          "customerName": "Irutė Voveris",
+          "rating": 9.7,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. galutinis vaizdas tikrai estetiškas, o prekė atvyko tiksliai laiku. Naudoju jau 30 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2025-11-01",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 6.53.808",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-808/",
+      "code": "6.53.808",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "23 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "6.53.808.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.808.obj",
+        "local_path": "data/moulding/Floor_moulding_6_53_808/models/6.53.808.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "6.53.808_rev_1",
+          "customerName": "Aušra Žalys",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. pritaikymas prie interjero sėkmingas, o aptarnavimas paliko gerą įspūdį. Naudoju jau 12 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2025-06-14",
+          "verified": true,
+          "helpful": 22
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.101 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-101-f/",
+      "code": "1.53.101",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "27 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "110 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/models/1.53.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 43.82,
+      "price_gbp": "37.78",
+      "reviews": [
+        {
+          "reviewId": "1.53.101_rev_1",
+          "customerName": "Arūnė Balandis",
+          "rating": 9.8,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. montavimas buvo greitas ir paprastas, o pristatymas patikimas ir greitas. Naudoju jau 32 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2025-02-05",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.53.101_rev_2",
+          "customerName": "Rimgaudas Varna",
+          "rating": 10.0,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad dizainas atrodo prabangiai. naudojimas lengvas net pradedantiesiems, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 22 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2024-07-10",
+          "verified": true,
+          "helpful": 18
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.102 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-102-f/",
+      "code": "1.53.102",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "22 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "150 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/models/1.53.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.89,
+      "price_gbp": "36.11",
+      "reviews": [
+        {
+          "reviewId": "1.53.102_rev_1",
+          "customerName": "Rita Burbulis",
+          "rating": 9.8,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. viskas veikia be trikdžių, o logistika suorganizuota profesionaliai. Naudoju jau 29 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2023-09-17",
+          "verified": true,
+          "helpful": 43
+        },
+        {
+          "reviewId": "1.53.102_rev_2",
+          "customerName": "Milda Masiulis",
+          "rating": 9.9,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. montavimas neužtruko nė minutės, o visa patirtis buvo labai teigiama. Naudoju jau 25 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2023-09-07",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.103 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-103-f/",
+      "code": "1.53.103",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "14 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "109 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.103.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/models/1.53.103.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.46,
+      "price_gbp": "26.26",
+      "reviews": [
+        {
+          "reviewId": "1.53.103_rev_1",
+          "customerName": "Beata Kumpys",
+          "rating": 9.8,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. montavimas buvo labai paprastas, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 35 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2022-07-27",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.104 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-104-f/",
+      "code": "1.53.104",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "26 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.104.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/models/1.53.104.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.18,
+      "price_gbp": "31.19",
+      "reviews": [
+        {
+          "reviewId": "1.53.104_rev_1",
+          "customerName": "Viktorija Gailius",
+          "rating": 10.0,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. pritaikymas prie kambario lengvai įmanomas, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 15 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2024-12-29",
+          "verified": true,
+          "helpful": 48
+        },
+        {
+          "reviewId": "1.53.104_rev_2",
+          "customerName": "Vaidotas Aleknavičius",
+          "rating": 9.8,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. naudojimas paprastas ir intuityvus, o logistika suorganizuota profesionaliai. Naudoju jau 33 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2025-05-25",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.105 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-105-f/",
+      "code": "1.53.105",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "25 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.105.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/models/1.53.105.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.72,
+      "price_gbp": "39.41",
+      "reviews": [
+        {
+          "reviewId": "1.53.105_rev_1",
+          "customerName": "Simas Gailius",
+          "rating": 9.7,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. naudojimas patogus ir paprastas, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 24 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-07-20",
+          "verified": true,
+          "helpful": 6
+        },
+        {
+          "reviewId": "1.53.105_rev_2",
+          "customerName": "Marytė Bagdonas",
+          "rating": 9.6,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. rezultatas labai profesionalus, o pakuotė tvarkinga ir saugi. Naudoju jau 4 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2026-01-12",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.106 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-106-f/",
+      "code": "1.53.106",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "17 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "70 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.106.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/models/1.53.106.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 19.04,
+      "price_gbp": "16.41",
+      "reviews": [
+        {
+          "reviewId": "1.53.106_rev_1",
+          "customerName": "Linas Rimkevičius",
+          "rating": 9.9,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. naudojimo patirtis paprasta ir maloni, o komunikacija su pardavėju sklandi. Naudoju jau 1 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2025-06-05",
+          "verified": true,
+          "helpful": 27
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.107 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-107-f/",
+      "code": "1.53.107",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "22 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.107.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/models/1.53.107.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 22.85,
+      "price_gbp": "19.70",
+      "reviews": [
+        {
+          "reviewId": "1.53.107_rev_1",
+          "customerName": "Liūtas Kalinauskas",
+          "rating": 9.9,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. pritaikymas prie mano namų buvo lengvas, o prekė buvo saugiai supakuota. Naudoju jau 14 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2025-08-13",
+          "verified": true,
+          "helpful": 47
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.108 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-108-f/",
+      "code": "1.53.108",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "14 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "120 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.108.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/models/1.53.108.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 34.27,
+      "price_gbp": "29.54",
+      "reviews": [
+        {
+          "reviewId": "1.53.108_rev_1",
+          "customerName": "Lukas Burbulis",
+          "rating": 9.6,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. pritaikymas prie interjero nesukėlė sunkumų, o siunta supakuota itin tvarkingai. Naudoju jau 16 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2025-01-01",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.109 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-109-f/",
+      "code": "1.53.109",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "16 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "98 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.109.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/models/1.53.109.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 30.46,
+      "price_gbp": "26.26",
+      "reviews": [
+        {
+          "reviewId": "1.53.109_rev_1",
+          "customerName": "Donatas Petraitis",
+          "rating": 9.9,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad dizainas stilingas ir modernus. pritaikymas prie kambario lengvai įmanomas, o aptarnavimas paliko gerą įspūdį. Naudoju jau 22 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-10-21",
+          "verified": true,
+          "helpful": 34
+        },
+        {
+          "reviewId": "1.53.109_rev_2",
+          "customerName": "Eduardas Dambrauskas",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. viskas veikia sklandžiai ir tiksliai, o visa patirtis su užsakymu puiki. Naudoju jau 1 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2023-07-11",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.110 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-110-f/",
+      "code": "1.53.110",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "19 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "138 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.110.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/models/1.53.110.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.89,
+      "price_gbp": "36.11",
+      "reviews": [
+        {
+          "reviewId": "1.53.110_rev_1",
+          "customerName": "Regimantas Klimas",
+          "rating": 9.5,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad apdirbimas itin preciziškas. rezultatas atrodo labai profesionaliai, o komunikacija buvo aiški ir maloni. Naudoju jau 6 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2025-05-27",
+          "verified": true,
+          "helpful": 20
+        },
+        {
+          "reviewId": "1.53.110_rev_2",
+          "customerName": "Osvaldas Katkus",
+          "rating": 9.9,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimo patirtis maloni ir sklandi, o pakuotė puikiai apsaugojo produktą. Naudoju jau 29 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-03-31",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Grindu Apvadas 1.53.111 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-111-f/",
+      "code": "1.53.111",
+      "category": "grindjuostes",
+      "details": {
+        "Plotis": "20 mm",
+        "Ilgis": "2000 mm",
+        "Aukštis": "65 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.53.111.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
+        "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/models/1.53.111.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.53.111_rev_1",
+          "customerName": "Vilius Kairys",
+          "rating": 9.6,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. naudojimas yra itin patogus, o logistika efektyvi ir profesionali. Naudoju jau 29 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2022-10-23",
+          "verified": true,
+          "helpful": 35
+        },
+        {
+          "reviewId": "1.53.111_rev_2",
+          "customerName": "Sandra Aleknavičius",
+          "rating": 9.5,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad paviršius lygus, be defektų. viskas atitiko mano lūkesčius, o užsakymas įvykdytas be problemų. Naudoju jau 7 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2022-10-19",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    }
+  ]
 }

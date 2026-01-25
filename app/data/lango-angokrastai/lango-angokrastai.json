@@ -1,47 +1,44 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Window jamb 4.88.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-jambs-window-framing/4-88-001/",
+      "code": "4.88.001",
+      "category": "lango-angokrastai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "12 mm",
+        "Aukštis": "399 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.88.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.88.001.obj",
+        "local_path": "data/window-jamb/Window_jamb_4_88_001/models/4.88.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": null,
+      "reviews": [
         {
-            "name": "Window jamb 4.88.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-jambs-window-framing/4-88-001/",
-            "code": "4.88.001",
-            "category": "lango-angokrastai",
-            "images": [
-                {
-                    "filename": "4.88.001.100.png",
-                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.88.001.100.png"
-                },
-                {
-                    "filename": "4.88.001.100.png",
-                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.88.001.100.png"
-                },
-                {
-                    "filename": "4.88.001.40.png",
-                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.88.001.40.png"
-                },
-                {
-                    "filename": "4.88.001.40.png",
-                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.88.001.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "12 mm",
-                "Aukštis": "399 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.88.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.88.001.obj",
-                "local_path": "data/window-jamb/Window_jamb_4_88_001/models/4.88.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null,
-            "reviews": []
+          "reviewId": "4.88.001_rev_1",
+          "customerName": "Jonas Kalinauskas",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad dizainas atrodo prabangiai. montavimas nesudėtingas, o prekė atvyko be pažeidimų. Naudoju jau 24 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2023-11-16",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "4.88.001_rev_2",
+          "customerName": "Dovilė Kavolis",
+          "rating": 9.8,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. naudojimo patirtis labai teigiama, o pakuotė tvarkinga ir saugi. Naudoju jau 21 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2024-10-25",
+          "verified": true,
+          "helpful": 31
         }
-    ]
+      ]
+    }
+  ]
 }

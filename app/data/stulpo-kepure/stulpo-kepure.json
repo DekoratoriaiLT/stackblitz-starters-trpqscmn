@@ -1,258 +1,204 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Flat post cap 4.73.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-101/",
+      "code": "4.73.101",
+      "category": "stulpo-kepure",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "55 mm",
+        "Ilgis": "270 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.73.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.101.obj",
+        "local_path": "data/postcap/Flat_post_cap_4_73_101/models/4.73.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.78,
+      "price_gbp": "34.29",
+      "reviews": [
         {
-            "name": "Flat post cap 4.73.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-101/",
-            "code": "4.73.101",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png"
-                },
-                {
-                    "filename": "4.73.101.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.101.20.png"
-                },
-                {
-                    "filename": "4.73.101.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.101.10.png"
-                },
-                {
-                    "filename": "4.73.101.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_101/images/4.73.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.101.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "55 mm",
-                "Ilgis": "270 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.73.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.101.obj",
-                "local_path": "data/postcap/Flat_post_cap_4_73_101/models/4.73.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.78,
-            "price_gbp": "34.29",
-            "reviews": []
-        },
-        {
-            "name": "Flat post cap 4.73.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-201/",
-            "code": "4.73.201",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png"
-                },
-                {
-                    "filename": "4.73.201.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.201.20.png"
-                },
-                {
-                    "filename": "4.73.201.10.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.73.201.10.png"
-                },
-                {
-                    "filename": "4.73.201.20.png",
-                    "local_path": "data/postcap/Flat_post_cap_4_73_201/images/4.73.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.73.201.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "220 mm",
-                "Aukštis": "46 mm",
-                "Ilgis": "220 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.73.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.201.obj",
-                "local_path": "data/postcap/Flat_post_cap_4_73_201/models/4.73.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.46,
-            "price_gbp": "31.43",
-            "reviews": []
-        },
-        {
-            "name": "Pyramidal balustrade cap 4.76.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-101/",
-            "code": "4.76.101",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.76.101.10.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png"
-                },
-                {
-                    "filename": "4.76.101.20.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.101.20.png"
-                },
-                {
-                    "filename": "4.76.101.10.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png"
-                },
-                {
-                    "filename": "4.76.101.20.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.101.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "82 mm",
-                "Storis": "269 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.76.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.101.obj",
-                "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/models/4.76.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "31.43",
-            "price": 36.46,
-            "reviews": []
-        },
-        {
-            "name": "Pyramidal balustrade cap 4.76.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-201/",
-            "code": "4.76.201",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.76.201.10.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png"
-                },
-                {
-                    "filename": "4.76.201.20.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.201.20.png"
-                },
-                {
-                    "filename": "4.76.201.10.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png"
-                },
-                {
-                    "filename": "4.76.201.20.png",
-                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.201.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "219 mm",
-                "Aukštis": "70 mm",
-                "Storis": "219 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.76.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.201.obj",
-                "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/models/4.76.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "25.71",
-            "price": 29.82,
-            "reviews": []
-        },
-        {
-            "name": "Ball shaped balustrade cap 4.77.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-101/",
-            "code": "4.77.101",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.77.101.10.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png"
-                },
-                {
-                    "filename": "4.77.101.20.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.101.20.png"
-                },
-                {
-                    "filename": "4.77.101.10.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png"
-                },
-                {
-                    "filename": "4.77.101.20.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.101.20.png"
-                }
-            ],
-            "details": {
-                "Aukštis": "230 mm",
-                "Skersmuo": "179 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.77.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.101.obj",
-                "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/models/4.77.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Ball shaped balustrade cap 4.77.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-201/",
-            "code": "4.77.201",
-            "category": "stulpo-kepure",
-            "images": [
-                {
-                    "filename": "4.77.201.10.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png"
-                },
-                {
-                    "filename": "4.77.201.20.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.201.20.png"
-                },
-                {
-                    "filename": "4.77.201.10.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png"
-                },
-                {
-                    "filename": "4.77.201.20.png",
-                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.201.20.png"
-                }
-            ],
-            "details": {
-                "Aukštis": "195 mm",
-                "Skersmuo": "149 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.77.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.201.obj",
-                "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/models/4.77.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
+          "reviewId": "4.73.101_rev_1",
+          "customerName": "Vytautė Žalys",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad kokybė yra išskirtinė. naudojimas lengvas net pradedantiesiems, o logistika buvo gerai organizuota. Naudoju jau 1 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-01-12",
+          "verified": true,
+          "helpful": 50
         }
-    ]
+      ]
+    },
+    {
+      "name": "Flat post cap 4.73.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-201/",
+      "code": "4.73.201",
+      "category": "stulpo-kepure",
+      "details": {
+        "Plotis": "220 mm",
+        "Aukštis": "46 mm",
+        "Ilgis": "220 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.73.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.73.201.obj",
+        "local_path": "data/postcap/Flat_post_cap_4_73_201/models/4.73.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.46,
+      "price_gbp": "31.43",
+      "reviews": [
+        {
+          "reviewId": "4.73.201_rev_1",
+          "customerName": "Gintas Žemaitis",
+          "rating": 9.8,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. galutinis vaizdas labai estetiškas, o užsakymas įvykdytas laiku. Naudoju jau 17 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2025-02-01",
+          "verified": true,
+          "helpful": 25
+        },
+        {
+          "reviewId": "4.73.201_rev_2",
+          "customerName": "Ruslanas Milčius",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. produktas suteikia komforto pojūtį, o pakuotė tvarkinga ir saugi. Naudoju jau 34 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2025-10-17",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Pyramidal balustrade cap 4.76.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-101/",
+      "code": "4.76.101",
+      "category": "stulpo-kepure",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "82 mm",
+        "Storis": "269 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.76.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.101.obj",
+        "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/models/4.76.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "31.43",
+      "price": 36.46,
+      "reviews": [
+        {
+          "reviewId": "4.76.101_rev_1",
+          "customerName": "Ramutė Petkevičius",
+          "rating": 9.6,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. produktas pateisino investiciją, o komunikacija buvo aiški. Naudoju jau 36 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2022-07-09",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Pyramidal balustrade cap 4.76.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-201/",
+      "code": "4.76.201",
+      "category": "stulpo-kepure",
+      "details": {
+        "Plotis": "219 mm",
+        "Aukštis": "70 mm",
+        "Storis": "219 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.76.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.201.obj",
+        "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/models/4.76.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "25.71",
+      "price": 29.82,
+      "reviews": [
+        {
+          "reviewId": "4.76.201_rev_1",
+          "customerName": "Saulė Bublys",
+          "rating": 9.6,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. pritaikymas prie kambario lengvai įmanomas, o prekė atvyko tiksliai laiku. Naudoju jau 3 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2023-11-19",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Ball shaped balustrade cap 4.77.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-101/",
+      "code": "4.77.101",
+      "category": "stulpo-kepure",
+      "details": {
+        "Aukštis": "230 mm",
+        "Skersmuo": "179 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.77.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.101.obj",
+        "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/models/4.77.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.77.101_rev_1",
+          "customerName": "Lilija Petraitis",
+          "rating": 10.0,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad dizainas atrodo prabangiai. galutinis vaizdas tikrai estetiškas, o pristatymas buvo greitas. Naudoju jau 14 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-11-10",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Ball shaped balustrade cap 4.77.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-201/",
+      "code": "4.77.201",
+      "category": "stulpo-kepure",
+      "details": {
+        "Aukštis": "195 mm",
+        "Skersmuo": "149 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.77.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.201.obj",
+        "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/models/4.77.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "4.77.201_rev_1",
+          "customerName": "Vita Markevičius",
+          "rating": 9.7,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad bendra konstrukcija labai patikima. produktas pateisino investiciją, o prekė buvo saugiai supakuota. Naudoju jau 4 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2024-08-07",
+          "verified": true,
+          "helpful": 33
+        },
+        {
+          "reviewId": "4.77.201_rev_2",
+          "customerName": "Donaldas Vaitkus",
+          "rating": 9.9,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad dizainas stilingas ir modernus. rezultatas viršijo mano tikslus, o užsakymo procesas paprastas ir aiškus. Naudoju jau 25 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2022-01-17",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    }
+  ]
 }

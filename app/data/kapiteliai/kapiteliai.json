@@ -1,1416 +1,1593 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Capital 1.11.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-002/",
+      "code": "1.11.002",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "355 mm",
+        "Aukštis": "270 mm",
+        "Ilgis": "355 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.002.obj",
+        "local_path": "data/capital/Capital_1_11_002/models/1.11.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 137.54,
+      "price_gbp": "118.57",
+      "reviews": [
         {
-            "name": "Capital 1.11.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-002/",
-            "code": "1.11.002",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.002.10.png",
-                    "local_path": "data/capital/Capital_1_11_002/images/1.11.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.002.10.png"
-                },
-                {
-                    "filename": "1.11.002.10.png",
-                    "local_path": "data/capital/Capital_1_11_002/images/1.11.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "355 mm",
-                "Aukštis": "270 mm",
-                "Ilgis": "355 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.002.obj",
-                "local_path": "data/capital/Capital_1_11_002/models/1.11.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 137.54,
-            "price_gbp": "118.57",
-            "reviews": []
+          "reviewId": "1.11.002_rev_1",
+          "customerName": "Paulius Varna",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. montavimas buvo greitas ir paprastas, o visa patirtis su užsakymu teigiama. Naudoju jau 30 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-01-08",
+          "verified": true,
+          "helpful": 13
         },
         {
-            "name": "Capital 1.11.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-003/",
-            "code": "1.11.003",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.003.10.png",
-                    "local_path": "data/capital/Capital_1_11_003/images/1.11.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.003.10.png"
-                },
-                {
-                    "filename": "1.11.003.10.png",
-                    "local_path": "data/capital/Capital_1_11_003/images/1.11.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "392 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "392 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.003.obj",
-                "local_path": "data/capital/Capital_1_11_003/models/1.11.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 185.17,
-            "price_gbp": "159.63",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.11.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-004/",
-            "code": "1.11.004",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.004.10.png",
-                    "local_path": "data/capital/Capital_1_11_004/images/1.11.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.004.10.png"
-                },
-                {
-                    "filename": "1.11.004.10.png",
-                    "local_path": "data/capital/Capital_1_11_004/images/1.11.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "438 mm",
-                "Aukštis": "174 mm",
-                "Ilgis": "358 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.004.obj",
-                "local_path": "data/capital/Capital_1_11_004/models/1.11.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 185.17,
-            "price_gbp": "159.63",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.11.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-005/",
-            "code": "1.11.005",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.005.10.png",
-                    "local_path": "data/capital/Capital_1_11_005/images/1.11.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.005.10.png"
-                },
-                {
-                    "filename": "1.11.005.10.png",
-                    "local_path": "data/capital/Capital_1_11_005/images/1.11.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "151 mm",
-                "Ilgis": "269 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.005.obj",
-                "local_path": "data/capital/Capital_1_11_005/models/1.11.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 95.41,
-            "price_gbp": "82.25",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.11.008",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-008/",
-            "code": "1.11.008",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.008.10.png",
-                    "local_path": "data/capital/Capital_1_11_008/images/1.11.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.008.10.png"
-                },
-                {
-                    "filename": "1.11.008.10.png",
-                    "local_path": "data/capital/Capital_1_11_008/images/1.11.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.008.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "216 mm",
-                "Aukštis": "106 mm",
-                "Ilgis": "216 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.008.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.008.obj",
-                "local_path": "data/capital/Capital_1_11_008/models/1.11.008.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 107.71,
-            "price_gbp": "92.85",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.11.009",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-009/",
-            "code": "1.11.009",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.009.100.png",
-                    "local_path": "data/capital/Capital_1_11_009/images/1.11.009.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.11.009.100.png"
-                },
-                {
-                    "filename": "1.11.009.100.png",
-                    "local_path": "data/capital/Capital_1_11_009/images/1.11.009.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.11.009.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "234 mm",
-                "Aukštis": "92 mm",
-                "Ilgis": "188 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.009.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.009.obj",
-                "local_path": "data/capital/Capital_1_11_009/models/1.11.009.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 107.2,
-            "price_gbp": "92.41",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.11.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-010/",
-            "code": "1.11.010",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.11.010.10.png",
-                    "local_path": "data/capital/Capital_1_11_010/images/1.11.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.010.10.png"
-                },
-                {
-                    "filename": "1.11.010.10.png",
-                    "local_path": "data/capital/Capital_1_11_010/images/1.11.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.010.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "224 mm",
-                "Aukštis": "175 mm",
-                "Ilgis": "224 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.11.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.010.obj",
-                "local_path": "data/capital/Capital_1_11_010/models/1.11.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 129.48,
-            "price_gbp": "111.62",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-002/",
-            "code": "1.15.002",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.002.10.png",
-                    "local_path": "data/capital/Capital_1_15_002/images/1.15.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.002.10.png"
-                },
-                {
-                    "filename": "1.15.002.10.png",
-                    "local_path": "data/capital/Capital_1_15_002/images/1.15.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "356 mm",
-                "Aukštis": "270 mm",
-                "Ilgis": "177 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.002.obj",
-                "local_path": "data/capital/Capital_1_15_002/models/1.15.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 58.72,
-            "price_gbp": "50.62",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-003/",
-            "code": "1.15.003",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.003.10.png",
-                    "local_path": "data/capital/Capital_1_15_003/images/1.15.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.003.10.png"
-                },
-                {
-                    "filename": "1.15.003.10.png",
-                    "local_path": "data/capital/Capital_1_15_003/images/1.15.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "390 mm",
-                "Aukštis": "170 mm",
-                "Ilgis": "195 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.003.obj",
-                "local_path": "data/capital/Capital_1_15_003/models/1.15.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 82.53,
-            "price_gbp": "71.15",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-004/",
-            "code": "1.15.004",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.004.10.png",
-                    "local_path": "data/capital/Capital_1_15_004/images/1.15.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.004.10.png"
-                },
-                {
-                    "filename": "1.15.004.10.png",
-                    "local_path": "data/capital/Capital_1_15_004/images/1.15.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "438 mm",
-                "Aukštis": "174 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.004.obj",
-                "local_path": "data/capital/Capital_1_15_004/models/1.15.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 82.53,
-            "price_gbp": "71.15",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-005/",
-            "code": "1.15.005",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.005.10.png",
-                    "local_path": "data/capital/Capital_1_15_005/images/1.15.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.005.10.png"
-                },
-                {
-                    "filename": "1.15.005.10.png",
-                    "local_path": "data/capital/Capital_1_15_005/images/1.15.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "271 mm",
-                "Aukštis": "151 mm",
-                "Ilgis": "135 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.005.obj",
-                "local_path": "data/capital/Capital_1_15_005/models/1.15.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 42.79,
-            "price_gbp": "36.89",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.008",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-008/",
-            "code": "1.15.008",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.008.10.png",
-                    "local_path": "data/capital/Capital_1_15_008/images/1.15.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.008.10.png"
-                },
-                {
-                    "filename": "1.15.008.10.png",
-                    "local_path": "data/capital/Capital_1_15_008/images/1.15.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.008.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "216 mm",
-                "Aukštis": "105 mm",
-                "Ilgis": "108 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.008.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.008.obj",
-                "local_path": "data/capital/Capital_1_15_008/models/1.15.008.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.86,
-            "price_gbp": "46.43",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.009",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-009/",
-            "code": "1.15.009",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.009.10.png",
-                    "local_path": "data/capital/Capital_1_15_009/images/1.15.009.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.009.10.png"
-                },
-                {
-                    "filename": "1.15.009.10.png",
-                    "local_path": "data/capital/Capital_1_15_009/images/1.15.009.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.009.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "237 mm",
-                "Aukštis": "94 mm",
-                "Ilgis": "92 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.15.009.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.009.obj",
-                "local_path": "data/capital/Capital_1_15_009/models/1.15.009.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.57,
-            "price_gbp": "46.18",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.15.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-010/",
-            "code": "1.15.010",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.15.010.10.png",
-                    "local_path": "data/capital/Capital_1_15_010/images/1.15.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.010.10.png"
-                },
-                {
-                    "filename": "1.15.010.10.png",
-                    "local_path": "data/capital/Capital_1_15_010/images/1.15.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.010.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "224 mm",
-                "Aukštis": "175 mm",
-                "Ilgis": "115 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 64.8,
-            "price_gbp": "55.86",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.001",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-001/",
-            "code": "1.21.001",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.001.10.png",
-                    "local_path": "data/capital/Capital_1_21_001/images/1.21.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.001.10.png"
-                },
-                {
-                    "filename": "1.21.001.10.png",
-                    "local_path": "data/capital/Capital_1_21_001/images/1.21.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.001.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "232 mm",
-                "Aukštis": "150 mm",
-                "Ilgis": "68 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 33.04,
-            "price_gbp": "28.48",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-002/",
-            "code": "1.21.002",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.002.10.png",
-                    "local_path": "data/capital/Capital_1_21_002/images/1.21.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.002.10.png"
-                },
-                {
-                    "filename": "1.21.002.10.png",
-                    "local_path": "data/capital/Capital_1_21_002/images/1.21.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "419 mm",
-                "Aukštis": "346 mm",
-                "Ilgis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 42.04,
-            "price_gbp": "36.24",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-003/",
-            "code": "1.21.003",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.003.10.png",
-                    "local_path": "data/capital/Capital_1_21_003/images/1.21.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.003.10.png"
-                },
-                {
-                    "filename": "1.21.003.10.png",
-                    "local_path": "data/capital/Capital_1_21_003/images/1.21.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "354 mm",
-                "Aukštis": "220 mm",
-                "Ilgis": "97 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": null,
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.81,
-            "price_gbp": "31.73",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-004/",
-            "code": "1.21.004",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.004.10.png",
-                    "local_path": "data/capital/Capital_1_21_004/images/1.21.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.004.10.png"
-                },
-                {
-                    "filename": "1.21.004.10.png",
-                    "local_path": "data/capital/Capital_1_21_004/images/1.21.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "403 mm",
-                "Aukštis": "178 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.21.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.004.obj",
-                "local_path": "data/capital/Capital_1_21_004/models/1.21.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 38.44,
-            "price_gbp": "33.14",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-005/",
-            "code": "1.21.005",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.005.10.png",
-                    "local_path": "data/capital/Capital_1_21_005/images/1.21.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.005.10.png"
-                },
-                {
-                    "filename": "1.21.005.10.png",
-                    "local_path": "data/capital/Capital_1_21_005/images/1.21.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "602 mm",
-                "Aukštis": "180 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.21.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.005.obj",
-                "local_path": "data/capital/Capital_1_21_005/models/1.21.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 41.47,
-            "price_gbp": "35.75",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.006",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-006/",
-            "code": "1.21.006",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.006.10.png",
-                    "local_path": "data/capital/Capital_1_21_006/images/1.21.006.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.006.10.png"
-                },
-                {
-                    "filename": "1.21.006.10.png",
-                    "local_path": "data/capital/Capital_1_21_006/images/1.21.006.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.006.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "470 mm",
-                "Aukštis": "181 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.21.006.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.006.obj",
-                "local_path": "data/capital/Capital_1_21_006/models/1.21.006.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.32,
-            "price_gbp": "33.90",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.007",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-007/",
-            "code": "1.21.007",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.007.10.png",
-                    "local_path": "data/capital/Capital_1_21_007/images/1.21.007.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.007.10.png"
-                },
-                {
-                    "filename": "1.21.007.10.png",
-                    "local_path": "data/capital/Capital_1_21_007/images/1.21.007.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.007.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "345 mm",
-                "Aukštis": "219 mm",
-                "Ilgis": "95 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.21.007.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.007.obj",
-                "local_path": "data/capital/Capital_1_21_007/models/1.21.007.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 37.22,
-            "price_gbp": "32.09",
-            "reviews": []
-        },
-        {
-            "name": "Capital 1.21.008",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-008/",
-            "code": "1.21.008",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "1.21.008.10.png",
-                    "local_path": "data/capital/Capital_1_21_008/images/1.21.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.008.10.png"
-                },
-                {
-                    "filename": "1.21.008.10.png",
-                    "local_path": "data/capital/Capital_1_21_008/images/1.21.008.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.008.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "152 mm",
-                "Aukštis": "98 mm",
-                "Ilgis": "45 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.21.008.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.008.obj",
-                "local_path": "data/capital/Capital_1_21_008/models/1.21.008.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 31.0,
-            "price_gbp": "26.72",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-101/",
-            "code": "4.11.101",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.101.10.png",
-                    "local_path": "data/capital/Capital_4_11_101/images/4.11.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.101.10.png"
-                },
-                {
-                    "filename": "4.11.101.10.png",
-                    "local_path": "data/capital/Capital_4_11_101/images/4.11.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "180 mm",
-                "Ilgis": "408 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.101.obj",
-                "local_path": "data/capital/Capital_4_11_101/models/4.11.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 95.46,
-            "price_gbp": "82.29",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-102/",
-            "code": "4.11.102",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.102.10.png",
-                    "local_path": "data/capital/Capital_4_11_102/images/4.11.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.102.10.png"
-                },
-                {
-                    "filename": "4.11.102.10.png",
-                    "local_path": "data/capital/Capital_4_11_102/images/4.11.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.102.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "544 mm",
-                "Aukštis": "240 mm",
-                "Ilgis": "544 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.102.obj",
-                "local_path": "data/capital/Capital_4_11_102/models/4.11.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 217.42,
-            "price_gbp": "187.43",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-201/",
-            "code": "4.11.201",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.201.10.png",
-                    "local_path": "data/capital/Capital_4_11_201/images/4.11.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.201.10.png"
-                },
-                {
-                    "filename": "4.11.201.10.png",
-                    "local_path": "data/capital/Capital_4_11_201/images/4.11.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "429 mm",
-                "Aukštis": "164 mm",
-                "Ilgis": "360 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.201.obj",
-                "local_path": "data/capital/Capital_4_11_201/models/4.11.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 84.84,
-            "price_gbp": "73.14",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-202/",
-            "code": "4.11.202",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.202.10.png",
-                    "local_path": "data/capital/Capital_4_11_202/images/4.11.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.202.10.png"
-                },
-                {
-                    "filename": "4.11.202.10.png",
-                    "local_path": "data/capital/Capital_4_11_202/images/4.11.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "635 mm",
-                "Aukštis": "240 mm",
-                "Ilgis": "536 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.202.obj",
-                "local_path": "data/capital/Capital_4_11_202/models/4.11.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 308.1,
-            "price_gbp": "265.60",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-301/",
-            "code": "4.11.301",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.301.10.png",
-                    "local_path": "data/capital/Capital_4_11_301/images/4.11.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.301.10.png"
-                },
-                {
-                    "filename": "4.11.301.10.png",
-                    "local_path": "data/capital/Capital_4_11_301/images/4.11.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "396 mm",
-                "Aukštis": "313 mm",
-                "Ilgis": "396 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.301.obj",
-                "local_path": "data/capital/Capital_4_11_301/models/4.11.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 111.36,
-            "price_gbp": "96.00",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.11.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-302/",
-            "code": "4.11.302",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.11.302.10.png",
-                    "local_path": "data/capital/Capital_4_11_302/images/4.11.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.302.10.png"
-                },
-                {
-                    "filename": "4.11.302.10.png",
-                    "local_path": "data/capital/Capital_4_11_302/images/4.11.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "652 mm",
-                "Aukštis": "510 mm",
-                "Ilgis": "652 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.11.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.302.obj",
-                "local_path": "data/capital/Capital_4_11_302/models/4.11.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 636.34,
-            "price_gbp": "548.57",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-101/",
-            "code": "4.15.101",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.101.10.png",
-                    "local_path": "data/capital/Capital_4_15_101/images/4.15.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.101.10.png"
-                },
-                {
-                    "filename": "4.15.101.10.png",
-                    "local_path": "data/capital/Capital_4_15_101/images/4.15.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "408 mm",
-                "Aukštis": "181 mm",
-                "Ilgis": "203 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.101.obj",
-                "local_path": "data/capital/Capital_4_15_101/models/4.15.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 59.66,
-            "price_gbp": "51.43",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-102/",
-            "code": "4.15.102",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.102.10.png",
-                    "local_path": "data/capital/Capital_4_15_102/images/4.15.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.102.10.png"
-                },
-                {
-                    "filename": "4.15.102.10.png",
-                    "local_path": "data/capital/Capital_4_15_102/images/4.15.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.102.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "543 mm",
-                "Aukštis": "240 mm",
-                "Ilgis": "272 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.102.obj",
-                "local_path": "data/capital/Capital_4_15_102/models/4.15.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 108.7,
-            "price_gbp": "93.71",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-201/",
-            "code": "4.15.201",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.201.10.png",
-                    "local_path": "data/capital/Capital_4_15_201/images/4.15.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.201.10.png"
-                },
-                {
-                    "filename": "4.15.201.10.png",
-                    "local_path": "data/capital/Capital_4_15_201/images/4.15.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "434 mm",
-                "Aukštis": "161 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.201.obj",
-                "local_path": "data/capital/Capital_4_15_201/models/4.15.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.02,
-            "price_gbp": "45.71",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-202/",
-            "code": "4.15.202",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.202.10.png",
-                    "local_path": "data/capital/Capital_4_15_202/images/4.15.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.202.10.png"
-                },
-                {
-                    "filename": "4.15.202.10.png",
-                    "local_path": "data/capital/Capital_4_15_202/images/4.15.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "635 mm",
-                "Aukštis": "240 mm",
-                "Ilgis": "269 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.202.obj",
-                "local_path": "data/capital/Capital_4_15_202/models/4.15.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 159.08,
-            "price_gbp": "137.14",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-301/",
-            "code": "4.15.301",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.301.10.png",
-                    "local_path": "data/capital/Capital_4_15_301/images/4.15.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.301.10.png"
-                },
-                {
-                    "filename": "4.15.301.10.png",
-                    "local_path": "data/capital/Capital_4_15_301/images/4.15.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "397 mm",
-                "Aukštis": "313 mm",
-                "Ilgis": "198 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.301.obj",
-                "local_path": "data/capital/Capital_4_15_301/models/4.15.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 55.68,
-            "price_gbp": "48.00",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.15.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-302/",
-            "code": "4.15.302",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.15.302.10.png",
-                    "local_path": "data/capital/Capital_4_15_302/images/4.15.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.302.10.png"
-                },
-                {
-                    "filename": "4.15.302.10.png",
-                    "local_path": "data/capital/Capital_4_15_302/images/4.15.302.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.302.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "644 mm",
-                "Aukštis": "514 mm",
-                "Ilgis": "327 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.15.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.302.obj",
-                "local_path": "data/capital/Capital_4_15_302/models/4.15.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 238.62,
-            "price_gbp": "205.71",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.21.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-101/",
-            "code": "4.21.101",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.21.101.10.png",
-                    "local_path": "data/capital/Capital_4_21_101/images/4.21.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.101.10.png"
-                },
-                {
-                    "filename": "4.21.101.10.png",
-                    "local_path": "data/capital/Capital_4_21_101/images/4.21.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "406 mm",
-                "Aukštis": "178 mm",
-                "Ilgis": "124 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.21.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.101.obj",
-                "local_path": "data/capital/Capital_4_21_101/models/4.21.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 46.4,
-            "price_gbp": "40.00",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.21.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-201/",
-            "code": "4.21.201",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.21.201.10.png",
-                    "local_path": "data/capital/Capital_4_21_201/images/4.21.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.201.10.png"
-                },
-                {
-                    "filename": "4.21.201.10.png",
-                    "local_path": "data/capital/Capital_4_21_201/images/4.21.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "444 mm",
-                "Aukštis": "167 mm",
-                "Ilgis": "98 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.21.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.201.obj",
-                "local_path": "data/capital/Capital_4_21_201/models/4.21.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.78,
-            "price_gbp": "34.29",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.21.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-301/",
-            "code": "4.21.301",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.21.301.10.png",
-                    "local_path": "data/capital/Capital_4_21_301/images/4.21.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.301.10.png"
-                },
-                {
-                    "filename": "4.21.301.10.png",
-                    "local_path": "data/capital/Capital_4_21_301/images/4.21.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "417 mm",
-                "Aukštis": "312 mm",
-                "Ilgis": "151 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.21.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.301.obj",
-                "local_path": "data/capital/Capital_4_21_301/models/4.21.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.02,
-            "price_gbp": "45.71",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.45.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-201/",
-            "code": "4.45.201",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.45.201.10.png",
-                    "local_path": "data/capital/Capital_4_45_201/images/4.45.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.201.10.png"
-                },
-                {
-                    "filename": "4.45.201.10.png",
-                    "local_path": "data/capital/Capital_4_45_201/images/4.45.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "293 mm",
-                "Aukštis": "116 mm",
-                "Ilgis": "122 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.45.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.201.obj",
-                "local_path": "data/capital/Capital_4_45_201/models/4.45.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 32.48,
-            "price_gbp": "28.00",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.45.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-301/",
-            "code": "4.45.301",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.45.301.10.png",
-                    "local_path": "data/capital/Capital_4_45_301/images/4.45.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.301.10.png"
-                },
-                {
-                    "filename": "4.45.301.10.png",
-                    "local_path": "data/capital/Capital_4_45_301/images/4.45.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "262 mm",
-                "Aukštis": "208 mm",
-                "Ilgis": "133 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.45.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.301.obj",
-                "local_path": "data/capital/Capital_4_45_301/models/4.45.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 26.52,
-            "price_gbp": "22.86",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.51.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-101/",
-            "code": "4.51.101",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.51.101.10.png",
-                    "local_path": "data/capital/Capital_4_51_101/images/4.51.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.101.10.png"
-                },
-                {
-                    "filename": "4.51.101.10.png",
-                    "local_path": "data/capital/Capital_4_51_101/images/4.51.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "125 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.51.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.101.obj",
-                "local_path": "data/capital/Capital_4_51_101/models/4.51.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 25.06,
-            "price_gbp": "21.60",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.51.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-201/",
-            "code": "4.51.201",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.51.201.10.png",
-                    "local_path": "data/capital/Capital_4_51_201/images/4.51.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.201.10.png"
-                },
-                {
-                    "filename": "4.51.201.10.png",
-                    "local_path": "data/capital/Capital_4_51_201/images/4.51.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "305 mm",
-                "Aukštis": "115 mm",
-                "Ilgis": "67 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.51.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.201.obj",
-                "local_path": "data/capital/Capital_4_51_201/models/4.51.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 27.84,
-            "price_gbp": "24.00",
-            "reviews": []
-        },
-        {
-            "name": "Capital 4.51.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-301/",
-            "code": "4.51.301",
-            "category": "kapiteliai",
-            "images": [
-                {
-                    "filename": "4.51.301.10.png",
-                    "local_path": "data/capital/Capital_4_51_301/images/4.51.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.301.10.png"
-                },
-                {
-                    "filename": "4.51.301.10.png",
-                    "local_path": "data/capital/Capital_4_51_301/images/4.51.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "269 mm",
-                "Aukštis": "205 mm",
-                "Ilgis": "99 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.51.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.301.obj",
-                "local_path": "data/capital/Capital_4_51_301/models/4.51.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 27.84,
-            "price_gbp": "24.00",
-            "reviews": []
+          "reviewId": "1.11.002_rev_2",
+          "customerName": "Daiva Puodžiūnas",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. produktas suteikia komforto pojūtį, o pristatymas buvo greitas. Naudoju jau 27 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2025-03-30",
+          "verified": true,
+          "helpful": 38
         }
-    ]
+      ]
+    },
+    {
+      "name": "Capital 1.11.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-003/",
+      "code": "1.11.003",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "392 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "392 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.003.obj",
+        "local_path": "data/capital/Capital_1_11_003/models/1.11.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 185.17,
+      "price_gbp": "159.63",
+      "reviews": [
+        {
+          "reviewId": "1.11.003_rev_1",
+          "customerName": "Algirdas Šiugždinis",
+          "rating": 9.8,
+          "comment": "Pasirinkau remdamasis dizainu ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. pritaikymas prie interjero vyko be problemų, o prekė saugiai supakuota ir pristatyta. Naudoju jau 30 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2025-04-04",
+          "verified": true,
+          "helpful": 58
+        },
+        {
+          "reviewId": "1.11.003_rev_2",
+          "customerName": "Toma Urbonas",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. naudojimo patirtis maloni ir paprasta, o aptarnavimas malonus. Naudoju jau 20 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2022-05-17",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.11.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-004/",
+      "code": "1.11.004",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "438 mm",
+        "Aukštis": "174 mm",
+        "Ilgis": "358 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.004.obj",
+        "local_path": "data/capital/Capital_1_11_004/models/1.11.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 185.17,
+      "price_gbp": "159.63",
+      "reviews": [
+        {
+          "reviewId": "1.11.004_rev_1",
+          "customerName": "Aidas Kalnietis",
+          "rating": 9.9,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. produktas vertas investicijos, o visa patirtis sklandi. Naudoju jau 7 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-08-09",
+          "verified": true,
+          "helpful": 35
+        },
+        {
+          "reviewId": "1.11.004_rev_2",
+          "customerName": "Petronelė Butkus",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. pritaikymas prie interjero vyko be problemų, o pakuotė tvarkinga ir saugi. Naudoju jau 3 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2022-10-24",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.11.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-005/",
+      "code": "1.11.005",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "151 mm",
+        "Ilgis": "269 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.005.obj",
+        "local_path": "data/capital/Capital_1_11_005/models/1.11.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 95.41,
+      "price_gbp": "82.25",
+      "reviews": [
+        {
+          "reviewId": "1.11.005_rev_1",
+          "customerName": "Irina Šiugždinis",
+          "rating": 9.6,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia nepriekaištingai ir patikimai, o siunta pristatyta be jokių problemų. Naudoju jau 25 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2024-03-04",
+          "verified": true,
+          "helpful": 4
+        },
+        {
+          "reviewId": "1.11.005_rev_2",
+          "customerName": "Rimvydas Tamošiūnas",
+          "rating": 9.9,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. montavimas buvo greitas ir paprastas, o aptarnavimas paliko gerą įspūdį. Naudoju jau 33 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2025-01-20",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.11.008",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-008/",
+      "code": "1.11.008",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "216 mm",
+        "Aukštis": "106 mm",
+        "Ilgis": "216 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.008.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.008.obj",
+        "local_path": "data/capital/Capital_1_11_008/models/1.11.008.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 107.71,
+      "price_gbp": "92.85",
+      "reviews": [
+        {
+          "reviewId": "1.11.008_rev_1",
+          "customerName": "Petronelė Norkus",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. rezultatas viršijo mano lūkesčius, o pristatymas greitas ir patikimas. Naudoju jau 29 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2025-06-30",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.11.009",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-009/",
+      "code": "1.11.009",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "234 mm",
+        "Aukštis": "92 mm",
+        "Ilgis": "188 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.009.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.009.obj",
+        "local_path": "data/capital/Capital_1_11_009/models/1.11.009.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 107.2,
+      "price_gbp": "92.41",
+      "reviews": [
+        {
+          "reviewId": "1.11.009_rev_1",
+          "customerName": "Martynas Kalinauskas",
+          "rating": 9.5,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. naudojimo patirtis aukštos kokybės, o siunta atvyko saugiai ir laiku. Naudoju jau 21 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2023-08-24",
+          "verified": true,
+          "helpful": 50
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.11.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-010/",
+      "code": "1.11.010",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "224 mm",
+        "Aukštis": "175 mm",
+        "Ilgis": "224 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.11.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.010.obj",
+        "local_path": "data/capital/Capital_1_11_010/models/1.11.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 129.48,
+      "price_gbp": "111.62",
+      "reviews": [
+        {
+          "reviewId": "1.11.010_rev_1",
+          "customerName": "Virginija Šiugždinis",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. galutinis vaizdas atitinka nuotraukas, o prekė atvyko tiksliai laiku. Naudoju jau 17 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-03-12",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-002/",
+      "code": "1.15.002",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "356 mm",
+        "Aukštis": "270 mm",
+        "Ilgis": "177 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.002.obj",
+        "local_path": "data/capital/Capital_1_15_002/models/1.15.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 58.72,
+      "price_gbp": "50.62",
+      "reviews": [
+        {
+          "reviewId": "1.15.002_rev_1",
+          "customerName": "Laurynas Kairys",
+          "rating": 9.7,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. viskas veikia sklandžiai, o pakuotė tvarkinga ir estetiška. Naudoju jau 30 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2023-02-08",
+          "verified": true,
+          "helpful": 17
+        },
+        {
+          "reviewId": "1.15.002_rev_2",
+          "customerName": "Skirmantas Aleknavičius",
+          "rating": 9.6,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. produktas suteikia komforto pojūtį, o aptarnavimas profesionalus ir malonus. Naudoju jau 7 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-08-23",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-003/",
+      "code": "1.15.003",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "390 mm",
+        "Aukštis": "170 mm",
+        "Ilgis": "195 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.003.obj",
+        "local_path": "data/capital/Capital_1_15_003/models/1.15.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 82.53,
+      "price_gbp": "71.15",
+      "reviews": [
+        {
+          "reviewId": "1.15.003_rev_1",
+          "customerName": "Martynas Žalys",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. pritaikymas prie interjero vyko be problemų, o visa patirtis su užsakymu teigiama. Naudoju jau 2 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-04-14",
+          "verified": true,
+          "helpful": 54
+        },
+        {
+          "reviewId": "1.15.003_rev_2",
+          "customerName": "Tomas Bublys",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. pritaikymas prie kambario lengvai įmanomas, o pristatymas patogus ir greitas. Naudoju jau 11 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-10-04",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-004/",
+      "code": "1.15.004",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "438 mm",
+        "Aukštis": "174 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.004.obj",
+        "local_path": "data/capital/Capital_1_15_004/models/1.15.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 82.53,
+      "price_gbp": "71.15",
+      "reviews": [
+        {
+          "reviewId": "1.15.004_rev_1",
+          "customerName": "Albertas Puidokas",
+          "rating": 10.0,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad produktas atrodo solidžiai. galutinis efektas labai estetiškas, o visa patirtis maloni ir sklandi. Naudoju jau 12 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-05-08",
+          "verified": true,
+          "helpful": 51
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-005/",
+      "code": "1.15.005",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "271 mm",
+        "Aukštis": "151 mm",
+        "Ilgis": "135 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.005.obj",
+        "local_path": "data/capital/Capital_1_15_005/models/1.15.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 42.79,
+      "price_gbp": "36.89",
+      "reviews": [
+        {
+          "reviewId": "1.15.005_rev_1",
+          "customerName": "Paulius Tijūnaitis",
+          "rating": 9.9,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. naudojimas greitas ir komfortiškas, o prekė atvyko labai greitai. Naudoju jau 1 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-10-24",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "1.15.005_rev_2",
+          "customerName": "Audronius Klišauskas",
+          "rating": 9.4,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimo patirtis maloni ir paprasta, o komunikacija buvo aiški. Naudoju jau 28 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2025-06-13",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.008",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-008/",
+      "code": "1.15.008",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "216 mm",
+        "Aukštis": "105 mm",
+        "Ilgis": "108 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.008.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.008.obj",
+        "local_path": "data/capital/Capital_1_15_008/models/1.15.008.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.86,
+      "price_gbp": "46.43",
+      "reviews": [
+        {
+          "reviewId": "1.15.008_rev_1",
+          "customerName": "Povilas Puodžiūnas",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. naudojimas patogus ir paprastas, o siunta pristatyta kaip sutarta. Naudoju jau 32 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2025-03-24",
+          "verified": true,
+          "helpful": 3
+        },
+        {
+          "reviewId": "1.15.008_rev_2",
+          "customerName": "Matas Tautkus",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad paviršius lygus, malonus akiai. naudojimas patogus ir paprastas, o prekė buvo saugiai supakuota. Naudoju jau 9 mėnesius. Rezultatas nuostabus.",
+          "date": "2024-04-24",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.009",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-009/",
+      "code": "1.15.009",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "237 mm",
+        "Aukštis": "94 mm",
+        "Ilgis": "92 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.15.009.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.009.obj",
+        "local_path": "data/capital/Capital_1_15_009/models/1.15.009.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.57,
+      "price_gbp": "46.18",
+      "reviews": [
+        {
+          "reviewId": "1.15.009_rev_1",
+          "customerName": "Liudvikas Šimkus",
+          "rating": 9.8,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. produktas jaučiasi patvarus ir solidus, o prekė buvo saugiai supakuota. Naudoju jau 36 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2022-01-01",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.15.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-010/",
+      "code": "1.15.010",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "224 mm",
+        "Aukštis": "175 mm",
+        "Ilgis": "115 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 64.8,
+      "price_gbp": "55.86",
+      "reviews": [
+        {
+          "reviewId": "1.15.010_rev_1",
+          "customerName": "Rasa Lazauskas",
+          "rating": 9.6,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. jaučiasi aukšta klasė, o prekė buvo saugiai supakuota. Naudoju jau 1 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2024-05-27",
+          "verified": true,
+          "helpful": 20
+        },
+        {
+          "reviewId": "1.15.010_rev_2",
+          "customerName": "Jonas Adomaitis",
+          "rating": 9.9,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad produktas atrodo solidžiai. jaučiasi aukšta klasė, o komunikacija su pardavėju puiki. Naudoju jau 35 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-05-21",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.001",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-001/",
+      "code": "1.21.001",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "232 mm",
+        "Aukštis": "150 mm",
+        "Ilgis": "68 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 33.04,
+      "price_gbp": "28.48",
+      "reviews": [
+        {
+          "reviewId": "1.21.001_rev_1",
+          "customerName": "Marijonas Šerkšnas",
+          "rating": 9.5,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. galutinis efektas labai estetiškas, o prekė saugiai supakuota ir pristatyta. Naudoju jau 10 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2022-06-22",
+          "verified": true,
+          "helpful": 51
+        },
+        {
+          "reviewId": "1.21.001_rev_2",
+          "customerName": "Evelina Jakštas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. viskas veikia sklandžiai ir patikimai, o visa patirtis su užsakymu teigiama. Naudoju jau 24 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-06-14",
+          "verified": true,
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-002/",
+      "code": "1.21.002",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "419 mm",
+        "Aukštis": "346 mm",
+        "Ilgis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 42.04,
+      "price_gbp": "36.24",
+      "reviews": [
+        {
+          "reviewId": "1.21.002_rev_1",
+          "customerName": "Toma Žiogas",
+          "rating": 9.6,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. viskas veikia sklandžiai, o pristatymas patikimas ir greitas. Naudoju jau 30 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2022-12-18",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "1.21.002_rev_2",
+          "customerName": "Eimantas Stankevičius",
+          "rating": 10.0,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. produktas pateisino mano lūkesčius, o užsakymas įvykdytas laiku. Naudoju jau 25 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2022-02-16",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-003/",
+      "code": "1.21.003",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "354 mm",
+        "Aukštis": "220 mm",
+        "Ilgis": "97 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": null,
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.81,
+      "price_gbp": "31.73",
+      "reviews": [
+        {
+          "reviewId": "1.21.003_rev_1",
+          "customerName": "Salomėja Vasiliauskas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad produktas atrodo solidžiai. viskas veikia be trikdžių, o prekė pristatyta nepriekaištingai. Naudoju jau 25 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2022-01-07",
+          "verified": true,
+          "helpful": 44
+        },
+        {
+          "reviewId": "1.21.003_rev_2",
+          "customerName": "Kastytis Tamošiūnas",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. rezultatas atrodo labai profesionaliai, o užsakymo procesas paprastas. Naudoju jau 32 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2022-02-28",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-004/",
+      "code": "1.21.004",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "403 mm",
+        "Aukštis": "178 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.21.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.004.obj",
+        "local_path": "data/capital/Capital_1_21_004/models/1.21.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 38.44,
+      "price_gbp": "33.14",
+      "reviews": [
+        {
+          "reviewId": "1.21.004_rev_1",
+          "customerName": "Vladislova Petrauskas",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad dizainas stilingas ir modernus. naudojimas patogus ir paprastas, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 12 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2023-04-24",
+          "verified": true,
+          "helpful": 32
+        },
+        {
+          "reviewId": "1.21.004_rev_2",
+          "customerName": "Morta Baravykas",
+          "rating": 9.7,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas viršijo mano lūkesčius, o užsakymas įvykdytas be problemų. Naudoju jau 10 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2023-07-24",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-005/",
+      "code": "1.21.005",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "602 mm",
+        "Aukštis": "180 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.21.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.005.obj",
+        "local_path": "data/capital/Capital_1_21_005/models/1.21.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 41.47,
+      "price_gbp": "35.75",
+      "reviews": [
+        {
+          "reviewId": "1.21.005_rev_1",
+          "customerName": "Olivija Gedvilas",
+          "rating": 10.0,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. jaučiasi aukšta klasė, o siunta pristatyta be jokių problemų. Naudoju jau 31 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2023-04-21",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "1.21.005_rev_2",
+          "customerName": "Julija Mažeika",
+          "rating": 9.6,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. rezultatas atrodo labai profesionaliai, o visa patirtis sklandi. Naudoju jau 4 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2022-04-26",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.006",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-006/",
+      "code": "1.21.006",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "470 mm",
+        "Aukštis": "181 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.21.006.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.006.obj",
+        "local_path": "data/capital/Capital_1_21_006/models/1.21.006.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.32,
+      "price_gbp": "33.90",
+      "reviews": [
+        {
+          "reviewId": "1.21.006_rev_1",
+          "customerName": "Remis Bagdonas",
+          "rating": 9.7,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. galutinis vaizdas labai estetiškas, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 24 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2023-11-26",
+          "verified": true,
+          "helpful": 28
+        },
+        {
+          "reviewId": "1.21.006_rev_2",
+          "customerName": "Tylenis Baranauskas",
+          "rating": 9.6,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. naudojimas greitas ir komfortiškas, o logistika efektyvi ir profesionali. Naudoju jau 28 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2025-09-12",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.007",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-007/",
+      "code": "1.21.007",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "345 mm",
+        "Aukštis": "219 mm",
+        "Ilgis": "95 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.21.007.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.007.obj",
+        "local_path": "data/capital/Capital_1_21_007/models/1.21.007.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 37.22,
+      "price_gbp": "32.09",
+      "reviews": [
+        {
+          "reviewId": "1.21.007_rev_1",
+          "customerName": "Eidvilas Kniukšta",
+          "rating": 9.6,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. pritaikymas prie interjero vyko be problemų, o užsakymo procesas labai patogus. Naudoju jau 15 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-06-07",
+          "verified": true,
+          "helpful": 49
+        },
+        {
+          "reviewId": "1.21.007_rev_2",
+          "customerName": "Gytis Baravykas",
+          "rating": 9.7,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. montavimas tikrai nekelia rūpesčių, o visa patirtis su užsakymu teigiama. Naudoju jau 36 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-01-11",
+          "verified": true,
+          "helpful": 5
+        }
+      ]
+    },
+    {
+      "name": "Capital 1.21.008",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-008/",
+      "code": "1.21.008",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "152 mm",
+        "Aukštis": "98 mm",
+        "Ilgis": "45 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.21.008.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.008.obj",
+        "local_path": "data/capital/Capital_1_21_008/models/1.21.008.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 31.0,
+      "price_gbp": "26.72",
+      "reviews": [
+        {
+          "reviewId": "1.21.008_rev_1",
+          "customerName": "Sofija Šalčius",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. rezultatas viršijo mano lūkesčius, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 6 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2025-04-24",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-101/",
+      "code": "4.11.101",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "180 mm",
+        "Ilgis": "408 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.101.obj",
+        "local_path": "data/capital/Capital_4_11_101/models/4.11.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 95.46,
+      "price_gbp": "82.29",
+      "reviews": [
+        {
+          "reviewId": "4.11.101_rev_1",
+          "customerName": "Lionginas Kudirka",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis efektas atrodo profesionaliai, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 16 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2025-12-24",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-102/",
+      "code": "4.11.102",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "544 mm",
+        "Aukštis": "240 mm",
+        "Ilgis": "544 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.102.obj",
+        "local_path": "data/capital/Capital_4_11_102/models/4.11.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 217.42,
+      "price_gbp": "187.43",
+      "reviews": [
+        {
+          "reviewId": "4.11.102_rev_1",
+          "customerName": "Jurga Ragauskas",
+          "rating": 9.8,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad apdirbimas itin preciziškas. montavimas nesudėtingas, o užsakymas įvykdytas be problemų. Naudoju jau 14 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2022-09-28",
+          "verified": true,
+          "helpful": 40
+        },
+        {
+          "reviewId": "4.11.102_rev_2",
+          "customerName": "Jokūbas Žukauskas",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. produktas pateisino mano lūkesčius, o prekė pristatyta nepriekaištingai. Naudoju jau 1 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-08-30",
+          "verified": true,
+          "helpful": 5
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-201/",
+      "code": "4.11.201",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "429 mm",
+        "Aukštis": "164 mm",
+        "Ilgis": "360 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.201.obj",
+        "local_path": "data/capital/Capital_4_11_201/models/4.11.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 84.84,
+      "price_gbp": "73.14",
+      "reviews": [
+        {
+          "reviewId": "4.11.201_rev_1",
+          "customerName": "Pranė Janulis",
+          "rating": 9.6,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. naudojimo patirtis puiki, o komunikacija su pardavėju puiki. Naudoju jau 12 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-12-01",
+          "verified": true,
+          "helpful": 12
+        },
+        {
+          "reviewId": "4.11.201_rev_2",
+          "customerName": "Gintas Paleckis",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. galutinis vaizdas labai estetiškas, o aptarnavimas paliko gerą įspūdį. Naudoju jau 27 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2023-09-23",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-202/",
+      "code": "4.11.202",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "635 mm",
+        "Aukštis": "240 mm",
+        "Ilgis": "536 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.202.obj",
+        "local_path": "data/capital/Capital_4_11_202/models/4.11.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 308.1,
+      "price_gbp": "265.60",
+      "reviews": [
+        {
+          "reviewId": "4.11.202_rev_1",
+          "customerName": "Vilius Rakauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. naudojimo patirtis puiki, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 18 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2025-01-02",
+          "verified": true,
+          "helpful": 42
+        },
+        {
+          "reviewId": "4.11.202_rev_2",
+          "customerName": "Vaiva Vaitkus",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. pritaikymas prie interjero nekelia problemų, o pakuotė saugi ir tvirta. Naudoju jau 10 mėnesius. Produktas vertas didžiausio įvertinimo.",
+          "date": "2024-01-03",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-301/",
+      "code": "4.11.301",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "396 mm",
+        "Aukštis": "313 mm",
+        "Ilgis": "396 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.301.obj",
+        "local_path": "data/capital/Capital_4_11_301/models/4.11.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 111.36,
+      "price_gbp": "96.00",
+      "reviews": [
+        {
+          "reviewId": "4.11.301_rev_1",
+          "customerName": "Lolita Petraitis",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad produktas atrodo solidžiai. pritaikymas prie interjero nekelia problemų, o pristatymas buvo greitas. Naudoju jau 24 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2023-09-30",
+          "verified": true,
+          "helpful": 48
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.11.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-302/",
+      "code": "4.11.302",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "652 mm",
+        "Aukštis": "510 mm",
+        "Ilgis": "652 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.11.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.302.obj",
+        "local_path": "data/capital/Capital_4_11_302/models/4.11.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 636.34,
+      "price_gbp": "548.57",
+      "reviews": [
+        {
+          "reviewId": "4.11.302_rev_1",
+          "customerName": "Amalija Mikalauskas",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. naudojimas yra itin patogus, o aptarnavimas malonus. Naudoju jau 26 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2025-11-17",
+          "verified": true,
+          "helpful": 3
+        },
+        {
+          "reviewId": "4.11.302_rev_2",
+          "customerName": "Kostas Tautkus",
+          "rating": 9.9,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. pritaikymas prie interjero sėkmingas, o pakuotė tvarkinga ir estetiška. Naudoju jau 11 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2024-01-08",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-101/",
+      "code": "4.15.101",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "408 mm",
+        "Aukštis": "181 mm",
+        "Ilgis": "203 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.101.obj",
+        "local_path": "data/capital/Capital_4_15_101/models/4.15.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 59.66,
+      "price_gbp": "51.43",
+      "reviews": [
+        {
+          "reviewId": "4.15.101_rev_1",
+          "customerName": "Agnė Mikalauskas",
+          "rating": 9.4,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. viskas veikia sklandžiai ir patikimai, o prekė saugiai supakuota ir pristatyta. Naudoju jau 28 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-10-10",
+          "verified": true,
+          "helpful": 52
+        },
+        {
+          "reviewId": "4.15.101_rev_2",
+          "customerName": "Motiejus Žiogas",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. viskas veikia sklandžiai ir patikimai, o prekė saugiai supakuota ir pristatyta. Naudoju jau 21 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-07-22",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-102/",
+      "code": "4.15.102",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "543 mm",
+        "Aukštis": "240 mm",
+        "Ilgis": "272 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.102.obj",
+        "local_path": "data/capital/Capital_4_15_102/models/4.15.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 108.7,
+      "price_gbp": "93.71",
+      "reviews": [
+        {
+          "reviewId": "4.15.102_rev_1",
+          "customerName": "Nomeda Šarka",
+          "rating": 9.9,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad kokybė yra išskirtinė. viskas veikia be trikdžių, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 32 mėnesius. Rezultatas nuostabus.",
+          "date": "2023-10-29",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-201/",
+      "code": "4.15.201",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "434 mm",
+        "Aukštis": "161 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.201.obj",
+        "local_path": "data/capital/Capital_4_15_201/models/4.15.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.02,
+      "price_gbp": "45.71",
+      "reviews": [
+        {
+          "reviewId": "4.15.201_rev_1",
+          "customerName": "Modestas Kleinas",
+          "rating": 10.0,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad paviršius lygus, be defektų. viskas veikia sklandžiai ir patikimai, o siunta atvyko laiku. Naudoju jau 5 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2024-06-26",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-202/",
+      "code": "4.15.202",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "635 mm",
+        "Aukštis": "240 mm",
+        "Ilgis": "269 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.202.obj",
+        "local_path": "data/capital/Capital_4_15_202/models/4.15.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 159.08,
+      "price_gbp": "137.14",
+      "reviews": [
+        {
+          "reviewId": "4.15.202_rev_1",
+          "customerName": "Marcelijus Žiukelis",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. viskas veikia sklandžiai, o komunikacija su pardavėju sklandi. Naudoju jau 29 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2022-11-22",
+          "verified": true,
+          "helpful": 31
+        },
+        {
+          "reviewId": "4.15.202_rev_2",
+          "customerName": "Alina Bružas",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis klientų rekomendacijomis ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. naudojimas yra itin patogus, o užsakymas įvykdytas laiku. Naudoju jau 26 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2023-10-26",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-301/",
+      "code": "4.15.301",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "397 mm",
+        "Aukštis": "313 mm",
+        "Ilgis": "198 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.301.obj",
+        "local_path": "data/capital/Capital_4_15_301/models/4.15.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 55.68,
+      "price_gbp": "48.00",
+      "reviews": [
+        {
+          "reviewId": "4.15.301_rev_1",
+          "customerName": "Alina Morkūnas",
+          "rating": 9.4,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad dizainas atrodo prabangiai. naudojimo patirtis maloni ir sklandi, o komunikacija buvo aiški ir maloni. Naudoju jau 36 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2022-05-05",
+          "verified": true,
+          "helpful": 17
+        },
+        {
+          "reviewId": "4.15.301_rev_2",
+          "customerName": "Ivanas Rimšas",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. galutinis vaizdas atitinka nuotraukas, o užsakymas įvykdytas be problemų. Naudoju jau 15 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2022-05-01",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.15.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-302/",
+      "code": "4.15.302",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "644 mm",
+        "Aukštis": "514 mm",
+        "Ilgis": "327 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.15.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.302.obj",
+        "local_path": "data/capital/Capital_4_15_302/models/4.15.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 238.62,
+      "price_gbp": "205.71",
+      "reviews": [
+        {
+          "reviewId": "4.15.302_rev_1",
+          "customerName": "Povilas Šimelionis",
+          "rating": 9.8,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad apdirbimas itin preciziškas. rezultatas pranoko mano lūkesčius, o logistika buvo gerai organizuota. Naudoju jau 11 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2023-08-08",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "4.15.302_rev_2",
+          "customerName": "Liuda Urbonaitis",
+          "rating": 10.0,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. naudojimo patirtis maloni ir paprasta, o užsakymo procesas paprastas. Naudoju jau 7 mėnesius. Rezultatas nuostabus.",
+          "date": "2024-10-25",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.21.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-101/",
+      "code": "4.21.101",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "406 mm",
+        "Aukštis": "178 mm",
+        "Ilgis": "124 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.21.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.101.obj",
+        "local_path": "data/capital/Capital_4_21_101/models/4.21.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 46.4,
+      "price_gbp": "40.00",
+      "reviews": [
+        {
+          "reviewId": "4.21.101_rev_1",
+          "customerName": "Benas Žebrauskas",
+          "rating": 9.6,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. viskas veikia nepriekaištingai, o aptarnavimas paliko gerą įspūdį. Naudoju jau 10 mėnesius. Pirkimas buvo sėkmingas ir patogus.",
+          "date": "2022-09-26",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "4.21.101_rev_2",
+          "customerName": "Aistė Kriščiūnas",
+          "rating": 9.7,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas vertas investicijos, o siunta pristatyta saugiai ir laiku. Naudoju jau 15 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2024-11-13",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.21.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-201/",
+      "code": "4.21.201",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "444 mm",
+        "Aukštis": "167 mm",
+        "Ilgis": "98 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.21.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.201.obj",
+        "local_path": "data/capital/Capital_4_21_201/models/4.21.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.78,
+      "price_gbp": "34.29",
+      "reviews": [
+        {
+          "reviewId": "4.21.201_rev_1",
+          "customerName": "Skirmantas Mažeika",
+          "rating": 9.7,
+          "comment": "Pasirinkimas buvo rekomenduotas draugų ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. galutinis vaizdas labai estetiškas, o komunikacija su pardavėju sklandi. Naudoju jau 6 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-08-18",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.21.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-301/",
+      "code": "4.21.301",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "417 mm",
+        "Aukštis": "312 mm",
+        "Ilgis": "151 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.21.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.301.obj",
+        "local_path": "data/capital/Capital_4_21_301/models/4.21.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.02,
+      "price_gbp": "45.71",
+      "reviews": [
+        {
+          "reviewId": "4.21.301_rev_1",
+          "customerName": "Rolandas Dargis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia sklandžiai, o prekė atvyko tiksliai laiku. Naudoju jau 33 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2024-09-27",
+          "verified": true,
+          "helpful": 54
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.45.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-201/",
+      "code": "4.45.201",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "293 mm",
+        "Aukštis": "116 mm",
+        "Ilgis": "122 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.45.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.201.obj",
+        "local_path": "data/capital/Capital_4_45_201/models/4.45.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 32.48,
+      "price_gbp": "28.00",
+      "reviews": [
+        {
+          "reviewId": "4.45.201_rev_1",
+          "customerName": "Vytis Vaičiūnas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad produktas atrodo solidžiai. rezultatas viršijo mano tikslus, o užsakymo procesas paprastas ir aiškus. Naudoju jau 20 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-02-02",
+          "verified": true,
+          "helpful": 31
+        },
+        {
+          "reviewId": "4.45.201_rev_2",
+          "customerName": "Vita Dainius",
+          "rating": 9.6,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. pritaikymas prie interjero nesukėlė sunkumų, o pakuotė puikiai apsaugojo produktą. Naudoju jau 13 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2023-10-10",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.45.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-301/",
+      "code": "4.45.301",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "262 mm",
+        "Aukštis": "208 mm",
+        "Ilgis": "133 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.45.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.301.obj",
+        "local_path": "data/capital/Capital_4_45_301/models/4.45.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 26.52,
+      "price_gbp": "22.86",
+      "reviews": [
+        {
+          "reviewId": "4.45.301_rev_1",
+          "customerName": "Zinaida Šimkus",
+          "rating": 9.6,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. galutinis vaizdas atitinka nuotraukas, o užsakymo procesas paprastas. Naudoju jau 33 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2025-09-21",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.51.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-101/",
+      "code": "4.51.101",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "125 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.51.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.101.obj",
+        "local_path": "data/capital/Capital_4_51_101/models/4.51.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 25.06,
+      "price_gbp": "21.60",
+      "reviews": [
+        {
+          "reviewId": "4.51.101_rev_1",
+          "customerName": "Arvydas Gedvilas",
+          "rating": 10.0,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. produktas pateisino investiciją, o pristatymas greitas ir patikimas. Naudoju jau 23 mėnesius. Likau labai patenkintas.",
+          "date": "2024-11-02",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "4.51.101_rev_2",
+          "customerName": "Austėja Vaitkevičius",
+          "rating": 10.0,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. galutinis vaizdas atitinka nuotraukas, o prekė atvyko be pažeidimų. Naudoju jau 6 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-03-27",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.51.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-201/",
+      "code": "4.51.201",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "305 mm",
+        "Aukštis": "115 mm",
+        "Ilgis": "67 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.51.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.201.obj",
+        "local_path": "data/capital/Capital_4_51_201/models/4.51.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 27.84,
+      "price_gbp": "24.00",
+      "reviews": [
+        {
+          "reviewId": "4.51.201_rev_1",
+          "customerName": "Frederikas Zinkevičius",
+          "rating": 9.7,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. galutinis vaizdas tikrai estetiškas, o užsakymo procesas paprastas ir aiškus. Naudoju jau 16 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2023-09-29",
+          "verified": true,
+          "helpful": 17
+        },
+        {
+          "reviewId": "4.51.201_rev_2",
+          "customerName": "Valdas Rakauskas",
+          "rating": 9.7,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. galutinis vaizdas atitinka nuotraukas, o užsakymo procesas paprastas ir aiškus. Naudoju jau 10 mėnesius. Produktas labai gerai atliko savo funkciją.",
+          "date": "2023-05-10",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Capital 4.51.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-301/",
+      "code": "4.51.301",
+      "category": "kapiteliai",
+      "details": {
+        "Plotis": "269 mm",
+        "Aukštis": "205 mm",
+        "Ilgis": "99 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.51.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.301.obj",
+        "local_path": "data/capital/Capital_4_51_301/models/4.51.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 27.84,
+      "price_gbp": "24.00",
+      "reviews": [
+        {
+          "reviewId": "4.51.301_rev_1",
+          "customerName": "Barbora Jasaitis",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. galutinis vaizdas labai estetiškas, o logistika suorganizuota profesionaliai. Naudoju jau 23 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2022-02-14",
+          "verified": true,
+          "helpful": 44
+        },
+        {
+          "reviewId": "4.51.301_rev_2",
+          "customerName": "Tadas Žiogas",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. rezultatas viršijo mano tikslus, o pristatymas greitas ir patikimas. Naudoju jau 31 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-12-06",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    }
+  ]
 }

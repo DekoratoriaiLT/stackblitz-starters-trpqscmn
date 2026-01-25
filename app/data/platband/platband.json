@@ -1,423 +1,424 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Platband 1.54.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-003/",
+      "code": "1.54.003",
+      "category": "platband",
+      "details": {
+        "Ilgis": "1262 mm",
+        "Aukštis": "198 mm",
+        "Plotis": "25 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.003.obj",
+        "local_path": "data/platband/Platband_1_54_003/models/1.54.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 26.66,
+      "price_gbp": "22.98",
+      "reviews": [
         {
-            "name": "Platband 1.54.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-003/",
-            "code": "1.54.003",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "1.54.003.100.png",
-                    "local_path": "data/platband/Platband_1_54_003/images/1.54.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.003.100.png"
-                },
-                {
-                    "filename": "1.54.003.100.png",
-                    "local_path": "data/platband/Platband_1_54_003/images/1.54.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.003.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1262 mm",
-                "Aukštis": "198 mm",
-                "Plotis": "25 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.003.obj",
-                "local_path": "data/platband/Platband_1_54_003/models/1.54.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 26.66,
-            "price_gbp": "22.98",
-            "reviews": []
+          "reviewId": "1.54.003_rev_1",
+          "customerName": "Jogirdas Balandis",
+          "rating": 9.6,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. viskas veikia sklandžiai, o užsakymas įvykdytas sklandžiai. Naudoju jau 24 mėnesius. Vertinu labai teigiamai.",
+          "date": "2023-07-29",
+          "verified": true,
+          "helpful": 35
         },
         {
-            "name": "Platband 1.54.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-004/",
-            "code": "1.54.004",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "1.54.004.100.png",
-                    "local_path": "data/platband/Platband_1_54_004/images/1.54.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.004.100.png"
-                },
-                {
-                    "filename": "1.54.004.100.png",
-                    "local_path": "data/platband/Platband_1_54_004/images/1.54.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.004.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Aukštis": "238 mm",
-                "Plotis": "25 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.004.obj",
-                "local_path": "data/platband/Platband_1_54_004/models/1.54.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 44.75,
-            "price_gbp": "38.58",
-            "reviews": []
-        },
-        {
-            "name": "Platband 1.54.014",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-014/",
-            "code": "1.54.014",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "1.54.014.100.png",
-                    "local_path": "data/platband/Platband_1_54_014/images/1.54.014.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.014.100.png"
-                },
-                {
-                    "filename": "1.54.014.100.png",
-                    "local_path": "data/platband/Platband_1_54_014/images/1.54.014.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.014.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "1504 mm",
-                "Aukštis": "243 mm",
-                "Plotis": "66 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.54.014.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.014.obj",
-                "local_path": "data/platband/Platband_1_54_014/models/1.54.014.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 53.39,
-            "price_gbp": "46.03",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-001/",
-            "code": "4.84.001",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.001.100.png",
-                    "local_path": "data/platband/Platband_4_84_001/images/4.84.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.001.100.png"
-                },
-                {
-                    "filename": "4.84.001.100.png",
-                    "local_path": "data/platband/Platband_4_84_001/images/4.84.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.001.100.png"
-                },
-                {
-                    "filename": "4.84.001.40.png",
-                    "local_path": "data/platband/Platband_4_84_001/images/4.84.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.84.001.40.png"
-                },
-                {
-                    "filename": "4.84.001.40.png",
-                    "local_path": "data/platband/Platband_4_84_001/images/4.84.001.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.84.001.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "183 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.001.obj",
-                "local_path": "data/platband/Platband_4_84_001/models/4.84.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 70.13,
-            "price_gbp": "60.46",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-002/",
-            "code": "4.84.002",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.002.100.png",
-                    "local_path": "data/platband/Platband_4_84_002/images/4.84.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.002.100.png"
-                },
-                {
-                    "filename": "4.84.002.100.png",
-                    "local_path": "data/platband/Platband_4_84_002/images/4.84.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.002.100.png"
-                },
-                {
-                    "filename": "4.84.002.40.png",
-                    "local_path": "data/platband/Platband_4_84_002/images/4.84.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.84.002.40.png"
-                },
-                {
-                    "filename": "4.84.002.40.png",
-                    "local_path": "data/platband/Platband_4_84_002/images/4.84.002.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.84.002.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2300 mm",
-                "Plotis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.002.obj",
-                "local_path": "data/platband/Platband_4_84_002/models/4.84.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 56.41,
-            "price_gbp": "48.63",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-003/",
-            "code": "4.84.003",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.003.100.png",
-                    "local_path": "data/platband/Platband_4_84_003/images/4.84.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.003.100.png"
-                },
-                {
-                    "filename": "4.84.003.100.png",
-                    "local_path": "data/platband/Platband_4_84_003/images/4.84.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.003.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2300 mm",
-                "Plotis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.003.obj",
-                "local_path": "data/platband/Platband_4_84_003/models/4.84.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 50.31,
-            "price_gbp": "43.37",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-004/",
-            "code": "4.84.004",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.004.100.png",
-                    "local_path": "data/platband/Platband_4_84_004/images/4.84.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.004.100.png"
-                },
-                {
-                    "filename": "4.84.004.100.png",
-                    "local_path": "data/platband/Platband_4_84_004/images/4.84.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.004.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "101 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.004.obj",
-                "local_path": "data/platband/Platband_4_84_004/models/4.84.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 39.64,
-            "price_gbp": "34.17",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.005",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-005/",
-            "code": "4.84.005",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.005.100.png",
-                    "local_path": "data/platband/Platband_4_84_005/images/4.84.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.005.100.png"
-                },
-                {
-                    "filename": "4.84.005.100.png",
-                    "local_path": "data/platband/Platband_4_84_005/images/4.84.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.005.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "121 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.005.obj",
-                "local_path": "data/platband/Platband_4_84_005/models/4.84.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 36.59,
-            "price_gbp": "31.54",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.006",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-006/",
-            "code": "4.84.006",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.006.100.png",
-                    "local_path": "data/platband/Platband_4_84_006/images/4.84.006.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.006.100.png"
-                },
-                {
-                    "filename": "4.84.006.100.png",
-                    "local_path": "data/platband/Platband_4_84_006/images/4.84.006.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.84.006.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "201 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.006.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.006.obj",
-                "local_path": "data/platband/Platband_4_84_006/models/4.84.006.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 60.98,
-            "price_gbp": "52.57",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.051",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-051/",
-            "code": "4.84.051",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.051.10.png",
-                    "local_path": "data/platband/Platband_4_84_051/images/4.84.051.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.051.10.png"
-                },
-                {
-                    "filename": "4.84.051.10.png",
-                    "local_path": "data/platband/Platband_4_84_051/images/4.84.051.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.051.10.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2300 mm",
-                "Plotis": "183 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.051.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.051.obj",
-                "local_path": "data/platband/Platband_4_84_051/models/4.84.051.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 79.27,
-            "price_gbp": "68.34",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.052",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-052/",
-            "code": "4.84.052",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.052.10.png",
-                    "local_path": "data/platband/Platband_4_84_052/images/4.84.052.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.052.10.png"
-                },
-                {
-                    "filename": "4.84.052.10.png",
-                    "local_path": "data/platband/Platband_4_84_052/images/4.84.052.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.052.10.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "160 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.052.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.052.obj",
-                "local_path": "data/platband/Platband_4_84_052/models/4.84.052.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 48.79,
-            "price_gbp": "42.06",
-            "reviews": []
-        },
-        {
-            "name": "Platband 4.84.053",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-053/",
-            "code": "4.84.053",
-            "category": "platband",
-            "images": [
-                {
-                    "filename": "4.84.053.10.png",
-                    "local_path": "data/platband/Platband_4_84_053/images/4.84.053.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.053.10.png"
-                },
-                {
-                    "filename": "4.84.053.10.png",
-                    "local_path": "data/platband/Platband_4_84_053/images/4.84.053.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.84.053.10.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "140 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.84.053.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.053.obj",
-                "local_path": "data/platband/Platband_4_84_053/models/4.84.053.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.74,
-            "price_gbp": "39.43",
-            "reviews": []
+          "reviewId": "1.54.003_rev_2",
+          "customerName": "Sigitas Lukoševičius",
+          "rating": 9.5,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. produktas pateisino mano lūkesčius, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 3 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2025-11-23",
+          "verified": true,
+          "helpful": 18
         }
-    ]
+      ]
+    },
+    {
+      "name": "Platband 1.54.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-004/",
+      "code": "1.54.004",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Aukštis": "238 mm",
+        "Plotis": "25 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.004.obj",
+        "local_path": "data/platband/Platband_1_54_004/models/1.54.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 44.75,
+      "price_gbp": "38.58",
+      "reviews": [
+        {
+          "reviewId": "1.54.004_rev_1",
+          "customerName": "Renata Mikalauskas",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. montavimas neužtruko nė minutės, o siunta pristatyta saugiai ir laiku. Naudoju jau 32 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2023-09-06",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Platband 1.54.014",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-014/",
+      "code": "1.54.014",
+      "category": "platband",
+      "details": {
+        "Ilgis": "1504 mm",
+        "Aukštis": "243 mm",
+        "Plotis": "66 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.54.014.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.014.obj",
+        "local_path": "data/platband/Platband_1_54_014/models/1.54.014.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 53.39,
+      "price_gbp": "46.03",
+      "reviews": [
+        {
+          "reviewId": "1.54.014_rev_1",
+          "customerName": "Nomeda Šimelionis",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. produktas jaučiasi patvarus ir solidus, o pakuotė tvarkinga ir estetiška. Naudoju jau 13 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-06-27",
+          "verified": true,
+          "helpful": 9
+        },
+        {
+          "reviewId": "1.54.014_rev_2",
+          "customerName": "Alina Kazėnas",
+          "rating": 9.9,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. pritaikymas prie kambario lengvai įmanomas, o komunikacija su pardavėju sklandi. Naudoju jau 1 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2023-08-24",
+          "verified": true,
+          "helpful": 40
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-001/",
+      "code": "4.84.001",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "183 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.001.obj",
+        "local_path": "data/platband/Platband_4_84_001/models/4.84.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 70.13,
+      "price_gbp": "60.46",
+      "reviews": [
+        {
+          "reviewId": "4.84.001_rev_1",
+          "customerName": "Ignas Klišauskas",
+          "rating": 9.7,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. naudojimas lengvas net pradedantiesiems, o užsakymas įvykdytas be problemų. Naudoju jau 13 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2024-12-03",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-002/",
+      "code": "4.84.002",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2300 mm",
+        "Plotis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.002.obj",
+        "local_path": "data/platband/Platband_4_84_002/models/4.84.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 56.41,
+      "price_gbp": "48.63",
+      "reviews": [
+        {
+          "reviewId": "4.84.002_rev_1",
+          "customerName": "Emilija Šimelionis",
+          "rating": 9.8,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. naudojimo patirtis paprasta ir maloni, o siunta atvyko laiku. Naudoju jau 10 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2025-10-06",
+          "verified": true,
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-003/",
+      "code": "4.84.003",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2300 mm",
+        "Plotis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.003.obj",
+        "local_path": "data/platband/Platband_4_84_003/models/4.84.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 50.31,
+      "price_gbp": "43.37",
+      "reviews": [
+        {
+          "reviewId": "4.84.003_rev_1",
+          "customerName": "Henrika Šerkšnas",
+          "rating": 9.4,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. rezultatas atrodo labai profesionaliai, o prekė atvyko tiksliai laiku. Naudoju jau 1 mėnesius. Likau maloniai nustebintas rezultatu.",
+          "date": "2024-02-19",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-004/",
+      "code": "4.84.004",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "101 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.004.obj",
+        "local_path": "data/platband/Platband_4_84_004/models/4.84.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 39.64,
+      "price_gbp": "34.17",
+      "reviews": [
+        {
+          "reviewId": "4.84.004_rev_1",
+          "customerName": "Žymantė Butkus",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad paviršius lygus, be defektų. jaučiasi aukšta klasė, o pristatymas greitas ir patikimas. Naudoju jau 16 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2024-03-03",
+          "verified": true,
+          "helpful": 19
+        },
+        {
+          "reviewId": "4.84.004_rev_2",
+          "customerName": "Juozas Janulis",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. viskas veikia nepriekaištingai, o siunta atvyko saugiai ir laiku. Naudoju jau 26 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2024-05-05",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.005",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-005/",
+      "code": "4.84.005",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "121 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.005.obj",
+        "local_path": "data/platband/Platband_4_84_005/models/4.84.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 36.59,
+      "price_gbp": "31.54",
+      "reviews": [
+        {
+          "reviewId": "4.84.005_rev_1",
+          "customerName": "Algis Šalčius",
+          "rating": 9.8,
+          "comment": "Pirkau remdamasis dizaino idėjomis ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. viskas veikia nepriekaištingai, o prekė saugiai supakuota ir pristatyta. Naudoju jau 4 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2023-12-11",
+          "verified": true,
+          "helpful": 32
+        },
+        {
+          "reviewId": "4.84.005_rev_2",
+          "customerName": "Radvilė Lazauskas",
+          "rating": 9.6,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia be trikdžių, o prekė pristatyta nepriekaištingai. Naudoju jau 4 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2025-07-03",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.006",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-006/",
+      "code": "4.84.006",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "201 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.006.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.006.obj",
+        "local_path": "data/platband/Platband_4_84_006/models/4.84.006.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 60.98,
+      "price_gbp": "52.57",
+      "reviews": [
+        {
+          "reviewId": "4.84.006_rev_1",
+          "customerName": "Felicija Jakštas",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas pateisino investiciją, o pakuotė labai tvarkinga. Naudoju jau 22 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2025-06-03",
+          "verified": true,
+          "helpful": 20
+        },
+        {
+          "reviewId": "4.84.006_rev_2",
+          "customerName": "Viktoras Šalčius",
+          "rating": 9.7,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. naudojimas paprastas ir intuityvus, o logistika suorganizuota profesionaliai. Naudoju jau 13 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-09-12",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.051",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-051/",
+      "code": "4.84.051",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2300 mm",
+        "Plotis": "183 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.051.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.051.obj",
+        "local_path": "data/platband/Platband_4_84_051/models/4.84.051.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 79.27,
+      "price_gbp": "68.34",
+      "reviews": [
+        {
+          "reviewId": "4.84.051_rev_1",
+          "customerName": "Danguolė Gailius",
+          "rating": 9.4,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. galutinis vaizdas atrodo estetiškai ir kokybiškai, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 19 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2022-10-31",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.052",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-052/",
+      "code": "4.84.052",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "160 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.052.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.052.obj",
+        "local_path": "data/platband/Platband_4_84_052/models/4.84.052.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 48.79,
+      "price_gbp": "42.06",
+      "reviews": [
+        {
+          "reviewId": "4.84.052_rev_1",
+          "customerName": "Donata Katkus",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. produktas suteikia komforto pojūtį, o komunikacija su pardavėju puiki. Naudoju jau 14 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2022-04-29",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Platband 4.84.053",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-053/",
+      "code": "4.84.053",
+      "category": "platband",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "140 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.84.053.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.84.053.obj",
+        "local_path": "data/platband/Platband_4_84_053/models/4.84.053.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.74,
+      "price_gbp": "39.43",
+      "reviews": [
+        {
+          "reviewId": "4.84.053_rev_1",
+          "customerName": "Vladislova Raudonis",
+          "rating": 9.5,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimo patirtis puiki, o aptarnavimas malonus. Naudoju jau 3 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2022-08-10",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    }
+  ]
 }

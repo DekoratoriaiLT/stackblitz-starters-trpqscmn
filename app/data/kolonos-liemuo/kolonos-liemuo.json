@@ -1,1672 +1,1780 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Column shaft 1.12.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-010/",
+      "code": "1.12.010",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "251 mm",
+        "Aukštis": "2296 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.010.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_010/models/1.12.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 348.43,
+      "price_gbp": "300.37",
+      "reviews": [
         {
-            "name": "Column shaft 1.12.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-010/",
-            "code": "1.12.010",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_010/images/1.12.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.010.10.png"
-                },
-                {
-                    "filename": "1.12.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_010/images/1.12.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.010.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "251 mm",
-                "Aukštis": "2296 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.010.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_010/models/1.12.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 348.43,
-            "price_gbp": "300.37",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.011",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-011/",
-            "code": "1.12.011",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.011.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_011/images/1.12.011.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.011.10.png"
-                },
-                {
-                    "filename": "1.12.011.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_011/images/1.12.011.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.011.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "250 mm",
-                "Aukštis": "2345 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.011.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.011.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_011/models/1.12.011.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 358.89,
-            "price_gbp": "309.39",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.020",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-020/",
-            "code": "1.12.020",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_020/images/1.12.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.020.10.png"
-                },
-                {
-                    "filename": "1.12.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_020/images/1.12.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.020.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "250 mm",
-                "Aukštis": "2295 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.020.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.020.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_020/models/1.12.020.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 348.43,
-            "price_gbp": "300.37",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.050",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-050/",
-            "code": "1.12.050",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_050/images/1.12.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.050.10.png"
-                },
-                {
-                    "filename": "1.12.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_050/images/1.12.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.050.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "199 mm",
-                "Aukštis": "1955 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.050.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.050.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_050/models/1.12.050.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 205.15,
-            "price_gbp": "176.85",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.060",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-060/",
-            "code": "1.12.060",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.060.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_060/images/1.12.060.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.060.10.png"
-                },
-                {
-                    "filename": "1.12.060.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_060/images/1.12.060.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.060.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "161 mm",
-                "Aukštis": "1826 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.060.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.060.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_060/models/1.12.060.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 187.34,
-            "price_gbp": "161.50",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.061",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-061/",
-            "code": "1.12.061",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.061.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_061/images/1.12.061.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.061.10.png"
-                },
-                {
-                    "filename": "1.12.061.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_061/images/1.12.061.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.061.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "160 mm",
-                "Aukštis": "2472 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.061.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.061.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_061/models/1.12.061.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 253.04,
-            "price_gbp": "218.14",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.080",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-080/",
-            "code": "1.12.080",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.080.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_080/images/1.12.080.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.080.10.png"
-                },
-                {
-                    "filename": "1.12.080.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_080/images/1.12.080.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.080.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "157 mm",
-                "Aukštis": "1751 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.080.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.080.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_080/models/1.12.080.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 187.34,
-            "price_gbp": "161.50",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.12.081",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-081/",
-            "code": "1.12.081",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.12.081.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_081/images/1.12.081.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.081.10.png"
-                },
-                {
-                    "filename": "1.12.081.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_12_081/images/1.12.081.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.081.10.png"
-                }
-            ],
-            "details": {
-                "Skersmuo": "156 mm",
-                "Aukštis": "2399 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.12.081.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.081.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_12_081/models/1.12.081.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 253.04,
-            "price_gbp": "218.14",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-010/",
-            "code": "1.16.010",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_010/images/1.16.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.010.10.png"
-                },
-                {
-                    "filename": "1.16.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_010/images/1.16.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.010.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "251 mm",
-                "Aukštis": "2298 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.010.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_010/models/1.16.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 155.93,
-            "price_gbp": "134.42",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.011",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-011/",
-            "code": "1.16.011",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.011.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_011/images/1.16.011.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.011.10.png"
-                },
-                {
-                    "filename": "1.16.011.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_011/images/1.16.011.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.011.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "250 mm",
-                "Aukštis": "2345 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.011.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.011.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_011/models/1.16.011.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 160.24,
-            "price_gbp": "138.14",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.020",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-020/",
-            "code": "1.16.020",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_020/images/1.16.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.020.10.png"
-                },
-                {
-                    "filename": "1.16.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_020/images/1.16.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.020.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "250 mm",
-                "Aukštis": "2300 mm",
-                "Ilgis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.020.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.020.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_020/models/1.16.020.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 155.93,
-            "price_gbp": "134.42",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.050",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-050/",
-            "code": "1.16.050",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_050/images/1.16.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.050.10.png"
-                },
-                {
-                    "filename": "1.16.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_050/images/1.16.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.050.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "200 mm",
-                "Aukštis": "1956 mm",
-                "Ilgis": "100 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.050.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.050.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_050/models/1.16.050.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 91.71,
-            "price_gbp": "79.06",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.060",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-060/",
-            "code": "1.16.060",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.060.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_060/images/1.16.060.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.060.10.png"
-                },
-                {
-                    "filename": "1.16.060.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_060/images/1.16.060.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.060.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "162 mm",
-                "Aukštis": "1827 mm",
-                "Ilgis": "80 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.060.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.060.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_060/models/1.16.060.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 93.65,
-            "price_gbp": "80.73",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.061",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-061/",
-            "code": "1.16.061",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.061.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_061/images/1.16.061.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.061.10.png"
-                },
-                {
-                    "filename": "1.16.061.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_061/images/1.16.061.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.061.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "161 mm",
-                "Aukštis": "2475 mm",
-                "Ilgis": "81 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.061.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.061.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_061/models/1.16.061.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 126.51,
-            "price_gbp": "109.06",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.080",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-080/",
-            "code": "1.16.080",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.080.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_080/images/1.16.080.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.080.10.png"
-                },
-                {
-                    "filename": "1.16.080.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_080/images/1.16.080.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.080.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "156 mm",
-                "Aukštis": "1752 mm",
-                "Ilgis": "78 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.080.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.080.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_080/models/1.16.080.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 93.65,
-            "price_gbp": "80.73",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.16.081",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-081/",
-            "code": "1.16.081",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.16.081.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_081/images/1.16.081.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.081.10.png"
-                },
-                {
-                    "filename": "1.16.081.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_16_081/images/1.16.081.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.081.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "155 mm",
-                "Aukštis": "2401 mm",
-                "Ilgis": "79 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.16.081.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.081.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_16_081/models/1.16.081.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 126.51,
-            "price_gbp": "109.06",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.010",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-010/",
-            "code": "1.22.010",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_010/images/1.22.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.010.10.png"
-                },
-                {
-                    "filename": "1.22.010.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_010/images/1.22.010.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.010.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "134 mm",
-                "Aukštis": "2000 mm",
-                "Ilgis": "19 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.010.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.010.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_010/models/1.22.010.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 48.04,
-            "price_gbp": "41.41",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.020",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-020/",
-            "code": "1.22.020",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_020/images/1.22.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.020.10.png"
-                },
-                {
-                    "filename": "1.22.020.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_020/images/1.22.020.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.020.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "283 mm",
-                "Aukštis": "2000 mm",
-                "Ilgis": "41 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.020.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.020.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_020/models/1.22.020.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 75.83,
-            "price_gbp": "65.37",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.030",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-030/",
-            "code": "1.22.030",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.030.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_030/images/1.22.030.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.030.10.png"
-                },
-                {
-                    "filename": "1.22.030.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_030/images/1.22.030.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.030.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "194 mm",
-                "Aukštis": "2000 mm",
-                "Ilgis": "20 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.030.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.030.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_030/models/1.22.030.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 57.81,
-            "price_gbp": "49.84",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.040",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-040/",
-            "code": "1.22.040",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.040.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_040/images/1.22.040.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.040.10.png"
-                },
-                {
-                    "filename": "1.22.040.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_040/images/1.22.040.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.040.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "290 mm",
-                "Aukštis": "2000 mm",
-                "Ilgis": "30 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.040.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.040.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_040/models/1.22.040.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 61.5,
-            "price_gbp": "53.02",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.050",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-050/",
-            "code": "1.22.050",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_050/images/1.22.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.050.10.png"
-                },
-                {
-                    "filename": "1.22.050.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_050/images/1.22.050.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.050.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "96 mm",
-                "Aukštis": "2000 mm",
-                "Ilgis": "17 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.050.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.050.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_050/models/1.22.050.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 45.74,
-            "price_gbp": "39.43",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 1.22.200",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-200/",
-            "code": "1.22.200",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "1.22.200.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_200/images/1.22.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.200.10.png"
-                },
-                {
-                    "filename": "1.22.200.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_1_22_200/images/1.22.200.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.200.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "268 mm",
-                "Aukštis": "2295 mm",
-                "Ilgis": "30 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.22.200.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.200.obj",
-                "local_path": "data/column-shaft/Column_shaft_1_22_200/models/1.22.200.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 87.02,
-            "price_gbp": "75.02",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-001/",
-            "code": "4.12.001",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.001.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_001/images/4.12.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.001.10.png"
-                },
-                {
-                    "filename": "4.12.001.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_001/images/4.12.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.001.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "435 mm",
-                "Aukštis": "352 mm",
-                "Ilgis": "435 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.001.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_001/models/4.12.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 162.27,
-            "price_gbp": "139.89",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-1/",
-            "code": "4.12.002",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                },
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                },
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                },
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 205.22,
-            "price_gbp": "176.91",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-2/",
-            "code": "4.12.002",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                },
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 205.22,
-            "price_gbp": "176.91",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-3/",
-            "code": "4.12.002",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                },
-                {
-                    "filename": "4.12.002.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 205.22,
-            "price_gbp": "176.91",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-003/",
-            "code": "4.12.003",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.003.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_003/images/4.12.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.003.10.png"
-                },
-                {
-                    "filename": "4.12.003.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_003/images/4.12.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "435 mm",
-                "Aukštis": "351 mm",
-                "Ilgis": "435 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.003.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_003/models/4.12.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 115.34,
-            "price_gbp": "99.43",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-1/",
-            "code": "4.12.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                },
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 182.94,
-            "price_gbp": "157.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-2/",
-            "code": "4.12.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                },
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 182.94,
-            "price_gbp": "157.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-3/",
-            "code": "4.12.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                },
-                {
-                    "filename": "4.12.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "698 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 182.94,
-            "price_gbp": "157.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.005",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-005/",
-            "code": "4.12.005",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.005.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_005/images/4.12.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.005.10.png"
-                },
-                {
-                    "filename": "4.12.005.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_005/images/4.12.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "361 mm",
-                "Aukštis": "348 mm",
-                "Ilgis": "361 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.005.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_005/models/4.12.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 111.36,
-            "price_gbp": "96.00",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-102/",
-            "code": "4.12.102",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_102/images/4.12.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.102.10.png"
-                },
-                {
-                    "filename": "4.12.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_102/images/4.12.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.102.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "331 mm",
-                "Aukštis": "2294 mm",
-                "Ilgis": "331 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.102.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_102/models/4.12.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 397.72,
-            "price_gbp": "342.86",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-201/",
-            "code": "4.12.201",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_201/images/4.12.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.201.10.png"
-                },
-                {
-                    "filename": "4.12.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_201/images/4.12.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "294 mm",
-                "Aukštis": "2386 mm",
-                "Ilgis": "294 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.201.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_201/models/4.12.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 517.02,
-            "price_gbp": "445.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-202/",
-            "code": "4.12.202",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_202/images/4.12.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.202.10.png"
-                },
-                {
-                    "filename": "4.12.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_202/images/4.12.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "294 mm",
-                "Aukštis": "2394 mm",
-                "Ilgis": "294 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.202.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_202/models/4.12.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 477.26,
-            "price_gbp": "411.43",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.12.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-301/",
-            "code": "4.12.301",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.12.301.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_301/images/4.12.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.301.10.png"
-                },
-                {
-                    "filename": "4.12.301.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_12_301/images/4.12.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "270 mm",
-                "Aukštis": "2198 mm",
-                "Ilgis": "270 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.12.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.301.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_12_301/models/4.12.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 330.1,
-            "price_gbp": "284.57",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-003/",
-            "code": "4.16.003",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.003.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_003/images/4.16.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.003.10.png"
-                },
-                {
-                    "filename": "4.16.003.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_003/images/4.16.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.003.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "435 mm",
-                "Aukštis": "354 mm",
-                "Ilgis": "216 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.003.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_003/models/4.16.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 57.66,
-            "price_gbp": "49.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-1/",
-            "code": "4.16.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                },
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "700 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.5,
-            "price_gbp": "73.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-2/",
-            "code": "4.16.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                },
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "700 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.5,
-            "price_gbp": "73.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-3/",
-            "code": "4.16.004",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                },
-                {
-                    "filename": "4.16.004.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "700 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 85.5,
-            "price_gbp": "73.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.005",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-005/",
-            "code": "4.16.005",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.005.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_005/images/4.16.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.005.10.png"
-                },
-                {
-                    "filename": "4.16.005.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_005/images/4.16.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "366 mm",
-                "Aukštis": "348 mm",
-                "Ilgis": "180 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.005.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_005/models/4.16.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 55.68,
-            "price_gbp": "48.00",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-101/",
-            "code": "4.16.101",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.101.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_101/images/4.16.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.101.10.png"
-                },
-                {
-                    "filename": "4.16.101.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_101/images/4.16.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "330 mm",
-                "Aukštis": "2315 mm",
-                "Ilgis": "164 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.101.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_101/models/4.16.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 266.46,
-            "price_gbp": "229.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-102/",
-            "code": "4.16.102",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_102/images/4.16.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.102.10.png"
-                },
-                {
-                    "filename": "4.16.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_102/images/4.16.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.102.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "328 mm",
-                "Aukštis": "2306 mm",
-                "Ilgis": "165 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.102.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_102/models/4.16.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 198.86,
-            "price_gbp": "171.43",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-201/",
-            "code": "4.16.201",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_201/images/4.16.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.201.10.png"
-                },
-                {
-                    "filename": "4.16.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_201/images/4.16.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "294 mm",
-                "Aukštis": "2389 mm",
-                "Ilgis": "148 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.201.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_201/models/4.16.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 218.74,
-            "price_gbp": "188.57",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-202/",
-            "code": "4.16.202",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_202/images/4.16.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.202.10.png"
-                },
-                {
-                    "filename": "4.16.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_202/images/4.16.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "295 mm",
-                "Aukštis": "2396 mm",
-                "Ilgis": "148 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.202.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_202/models/4.16.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 238.62,
-            "price_gbp": "205.71",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.16.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-301/",
-            "code": "4.16.301",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.16.301.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_301/images/4.16.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.301.10.png"
-                },
-                {
-                    "filename": "4.16.301.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_16_301/images/4.16.301.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.301.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "272 mm",
-                "Aukštis": "2207 mm",
-                "Ilgis": "136 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.16.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.301.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_16_301/models/4.16.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 165.06,
-            "price_gbp": "142.29",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.22.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-101/",
-            "code": "4.22.101",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.22.101.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_101/images/4.22.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.101.10.png"
-                },
-                {
-                    "filename": "4.22.101.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_101/images/4.22.101.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.101.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "334 mm",
-                "Aukštis": "2305 mm",
-                "Ilgis": "88 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.22.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.101.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_22_101/models/4.22.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 178.98,
-            "price_gbp": "154.29",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.22.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-102/",
-            "code": "4.22.102",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.22.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_102/images/4.22.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.102.10.png"
-                },
-                {
-                    "filename": "4.22.102.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_102/images/4.22.102.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.102.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "333 mm",
-                "Aukštis": "2304 mm",
-                "Ilgis": "88 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.22.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.102.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_22_102/models/4.22.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 178.98,
-            "price_gbp": "154.29",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.22.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-201/",
-            "code": "4.22.201",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.22.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_201/images/4.22.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.201.10.png"
-                },
-                {
-                    "filename": "4.22.201.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_201/images/4.22.201.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.201.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "2348 mm",
-                "Ilgis": "62 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.22.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.201.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_22_201/models/4.22.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 167.04,
-            "price_gbp": "144.00",
-            "reviews": []
-        },
-        {
-            "name": "Column shaft 4.22.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-202/",
-            "code": "4.22.202",
-            "category": "kolonos-liemenys",
-            "images": [
-                {
-                    "filename": "4.22.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_202/images/4.22.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.202.10.png"
-                },
-                {
-                    "filename": "4.22.202.10.png",
-                    "local_path": "data/column-shaft/Column_shaft_4_22_202/images/4.22.202.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.202.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "260 mm",
-                "Aukštis": "2343 mm",
-                "Ilgis": "62 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.22.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.202.obj",
-                "local_path": "data/column-shaft/Column_shaft_4_22_202/models/4.22.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 155.1,
-            "price_gbp": "133.71",
-            "reviews": []
+          "reviewId": "1.12.010_rev_1",
+          "customerName": "Justina Ivanauskas",
+          "rating": 9.9,
+          "comment": "Šią prekę užsisakiau internetu ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. viskas veikia nepriekaištingai, o pakuotė labai tvarkinga. Naudoju jau 19 mėnesius. Esu visiškai patenkintas rezultatu.",
+          "date": "2022-05-12",
+          "verified": true,
+          "helpful": 53
         }
-    ]
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.011",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-011/",
+      "code": "1.12.011",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "250 mm",
+        "Aukštis": "2345 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.011.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.011.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_011/models/1.12.011.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 358.89,
+      "price_gbp": "309.39",
+      "reviews": [
+        {
+          "reviewId": "1.12.011_rev_1",
+          "customerName": "Dorotėja Rutkauskas",
+          "rating": 9.5,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad matosi profesionalus dėmesys detalėms. rezultatas atrodo nepriekaištingai, o komunikacija buvo aiški. Naudoju jau 12 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2024-07-08",
+          "verified": true,
+          "helpful": 3
+        },
+        {
+          "reviewId": "1.12.011_rev_2",
+          "customerName": "Remigijus Mačiulis",
+          "rating": 9.7,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. produktas suteikia komforto pojūtį, o aptarnavimas paliko gerą įspūdį. Naudoju jau 29 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2024-06-27",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.020",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-020/",
+      "code": "1.12.020",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "250 mm",
+        "Aukštis": "2295 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.020.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.020.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_020/models/1.12.020.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 348.43,
+      "price_gbp": "300.37",
+      "reviews": [
+        {
+          "reviewId": "1.12.020_rev_1",
+          "customerName": "Žydrūnas Varnas",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. pritaikymas prie interjero nesukėlė sunkumų, o siunta atvyko saugiai ir laiku. Naudoju jau 35 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-04-14",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "1.12.020_rev_2",
+          "customerName": "Viktoras Bublys",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia be trikdžių, o prekė pristatyta nepriekaištingai. Naudoju jau 15 mėnesius. Pirkimas buvo tikrai sėkmingas.",
+          "date": "2025-02-19",
+          "verified": true,
+          "helpful": 16
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.050",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-050/",
+      "code": "1.12.050",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "199 mm",
+        "Aukštis": "1955 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.050.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.050.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_050/models/1.12.050.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 205.15,
+      "price_gbp": "176.85",
+      "reviews": [
+        {
+          "reviewId": "1.12.050_rev_1",
+          "customerName": "Genovaitė Šemeta",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas viršijo mano tikslus, o prekė atvyko labai greitai. Naudoju jau 7 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2022-08-01",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.060",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-060/",
+      "code": "1.12.060",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "161 mm",
+        "Aukštis": "1826 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.060.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.060.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_060/models/1.12.060.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 187.34,
+      "price_gbp": "161.50",
+      "reviews": [
+        {
+          "reviewId": "1.12.060_rev_1",
+          "customerName": "Janina Rimkus",
+          "rating": 9.8,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. viskas veikia nepriekaištingai, o logistika suorganizuota nepriekaištingai. Naudoju jau 30 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-11-06",
+          "verified": true,
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.061",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-061/",
+      "code": "1.12.061",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "160 mm",
+        "Aukštis": "2472 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.061.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.061.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_061/models/1.12.061.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 253.04,
+      "price_gbp": "218.14",
+      "reviews": [
+        {
+          "reviewId": "1.12.061_rev_1",
+          "customerName": "Česlovas Stankevičius",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad detalės išbaigtos su meile. produktas pateisino investiciją, o pristatymas buvo greitas. Naudoju jau 26 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2026-01-20",
+          "verified": true,
+          "helpful": 26
+        },
+        {
+          "reviewId": "1.12.061_rev_2",
+          "customerName": "Petronelė Baniulis",
+          "rating": 10.0,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. viskas veikia sklandžiai ir patikimai, o prekė atvyko labai greitai. Naudoju jau 25 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2026-01-12",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.080",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-080/",
+      "code": "1.12.080",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "157 mm",
+        "Aukštis": "1751 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.080.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.080.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_080/models/1.12.080.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 187.34,
+      "price_gbp": "161.50",
+      "reviews": [
+        {
+          "reviewId": "1.12.080_rev_1",
+          "customerName": "Bronius Šemeta",
+          "rating": 9.5,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. galutinis efektas atrodo profesionaliai, o pakuotė labai tvarkinga. Naudoju jau 27 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2022-02-01",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.12.081",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-081/",
+      "code": "1.12.081",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Skersmuo": "156 mm",
+        "Aukštis": "2399 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.12.081.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.081.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_12_081/models/1.12.081.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 253.04,
+      "price_gbp": "218.14",
+      "reviews": [
+        {
+          "reviewId": "1.12.081_rev_1",
+          "customerName": "Audronius Stonys",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. galutinis vaizdas atitinka nuotraukas, o siunta atvyko saugiai ir laiku. Naudoju jau 28 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2022-07-30",
+          "verified": true,
+          "helpful": 29
+        },
+        {
+          "reviewId": "1.12.081_rev_2",
+          "customerName": "Raimundas Stonys",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. viskas veikia sklandžiai ir patikimai, o komunikacija buvo aiški. Naudoju jau 25 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2023-03-12",
+          "verified": true,
+          "helpful": 47
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-010/",
+      "code": "1.16.010",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "251 mm",
+        "Aukštis": "2298 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.010.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_010/models/1.16.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 155.93,
+      "price_gbp": "134.42",
+      "reviews": [
+        {
+          "reviewId": "1.16.010_rev_1",
+          "customerName": "Julija Klimas",
+          "rating": 10.0,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad dizainas modernus ir stilingas. viskas veikia sklandžiai, o aptarnavimas paliko gerą įspūdį. Naudoju jau 19 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2023-06-07",
+          "verified": true,
+          "helpful": 24
+        },
+        {
+          "reviewId": "1.16.010_rev_2",
+          "customerName": "Žygimantas Urbonas",
+          "rating": 9.5,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. produktas vertas kiekvieno cento, o aptarnavimas profesionalus ir malonus. Naudoju jau 19 mėnesius. Likau labai patenkintas.",
+          "date": "2022-11-12",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.011",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-011/",
+      "code": "1.16.011",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "250 mm",
+        "Aukštis": "2345 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.011.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.011.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_011/models/1.16.011.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 160.24,
+      "price_gbp": "138.14",
+      "reviews": [
+        {
+          "reviewId": "1.16.011_rev_1",
+          "customerName": "Gerardas Vaitiekūnas",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. galutinis efektas atrodo profesionaliai, o siunta pristatyta be jokių problemų. Naudoju jau 12 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2025-05-13",
+          "verified": true,
+          "helpful": 22
+        },
+        {
+          "reviewId": "1.16.011_rev_2",
+          "customerName": "Akvilas Navickas",
+          "rating": 10.0,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. naudojimo patirtis maloni ir sklandi, o pakuotė tvarkinga ir estetiška. Naudoju jau 20 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-02-27",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.020",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-020/",
+      "code": "1.16.020",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "250 mm",
+        "Aukštis": "2300 mm",
+        "Ilgis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.020.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.020.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_020/models/1.16.020.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 155.93,
+      "price_gbp": "134.42",
+      "reviews": [
+        {
+          "reviewId": "1.16.020_rev_1",
+          "customerName": "Jurga Gedvilas",
+          "rating": 9.8,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad paviršius lygus, be defektų. produktas vertas investicijos, o pristatymas buvo greitas. Naudoju jau 28 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2022-09-18",
+          "verified": true,
+          "helpful": 49
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.050",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-050/",
+      "code": "1.16.050",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "200 mm",
+        "Aukštis": "1956 mm",
+        "Ilgis": "100 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.050.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.050.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_050/models/1.16.050.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 91.71,
+      "price_gbp": "79.06",
+      "reviews": [
+        {
+          "reviewId": "1.16.050_rev_1",
+          "customerName": "Artūras Vainauskas",
+          "rating": 10.0,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. viskas veikia be trikdžių, o užsakymo procesas paprastas. Naudoju jau 30 mėnesius. Labai džiaugiuosi pasirinkimu.",
+          "date": "2022-03-01",
+          "verified": true,
+          "helpful": 24
+        },
+        {
+          "reviewId": "1.16.050_rev_2",
+          "customerName": "Žygimantas Varnas",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. pritaikymas prie interjero nesukėlė sunkumų, o užsakymas įvykdytas sklandžiai. Naudoju jau 14 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2022-07-27",
+          "verified": true,
+          "helpful": 6
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.060",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-060/",
+      "code": "1.16.060",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "162 mm",
+        "Aukštis": "1827 mm",
+        "Ilgis": "80 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.060.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.060.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_060/models/1.16.060.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 93.65,
+      "price_gbp": "80.73",
+      "reviews": [
+        {
+          "reviewId": "1.16.060_rev_1",
+          "customerName": "Loreta Urbonas",
+          "rating": 9.7,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. produktas vertas kiekvieno cento, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 30 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2022-06-14",
+          "verified": true,
+          "helpful": 38
+        },
+        {
+          "reviewId": "1.16.060_rev_2",
+          "customerName": "Sonata Rakauskas",
+          "rating": 9.5,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. produktas pateisino mano lūkesčius, o užsakymo procesas paprastas. Naudoju jau 10 mėnesius. Vertinu labai teigiamai.",
+          "date": "2023-11-26",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.061",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-061/",
+      "code": "1.16.061",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "161 mm",
+        "Aukštis": "2475 mm",
+        "Ilgis": "81 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.061.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.061.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_061/models/1.16.061.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 126.51,
+      "price_gbp": "109.06",
+      "reviews": [
+        {
+          "reviewId": "1.16.061_rev_1",
+          "customerName": "Teresė Dargis",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. viskas atitiko mano lūkesčius, o užsakymas įvykdytas laiku. Naudoju jau 5 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-02-12",
+          "verified": true,
+          "helpful": 26
+        },
+        {
+          "reviewId": "1.16.061_rev_2",
+          "customerName": "Vanda Šimelionis",
+          "rating": 9.9,
+          "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad apdirbimas itin preciziškas. rezultatas viršijo mano lūkesčius, o pakuotė labai tvarkinga. Naudoju jau 4 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2026-01-04",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.080",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-080/",
+      "code": "1.16.080",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "156 mm",
+        "Aukštis": "1752 mm",
+        "Ilgis": "78 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.080.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.080.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_080/models/1.16.080.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 93.65,
+      "price_gbp": "80.73",
+      "reviews": [
+        {
+          "reviewId": "1.16.080_rev_1",
+          "customerName": "Lina Balčiūnas",
+          "rating": 10.0,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad medžiagos atrodo labai tvirtos. montavimas buvo greitas ir paprastas, o visa patirtis su užsakymu puiki. Naudoju jau 9 mėnesius. Puikus santykis tarp kainos ir kokybės.",
+          "date": "2025-06-01",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.16.081",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-081/",
+      "code": "1.16.081",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "155 mm",
+        "Aukštis": "2401 mm",
+        "Ilgis": "79 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.16.081.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.081.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_16_081/models/1.16.081.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 126.51,
+      "price_gbp": "109.06",
+      "reviews": [
+        {
+          "reviewId": "1.16.081_rev_1",
+          "customerName": "Danas Kavolis",
+          "rating": 9.4,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. naudojimo patirtis puiki, o siunta atvyko saugiai ir laiku. Naudoju jau 22 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2023-04-30",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.010",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-010/",
+      "code": "1.22.010",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "134 mm",
+        "Aukštis": "2000 mm",
+        "Ilgis": "19 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.010.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.010.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_010/models/1.22.010.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 48.04,
+      "price_gbp": "41.41",
+      "reviews": [
+        {
+          "reviewId": "1.22.010_rev_1",
+          "customerName": "Giedrė Pocius",
+          "rating": 9.7,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. galutinis vaizdas atitinka nuotraukas, o siunta supakuota itin tvarkingai. Naudoju jau 12 mėnesius. Rezultatas nuostabus.",
+          "date": "2025-09-27",
+          "verified": true,
+          "helpful": 53
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.020",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-020/",
+      "code": "1.22.020",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "283 mm",
+        "Aukštis": "2000 mm",
+        "Ilgis": "41 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.020.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.020.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_020/models/1.22.020.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 75.83,
+      "price_gbp": "65.37",
+      "reviews": [
+        {
+          "reviewId": "1.22.020_rev_1",
+          "customerName": "Ramunė Tijūnaitis",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. viskas veikia nepriekaištingai, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 11 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2025-12-14",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.030",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-030/",
+      "code": "1.22.030",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "194 mm",
+        "Aukštis": "2000 mm",
+        "Ilgis": "20 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.030.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.030.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_030/models/1.22.030.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 57.81,
+      "price_gbp": "49.84",
+      "reviews": [
+        {
+          "reviewId": "1.22.030_rev_1",
+          "customerName": "Balys Valiulis",
+          "rating": 9.6,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. viskas veikia sklandžiai ir patikimai, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 36 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2025-07-28",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "1.22.030_rev_2",
+          "customerName": "Norbertas Puidokas",
+          "rating": 9.5,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. montavimas nesudėtingas, o siunta pristatyta be jokių problemų. Naudoju jau 14 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2023-08-28",
+          "verified": true,
+          "helpful": 58
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.040",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-040/",
+      "code": "1.22.040",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "290 mm",
+        "Aukštis": "2000 mm",
+        "Ilgis": "30 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.040.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.040.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_040/models/1.22.040.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 61.5,
+      "price_gbp": "53.02",
+      "reviews": [
+        {
+          "reviewId": "1.22.040_rev_1",
+          "customerName": "Gabija Ašmonas",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. galutinis vaizdas tikrai estetiškas, o visa patirtis sklandi. Naudoju jau 22 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2025-11-10",
+          "verified": true,
+          "helpful": 2
+        },
+        {
+          "reviewId": "1.22.040_rev_2",
+          "customerName": "Rapolas Žebrauskas",
+          "rating": 9.5,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. pritaikymas prie interjero sėkmingas, o užsakymo procesas labai patogus. Naudoju jau 15 mėnesius. Likau labai patenkintas.",
+          "date": "2023-12-21",
+          "verified": true,
+          "helpful": 41
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.050",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-050/",
+      "code": "1.22.050",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "96 mm",
+        "Aukštis": "2000 mm",
+        "Ilgis": "17 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.050.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.050.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_050/models/1.22.050.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 45.74,
+      "price_gbp": "39.43",
+      "reviews": [
+        {
+          "reviewId": "1.22.050_rev_1",
+          "customerName": "Teresė Varnas",
+          "rating": 9.4,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. galutinis vaizdas atrodo estetiškai ir kokybiškai, o siunta pristatyta saugiai ir laiku. Naudoju jau 29 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2024-12-30",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 1.22.200",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-200/",
+      "code": "1.22.200",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "268 mm",
+        "Aukštis": "2295 mm",
+        "Ilgis": "30 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.22.200.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.200.obj",
+        "local_path": "data/column-shaft/Column_shaft_1_22_200/models/1.22.200.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 87.02,
+      "price_gbp": "75.02",
+      "reviews": [
+        {
+          "reviewId": "1.22.200_rev_1",
+          "customerName": "Dalius Staniulis",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. montavimas neužtruko nė minutės, o visa patirtis buvo labai teigiama. Naudoju jau 2 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2023-05-20",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-001/",
+      "code": "4.12.001",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "435 mm",
+        "Aukštis": "352 mm",
+        "Ilgis": "435 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.001.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_001/models/4.12.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 162.27,
+      "price_gbp": "139.89",
+      "reviews": [
+        {
+          "reviewId": "4.12.001_rev_1",
+          "customerName": "Titas Klišauskas",
+          "rating": 9.4,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. viskas atitiko mano lūkesčius, o siunta pristatyta saugiai ir laiku. Naudoju jau 14 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-07-03",
+          "verified": true,
+          "helpful": 23
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-1/",
+      "code": "4.12.002",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 205.22,
+      "price_gbp": "176.91",
+      "reviews": [
+        {
+          "reviewId": "4.12.002_rev_1",
+          "customerName": "Vilius Blaževičius",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad dizainas stilingas ir modernus. naudojimas patogus ir paprastas, o užsakymas įvykdytas sklandžiai. Naudoju jau 17 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2024-04-16",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-2/",
+      "code": "4.12.002",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 205.22,
+      "price_gbp": "176.91",
+      "reviews": [
+        {
+          "reviewId": "4.12.002_rev_1",
+          "customerName": "Žydrūnas Vainorius",
+          "rating": 9.8,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. galutinis vaizdas atrodo estetiškai ir kokybiškai, o užsakymas įvykdytas sklandžiai. Naudoju jau 34 mėnesius. Tai puikus pasirinkimas.",
+          "date": "2023-10-13",
+          "verified": true,
+          "helpful": 10
+        },
+        {
+          "reviewId": "4.12.002_rev_2",
+          "customerName": "Grigalius Petrauskas",
+          "rating": 9.5,
+          "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas vertas kiekvieno cento, o visa patirtis su užsakymu puiki. Naudoju jau 17 mėnesius. Tikrai verta šio produkto.",
+          "date": "2022-11-28",
+          "verified": true,
+          "helpful": 55
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-3/",
+      "code": "4.12.002",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 205.22,
+      "price_gbp": "176.91",
+      "reviews": [
+        {
+          "reviewId": "4.12.002_rev_1",
+          "customerName": "Genė Vaitkevičius",
+          "rating": 9.7,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad kokybė yra išskirtinė. produktas vertas kiekvieno cento, o užsakymo procesas aiškus ir paprastas. Naudoju jau 16 mėnesius. Produktas kokybiškas, patikimas ir estetiškas.",
+          "date": "2025-05-04",
+          "verified": true,
+          "helpful": 50
+        },
+        {
+          "reviewId": "4.12.002_rev_2",
+          "customerName": "Mindaugas Vaitiekūnas",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. galutinis efektas atrodo profesionaliai, o prekė buvo saugiai supakuota. Naudoju jau 1 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2024-09-02",
+          "verified": true,
+          "helpful": 3
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-003/",
+      "code": "4.12.003",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "435 mm",
+        "Aukštis": "351 mm",
+        "Ilgis": "435 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.003.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_003/models/4.12.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 115.34,
+      "price_gbp": "99.43",
+      "reviews": [
+        {
+          "reviewId": "4.12.003_rev_1",
+          "customerName": "Viktorija Jasaitis",
+          "rating": 9.7,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. produktas jaučiasi patvarus ir solidus, o logistika suorganizuota profesionaliai. Naudoju jau 23 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2025-04-25",
+          "verified": true,
+          "helpful": 14
+        },
+        {
+          "reviewId": "4.12.003_rev_2",
+          "customerName": "Žydrūnas Daunys",
+          "rating": 9.8,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. montavimas buvo labai paprastas, o komunikacija su pardavėju puiki. Naudoju jau 3 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-04-05",
+          "verified": true,
+          "helpful": 54
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-1/",
+      "code": "4.12.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 182.94,
+      "price_gbp": "157.71",
+      "reviews": [
+        {
+          "reviewId": "4.12.004_rev_1",
+          "customerName": "Emilija Klišauskas",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad produktas atrodo solidžiai. pritaikymas prie mano namų buvo lengvas, o aptarnavimas profesionalus ir malonus. Naudoju jau 15 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2024-10-12",
+          "verified": true,
+          "helpful": 38
+        },
+        {
+          "reviewId": "4.12.004_rev_2",
+          "customerName": "Emanuelis Naruševičius",
+          "rating": 9.9,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. galutinis vaizdas labai estetiškas, o komunikacija su pardavėju sklandi. Naudoju jau 15 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-10-08",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-2/",
+      "code": "4.12.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 182.94,
+      "price_gbp": "157.71",
+      "reviews": [
+        {
+          "reviewId": "4.12.004_rev_1",
+          "customerName": "Romualdas Paškevičius",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad kokybė yra išskirtinė. naudojimo patirtis paprasta ir maloni, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 30 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2023-10-05",
+          "verified": true,
+          "helpful": 31
+        },
+        {
+          "reviewId": "4.12.004_rev_2",
+          "customerName": "Adas Staniulis",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. naudojimas paprastas ir intuityvus, o komunikacija buvo aiški. Naudoju jau 33 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2025-05-20",
+          "verified": true,
+          "helpful": 42
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-3/",
+      "code": "4.12.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "698 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 182.94,
+      "price_gbp": "157.71",
+      "reviews": [
+        {
+          "reviewId": "4.12.004_rev_1",
+          "customerName": "Gabija Mockevičius",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. naudojimas patogus ir efektyvus, o prekė buvo saugiai supakuota. Naudoju jau 18 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2025-05-09",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.005",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-005/",
+      "code": "4.12.005",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "361 mm",
+        "Aukštis": "348 mm",
+        "Ilgis": "361 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.005.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_005/models/4.12.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 111.36,
+      "price_gbp": "96.00",
+      "reviews": [
+        {
+          "reviewId": "4.12.005_rev_1",
+          "customerName": "Darius Jakštas",
+          "rating": 9.6,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. naudojimo patirtis paprasta ir maloni, o pristatymas patikimas ir greitas. Naudoju jau 1 mėnesius. Puikus sprendimas namams ar biurui.",
+          "date": "2023-11-17",
+          "verified": true,
+          "helpful": 44
+        },
+        {
+          "reviewId": "4.12.005_rev_2",
+          "customerName": "Gražina Dargis",
+          "rating": 9.5,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. naudojimo patirtis aukštos kokybės, o užsakymo procesas paprastas. Naudoju jau 16 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2024-12-01",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-102/",
+      "code": "4.12.102",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "331 mm",
+        "Aukštis": "2294 mm",
+        "Ilgis": "331 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.102.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_102/models/4.12.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 397.72,
+      "price_gbp": "342.86",
+      "reviews": [
+        {
+          "reviewId": "4.12.102_rev_1",
+          "customerName": "Kristupas Šarka",
+          "rating": 9.9,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad apdirbimas preciziškas, profesionalus. montavimas tikrai nekelia rūpesčių, o užsakymo procesas paprastas. Naudoju jau 23 mėnesius. Labai patenkinta ir maloni patirtis.",
+          "date": "2025-09-12",
+          "verified": true,
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-201/",
+      "code": "4.12.201",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "294 mm",
+        "Aukštis": "2386 mm",
+        "Ilgis": "294 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.201.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_201/models/4.12.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 517.02,
+      "price_gbp": "445.71",
+      "reviews": [
+        {
+          "reviewId": "4.12.201_rev_1",
+          "customerName": "Jeremijas Zinkevičius",
+          "rating": 9.6,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad detalės išbaigtos su meile. galutinis efektas labai estetiškas, o komunikacija su pardavėju puiki. Naudoju jau 29 mėnesius. Tikrai verta investuoti į šį gaminį.",
+          "date": "2025-05-07",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-202/",
+      "code": "4.12.202",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "294 mm",
+        "Aukštis": "2394 mm",
+        "Ilgis": "294 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.202.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_202/models/4.12.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 477.26,
+      "price_gbp": "411.43",
+      "reviews": [
+        {
+          "reviewId": "4.12.202_rev_1",
+          "customerName": "Audrius Raudonis",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. naudojimas patogus ir paprastas, o siunta pristatyta saugiai ir laiku. Naudoju jau 16 mėnesius. Geriausias pasirinkimas rinkoje.",
+          "date": "2023-05-22",
+          "verified": true,
+          "helpful": 7
+        },
+        {
+          "reviewId": "4.12.202_rev_2",
+          "customerName": "Daina Kairys",
+          "rating": 9.6,
+          "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad matosi profesionalus gamybos lygis. viskas veikia sklandžiai, o prekė atvyko be pažeidimų. Naudoju jau 6 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2022-03-20",
+          "verified": true,
+          "helpful": 50
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.12.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-301/",
+      "code": "4.12.301",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "270 mm",
+        "Aukštis": "2198 mm",
+        "Ilgis": "270 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.12.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.301.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_12_301/models/4.12.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 330.1,
+      "price_gbp": "284.57",
+      "reviews": [
+        {
+          "reviewId": "4.12.301_rev_1",
+          "customerName": "Alfreda Daunys",
+          "rating": 9.8,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad detalės išbaigtos su meile. montavimas tikrai nekelia rūpesčių, o užsakymas įvykdytas be problemų. Naudoju jau 7 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-08-12",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-003/",
+      "code": "4.16.003",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "435 mm",
+        "Aukštis": "354 mm",
+        "Ilgis": "216 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.003.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_003/models/4.16.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 57.66,
+      "price_gbp": "49.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.003_rev_1",
+          "customerName": "Salvinija Kazėnas",
+          "rating": 9.4,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. montavimas neužtruko nė minutės, o prekė saugiai supakuota ir pristatyta. Naudoju jau 5 mėnesius. Esu labai patenkinta ir rekomenduoju.",
+          "date": "2025-10-25",
+          "verified": true,
+          "helpful": 42
+        },
+        {
+          "reviewId": "4.16.003_rev_2",
+          "customerName": "Aurelijus Bielskis",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad produktas solidus, kokybiškas ir patikimas. naudojimas yra itin patogus, o visa patirtis su užsakymu teigiama. Naudoju jau 10 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2025-06-23",
+          "verified": true,
+          "helpful": 27
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-1/",
+      "code": "4.16.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "700 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.5,
+      "price_gbp": "73.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.004_rev_1",
+          "customerName": "Dainius Kavolis",
+          "rating": 9.8,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. viskas veikia nepriekaištingai ir patikimai, o siunta supakuota itin tvarkingai. Naudoju jau 33 mėnesius. Vertinu labai teigiamai.",
+          "date": "2023-02-13",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-2/",
+      "code": "4.16.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "700 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.5,
+      "price_gbp": "73.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.004_rev_1",
+          "customerName": "Virgilijus Navickas",
+          "rating": 9.8,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. naudojimas patogus ir paprastas, o prekė pristatyta nepriekaištingai. Naudoju jau 23 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-06-25",
+          "verified": true,
+          "helpful": 7
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-3/",
+      "code": "4.16.004",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "700 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 85.5,
+      "price_gbp": "73.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.004_rev_1",
+          "customerName": "Vaidotas Mačiulis",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. pritaikymas prie interjero sėkmingas, o pristatymas patogus ir greitas. Naudoju jau 3 mėnesius. Tikrai vertinga investicija į kokybę.",
+          "date": "2024-09-02",
+          "verified": true,
+          "helpful": 47
+        },
+        {
+          "reviewId": "4.16.004_rev_2",
+          "customerName": "Vaidivutis Gedvilas",
+          "rating": 10.0,
+          "comment": "Nusprendžiau pirkti po teigiamų atsiliepimų ir iš karto pastebėjau, kad dizainas modernus ir stilingas. pritaikymas prie interjero nekelia problemų, o prekė pristatyta nepriekaištingai. Naudoju jau 32 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2024-06-03",
+          "verified": true,
+          "helpful": 48
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.005",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-005/",
+      "code": "4.16.005",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "366 mm",
+        "Aukštis": "348 mm",
+        "Ilgis": "180 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.005.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_005/models/4.16.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 55.68,
+      "price_gbp": "48.00",
+      "reviews": [
+        {
+          "reviewId": "4.16.005_rev_1",
+          "customerName": "Marytė Navickas",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad konstrukcija tvirta ir stabiliai laikosi. rezultatas atrodo labai profesionaliai, o komunikacija buvo aiški. Naudoju jau 9 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2024-01-19",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-101/",
+      "code": "4.16.101",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "330 mm",
+        "Aukštis": "2315 mm",
+        "Ilgis": "164 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.101.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_101/models/4.16.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 266.46,
+      "price_gbp": "229.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.101_rev_1",
+          "customerName": "Jovita Brazaitis",
+          "rating": 9.5,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. montavimas buvo lengvas ir greitas, o logistika suorganizuota nepriekaištingai. Naudoju jau 31 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-05-11",
+          "verified": true,
+          "helpful": 5
+        },
+        {
+          "reviewId": "4.16.101_rev_2",
+          "customerName": "Feliksas Rimkus",
+          "rating": 9.5,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad paviršius lygus ir estetiškas. pritaikymas prie mano namų buvo lengvas, o logistika buvo gerai organizuota. Naudoju jau 2 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2023-05-09",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-102/",
+      "code": "4.16.102",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "328 mm",
+        "Aukštis": "2306 mm",
+        "Ilgis": "165 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.102.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_102/models/4.16.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 198.86,
+      "price_gbp": "171.43",
+      "reviews": [
+        {
+          "reviewId": "4.16.102_rev_1",
+          "customerName": "Eidvilas Balevičius",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, kuri atitiktų mano lūkesčius ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. galutinis vaizdas atitinka nuotraukas, o siunta pristatyta kaip sutarta. Naudoju jau 32 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2025-06-03",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-201/",
+      "code": "4.16.201",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "294 mm",
+        "Aukštis": "2389 mm",
+        "Ilgis": "148 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.201.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_201/models/4.16.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 218.74,
+      "price_gbp": "188.57",
+      "reviews": [
+        {
+          "reviewId": "4.16.201_rev_1",
+          "customerName": "Irma Lukoševičius",
+          "rating": 9.7,
+          "comment": "Ieškojau kažko patogaus ir praktiško ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. pritaikymas prie interjero nesukėlė sunkumų, o prekė atvyko labai greitai. Naudoju jau 36 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2025-05-10",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-202/",
+      "code": "4.16.202",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "295 mm",
+        "Aukštis": "2396 mm",
+        "Ilgis": "148 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.202.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_202/models/4.16.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 238.62,
+      "price_gbp": "205.71",
+      "reviews": [
+        {
+          "reviewId": "4.16.202_rev_1",
+          "customerName": "Benjaminas Varnas",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas vertas kiekvieno cento, o siunta pristatyta be jokių problemų. Naudoju jau 9 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2023-10-18",
+          "verified": true,
+          "helpful": 16
+        },
+        {
+          "reviewId": "4.16.202_rev_2",
+          "customerName": "Teisutis Lapinskas",
+          "rating": 9.5,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad dizainas stilingas ir modernus. montavimas neužtruko nė minutės, o užsakymo procesas aiškus ir paprastas. Naudoju jau 14 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2025-05-01",
+          "verified": true,
+          "helpful": 0
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.16.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-301/",
+      "code": "4.16.301",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "272 mm",
+        "Aukštis": "2207 mm",
+        "Ilgis": "136 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.16.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.301.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_16_301/models/4.16.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 165.06,
+      "price_gbp": "142.29",
+      "reviews": [
+        {
+          "reviewId": "4.16.301_rev_1",
+          "customerName": "Tomas Balandis",
+          "rating": 9.5,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. rezultatas viršijo mano tikslus, o užsakymas įvykdytas laiku. Naudoju jau 12 mėnesius. Rekomenduoju visiems, kurie ieško patikimo produkto.",
+          "date": "2025-09-01",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.22.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-101/",
+      "code": "4.22.101",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "334 mm",
+        "Aukštis": "2305 mm",
+        "Ilgis": "88 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.22.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.101.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_22_101/models/4.22.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 178.98,
+      "price_gbp": "154.29",
+      "reviews": [
+        {
+          "reviewId": "4.22.101_rev_1",
+          "customerName": "Genovaitė Vaitkus",
+          "rating": 9.6,
+          "comment": "Ieškojau ilgaamžio varianto ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. pritaikymas prie interjero vyko be problemų, o užsakymo procesas aiškus ir paprastas. Naudoju jau 4 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2022-09-02",
+          "verified": true,
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.22.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-102/",
+      "code": "4.22.102",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "333 mm",
+        "Aukštis": "2304 mm",
+        "Ilgis": "88 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.22.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.102.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_22_102/models/4.22.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 178.98,
+      "price_gbp": "154.29",
+      "reviews": [
+        {
+          "reviewId": "4.22.102_rev_1",
+          "customerName": "Agota Vasiliauskas",
+          "rating": 9.8,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. galutinis vaizdas atrodo estetiškai ir kokybiškai, o pakuotė saugi ir tvirta. Naudoju jau 31 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2022-05-01",
+          "verified": true,
+          "helpful": 4
+        },
+        {
+          "reviewId": "4.22.102_rev_2",
+          "customerName": "Kristijonas Paleckis",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti po teigiamų atsiliepimų ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. viskas veikia nepriekaištingai ir patikimai, o visa patirtis su užsakymu puiki. Naudoju jau 29 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2024-03-20",
+          "verified": true,
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.22.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-201/",
+      "code": "4.22.201",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "2348 mm",
+        "Ilgis": "62 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.22.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.201.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_22_201/models/4.22.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 167.04,
+      "price_gbp": "144.00",
+      "reviews": [
+        {
+          "reviewId": "4.22.201_rev_1",
+          "customerName": "Audra Šalčius",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad dizainas atrodo prabangiai. naudojimo patirtis paprasta ir maloni, o užsakymas įvykdytas be problemų. Naudoju jau 10 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
+          "date": "2022-04-03",
+          "verified": true,
+          "helpful": 21
+        },
+        {
+          "reviewId": "4.22.201_rev_2",
+          "customerName": "Valerijonas Stonys",
+          "rating": 9.8,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. naudojimas lengvas net pradedantiesiems, o pakuotė saugi ir tvirta. Naudoju jau 10 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2022-01-12",
+          "verified": true,
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "name": "Column shaft 4.22.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-202/",
+      "code": "4.22.202",
+      "category": "kolonos-liemenys",
+      "details": {
+        "Plotis": "260 mm",
+        "Aukštis": "2343 mm",
+        "Ilgis": "62 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.22.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.202.obj",
+        "local_path": "data/column-shaft/Column_shaft_4_22_202/models/4.22.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 155.1,
+      "price_gbp": "133.71",
+      "reviews": [
+        {
+          "reviewId": "4.22.202_rev_1",
+          "customerName": "Pranė Lapinskas",
+          "rating": 9.6,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. galutinis efektas labai estetiškas, o komunikacija su pardavėju puiki. Naudoju jau 6 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2023-08-29",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    }
+  ]
 }

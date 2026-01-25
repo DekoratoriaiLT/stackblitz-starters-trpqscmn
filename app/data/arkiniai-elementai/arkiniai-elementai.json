@@ -1,234 +1,144 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Arch element 1.61.511",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511/",
+      "code": "1.61.511",
+      "category": "arkiniai-elementai",
+      "details": {
+        "Ilgis": "2020 mm",
+        "Aukštis": "105 mm",
+        "Storis": "65 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Arkos Lenkimo Spindulys": "550 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.61.511.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
+        "local_path": "data/element/Arch_element_1_61_511/models/1.61.511.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
         {
-            "name": "Arch element 1.61.511",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511/",
-            "code": "1.61.511",
-            "category": "arkiniai-elementai",
-            "images": [
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2020 mm",
-                "Aukštis": "105 mm",
-                "Storis": "65 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Arkos Lenkimo Spindulys": "550 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.61.511.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
-                "local_path": "data/element/Arch_element_1_61_511/models/1.61.511.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Arch element 1.61.511 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511-f/",
-            "code": "1.61.511",
-            "category": "arkiniai-elementai",
-            "images": [
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2020 mm",
-                "Aukštis": "105 mm",
-                "Storis": "65 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.61.511.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
-                "local_path": "data/element/Arch_element_1_61_511_flexible_/models/1.61.511.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Arch element 1.61.511",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511/",
-            "code": "1.61.511",
-            "category": "arkiniai-elementai",
-            "images": [
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2020 mm",
-                "Aukštis": "105 mm",
-                "Storis": "65 mm",
-                "Convex bending Spindulys": "550 mm",
-                "Concave bending Spindulys": "550 mm",
-                "Arkos Lenkimo Spindulys": "550 mm"
-            },
-            "flexible_analog_exists": true,
-            "model": {
-                "filename": "1.61.511.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
-                "local_path": "data/element/Arch_element_1_61_511/models/1.61.511.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
-        },
-        {
-            "name": "Arch element 1.61.511 (Lankstus)",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511-f/",
-            "code": "1.61.511",
-            "category": "arkiniai-elementai",
-            "images": [
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.600.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.600.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.61.511.600.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.40.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.61.511.40.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                },
-                {
-                    "filename": "1.61.511.100.png",
-                    "local_path": "data/element/Arch_element_1_61_511_flexible_/images/1.61.511.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.61.511.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2020 mm",
-                "Aukštis": "105 mm",
-                "Storis": "65 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.61.511.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
-                "local_path": "data/element/Arch_element_1_61_511_flexible_/models/1.61.511.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "reviews": []
+          "reviewId": "1.61.511_rev_1",
+          "customerName": "Dominykas Mačiulis",
+          "rating": 9.6,
+          "comment": "Pirkau, nes ieškojau patikimo gaminio namams ir iš karto pastebėjau, kad paviršius atrodo lygus ir malonus liesti. galutinis efektas atrodo profesionaliai, o užsakymas įvykdytas sklandžiai. Naudoju jau 29 mėnesius. Rezultatas nuostabus.",
+          "date": "2026-01-14",
+          "verified": true,
+          "helpful": 21
         }
-    ]
+      ]
+    },
+    {
+      "name": "Arch element 1.61.511 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511-f/",
+      "code": "1.61.511",
+      "category": "arkiniai-elementai",
+      "details": {
+        "Ilgis": "2020 mm",
+        "Aukštis": "105 mm",
+        "Storis": "65 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.61.511.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
+        "local_path": "data/element/Arch_element_1_61_511_flexible_/models/1.61.511.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.61.511_rev_1",
+          "customerName": "Eugenija Kleinas",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad dizainas atrodo prabangiai. montavimas nesudėtingas, o siunta supakuota itin tvarkingai. Naudoju jau 31 mėnesius. Vertinu labai teigiamai.",
+          "date": "2022-07-22",
+          "verified": true,
+          "helpful": 52
+        },
+        {
+          "reviewId": "1.61.511_rev_2",
+          "customerName": "Simona Šarka",
+          "rating": 9.6,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad produktas atrodo solidžiai. naudojimas greitas ir komfortiškas, o pakuotė labai tvarkinga. Naudoju jau 22 mėnesius. Tai aukščiausios klasės sprendimas.",
+          "date": "2026-01-11",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Arch element 1.61.511",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511/",
+      "code": "1.61.511",
+      "category": "arkiniai-elementai",
+      "details": {
+        "Ilgis": "2020 mm",
+        "Aukštis": "105 mm",
+        "Storis": "65 mm",
+        "Convex bending Spindulys": "550 mm",
+        "Concave bending Spindulys": "550 mm",
+        "Arkos Lenkimo Spindulys": "550 mm"
+      },
+      "flexible_analog_exists": true,
+      "model": {
+        "filename": "1.61.511.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
+        "local_path": "data/element/Arch_element_1_61_511/models/1.61.511.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.61.511_rev_1",
+          "customerName": "Regimantas Klimas",
+          "rating": 9.6,
+          "comment": "Pasirinkau dėl teigiamų klientų atsiliepimų ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. produktas vertas investicijos, o visa patirtis maloni ir sklandi. Naudoju jau 1 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2023-06-06",
+          "verified": true,
+          "helpful": 23
+        },
+        {
+          "reviewId": "1.61.511_rev_2",
+          "customerName": "Aurimas Šarkauskas",
+          "rating": 9.9,
+          "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad apdirbimas itin preciziškas. montavimas neužtruko nė minutės, o aptarnavimas profesionalus ir malonus. Naudoju jau 29 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2025-05-06",
+          "verified": true,
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "name": "Arch element 1.61.511 (Lankstus)",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-element/1-61-511-f/",
+      "code": "1.61.511",
+      "category": "arkiniai-elementai",
+      "details": {
+        "Ilgis": "2020 mm",
+        "Aukštis": "105 mm",
+        "Storis": "65 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.61.511.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.61.511.obj",
+        "local_path": "data/element/Arch_element_1_61_511_flexible_/models/1.61.511.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "reviews": [
+        {
+          "reviewId": "1.61.511_rev_1",
+          "customerName": "Liudvika Gailius",
+          "rating": 9.6,
+          "comment": "Ieškojau sprendimo, kuris atitiktų mano stilių ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. produktas suteikia komforto pojūtį, o siunta atvyko saugiai ir laiku. Naudoju jau 27 mėnesius. Tikrai rekomenduoju kitiems.",
+          "date": "2025-03-11",
+          "verified": true,
+          "helpful": 39
+        }
+      ]
+    }
+  ]
 }

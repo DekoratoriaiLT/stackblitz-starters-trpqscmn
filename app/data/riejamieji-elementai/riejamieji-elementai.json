@@ -1,222 +1,208 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Keystone 1.55.005",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-55-005/",
+      "code": "1.55.005",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "93 mm",
+        "Aukštis": "126 mm",
+        "Storis": "41 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.55.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.55.005.obj",
+        "local_path": "data/keystone/Keystone_1_55_005/models/1.55.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "6.64",
+      "price": 7.7,
+      "reviews": [
         {
-            "name": "Keystone 1.55.005",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-55-005/",
-            "code": "1.55.005",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "1.55.005.10.png",
-                    "local_path": "data/keystone/Keystone_1_55_005/images/1.55.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.55.005.10.png"
-                },
-                {
-                    "filename": "1.55.005.10.png",
-                    "local_path": "data/keystone/Keystone_1_55_005/images/1.55.005.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.55.005.10.png"
-                }
-            ],
-            "details": {
-                "Plotis": "93 mm",
-                "Aukštis": "126 mm",
-                "Storis": "41 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.55.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.55.005.obj",
-                "local_path": "data/keystone/Keystone_1_55_005/models/1.55.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "6.64",
-            "price": 7.7,
-            "reviews": []
-        },
-        {
-            "name": "Keystone 4.85.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-001/",
-            "code": "4.85.001",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "4.85.001.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_001/images/4.85.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.001.100.png"
-                },
-                {
-                    "filename": "4.85.001.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_001/images/4.85.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.001.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "293 mm",
-                "Aukštis": "282 mm",
-                "Storis": "65 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.85.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.001.obj",
-                "local_path": "data/keystone/Keystone_4_85_001/models/4.85.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "45.71",
-            "price": 53.02,
-            "reviews": []
-        },
-        {
-            "name": "Keystone 4.85.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-002/",
-            "code": "4.85.002",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "4.85.002.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_002/images/4.85.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.002.100.png"
-                },
-                {
-                    "filename": "4.85.002.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_002/images/4.85.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.002.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "221 mm",
-                "Aukštis": "232 mm",
-                "Storis": "68 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.85.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.002.obj",
-                "local_path": "data/keystone/Keystone_4_85_002/models/4.85.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "25.20",
-            "price": 29.23,
-            "reviews": []
-        },
-        {
-            "name": "Keystone 4.85.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-003/",
-            "code": "4.85.003",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "4.85.003.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_003/images/4.85.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.003.100.png"
-                },
-                {
-                    "filename": "4.85.003.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_003/images/4.85.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.003.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "200 mm",
-                "Aukštis": "211 mm",
-                "Storis": "51 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.85.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.003.obj",
-                "local_path": "data/keystone/Keystone_4_85_003/models/4.85.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "21.60",
-            "price": 25.06,
-            "reviews": []
-        },
-        {
-            "name": "Keystone 4.85.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-004/",
-            "code": "4.85.004",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "4.85.004.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.004.100.png"
-                },
-                {
-                    "filename": "4.85.004.20.png",
-                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.004.20.png"
-                },
-                {
-                    "filename": "4.85.004.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.004.100.png"
-                },
-                {
-                    "filename": "4.85.004.20.png",
-                    "local_path": "data/keystone/Keystone_4_85_004/images/4.85.004.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.004.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "255 mm",
-                "Aukštis": "206 mm",
-                "Storis": "75 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.85.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.004.obj",
-                "local_path": "data/keystone/Keystone_4_85_004/models/4.85.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "32.00",
-            "price": 37.12,
-            "reviews": []
-        },
-        {
-            "name": "Keystone 4.85.005",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-005/",
-            "code": "4.85.005",
-            "category": "riejamieji-elementai",
-            "images": [
-                {
-                    "filename": "4.85.005.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.005.100.png"
-                },
-                {
-                    "filename": "4.85.005.20.png",
-                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.005.20.png"
-                },
-                {
-                    "filename": "4.85.005.100.png",
-                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.85.005.100.png"
-                },
-                {
-                    "filename": "4.85.005.20.png",
-                    "local_path": "data/keystone/Keystone_4_85_005/images/4.85.005.20.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.85.005.20.png"
-                }
-            ],
-            "details": {
-                "Plotis": "253 mm",
-                "Aukštis": "306 mm",
-                "Storis": "75 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.85.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.005.obj",
-                "local_path": "data/keystone/Keystone_4_85_005/models/4.85.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price_gbp": "34.29",
-            "price": 39.78,
-            "reviews": []
+          "reviewId": "1.55.005_rev_1",
+          "customerName": "Janė Janulis",
+          "rating": 9.5,
+          "comment": "Rinkausi iš kelių galimų variantų ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. jaučiasi aukšta klasė, o aptarnavimas draugiškas ir profesionalus. Naudoju jau 18 mėnesius. Produktas pranoko mano lūkesčius.",
+          "date": "2025-09-01",
+          "verified": true,
+          "helpful": 47
         }
-    ]
+      ]
+    },
+    {
+      "name": "Keystone 4.85.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-001/",
+      "code": "4.85.001",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "293 mm",
+        "Aukštis": "282 mm",
+        "Storis": "65 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.85.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.001.obj",
+        "local_path": "data/keystone/Keystone_4_85_001/models/4.85.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "45.71",
+      "price": 53.02,
+      "reviews": [
+        {
+          "reviewId": "4.85.001_rev_1",
+          "customerName": "Aspazija Kumpys",
+          "rating": 9.8,
+          "comment": "Ieškojau produkto, kuris derėtų prie interjero ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. rezultatas pranoko mano lūkesčius, o prekė atvyko labai greitai. Naudoju jau 32 mėnesius. Esu patenkintas ir drąsiai rekomenduoju.",
+          "date": "2023-04-19",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Keystone 4.85.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-002/",
+      "code": "4.85.002",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "221 mm",
+        "Aukštis": "232 mm",
+        "Storis": "68 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.85.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.002.obj",
+        "local_path": "data/keystone/Keystone_4_85_002/models/4.85.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "25.20",
+      "price": 29.23,
+      "reviews": [
+        {
+          "reviewId": "4.85.002_rev_1",
+          "customerName": "Vincentas Baravykas",
+          "rating": 9.8,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad apdirbimas itin preciziškas. rezultatas pranoko mano lūkesčius, o komunikacija buvo aiški ir maloni. Naudoju jau 29 mėnesius. Likau labai patenkintas.",
+          "date": "2025-11-07",
+          "verified": true,
+          "helpful": 59
+        }
+      ]
+    },
+    {
+      "name": "Keystone 4.85.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-003/",
+      "code": "4.85.003",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "200 mm",
+        "Aukštis": "211 mm",
+        "Storis": "51 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.85.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.003.obj",
+        "local_path": "data/keystone/Keystone_4_85_003/models/4.85.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "21.60",
+      "price": 25.06,
+      "reviews": [
+        {
+          "reviewId": "4.85.003_rev_1",
+          "customerName": "Morta Lukoševičius",
+          "rating": 9.8,
+          "comment": "Norėjau, kad produktas atitiktų mano poreikius ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. pritaikymas prie interjero nekelia problemų, o aptarnavimas malonus. Naudoju jau 4 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2023-11-24",
+          "verified": true,
+          "helpful": 44
+        },
+        {
+          "reviewId": "4.85.003_rev_2",
+          "customerName": "Iveta Bružas",
+          "rating": 9.8,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. montavimas nesudėtingas, o pristatymas patikimas ir greitas. Naudoju jau 14 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2024-01-21",
+          "verified": true,
+          "helpful": 57
+        }
+      ]
+    },
+    {
+      "name": "Keystone 4.85.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-004/",
+      "code": "4.85.004",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "255 mm",
+        "Aukštis": "206 mm",
+        "Storis": "75 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.85.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.004.obj",
+        "local_path": "data/keystone/Keystone_4_85_004/models/4.85.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "32.00",
+      "price": 37.12,
+      "reviews": [
+        {
+          "reviewId": "4.85.004_rev_1",
+          "customerName": "Edita Dainius",
+          "rating": 9.5,
+          "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad apdirbimas nepriekaištingas. naudojimo patirtis paprasta ir maloni, o pakuotė labai tvarkinga. Naudoju jau 21 mėnesius. Tikrai verta šio produkto.",
+          "date": "2024-05-13",
+          "verified": true,
+          "helpful": 41
+        },
+        {
+          "reviewId": "4.85.004_rev_2",
+          "customerName": "Vladislova Daukantas",
+          "rating": 9.7,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. naudojimas greitas ir komfortiškas, o aptarnavimas malonus. Naudoju jau 33 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2024-06-21",
+          "verified": true,
+          "helpful": 30
+        }
+      ]
+    },
+    {
+      "name": "Keystone 4.85.005",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/keystones-window-framing/4-85-005/",
+      "code": "4.85.005",
+      "category": "riejamieji-elementai",
+      "details": {
+        "Plotis": "253 mm",
+        "Aukštis": "306 mm",
+        "Storis": "75 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.85.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.85.005.obj",
+        "local_path": "data/keystone/Keystone_4_85_005/models/4.85.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price_gbp": "34.29",
+      "price": 39.78,
+      "reviews": [
+        {
+          "reviewId": "4.85.005_rev_1",
+          "customerName": "Daina Juodaitis",
+          "rating": 9.5,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. naudojimas patogus ir paprastas, o prekė atvyko tiksliai laiku. Naudoju jau 2 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2023-07-17",
+          "verified": true,
+          "helpful": 9
+        }
+      ]
+    }
+  ]
 }

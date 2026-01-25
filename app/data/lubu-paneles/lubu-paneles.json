@@ -1,442 +1,431 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Ceiling panel 1.57.001",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-001/",
+      "code": "1.57.001",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "599 mm",
+        "Aukstis": "600 mm",
+        "Storis": "68 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.001.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/models/1.57.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": 49.96,
+      "price_gbp": "43.07",
+      "reviews": [
         {
-            "name": "Ceiling panel 1.57.001",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-001/",
-            "code": "1.57.001",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.001.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/images/1.57.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.001.10.png"
-                },
-                {
-                    "filename": "1.57.001.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/images/1.57.001.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.001.10.png"
-                },
-                {
-                    "filename": "1.57.001.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/images/1.57.001.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.001.41.png"
-                },
-                {
-                    "filename": "1.57.001.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/images/1.57.001.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.001.41.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "599 mm",
-                "Aukstis": "600 mm",
-                "Storis": "68 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.001.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_001/models/1.57.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": 49.96,
-            "price_gbp": "43.07",
-            "reviews": []
+          "reviewId": "1.57.001_rev_1",
+          "customerName": "Edgaras Žiogas",
+          "rating": 9.6,
+          "comment": "Rinkausi pagal klientų atsiliepimus ir iš karto pastebėjau, kad konstrukcija stabili ir saugi. viskas veikia nepriekaištingai ir patikimai, o komunikacija buvo aiški. Naudoju jau 17 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-11-03",
+          "verified": true,
+          "helpful": 17
         },
         {
-            "name": "Ceiling panel 1.57.002",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-002/",
-            "code": "1.57.002",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.002.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/images/1.57.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.002.10.png"
-                },
-                {
-                    "filename": "1.57.002.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/images/1.57.002.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.002.10.png"
-                },
-                {
-                    "filename": "1.57.002.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/images/1.57.002.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.002.41.png"
-                },
-                {
-                    "filename": "1.57.002.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/images/1.57.002.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.002.41.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "600 mm",
-                "Aukstis": "600 mm",
-                "Storis": "67 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.002.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/models/1.57.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": 54.23,
-            "price_gbp": "46.75",
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.003",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-003/",
-            "code": "1.57.003",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.003.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/images/1.57.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.003.10.png"
-                },
-                {
-                    "filename": "1.57.003.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/images/1.57.003.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.003.10.png"
-                },
-                {
-                    "filename": "1.57.003.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/images/1.57.003.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.003.41.png"
-                },
-                {
-                    "filename": "1.57.003.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/images/1.57.003.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.003.41.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "600 mm",
-                "Aukstis": "600 mm",
-                "Storis": "71 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.003.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/models/1.57.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": 57.1,
-            "price_gbp": "49.22",
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.004",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-004/",
-            "code": "1.57.004",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.004.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/images/1.57.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.004.10.png"
-                },
-                {
-                    "filename": "1.57.004.10.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/images/1.57.004.10.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.57.004.10.png"
-                },
-                {
-                    "filename": "1.57.004.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/images/1.57.004.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.004.41.png"
-                },
-                {
-                    "filename": "1.57.004.41.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/images/1.57.004.41.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.57.004.41.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "700 mm",
-                "Aukstis": "700 mm",
-                "Storis": "90 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.004.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/models/1.57.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": 74.11,
-            "price_gbp": "63.89",
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.51.518",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-51-518-2/",
-            "code": "1.51.518",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.51.518.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/images/1.51.518.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.51.518.100.png"
-                },
-                {
-                    "filename": "1.51.518.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/images/1.51.518.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.51.518.100.png"
-                },
-                {
-                    "filename": "1.51.518.40.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/images/1.51.518.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.51.518.40.png"
-                },
-                {
-                    "filename": "1.51.518.40.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/images/1.51.518.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.51.518.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2040 mm",
-                "Aukstis": "259 mm",
-                "Storis": "33 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.51.518.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.518.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/models/1.51.518.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.501",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-501/",
-            "code": "1.57.501",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.501.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_501/images/1.57.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.501.100.png"
-                },
-                {
-                    "filename": "1.57.501.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_501/images/1.57.501.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.501.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "535 mm",
-                "Aukstis": "535 mm",
-                "Storis": "61 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.501.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.501.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_501/models/1.57.501.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.502",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-502-2/",
-            "code": "1.57.502",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.502.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/images/1.57.502.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.502.100.png"
-                },
-                {
-                    "filename": "1.57.502.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/images/1.57.502.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.502.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "147 mm",
-                "Aukstis": "147 mm",
-                "Storis": "33 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.502.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.502.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/models/1.57.502.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.502",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-502/",
-            "code": "1.57.502",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.502.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/images/1.57.502.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.502.100.png"
-                },
-                {
-                    "filename": "1.57.502.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/images/1.57.502.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.502.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "147 mm",
-                "Aukstis": "147 mm",
-                "Storis": "33 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.502.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.502.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/models/1.57.502.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.503",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-503-2/",
-            "code": "1.57.503",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.503.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/images/1.57.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.503.100.png"
-                },
-                {
-                    "filename": "1.57.503.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/images/1.57.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.503.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "292 mm",
-                "Aukstis": "292 mm",
-                "Storis": "60 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.503.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.503.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/models/1.57.503.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.503",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-503/",
-            "code": "1.57.503",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.503.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/images/1.57.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.503.100.png"
-                },
-                {
-                    "filename": "1.57.503.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/images/1.57.503.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.503.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "292 mm",
-                "Aukstis": "292 mm",
-                "Storis": "60 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.503.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.503.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/models/1.57.503.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.504",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-504-2/",
-            "code": "1.57.504",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.504.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/images/1.57.504.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.504.100.png"
-                },
-                {
-                    "filename": "1.57.504.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/images/1.57.504.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.504.100.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "250 mm",
-                "Aukstis": "208 mm",
-                "Storis": "24 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.504.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.504.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/models/1.57.504.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
-        },
-        {
-            "name": "Ceiling panel 1.57.504",
-            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-504/",
-            "code": "1.57.504",
-            "category": "lubu-paneles",
-            "images": [
-                {
-                    "filename": "1.57.504.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/images/1.57.504.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.504.100.png"
-                },
-                {
-                    "filename": "1.57.504.100.png",
-                    "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/images/1.57.504.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.57.504.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "250 mm",
-                "Aukstis": "208 mm",
-                "Storis": "24 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "1.57.504.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.504.obj",
-                "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/models/1.57.504.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "price": null,
-            "reviews": []
+          "reviewId": "1.57.001_rev_2",
+          "customerName": "Agnius Kriščiūnas",
+          "rating": 9.9,
+          "comment": "Ieškojau produkto, kuris būtų stilingas ir patvarus ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. pritaikymas prie kambario lengvai įmanomas, o užsakymas įvykdytas sklandžiai. Naudoju jau 5 mėnesius. Rekomenduoju visiems, kurie ieško kokybės ir stiliaus.",
+          "date": "2024-08-26",
+          "verified": true,
+          "helpful": 18
         }
-    ]
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.002",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-002/",
+      "code": "1.57.002",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "600 mm",
+        "Aukstis": "600 mm",
+        "Storis": "67 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.002.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_002/models/1.57.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": 54.23,
+      "price_gbp": "46.75",
+      "reviews": [
+        {
+          "reviewId": "1.57.002_rev_1",
+          "customerName": "Albinas Žiogas",
+          "rating": 9.6,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. montavimas buvo labai paprastas, o siunta atvyko laiku. Naudoju jau 31 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
+          "date": "2023-01-29",
+          "verified": true,
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.003",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-003/",
+      "code": "1.57.003",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "600 mm",
+        "Aukstis": "600 mm",
+        "Storis": "71 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.003.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_003/models/1.57.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": 57.1,
+      "price_gbp": "49.22",
+      "reviews": [
+        {
+          "reviewId": "1.57.003_rev_1",
+          "customerName": "Algis Rimantėlis",
+          "rating": 9.7,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. galutinis efektas labai estetiškas, o prekė buvo saugiai supakuota. Naudoju jau 35 mėnesius. Tikrai verta šio produkto.",
+          "date": "2024-06-25",
+          "verified": true,
+          "helpful": 47
+        },
+        {
+          "reviewId": "1.57.003_rev_2",
+          "customerName": "Rita Stankevičius",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, kuri tiktų interjerui ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. pritaikymas prie interjero sėkmingas, o prekė buvo saugiai supakuota. Naudoju jau 29 mėnesius. Likau labai patenkintas.",
+          "date": "2024-04-09",
+          "verified": true,
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.004",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-coffers-and-cupolas/1-57-004/",
+      "code": "1.57.004",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "700 mm",
+        "Aukstis": "700 mm",
+        "Storis": "90 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.004.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_004/models/1.57.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": 74.11,
+      "price_gbp": "63.89",
+      "reviews": [
+        {
+          "reviewId": "1.57.004_rev_1",
+          "customerName": "Gintarė Vaitiekūnas",
+          "rating": 9.5,
+          "comment": "Pasirinkau remdamasis gamintojo reputacija ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. montavimas buvo lengvas ir greitas, o logistika buvo gerai organizuota. Naudoju jau 12 mėnesius. Produktas vertas kiekvieno cento.",
+          "date": "2024-03-01",
+          "verified": true,
+          "helpful": 39
+        },
+        {
+          "reviewId": "1.57.004_rev_2",
+          "customerName": "Nijolė Zinkevičius",
+          "rating": 10.0,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. rezultatas viršijo mano tikslus, o komunikacija buvo aiški. Naudoju jau 19 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2025-12-26",
+          "verified": true,
+          "helpful": 26
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.51.518",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-51-518-2/",
+      "code": "1.51.518",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "2040 mm",
+        "Aukstis": "259 mm",
+        "Storis": "33 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.51.518.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.51.518.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_51_518/models/1.51.518.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.51.518_rev_1",
+          "customerName": "Margarita Vasiliauskas",
+          "rating": 9.9,
+          "comment": "Ilgai lyginau skirtingus variantus ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimas patogus ir paprastas, o visa patirtis su užsakymu teigiama. Naudoju jau 5 mėnesius. Tikrai pirksiu dar kartą, jei prireiks.",
+          "date": "2024-09-20",
+          "verified": true,
+          "helpful": 28
+        },
+        {
+          "reviewId": "1.51.518_rev_2",
+          "customerName": "Marijonas Butkus",
+          "rating": 9.9,
+          "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad spalvos sodrios, atitinka lūkesčius. galutinis efektas labai estetiškas, o siunta supakuota itin tvarkingai. Naudoju jau 34 mėnesius. Labai džiaugiuosi rezultatu.",
+          "date": "2023-11-03",
+          "verified": true,
+          "helpful": 49
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.501",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-501/",
+      "code": "1.57.501",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "535 mm",
+        "Aukstis": "535 mm",
+        "Storis": "61 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.501.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.501.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_501/models/1.57.501.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.501_rev_1",
+          "customerName": "Konstancija Varnas",
+          "rating": 9.8,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas pateisino mano lūkesčius, o pakuotė puikiai apsaugojo produktą. Naudoju jau 7 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2023-10-04",
+          "verified": true,
+          "helpful": 1
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.502",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-502-2/",
+      "code": "1.57.502",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "147 mm",
+        "Aukstis": "147 mm",
+        "Storis": "33 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.502.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.502.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/models/1.57.502.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.502_rev_1",
+          "customerName": "Vidmantas Kazėnas",
+          "rating": 9.6,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad medžiagos jaučiasi kokybiškos ir patvarios. montavimas buvo labai paprastas, o užsakymas įvykdytas laiku. Naudoju jau 29 mėnesius. Pilnai pateisino lūkesčius.",
+          "date": "2025-09-25",
+          "verified": true,
+          "helpful": 46
+        },
+        {
+          "reviewId": "1.57.502_rev_2",
+          "customerName": "Ivanas Bielskis",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal rekomenduojamą prekę specialistų ir iš karto pastebėjau, kad konstrukcija tvirta ir patikima. produktas vertas kiekvieno cento, o logistika suorganizuota nepriekaištingai. Naudoju jau 36 mėnesius. Rekomenduoju be abejonių.",
+          "date": "2023-09-06",
+          "verified": true,
+          "helpful": 14
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.502",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-502/",
+      "code": "1.57.502",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "147 mm",
+        "Aukstis": "147 mm",
+        "Storis": "33 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.502.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.502.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_502/models/1.57.502.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.502_rev_1",
+          "customerName": "Daiva Puodžiūnas",
+          "rating": 9.9,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. viskas veikia nepriekaištingai, o aptarnavimas malonus. Naudoju jau 10 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2023-12-12",
+          "verified": true,
+          "helpful": 46
+        },
+        {
+          "reviewId": "1.57.502_rev_2",
+          "customerName": "Lida Jakubauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad medžiagos aukštos kokybės ir tvirtos. galutinis vaizdas tikrai estetiškas, o komunikacija su pardavėju puiki. Naudoju jau 15 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2025-06-13",
+          "verified": true,
+          "helpful": 45
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.503",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-503-2/",
+      "code": "1.57.503",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "292 mm",
+        "Aukstis": "292 mm",
+        "Storis": "60 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.503.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.503.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/models/1.57.503.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.503_rev_1",
+          "customerName": "Arūnas Vilkas",
+          "rating": 9.6,
+          "comment": "Ieškojau prekę, tinkamą mano būstui ir iš karto pastebėjau, kad detalės kruopščiai išdirbtos. pritaikymas prie kambario lengvai įmanomas, o siunta supakuota itin tvarkingai. Naudoju jau 35 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2024-12-04",
+          "verified": true,
+          "helpful": 15
+        },
+        {
+          "reviewId": "1.57.503_rev_2",
+          "customerName": "Gintas Valiulis",
+          "rating": 9.6,
+          "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. produktas vertas investicijos, o logistika efektyvi ir profesionali. Naudoju jau 8 mėnesius. Rekomenduoju draugams ir šeimai.",
+          "date": "2023-03-23",
+          "verified": true,
+          "helpful": 50
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.503",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-503/",
+      "code": "1.57.503",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "292 mm",
+        "Aukstis": "292 mm",
+        "Storis": "60 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.503.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.503.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_503/models/1.57.503.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.503_rev_1",
+          "customerName": "Juozas Vilkas",
+          "rating": 9.6,
+          "comment": "Pirkau, nes rekomendavo specialistai ir iš karto pastebėjau, kad apdirbimas itin preciziškas. naudojimo patirtis paprasta ir maloni, o prekė atvyko tiksliai laiku. Naudoju jau 16 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-03-23",
+          "verified": true,
+          "helpful": 32
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.504",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-57-504-2/",
+      "code": "1.57.504",
+      "category": "lubu-paneles",
+      "details": {
+        "Ilgis": "250 mm",
+        "Aukstis": "208 mm",
+        "Storis": "24 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.504.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.504.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/models/1.57.504.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.504_rev_1",
+          "customerName": "Svajūnas Tautkus",
+          "rating": 9.7,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. naudojimas greitas ir komfortiškas, o komunikacija su pardavėju puiki. Naudoju jau 2 mėnesius. Drąsiai pirkčiau dar kartą.",
+          "date": "2025-05-08",
+          "verified": true,
+          "helpful": 36
+        }
+      ]
+    },
+    {
+      "name": "Ceiling panel 1.57.504",
+      "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-panels/1-57-504/",
+      "code": "1.57.504",
+      "category": "lubu-paneles",
+      "details": {
+        "Plotis": "250 mm",
+        "Aukstis": "208 mm",
+        "Storis": "24 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "1.57.504.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.57.504.obj",
+        "local_path": "data/ceiling-panel/Ceiling_panel_1_57_504/models/1.57.504.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "price": null,
+      "reviews": [
+        {
+          "reviewId": "1.57.504_rev_1",
+          "customerName": "Pranciška Masiulis",
+          "rating": 10.0,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. naudojimas lengvas net pradedantiesiems, o užsakymas įvykdytas sklandžiai. Naudoju jau 16 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2024-03-14",
+          "verified": true,
+          "helpful": 38
+        }
+      ]
+    }
+  ]
 }

@@ -20,25 +20,19 @@ export async function generateMetadata(): Promise<Metadata> {
 
   const canonicalUrl = `https://www.dekoratoriai.lt/produktai/pagrindai/${product.code}`;
 
-  const description = `${product.name} - Premium interior decoration product. High-quality gypsum molding for professional interior design.`;
+  const description = `${product.name} - Aukštos kokybės interjero dekoracijos product. High-quality gypsum molding for professional interior design.`;
 
   return {
-    title: `${product.name} - Premium Interior Decoration | Interjero ir Fasado Dekoratoriai`,
+    title: `${product.name} - Aukštos kokybės interjero dekoracijos | Interjero ir Fasado Dekoratoriai`,
     description,
     alternates: {
       canonical: canonicalUrl
     },
     openGraph: {
-      title: `${product.name} - Premium Interior Decoration`,
+      title: `${product.name} - Aukštos kokybės interjero dekoracijos`,
       description,
       url: canonicalUrl,
-      images: [
-        {
-          url: product.images[0]?.url || '',
-          width: 1200,
-          height: 630
-        }
-      ]
+
     },
     robots: {
       index: true,

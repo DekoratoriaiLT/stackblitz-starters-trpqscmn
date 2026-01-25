@@ -1,532 +1,442 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Architrave 4.04.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-101/",
+      "code": "4.04.101",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "56 mm",
+        "Aukštis": "168 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.101.obj",
+        "local_path": "data/architrave/Architrave_4_04_101/models/4.04.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 54.88,
+      "price_gbp": "47.31",
+      "reviews": [
         {
-            "name": "Architrave 4.04.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-101/",
-            "code": "4.04.101",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.101.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_101/images/4.04.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.101.100.png"
-                },
-                {
-                    "filename": "4.04.101.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_101/images/4.04.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.101.100.png"
-                },
-                {
-                    "filename": "4.04.101.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_101/images/4.04.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.101.40.png"
-                },
-                {
-                    "filename": "4.04.101.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_101/images/4.04.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.101.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "56 mm",
-                "Aukštis": "168 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.101.obj",
-                "local_path": "data/architrave/Architrave_4_04_101/models/4.04.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 54.88,
-            "price_gbp": "47.31",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.04.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-102/",
-            "code": "4.04.102",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.102.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_102/images/4.04.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.102.100.png"
-                },
-                {
-                    "filename": "4.04.102.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_102/images/4.04.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.102.100.png"
-                },
-                {
-                    "filename": "4.04.102.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_102/images/4.04.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.102.40.png"
-                },
-                {
-                    "filename": "4.04.102.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_102/images/4.04.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.102.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "90 mm",
-                "Aukštis": "152 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.102.obj",
-                "local_path": "data/architrave/Architrave_4_04_102/models/4.04.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 82.33,
-            "price_gbp": "70.97",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.04.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-201/",
-            "code": "4.04.201",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.201.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_201/images/4.04.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.201.100.png"
-                },
-                {
-                    "filename": "4.04.201.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_201/images/4.04.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.201.100.png"
-                },
-                {
-                    "filename": "4.04.201.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_201/images/4.04.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.201.40.png"
-                },
-                {
-                    "filename": "4.04.201.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_201/images/4.04.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.201.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "70 mm",
-                "Aukštis": "188 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.201.obj",
-                "local_path": "data/architrave/Architrave_4_04_201/models/4.04.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 73.18,
-            "price_gbp": "63.09",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.04.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-202/",
-            "code": "4.04.202",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.202.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_202/images/4.04.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.202.100.png"
-                },
-                {
-                    "filename": "4.04.202.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_202/images/4.04.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.202.100.png"
-                },
-                {
-                    "filename": "4.04.202.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_202/images/4.04.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.202.40.png"
-                },
-                {
-                    "filename": "4.04.202.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_202/images/4.04.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.202.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "96 mm",
-                "Aukštis": "168 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.202.obj",
-                "local_path": "data/architrave/Architrave_4_04_202/models/4.04.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 97.57,
-            "price_gbp": "84.11",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.04.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-301/",
-            "code": "4.04.301",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.301.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_301/images/4.04.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.301.100.png"
-                },
-                {
-                    "filename": "4.04.301.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_301/images/4.04.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.301.100.png"
-                },
-                {
-                    "filename": "4.04.301.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_301/images/4.04.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.301.40.png"
-                },
-                {
-                    "filename": "4.04.301.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_301/images/4.04.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.301.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "65 mm",
-                "Aukštis": "207 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.301.obj",
-                "local_path": "data/architrave/Architrave_4_04_301/models/4.04.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 57.93,
-            "price_gbp": "49.94",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.04.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-302/",
-            "code": "4.04.302",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.04.302.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_302/images/4.04.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.302.100.png"
-                },
-                {
-                    "filename": "4.04.302.100.png",
-                    "local_path": "data/architrave/Architrave_4_04_302/images/4.04.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.04.302.100.png"
-                },
-                {
-                    "filename": "4.04.302.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_302/images/4.04.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.302.40.png"
-                },
-                {
-                    "filename": "4.04.302.40.png",
-                    "local_path": "data/architrave/Architrave_4_04_302/images/4.04.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.04.302.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "95 mm",
-                "Aukštis": "173 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.04.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.302.obj",
-                "local_path": "data/architrave/Architrave_4_04_302/models/4.04.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 97.57,
-            "price_gbp": "84.11",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.101",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-101/",
-            "code": "4.34.101",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.101.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_101/images/4.34.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.101.100.png"
-                },
-                {
-                    "filename": "4.34.101.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_101/images/4.34.101.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.101.100.png"
-                },
-                {
-                    "filename": "4.34.101.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_101/images/4.34.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.101.40.png"
-                },
-                {
-                    "filename": "4.34.101.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_101/images/4.34.101.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.101.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "108 mm",
-                "Aukštis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.101.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.101.obj",
-                "local_path": "data/architrave/Architrave_4_34_101/models/4.34.101.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 91.48,
-            "price_gbp": "78.86",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.102",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-102/",
-            "code": "4.34.102",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.102.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_102/images/4.34.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.102.100.png"
-                },
-                {
-                    "filename": "4.34.102.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_102/images/4.34.102.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.102.100.png"
-                },
-                {
-                    "filename": "4.34.102.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_102/images/4.34.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.102.40.png"
-                },
-                {
-                    "filename": "4.34.102.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_102/images/4.34.102.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.102.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "59 mm",
-                "Aukštis": "112 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.102.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.102.obj",
-                "local_path": "data/architrave/Architrave_4_34_102/models/4.34.102.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 51.84,
-            "price_gbp": "44.69",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.201",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-201/",
-            "code": "4.34.201",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.201.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_201/images/4.34.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.201.100.png"
-                },
-                {
-                    "filename": "4.34.201.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_201/images/4.34.201.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.201.100.png"
-                },
-                {
-                    "filename": "4.34.201.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_201/images/4.34.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.201.40.png"
-                },
-                {
-                    "filename": "4.34.201.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_201/images/4.34.201.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.201.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "109 mm",
-                "Aukštis": "125 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.201.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.201.obj",
-                "local_path": "data/architrave/Architrave_4_34_201/models/4.34.201.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 70.13,
-            "price_gbp": "60.46",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.202",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-202/",
-            "code": "4.34.202",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.202.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_202/images/4.34.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.202.100.png"
-                },
-                {
-                    "filename": "4.34.202.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_202/images/4.34.202.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.202.100.png"
-                },
-                {
-                    "filename": "4.34.202.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_202/images/4.34.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.202.40.png"
-                },
-                {
-                    "filename": "4.34.202.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_202/images/4.34.202.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.202.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "67 mm",
-                "Aukštis": "124 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.202.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.202.obj",
-                "local_path": "data/architrave/Architrave_4_34_202/models/4.34.202.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 57.93,
-            "price_gbp": "49.94",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.301",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-301/",
-            "code": "4.34.301",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.301.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_301/images/4.34.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.301.100.png"
-                },
-                {
-                    "filename": "4.34.301.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_301/images/4.34.301.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.301.100.png"
-                },
-                {
-                    "filename": "4.34.301.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_301/images/4.34.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.301.40.png"
-                },
-                {
-                    "filename": "4.34.301.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_301/images/4.34.301.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.301.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "100 mm",
-                "Aukštis": "137 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.301.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.301.obj",
-                "local_path": "data/architrave/Architrave_4_34_301/models/4.34.301.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 76.22,
-            "price_gbp": "65.71",
-            "reviews": []
-        },
-        {
-            "name": "Architrave 4.34.302",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-302/",
-            "code": "4.34.302",
-            "category": "architravai",
-            "images": [
-                {
-                    "filename": "4.34.302.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_302/images/4.34.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.302.100.png"
-                },
-                {
-                    "filename": "4.34.302.100.png",
-                    "local_path": "data/architrave/Architrave_4_34_302/images/4.34.302.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.34.302.100.png"
-                },
-                {
-                    "filename": "4.34.302.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_302/images/4.34.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.302.40.png"
-                },
-                {
-                    "filename": "4.34.302.40.png",
-                    "local_path": "data/architrave/Architrave_4_34_302/images/4.34.302.40.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.34.302.40.png"
-                }
-            ],
-            "details": {
-                "Ilgis": "2000 mm",
-                "Plotis": "67 mm",
-                "Aukštis": "137 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.34.302.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.302.obj",
-                "local_path": "data/architrave/Architrave_4_34_302/models/4.34.302.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 54.88,
-            "price_gbp": "47.31",
-            "reviews": []
+          "reviewId": "4.04.101_rev_1",
+          "customerName": "Kristina Mačiulis",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad dizainas elegantiškas ir pritraukiantis dėmesį. viskas veikia sklandžiai, o logistika efektyvi ir profesionali. Naudoju jau 30 mėnesius. Tikrai verta šio produkto.",
+          "date": "2024-02-21",
+          "verified": true,
+          "helpful": 17
         }
-    ]
+      ]
+    },
+    {
+      "name": "Architrave 4.04.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-102/",
+      "code": "4.04.102",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "90 mm",
+        "Aukštis": "152 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.102.obj",
+        "local_path": "data/architrave/Architrave_4_04_102/models/4.04.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 82.33,
+      "price_gbp": "70.97",
+      "reviews": [
+        {
+          "reviewId": "4.04.102_rev_1",
+          "customerName": "Bronislova Gedvilas",
+          "rating": 9.6,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. galutinis vaizdas atitinka nuotraukas, o logistika efektyvi ir profesionali. Naudoju jau 20 mėnesius. Labai maloni patirtis perkant šį gaminį.",
+          "date": "2025-03-29",
+          "verified": true,
+          "helpful": 51
+        },
+        {
+          "reviewId": "4.04.102_rev_2",
+          "customerName": "Norvaidė Švedas",
+          "rating": 9.8,
+          "comment": "Nusprendžiau pabandyti, nes buvo gera kaina ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. rezultatas pranoko mano lūkesčius, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 16 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
+          "date": "2025-09-27",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.04.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-201/",
+      "code": "4.04.201",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "70 mm",
+        "Aukštis": "188 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.201.obj",
+        "local_path": "data/architrave/Architrave_4_04_201/models/4.04.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 73.18,
+      "price_gbp": "63.09",
+      "reviews": [
+        {
+          "reviewId": "4.04.201_rev_1",
+          "customerName": "Vytis Jakštas",
+          "rating": 9.8,
+          "comment": "Rinkausi dėl ilgaamžiškumo ir kokybės ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. viskas atitiko mano lūkesčius, o siunta atvyko laiku. Naudoju jau 30 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2024-02-01",
+          "verified": true,
+          "helpful": 46
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.04.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-202/",
+      "code": "4.04.202",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "96 mm",
+        "Aukštis": "168 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.202.obj",
+        "local_path": "data/architrave/Architrave_4_04_202/models/4.04.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 97.57,
+      "price_gbp": "84.11",
+      "reviews": [
+        {
+          "reviewId": "4.04.202_rev_1",
+          "customerName": "Saulė Šalčius",
+          "rating": 9.4,
+          "comment": "Ieškojau kokybiško sprendimo savo namams ir iš karto pastebėjau, kad apdirbimas kruopštus ir tikslus. pritaikymas prie mano namų buvo lengvas, o užsakymo procesas aiškus ir paprastas. Naudoju jau 13 mėnesius. Vertinu labai teigiamai.",
+          "date": "2025-01-24",
+          "verified": true,
+          "helpful": 27
+        },
+        {
+          "reviewId": "4.04.202_rev_2",
+          "customerName": "Viktorija Gedvilas",
+          "rating": 10.0,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad bendras gaminio įspūdis labai teigiamas. rezultatas viršijo mano tikslus, o prekė pristatyta nepriekaištingai. Naudoju jau 10 mėnesius. Rezultatas nuostabus.",
+          "date": "2025-11-26",
+          "verified": true,
+          "helpful": 43
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.04.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-301/",
+      "code": "4.04.301",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "65 mm",
+        "Aukštis": "207 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.301.obj",
+        "local_path": "data/architrave/Architrave_4_04_301/models/4.04.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 57.93,
+      "price_gbp": "49.94",
+      "reviews": [
+        {
+          "reviewId": "4.04.301_rev_1",
+          "customerName": "Romanas Valiulis",
+          "rating": 10.0,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. naudojimo patirtis paprasta ir maloni, o užsakymo procesas aiškus ir paprastas. Naudoju jau 28 mėnesius. Tikrai puikus pasirinkimas namams.",
+          "date": "2022-04-22",
+          "verified": true,
+          "helpful": 56
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.04.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-04-302/",
+      "code": "4.04.302",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "95 mm",
+        "Aukštis": "173 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.04.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.04.302.obj",
+        "local_path": "data/architrave/Architrave_4_04_302/models/4.04.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 97.57,
+      "price_gbp": "84.11",
+      "reviews": [
+        {
+          "reviewId": "4.04.302_rev_1",
+          "customerName": "Algimantas Lapinskas",
+          "rating": 9.5,
+          "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad apdirbimas preciziškas, jokio trūkumo nematyti. galutinis efektas atrodo profesionaliai, o visa patirtis sklandi. Naudoju jau 6 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
+          "date": "2025-01-26",
+          "verified": true,
+          "helpful": 23
+        },
+        {
+          "reviewId": "4.04.302_rev_2",
+          "customerName": "Alfreda Vaitkevičius",
+          "rating": 9.7,
+          "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. produktas vertas investicijos, o prekė atvyko labai greitai. Naudoju jau 19 mėnesius. Rekomenduoju visiems, kurie ieško kokybės.",
+          "date": "2023-08-28",
+          "verified": true,
+          "helpful": 37
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.101",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-101/",
+      "code": "4.34.101",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "108 mm",
+        "Aukštis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.101.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.101.obj",
+        "local_path": "data/architrave/Architrave_4_34_101/models/4.34.101.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 91.48,
+      "price_gbp": "78.86",
+      "reviews": [
+        {
+          "reviewId": "4.34.101_rev_1",
+          "customerName": "Izaokas Žilinskas",
+          "rating": 9.5,
+          "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. pritaikymas prie interjero vyko be problemų, o komunikacija buvo aiški. Naudoju jau 21 mėnesius. Produktas pilnai pateisino lūkesčius.",
+          "date": "2022-11-25",
+          "verified": true,
+          "helpful": 20
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.102",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-102/",
+      "code": "4.34.102",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "59 mm",
+        "Aukštis": "112 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.102.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.102.obj",
+        "local_path": "data/architrave/Architrave_4_34_102/models/4.34.102.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 51.84,
+      "price_gbp": "44.69",
+      "reviews": [
+        {
+          "reviewId": "4.34.102_rev_1",
+          "customerName": "Domas Ivanauskas",
+          "rating": 9.9,
+          "comment": "Pasirinkau, nes buvo lengva užsisakyti internetu ir iš karto pastebėjau, kad medžiagos tvirtos, patvarios ir kokybiškos. viskas veikia nepriekaištingai ir patikimai, o aptarnavimas malonus. Naudoju jau 12 mėnesius. Esu labai patenkintas pirkiniu.",
+          "date": "2023-03-05",
+          "verified": true,
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.201",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-201/",
+      "code": "4.34.201",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "109 mm",
+        "Aukštis": "125 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.201.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.201.obj",
+        "local_path": "data/architrave/Architrave_4_34_201/models/4.34.201.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 70.13,
+      "price_gbp": "60.46",
+      "reviews": [
+        {
+          "reviewId": "4.34.201_rev_1",
+          "customerName": "Rimvydas Mikalauskas",
+          "rating": 9.6,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad paviršius lygus, be defektų. viskas veikia sklandžiai ir patikimai, o siunta atvyko saugiai ir laiku. Naudoju jau 15 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2023-09-11",
+          "verified": true,
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.202",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-202/",
+      "code": "4.34.202",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "67 mm",
+        "Aukštis": "124 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.202.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.202.obj",
+        "local_path": "data/architrave/Architrave_4_34_202/models/4.34.202.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 57.93,
+      "price_gbp": "49.94",
+      "reviews": [
+        {
+          "reviewId": "4.34.202_rev_1",
+          "customerName": "Vilhelmas Stonys",
+          "rating": 9.4,
+          "comment": "Ieškojau varianto, kuris lengvai derėtų su kitais elementais ir iš karto pastebėjau, kad matosi kruopštus gamybos procesas. naudojimo patirtis paprasta ir maloni, o pakuotė tvarkinga, pristatymas greitas. Naudoju jau 15 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2023-09-11",
+          "verified": true,
+          "helpful": 59
+        },
+        {
+          "reviewId": "4.34.202_rev_2",
+          "customerName": "Grytė Staniulis",
+          "rating": 9.9,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad paviršius lygus ir malonus liesti. galutinis efektas atrodo profesionaliai, o visa patirtis maloni ir sklandi. Naudoju jau 19 mėnesius. Rezultatas viršijo mano lūkesčius.",
+          "date": "2022-09-01",
+          "verified": true,
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.301",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-301/",
+      "code": "4.34.301",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "100 mm",
+        "Aukštis": "137 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.301.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.301.obj",
+        "local_path": "data/architrave/Architrave_4_34_301/models/4.34.301.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 76.22,
+      "price_gbp": "65.71",
+      "reviews": [
+        {
+          "reviewId": "4.34.301_rev_1",
+          "customerName": "Simonas Voveris",
+          "rating": 9.4,
+          "comment": "Rinkausi pagal kainos ir kokybės santykį ir iš karto pastebėjau, kad produktas atrodo solidus ir patikimas. galutinis vaizdas atitinka nuotraukas, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 23 mėnesius. Produktas tikrai kokybiškas ir patikimas.",
+          "date": "2024-02-26",
+          "verified": true,
+          "helpful": 48
+        },
+        {
+          "reviewId": "4.34.301_rev_2",
+          "customerName": "Steponas Šiugždinis",
+          "rating": 9.6,
+          "comment": "Pirkau, nes patiko nauja kolekcija ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. produktas jaučiasi patvarus ir solidus, o užsakymas įvykdytas be problemų. Naudoju jau 12 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2022-11-02",
+          "verified": true,
+          "helpful": 44
+        }
+      ]
+    },
+    {
+      "name": "Architrave 4.34.302",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/entablatures-facade/architraves-entablatures/4-34-302/",
+      "code": "4.34.302",
+      "category": "architravai",
+      "details": {
+        "Ilgis": "2000 mm",
+        "Plotis": "67 mm",
+        "Aukštis": "137 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.34.302.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.34.302.obj",
+        "local_path": "data/architrave/Architrave_4_34_302/models/4.34.302.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 54.88,
+      "price_gbp": "47.31",
+      "reviews": [
+        {
+          "reviewId": "4.34.302_rev_1",
+          "customerName": "Jurgis Bružas",
+          "rating": 9.7,
+          "comment": "Rinkausi pagal stiliaus ir kainos santykį ir iš karto pastebėjau, kad dizainas modernus ir estetiškas. viskas veikia be trikdžių, o užsakymas įvykdytas sklandžiai. Naudoju jau 15 mėnesius. Tikrai dar kartą pirksiu šį produktą.",
+          "date": "2023-04-15",
+          "verified": true,
+          "helpful": 32
+        },
+        {
+          "reviewId": "4.34.302_rev_2",
+          "customerName": "Frederikas Janulis",
+          "rating": 9.9,
+          "comment": "Rinkausi dėl medžiagų kokybės ir ilgaamžiškumo ir iš karto pastebėjau, kad medžiagos atrodo tvirtos ir patvarios. pritaikymas prie interjero nekelia problemų, o užsakymas įvykdytas laiku. Naudoju jau 5 mėnesius. Labai rekomenduoju šį gaminį.",
+          "date": "2022-06-22",
+          "verified": true,
+          "helpful": 8
+        }
+      ]
+    }
+  ]
 }

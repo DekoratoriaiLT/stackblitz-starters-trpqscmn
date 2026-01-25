@@ -32,7 +32,6 @@ interface BusinessAccount {
 
 // Available product categories
 const CATEGORIES = [
-  { value: "produktai", label: "Visi produktai", dataFile: "produktai.json" },
   { value: "kolonos", label: "Kolonos", dataFile: "kolonos/kolonos.json" },
   { value: "architravai", label: "Architravai", dataFile: "architravai/architravai.json" },
   { value: "balustrai", label: "Balustrai", dataFile: "balustrai/balustrai.json" },

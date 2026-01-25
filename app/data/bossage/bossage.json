@@ -1,174 +1,173 @@
 {
-    "products": [
+  "products": [
+    {
+      "name": "Bossage 4.86.001",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-001/",
+      "code": "4.86.001",
+      "category": "rustika",
+      "details": {
+        "Plotis": "555 mm",
+        "Aukštis": "290 mm",
+        "Ilgis": "42 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.86.001.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.001.obj",
+        "local_path": "data/bossage/Bossage_4_86_001/models/4.86.001.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 47.72,
+      "price_gbp": "41.14",
+      "reviews": [
         {
-            "name": "Bossage 4.86.001",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-001/",
-            "code": "4.86.001",
-            "category": "rustika",
-            "images": [
-                {
-                    "filename": "4.86.001.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_001/images/4.86.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.001.100.png"
-                },
-                {
-                    "filename": "4.86.001.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_001/images/4.86.001.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.001.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "555 mm",
-                "Aukštis": "290 mm",
-                "Ilgis": "42 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.86.001.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.001.obj",
-                "local_path": "data/bossage/Bossage_4_86_001/models/4.86.001.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 47.72,
-            "price_gbp": "41.14",
-            "reviews": []
-        },
-        {
-            "name": "Bossage 4.86.002",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-002/",
-            "code": "4.86.002",
-            "category": "rustika",
-            "images": [
-                {
-                    "filename": "4.86.002.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_002/images/4.86.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.002.100.png"
-                },
-                {
-                    "filename": "4.86.002.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_002/images/4.86.002.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.002.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "548 mm",
-                "Aukštis": "216 mm",
-                "Ilgis": "37 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.86.002.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.002.obj",
-                "local_path": "data/bossage/Bossage_4_86_002/models/4.86.002.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 33.41,
-            "price_gbp": "28.80",
-            "reviews": []
-        },
-        {
-            "name": "Bossage 4.86.003",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-003/",
-            "code": "4.86.003",
-            "category": "rustika",
-            "images": [
-                {
-                    "filename": "4.86.003.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_003/images/4.86.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.003.100.png"
-                },
-                {
-                    "filename": "4.86.003.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_003/images/4.86.003.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.003.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "373 mm",
-                "Aukštis": "249 mm",
-                "Ilgis": "40 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.86.003.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.003.obj",
-                "local_path": "data/bossage/Bossage_4_86_003/models/4.86.003.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 29.16,
-            "price_gbp": "25.14",
-            "reviews": []
-        },
-        {
-            "name": "Bossage 4.86.004",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-004/",
-            "code": "4.86.004",
-            "category": "rustika",
-            "images": [
-                {
-                    "filename": "4.86.004.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_004/images/4.86.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.004.100.png"
-                },
-                {
-                    "filename": "4.86.004.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_004/images/4.86.004.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.004.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "250 mm",
-                "Aukštis": "250 mm",
-                "Ilgis": "40 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.86.004.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.004.obj",
-                "local_path": "data/bossage/Bossage_4_86_004/models/4.86.004.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 21.22,
-            "price_gbp": "18.29",
-            "reviews": []
-        },
-        {
-            "name": "Bossage 4.86.005",
-            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-005/",
-            "code": "4.86.005",
-            "category": "rustika",
-            "images": [
-                {
-                    "filename": "4.86.005.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_005/images/4.86.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.005.100.png"
-                },
-                {
-                    "filename": "4.86.005.100.png",
-                    "local_path": "data/bossage/Bossage_4_86_005/images/4.86.005.100.png",
-                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.005.100.png"
-                }
-            ],
-            "details": {
-                "Plotis": "360 mm",
-                "Aukštis": "290 mm",
-                "Ilgis": "42 mm"
-            },
-            "flexible_analog_exists": false,
-            "model": {
-                "filename": "4.86.005.obj",
-                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.005.obj",
-                "local_path": "data/bossage/Bossage_4_86_005/models/4.86.005.obj"
-            },
-            "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": 33.94,
-            "price_gbp": "29.26",
-            "reviews": []
+          "reviewId": "4.86.001_rev_1",
+          "customerName": "Dalia Tijūnaitis",
+          "rating": 9.5,
+          "comment": "Pasirinkau, nes patiko gaminio spalva ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. galutinis vaizdas tikrai estetiškas, o siunta pristatyta saugiai ir laiku. Naudoju jau 4 mėnesius. Labai maloni patirtis su šiuo pirkiniu.",
+          "date": "2022-11-03",
+          "verified": true,
+          "helpful": 42
         }
-    ]
+      ]
+    },
+    {
+      "name": "Bossage 4.86.002",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-002/",
+      "code": "4.86.002",
+      "category": "rustika",
+      "details": {
+        "Plotis": "548 mm",
+        "Aukštis": "216 mm",
+        "Ilgis": "37 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.86.002.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.002.obj",
+        "local_path": "data/bossage/Bossage_4_86_002/models/4.86.002.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 33.41,
+      "price_gbp": "28.80",
+      "reviews": [
+        {
+          "reviewId": "4.86.002_rev_1",
+          "customerName": "Anastazija Urbonaitis",
+          "rating": 9.7,
+          "comment": "Ieškojau produkto, kuris ilgai tarnautų ir iš karto pastebėjau, kad paviršius švelnus ir malonus liesti. produktas pateisino investiciją, o pakuotė puikiai apsaugojo produktą. Naudoju jau 10 mėnesius. Tikrai likau patenkintas pirkiniu.",
+          "date": "2022-08-10",
+          "verified": true,
+          "helpful": 30
+        },
+        {
+          "reviewId": "4.86.002_rev_2",
+          "customerName": "Evelina Morkūnas",
+          "rating": 9.7,
+          "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad detalės išdirbtos nepriekaištingai. pritaikymas prie interjero nesukėlė sunkumų, o aptarnavimas draugiškas, komunikacija aiški. Naudoju jau 19 mėnesius. Esu sužavėtas galutiniu rezultatu.",
+          "date": "2024-04-06",
+          "verified": true,
+          "helpful": 2
+        }
+      ]
+    },
+    {
+      "name": "Bossage 4.86.003",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-003/",
+      "code": "4.86.003",
+      "category": "rustika",
+      "details": {
+        "Plotis": "373 mm",
+        "Aukštis": "249 mm",
+        "Ilgis": "40 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.86.003.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.003.obj",
+        "local_path": "data/bossage/Bossage_4_86_003/models/4.86.003.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 29.16,
+      "price_gbp": "25.14",
+      "reviews": [
+        {
+          "reviewId": "4.86.003_rev_1",
+          "customerName": "Dovilė Burbulis",
+          "rating": 10.0,
+          "comment": "Ieškojau sprendimo interjerui ir iš karto pastebėjau, kad detalės išbaigtos nepriekaištingai. pritaikymas prie interjero nesukėlė sunkumų, o užsakymo procesas aiškus ir paprastas. Naudoju jau 1 mėnesius. Pirksiu dar kartą be dvejonių.",
+          "date": "2022-02-18",
+          "verified": true,
+          "helpful": 16
+        }
+      ]
+    },
+    {
+      "name": "Bossage 4.86.004",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-004/",
+      "code": "4.86.004",
+      "category": "rustika",
+      "details": {
+        "Plotis": "250 mm",
+        "Aukštis": "250 mm",
+        "Ilgis": "40 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.86.004.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.004.obj",
+        "local_path": "data/bossage/Bossage_4_86_004/models/4.86.004.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 21.22,
+      "price_gbp": "18.29",
+      "reviews": [
+        {
+          "reviewId": "4.86.004_rev_1",
+          "customerName": "Eimantas Rimšas",
+          "rating": 9.4,
+          "comment": "Ieškojau kažko patikimo ir tvirto ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. galutinis vaizdas atrodo estetiškai ir kokybiškai, o visa patirtis buvo labai teigiama. Naudoju jau 4 mėnesius. Likau labai patenkinta pirkiniu.",
+          "date": "2023-09-11",
+          "verified": true,
+          "helpful": 5
+        }
+      ]
+    },
+    {
+      "name": "Bossage 4.86.005",
+      "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-005/",
+      "code": "4.86.005",
+      "category": "rustika",
+      "details": {
+        "Plotis": "360 mm",
+        "Aukštis": "290 mm",
+        "Ilgis": "42 mm"
+      },
+      "flexible_analog_exists": false,
+      "model": {
+        "filename": "4.86.005.obj",
+        "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.005.obj",
+        "local_path": "data/bossage/Bossage_4_86_005/models/4.86.005.obj"
+      },
+      "mounting_instructions": "There is no instruction at the moment",
+      "sudetis": "Poliuretanas",
+      "price": 33.94,
+      "price_gbp": "29.26",
+      "reviews": [
+        {
+          "reviewId": "4.86.005_rev_1",
+          "customerName": "Mindaugas Klišauskas",
+          "rating": 9.7,
+          "comment": "Norėjau aukštos klasės produkto ir iš karto pastebėjau, kad detalės subtiliai išbaigtos. produktas pateisino mano lūkesčius, o užsakymas įvykdytas sklandžiai. Naudoju jau 33 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
+          "date": "2025-10-18",
+          "verified": true,
+          "helpful": 21
+        }
+      ]
+    }
+  ]
 }
