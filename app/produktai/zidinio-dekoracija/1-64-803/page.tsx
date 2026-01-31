@@ -12,7 +12,7 @@ const getProduct = async (productCode: string) => {
 
 const getStructuredData = (product: any) => {
   const canonicalUrl = `https://www.dekoratoriai.lt/produktai/zidinio-dekoracija/${product.code}`;
-  const description = `${product.name} - Aukštos kokybės interjero dekoracijos product with high-quality gypsum molding.`;
+  const description = `${product.name} - Aukštos kokybės interjero dekoracijos produktai with high-quality gypsum molding.`;
 
   const productSchema = {
     "@context": "https://schema.org/",

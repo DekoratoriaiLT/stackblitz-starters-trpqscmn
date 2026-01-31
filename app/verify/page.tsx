@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { applyActionCode } from "firebase/auth";
-import { auth } from "@/app/lib/firebase";
+import { auth } from "@/app/firebase";
 
 export default function VerifyPage() {
   const searchParams = useSearchParams();

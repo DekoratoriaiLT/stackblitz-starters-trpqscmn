@@ -20,7 +20,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
   const canonicalUrl = `https://www.dekoratoriai.lt/produktai/architravai/${product.code}`;
 
-  const description = `${product.name} - Aukštos kokybės interjero dekoracijos product. High-quality gypsum molding for professional interior design.`;
+  const description = `${product.name} - Aukštos kokybės interjero dekoracijos produktai. Lengvas, patvarus ir estetiškas poliuretano dekoras.`;
 
   return {
     title: `${product.name} - Aukštos kokybės interjero dekoracijos | Interjero ir Fasado Dekoratoriai`,
