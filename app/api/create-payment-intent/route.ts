@@ -9,7 +9,7 @@ if (!secretKey) {
 
 // Remove the problematic API version or use a stable one
 const stripe = new Stripe(secretKey, {
-  apiVersion: "2025-11-17.clover",
+  apiVersion: "2025-12-15.clover",
 });
 
 export async function POST(request: NextRequest) {
