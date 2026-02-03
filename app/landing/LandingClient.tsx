@@ -10,6 +10,7 @@ import SpecialOffersCarousel from "./SpecialusPasiulymai/SpecialusPasiulymai";
 import FAQSection from "./DUK/DUK";
 import Suintimas from "./Suintimas/Suintimas";
 import Quote from "./Quote/Quote";
+import LayoutWrapper from "./LayoutWrapper/LayoutWrapper";
 
 // Sections
 const sections = [
@@ -47,7 +48,7 @@ export default function LandingClient() {
   };
 
   return (
-    <>
+    <LayoutWrapper>
       <AnimatePresence>
         {showSplash && (
           <motion.div
@@ -109,7 +110,7 @@ export default function LandingClient() {
 
       {/* Main Content */}
       <motion.div
-        className="w-full"
+        className="w-full overflow-x-hidden"
         initial={{ opacity: 0 }}
         animate={{ opacity: showSplash ? 0 : 1 }}
         transition={{ duration: 0.5 }}
@@ -117,12 +118,14 @@ export default function LandingClient() {
         {sections.map((section) => (
           <div
             key={section.id}
-            className="min-h-screen flex justify-center items-center"
+            className="min-h-screen flex justify-center items-center w-full overflow-x-hidden max-w-[100vw]"
           >
-            {section.component}
+            <div className="w-full max-w-[100vw] overflow-x-hidden">
+              {section.component}
+            </div>
           </div>
         ))}
       </motion.div>
-    </>
+    </LayoutWrapper>
   );
 }

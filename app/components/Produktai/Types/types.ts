@@ -20,7 +20,7 @@ export interface Review {
   reviewId: string;
   customerName: string;
   rating: number;
-  title: string;
+  title?: string; // Made optional since JSON doesn't show it
   comment: string;
   date: string;
   verified: boolean;
@@ -45,7 +45,8 @@ export interface ProductRaw {
 
   sudetis?: string;
   price?: number | null;
-  reviews?: Review[]; // ✅ ADD REVIEWS HERE
+  price_gbp?: string; // From your JSON
+  reviews?: Review[];
 }
 
 /* ================= DIMENSIONS ================= */
@@ -70,7 +71,7 @@ export interface ProductDimensions {
 interface ProductBase {
   id: string;
   name: string;
-  title: string;
+  title: string; // Display title
   url: string;
   code: string | null;
   category: string;
@@ -80,7 +81,12 @@ interface ProductBase {
 
   sudetis: string;
   papildoma_informacija?: string;
-  reviews?: Review[]; // ✅ ADD REVIEWS HERE TOO
+  reviews?: Review[];
+  
+  // Add these fields that are used in DesktopProductCard
+  flexible_analog_exists?: boolean;
+  model?: ProductModel;
+  mounting_instructions?: string;
 }
 
 /* ---- With €/m ---- */
@@ -127,8 +133,6 @@ export interface FilterConfig {
 
 export interface DesktopCardProps {
   product: Product;
-  categoryTitle: string;
-  isExpanded: boolean;
   onToggleExpand: () => void;
   onAddToCart: () => void;
 }

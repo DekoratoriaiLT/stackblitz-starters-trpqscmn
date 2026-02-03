@@ -1,38 +1,42 @@
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
-interface AppointmentEmailRequest {
+interface CallRequestBody {
   firstName: string;
   lastName: string;
-  email: string;
-  phone?: string;
+  email?: string;
+  phone: string;
   message: string;
-  appointmentDate?: string;
+  preferredTime?: string;
+  date?: string;
   timestamp: string;
+}
+
+/* ── human-friendly label for the preferred-time key ── */
+function preferredTimeLabel(key?: string): string {
+  const map: Record<string, string> = {
+    morning: "Rytą (9:00 – 12:00)",
+    midday: "Pietų metu (12:00 – 15:00)",
+    afternoon: "Popietę (15:00 – 18:00)",
+    any: "Bet kurį laiką",
+  };
+  return key ? (map[key] ?? key) : "Nepasirinkta";
 }
 
 export async function POST(req: Request) {
   try {
-    const body = (await req.json()) as AppointmentEmailRequest;
+    const body = (await req.json()) as CallRequestBody;
+    const { firstName, lastName, email, phone, message, preferredTime, date, timestamp } = body;
 
-    const {
-      firstName,
-      lastName,
-      email,
-      phone,
-      message,
-      appointmentDate,
-      timestamp,
-    } = body;
-
-    // Validate required fields
-    if (!firstName || !lastName || !email || !message) {
+    /* ── validation ── */
+    if (!firstName || !lastName || !phone || !message) {
       return NextResponse.json(
         { success: false, message: "Missing required fields" },
         { status: 400 }
       );
     }
 
+    /* ── shared pieces ── */
     const transporter = nodemailer.createTransport({
       host: "smtp.gmail.com",
       port: 587,
@@ -43,144 +47,169 @@ export async function POST(req: Request) {
       },
     });
 
-    // ================= ADMIN EMAIL =================
-    const adminEmailContent = {
+    const logoTag = `<img src="${process.env.NEXT_PUBLIC_BASE_URL || ""}/images/logo/logo.png" alt="Dekoratoriai" style="max-width:180px;height:auto;display:block;margin:0 auto;" />`;
+
+    const formattedTime = new Date(timestamp).toLocaleString("lt-LT");
+    const timeLabel = preferredTimeLabel(preferredTime);
+
+    /* ── shared colours / radii ── */
+    const bg = "#0f1117";                       // page bg
+    const card = "#1a1d27";                     // card bg
+    const cardBorder = "#2a2d3a";               // subtle border
+    const accent = "#14b8a6";                   // teal-500
+    const accentLight = "#5eead4";              // teal-300
+    const textPrimary = "#f1f5f9";              // near-white
+    const textSecondary = "#94a3b8";            // muted
+    const textMuted = "#64748b";                // footer grey
+
+    /* ── reusable row snippet ── */
+    const row = (label: string, value: string) => `
+      <tr>
+        <td style="padding:10px 16px;color:${accentLight};font-weight:600;font-size:13px;width:160px;vertical-align:top;">${label}</td>
+        <td style="padding:10px 16px;color:${textPrimary};font-size:14px;vertical-align:top;">${value}</td>
+      </tr>`;
+
+    /* ============================================================
+       ADMIN EMAIL
+       ============================================================ */
+    const adminHtml = `<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/></head>
+<body style="margin:0;padding:0;background:${bg};font-family:'Segoe UI',Arial,sans-serif;color:${textPrimary};">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+    <tr>
+      <td style="background:${bg};padding:28px 0 12px;text-align:center;">
+        ${logoTag}
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:0;">
+        <div style="height:3px;background:linear-gradient(90deg,transparent 0%,${accent} 30%,${accent} 70%,transparent 100%);border-radius:2px;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background:${card};border:1px solid ${cardBorder};border-top:none;border-radius:0 0 16px 16px;padding:32px 28px 28px;">
+        <h1 style="margin:0 0 4px;font-size:22px;font-weight:300;color:${textPrimary};text-align:center;">Naujas skambučio prašymas</h1>
+        <p style="margin:0 0 24px;font-size:13px;color:${textMuted};text-align:center;">Gauta ${formattedTime}</p>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;margin-bottom:20px;">
+          <tbody>
+            ${row("Vardas", `${firstName} ${lastName}`)}
+            ${row("Telefonas", phone)}
+            ${row("El. paštas", email || "—")}
+            ${date ? row("Pasirinkta data", date) : ""}
+            ${row("Pageid. laikas", timeLabel)}
+          </tbody>
+        </table>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:rgba(20,184,166,0.1);border:1px solid rgba(20,184,166,0.3);border-radius:12px;overflow:hidden;margin-bottom:20px;">
+          <tr>
+            <td style="padding:14px 18px;text-align:center;">
+              <span style="font-size:13px;color:${accentLight};font-weight:600;">📞 Pageidaujiamas skambučio laikas: </span>
+              <span style="font-size:15px;color:${textPrimary};font-weight:400;">${timeLabel}</span>
+            </td>
+          </tr>
+        </table>
+        <div style="background:${bg};border:1px solid ${cardBorder};border-left:3px solid ${accent};border-radius:10px;padding:16px 18px;margin-bottom:8px;">
+          <p style="margin:0 0 6px;font-size:12px;color:${accentLight};font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Žinutė</p>
+          <p style="margin:0;font-size:14px;color:${textPrimary};line-height:1.6;">${message}</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:24px 0 8px;text-align:center;">
+        <p style="margin:0;font-size:12px;color:${textMuted};">Interjero ir Fasado Dekoratoriai · Alytus, Lietuva</p>
+        <p style="margin:4px 0 0;font-size:12px;color:${textMuted};">+370 671 77164 · info@dekoratoriai.lt</p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>`;
+
+    /* ============================================================
+       CUSTOMER EMAIL  (only sent when email was provided)
+       ============================================================ */
+    const customerHtml = `<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/></head>
+<body style="margin:0;padding:0;background:${bg};font-family:'Segoe UI',Arial,sans-serif;color:${textPrimary};">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+    <tr>
+      <td style="background:${bg};padding:28px 0 12px;text-align:center;">
+        ${logoTag}
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:0;">
+        <div style="height:3px;background:linear-gradient(90deg,transparent 0%,${accent} 30%,${accent} 70%,transparent 100%);border-radius:2px;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background:${card};border:1px solid ${cardBorder};border-top:none;border-radius:0 0 16px 16px;padding:32px 28px 28px;">
+        <h1 style="margin:0 0 6px;font-size:22px;font-weight:300;color:${textPrimary};text-align:center;">Ačiū, ${firstName}!</h1>
+        <p style="margin:0 0 24px;font-size:14px;color:${textSecondary};text-align:center;">Jūsų skambučio prašymas yra užregistruotas.</p>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:rgba(20,184,166,0.1);border:1px solid rgba(20,184,166,0.3);border-radius:12px;overflow:hidden;margin-bottom:24px;">
+          <tr>
+            <td style="padding:20px;text-align:center;">
+              <p style="margin:0 0 6px;font-size:30px;">📞</p>
+              <p style="margin:0 0 4px;font-size:14px;color:${accentLight};font-weight:600;">Paskambinsime jums</p>
+              <p style="margin:0;font-size:15px;color:${textPrimary};">${timeLabel}</p>
+            </td>
+          </tr>
+        </table>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;margin-bottom:20px;">
+          <tbody>
+            ${row("Jūsų vardas", `${firstName} ${lastName}`)}
+            ${row("Telefonas", phone)}
+          </tbody>
+        </table>
+        <div style="background:${bg};border:1px solid ${cardBorder};border-left:3px solid ${accent};border-radius:10px;padding:16px 18px;margin-bottom:24px;">
+          <p style="margin:0 0 6px;font-size:12px;color:${accentLight};font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Jūsų žinutė</p>
+          <p style="margin:0;font-size:14px;color:${textPrimary};line-height:1.6;">${message}</p>
+        </div>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;">
+          <tr>
+            <td style="padding:16px 18px;">
+              <p style="margin:0 0 10px;font-size:13px;color:${accentLight};font-weight:600;">Mūsų kontaktai</p>
+              <p style="margin:0 0 4px;font-size:13px;color:${textSecondary};">📞&nbsp; +370 671 77164</p>
+              <p style="margin:0 0 4px;font-size:13px;color:${textSecondary};">✉️&nbsp; info@dekoratoriai.lt</p>
+              <p style="margin:0;font-size:13px;color:${textSecondary};">📍&nbsp; Alytus, Lietuva</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:24px 0 8px;text-align:center;">
+        <p style="margin:0;font-size:12px;color:${textMuted};">Su pagarba,</p>
+        <p style="margin:4px 0 0;font-size:12px;color:${textMuted};font-weight:600;">Interjero ir Fasado Dekoratoriai</p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>`;
+
+    /* ============================================================
+       SEND
+       ============================================================ */
+    await transporter.sendMail({
       from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
       to: process.env.EMAIL_USER,
-      subject: `Naujas susitikimo užsakymas - ${firstName} ${lastName}`,
-      html: `
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
-    .container { max-width: 600px; margin: 0 auto; padding: 20px; }
-    .header { background: linear-gradient(135deg, #14b8a6, #3b82f6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
-    .content { background: #f9fafb; padding: 30px; border-radius: 0 0 10px 10px; }
-    .info-row { margin: 15px 0; padding: 10px; background: white; border-radius: 5px; }
-    .label { font-weight: bold; color: #14b8a6; }
-    .appointment-box { background: #14b8a6; color: white; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>Naujas Susitikimo Užsakymas</h1>
-    </div>
-    <div class="content">
-      <div class="info-row">
-        <span class="label">Vardas:</span> ${firstName} ${lastName}
-      </div>
-      <div class="info-row">
-        <span class="label">El. paštas:</span> ${email}
-      </div>
-      <div class="info-row">
-        <span class="label">Telefonas:</span> ${phone || "Nenurodytas"}
-      </div>
-
-      ${
-        appointmentDate
-          ? `
-      <div class="appointment-box">
-        <h2 style="margin: 0 0 10px 0;">📅 Susitikimo Laikas</h2>
-        <p style="margin: 0; font-size: 18px;">${appointmentDate}</p>
-      </div>`
-          : ""
-      }
-
-      <div class="info-row">
-        <span class="label">Žinutė:</span><br/>
-        ${message}
-      </div>
-
-      <div class="info-row">
-        <span class="label">Užsakymo laikas:</span>
-        ${new Date(timestamp).toLocaleString("lt-LT")}
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-`,
-    };
-
-    // ================= CUSTOMER EMAIL =================
-    const customerEmailContent = {
-      from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
-      to: email,
-      subject: appointmentDate
-        ? `Susitikimo patvirtinimas - ${appointmentDate}`
-        : "Jūsų užklausa gauta",
-      html: `
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
-    .container { max-width: 600px; margin: 0 auto; padding: 20px; }
-    .header { background: linear-gradient(135deg, #14b8a6, #3b82f6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
-    .content { background: #f9fafb; padding: 30px; border-radius: 0 0 10px 10px; }
-    .greeting { font-size: 20px; margin-bottom: 20px; }
-    .appointment-box { background: #14b8a6; color: white; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; }
-    .contact-info { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; }
-    .footer { text-align: center; color: #666; margin-top: 30px; font-size: 14px; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>Ačiū už Jūsų Užklausą!</h1>
-    </div>
-    <div class="content">
-      <p class="greeting">Sveiki, ${firstName}!</p>
-      <p>Gavome Jūsų užklausą ir netrukus su jumis susisieksime.</p>
-
-      ${
-        appointmentDate
-          ? `
-      <div class="appointment-box">
-        <h2 style="margin: 0 0 10px 0;">📅 Jūsų Susitikimas</h2>
-        <p style="margin: 0; font-size: 18px;">${appointmentDate}</p>
-        <p style="margin: 10px 0 0 0; font-size: 14px;">
-          Prašome atvykti laiku. Jei negalite atvykti, prašome informuoti iš anksto.
-        </p>
-      </div>`
-          : `
-      <p>Susisieksime su jumis artimiausiu metu dėl galimo susitikimo laiko.</p>`
-      }
-
-      <div class="contact-info">
-        <h3 style="color: #14b8a6; margin-top: 0;">Mūsų Kontaktai:</h3>
-        <p><strong>📞 Telefonas:</strong> +370 671 77164</p>
-        <p><strong>✉️ El. paštas:</strong> info@dekoratoriai.lt</p>
-        <p><strong>📍 Miestas:</strong> Alytus</p>
-      </div>
-
-      <p>Jūsų žinutė:</p>
-      <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #14b8a6;">
-        ${message}
-      </div>
-
-      <div class="footer">
-        <p>Su pagarba,<br/>Interjero ir Fasado Dekoratoriai Komanda</p>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-`,
-    };
-
-    await transporter.sendMail(adminEmailContent);
-    await transporter.sendMail(customerEmailContent);
-
-    return NextResponse.json({
-      success: true,
-      message: "Emails sent successfully",
+      subject: `📞 Skambutis – ${firstName} ${lastName}`,
+      html: adminHtml,
     });
+
+    if (email) {
+      await transporter.sendMail({
+        from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
+        to: email,
+        subject: "Jūsų skambučio prašymas užregistruotas",
+        html: customerHtml,
+      });
+    }
+
+    return NextResponse.json({ success: true, message: "Emails sent successfully" });
+
   } catch (error) {
     console.error("Email error:", error);
-
     return NextResponse.json(
       {
         success: false,

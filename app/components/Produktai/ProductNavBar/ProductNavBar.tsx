@@ -147,6 +147,47 @@ const ProductNavBar = () => {
   const isInitialMount = useRef(true);
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   
+  // Category image mapping
+  const categoryImageMap: { [key: string]: string } = {
+    'apvadu-kampai': '/images/landing/apvadu-kampai.webp',
+    'architravai': '/images/landing/architravai.webp',
+    'arkiniai-elementai': '/images/landing/arkiniai-elementai.webp',
+    'balustrados-pagrindai': '/images/landing/balustrados-pagrindai.webp',
+    'balustrados-porankiai': '/images/landing/balustrados-porankiai.webp',
+    'balustrai': '/images/landing/balustrai.webp',
+    'bossage': '/images/landing/rustikai.webp', // Using rustikai as fallback
+    'fasado-ornamentai': '/images/landing/fasado-ornamentai.webp',
+    'footpiece': '/images/landing/pagrindas.webp', // Using pagrindas as fallback
+    'frizai': '/images/landing/frizai.webp',
+    'gembes': '/images/landing/gembes.webp',
+    'grindjuostes': '/images/landing/grindu-apvadai.webp',
+    'kapiteliai': '/images/landing/kapiteliai.webp',
+    'kolonos': '/images/landing/kolonos.webp',
+    'kolonos-liemuo': '/images/landing/kolonos-liemuo.webp',
+    'lango-angokrastai': '/images/landing/lango-angokrastai.webp',
+    'lango-arkiniai-remai': '/images/landing/lango-arkiniai-remai.webp',
+    'lauko-palanges': '/images/landing/palanges.webp',
+    'lubu-apvadai': '/images/landing/lubu-apvadai.webp',
+    'lubu-paneles': '/images/landing/lubu-paneles.webp',
+    'nisos': '/images/landing/nisos.webp',
+    'ornamentai': '/images/landing/ornamentai.webp',
+    'pagrindai': '/images/landing/pagrindas.webp',
+    'pedimentai': '/images/landing/pedimentai.webp',
+    'piliastrai': '/images/landing/piliastrai.webp',
+    'pjedestalines-gembes': '/images/landing/pjedestalines-gembes.webp',
+    'platband': '/images/landing/platbandai.webp',
+    'postcap': '/images/landing/stulpo-kepures.webp',
+    'puskolonos': '/images/landing/puskolonos.webp',
+    'riejamieji-elementai': '/images/landing/riejamieji-elementai.webp',
+    'rozetes': '/images/landing/rozetes.webp',
+    'rustikai': '/images/landing/rustikai.webp',
+    'sienu-apvadai': '/images/landing/sienu-apvadai.webp',
+    'sienu-paneles': '/images/landing/sienu-paneles.webp',
+    'stulpo-kepure': '/images/landing/stulpo-kepures.webp',
+    'zidinio-dekoracija': '/images/landing/zidinio-dekoracija.webp',
+    'ziedai': '/images/landing/ziedai.webp',
+  };
+  
   // Check if we're on mobile
   useEffect(() => {
     const checkIfMobile = () => {
@@ -231,7 +272,7 @@ const ProductNavBar = () => {
     return [{
       name: category.title,
       slug: category.slug,
-      image: '/images/placeholder.jpg', // You can update this to load actual images
+      image: categoryImageMap[category.slug] || '/images/landing/placeholder.jpg',
       count: productCounts[category.slug] || 0
     }];
   }, [activeCategory, productCounts]);

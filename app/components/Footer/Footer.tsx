@@ -70,11 +70,11 @@ const FooterSection: React.FC = () => (
               <li>
                 <span className="font-bold">El. paštas:</span>{' '}
                 <a
-                  href="mailto:dekoratoriailt@gmail.com"
+                  href="mailto:info@dekoratoriai.lt"
                   className="text-gray-400 hover:text-emerald-400 focus:text-emerald-400 transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-400 rounded break-all"
-                  aria-label="Rašykite mums dekoratoriailt@gmail.com"
+                  aria-label="Rašykite mums info@dekoratoriai.lt"
                 >
-                  dekoratoriailt@gmail.com
+                  info@dekoratoriai.lt
                 </a>
               </li>
             </ul>

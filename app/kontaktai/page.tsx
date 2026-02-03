@@ -2,33 +2,35 @@
 
 import React, { useState } from 'react';
 import { Phone, Mail, MapPin, Calendar } from 'lucide-react';
-import { database } from '../firebase';
+import { database } from '@/app/firebase';
 import { ref, push } from 'firebase/database';
 
-interface FormData {
+interface ContactFormData {
   firstName: string;
   lastName: string;
   email: string;
   phone: string;
   message: string;
+  preferredTime: string;
   date: string;
 }
 
 export default function Kontaktai() {
-  // Form states
-  const [formData, setFormData] = useState<FormData>({ 
-    firstName: '', 
-    lastName: '', 
-    email: '', 
-    phone: '', 
-    message: '', 
-    date: '' 
+  const [formData, setFormData] = useState<ContactFormData>({
+    firstName: '',
+    lastName: '',
+    email: '',
+    phone: '',
+    message: '',
+    preferredTime: '',
+    date: '',
   });
   const [email, setEmail] = useState('');
-  const [showCalendar, setShowCalendar] = useState(false);
   const [formMessage, setFormMessage] = useState('');
   const [newsMessage, setNewsMessage] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [showCalendar, setShowCalendar] = useState(false);
+  const [openTimeIndex, setOpenTimeIndex] = useState<number | null>(null);
 
   // Date handling
   const today = new Date();
@@ -41,60 +43,47 @@ export default function Kontaktai() {
   // Time slots
   const timeSlots = ['10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00'];
 
-  const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
 
   const handleContactSubmit = async () => {
-    if (!formData.firstName || !formData.lastName || !formData.email || !formData.message) {
-      setFormMessage('Prašome užpildyti visus privalomas laukus');
+    if (!formData.firstName || !formData.lastName || !formData.phone || !formData.message) {
+      setFormMessage('Prašome užpildyti visus privalomas laukus (vardas, pavardė, telefonas, žinutė)');
       return;
     }
-    
+
     setIsSubmitting(true);
     setFormMessage('');
-    
+
     try {
-      // Save to Firebase
-      await push(ref(database, 'contacts'), {
+      await push(ref(database, 'callRequests'), {
         ...formData,
-        timestamp: new Date().toISOString()
+        timestamp: new Date().toISOString(),
       });
 
-      // If appointment date is selected, send emails
-      if (formData.date) {
-        const appointmentEmailResponse = await fetch('/api/appointment-email', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            firstName: formData.firstName,
-            lastName: formData.lastName,
-            email: formData.email,
-            phone: formData.phone,
-            message: formData.message,
-            appointmentDate: formData.date,
-            timestamp: new Date().toISOString()
-          }),
-        });
+      const res = await fetch('/api/appointment-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          ...formData,
+          timestamp: new Date().toISOString(),
+        }),
+      });
 
-        const emailResult = await appointmentEmailResponse.json();
-        
-        if (emailResult.success) {
-          setFormMessage('Žinutė išsiųsta ir patvirtinimo laiškai išsiųsti!');
-        } else {
-          setFormMessage('Žinutė išsaugota, bet kilo problemų siunčiant patvirtinimo laiškus. Susisieksime su jumis netrukus.');
-        }
+      const result = await res.json();
+
+      if (result.success) {
+        setFormMessage('Skambutis užregistruotas! Paskambinsime jums artimiausiu metu.');
       } else {
-        setFormMessage('Žinutė sėkmingai išsiųsta!');
+        setFormMessage('Skambutis užregistruotas, bet kilo problemų siunčiant patvirtinimą. Paskambinsime netrukus.');
       }
-      
-      setFormData({ firstName: '', lastName: '', email: '', phone: '', message: '', date: '' });
+
+      setFormData({ firstName: '', lastName: '', email: '', phone: '', message: '', preferredTime: '', date: '' });
     } catch (error) {
       console.error('Error:', error);
-      setFormMessage('Nepavyko išsiųsti žinutės. Bandykite dar kartą arba skambinkite tiesiogiai.');
+      setFormMessage('Nepavyko užregistruoti skambučio. Bandykite dar kartą arba skambinkite tiesiogiai.');
     } finally {
       setIsSubmitting(false);
     }
@@ -102,11 +91,10 @@ export default function Kontaktai() {
 
   const handleNewsletterSubmit = async () => {
     if (!email) return;
-    
     try {
-      await push(ref(database, 'subscribers'), { 
+      await push(ref(database, 'subscribers'), {
         email,
-        timestamp: new Date().toISOString()
+        timestamp: new Date().toISOString(),
       });
       setNewsMessage('Sėkmingai prenumeruota!');
       setEmail('');
@@ -119,17 +107,11 @@ export default function Kontaktai() {
   const selectDateTime = (date: Date, time: string): void => {
     setFormData({ ...formData, date: `${date.toDateString()} ${time}` });
     setShowCalendar(false);
+    setOpenTimeIndex(null);
   };
 
   const toggleTimeSlots = (idx: number): void => {
-    const element = document.getElementById(`times-${idx}`);
-    if (element) {
-      const others = document.querySelectorAll<HTMLElement>('[id^="times-"]');
-      others.forEach((el) => {
-        if (el !== element) el.classList.add('hidden');
-      });
-      element.classList.toggle('hidden');
-    }
+    setOpenTimeIndex((prev) => (prev === idx ? null : idx));
   };
 
   return (
@@ -155,7 +137,7 @@ export default function Kontaktai() {
               Susisiekite{' '}
               <span className="text-teal-300">su mumis</span>
             </h2>
-            
+
             <div className="space-y-8">
               <div className="bg-white/10 backdrop-blur-xl rounded-2xl p-6 border border-white/20 shadow-xl">
                 <div className="flex items-start space-x-4">
@@ -166,44 +148,51 @@ export default function Kontaktai() {
                   </div>
                 </div>
               </div>
-              
+
               <div className="bg-white/10 backdrop-blur-xl rounded-2xl p-6 border border-white/20 shadow-xl">
                 <div className="flex items-start space-x-4">
                   <Mail className="w-8 h-8 text-teal-300 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-light text-xl text-white mb-2">Rašykite</h3>
-                    <p className="text-white/70 text-lg">dekoratoriailt@gmail.com</p>
+                    <p className="text-white/70 text-lg">info@dekoratoriai.lt</p>
                   </div>
                 </div>
               </div>
-              
+
               <div className="bg-white/10 backdrop-blur-xl rounded-2xl p-6 border border-white/20 shadow-xl">
                 <div className="flex items-start space-x-4">
                   <MapPin className="w-8 h-8 text-teal-300 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-light text-xl text-white mb-2">Aplankykite</h3>
-                    <p className="text-white/70 text-lg">
-                      Gedimino pr. 1,<br />
-                      Vilnius,<br />
-                      LT-01103
-                    </p>
+                    <p className="text-white/70 text-lg">Alytus, Lietuva</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
 
-          {/* Contact Form */}
+          {/* Call-back Form */}
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-br from-teal-500/20 to-blue-500/20 rounded-3xl blur-3xl" />
-            
+
             <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl p-8 border border-white/20 shadow-2xl">
-              <div className="space-y-6">
+              {/* Form header */}
+              <div className="flex items-center gap-3 mb-6">
+                <div className="p-2.5 bg-teal-500/20 rounded-xl border border-teal-500/30">
+                  <Phone className="w-5 h-5 text-teal-300" />
+                </div>
+                <div>
+                  <h3 className="text-white font-light text-lg">Paprašyti skambučio</h3>
+                  <p className="text-white/50 text-sm">Užpildykite formą – paskambinsime jums</p>
+                </div>
+              </div>
+
+              <div className="space-y-4">
                 <div className="grid grid-cols-2 gap-4">
                   <input
                     type="text"
                     name="firstName"
-                    placeholder="Vardas"
+                    placeholder="Vardas *"
                     value={formData.firstName}
                     onChange={handleFormChange}
                     className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
@@ -212,57 +201,81 @@ export default function Kontaktai() {
                   <input
                     type="text"
                     name="lastName"
-                    placeholder="Pavardė"
+                    placeholder="Pavardė *"
                     value={formData.lastName}
                     onChange={handleFormChange}
                     className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
                     disabled={isSubmitting}
                   />
                 </div>
-                
-                <input
-                  type="email"
-                  name="email"
-                  placeholder="El. paštas"
-                  value={formData.email}
-                  onChange={handleFormChange}
-                  className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
-                  disabled={isSubmitting}
-                />
 
                 <input
                   type="tel"
                   name="phone"
-                  placeholder="Telefono numeris (neprivaloma)"
+                  placeholder="Telefono numeris *"
                   value={formData.phone}
                   onChange={handleFormChange}
                   className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
                   disabled={isSubmitting}
                 />
 
-                {/* Appointment Selection */}
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="El. paštas (neprivaloma)"
+                  value={formData.email}
+                  onChange={handleFormChange}
+                  className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
+                  disabled={isSubmitting}
+                />
+
+                {/* Preferred Time Selector */}
+                <div>
+                  <label className="block text-sm text-white/80 mb-2 flex items-center gap-2">
+                    <Calendar className="w-4 h-4 text-teal-300" />
+                    Pageidaujamas skambučio laikas (neprivaloma)
+                  </label>
+                  <select
+                    name="preferredTime"
+                    value={formData.preferredTime}
+                    onChange={handleFormChange}
+                    className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm"
+                    disabled={isSubmitting}
+                  >
+                    <option value="" className="bg-slate-800">Pasirinkite laiką</option>
+                    <option value="morning" className="bg-slate-800">Rytą (9:00 – 12:00)</option>
+                    <option value="midday" className="bg-slate-800">Pietų metu (12:00 – 15:00)</option>
+                    <option value="afternoon" className="bg-slate-800">Popietę (15:00 – 18:00)</option>
+                    <option value="any" className="bg-slate-800">Bet kurį laiką</option>
+                  </select>
+                </div>
+
+                {/* Calendar / specific time-slot picker */}
                 <div>
                   <div className="flex justify-between items-center mb-3">
                     <div className="flex items-center space-x-2 text-white/80">
                       <Calendar className="w-5 h-5 text-teal-300" />
-                      <span className="text-sm">Registruotis susitikimui (neprivaloma)</span>
+                      <span className="text-sm">Arba pasirinkite konkrečią datą ir laiką</span>
                     </div>
-                    <button 
-                      type="button" 
-                      onClick={() => setShowCalendar(!showCalendar)}
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setShowCalendar(!showCalendar);
+                        setOpenTimeIndex(null);
+                      }}
                       className="text-sm text-teal-300 hover:text-teal-200 transition-colors"
                       disabled={isSubmitting}
                     >
                       {showCalendar ? 'Paslėpti' : 'Rodyti kalendorių'}
                     </button>
                   </div>
-                  
+
                   {formData.date && (
                     <div className="bg-white/10 backdrop-blur-sm p-3 rounded-xl mb-3 text-sm text-white border border-white/20">
                       Pasirinkta: {formData.date}
-                      <button 
-                        type="button" 
-                        onClick={() => setFormData({...formData, date: ''})}
+                      <button
+                        type="button"
+                        onClick={() => setFormData({ ...formData, date: '' })}
                         className="ml-2 text-xs text-teal-300 hover:text-teal-200"
                         disabled={isSubmitting}
                       >
@@ -270,7 +283,7 @@ export default function Kontaktai() {
                       </button>
                     </div>
                   )}
-                  
+
                   {showCalendar && (
                     <div className="bg-white/5 backdrop-blur-sm p-4 rounded-xl border border-white/20 mb-4">
                       <div className="grid grid-cols-7 gap-2">
@@ -287,46 +300,49 @@ export default function Kontaktai() {
                             >
                               {date.getDate()}
                             </button>
-                            <div id={`times-${idx}`} className="hidden mt-2 space-y-1">
-                              {timeSlots.map(time => (
-                                <button
-                                  key={time}
-                                  type="button"
-                                  className="w-full text-xs py-1.5 bg-white/10 hover:bg-teal-500 hover:text-white text-white/80 rounded-lg transition-colors border border-white/10"
-                                  onClick={() => selectDateTime(date, time)}
-                                  disabled={isSubmitting}
-                                >
-                                  {time}
-                                </button>
-                              ))}
-                            </div>
+                            {openTimeIndex === idx && (
+                              <div className="mt-2 space-y-1">
+                                {timeSlots.map(time => (
+                                  <button
+                                    key={time}
+                                    type="button"
+                                    className="w-full text-xs py-1.5 bg-white/10 hover:bg-teal-500 hover:text-white text-white/80 rounded-lg transition-colors border border-white/10"
+                                    onClick={() => selectDateTime(date, time)}
+                                    disabled={isSubmitting}
+                                  >
+                                    {time}
+                                  </button>
+                                ))}
+                              </div>
+                            )}
                           </div>
                         ))}
                       </div>
                     </div>
                   )}
                 </div>
-                
+
                 <textarea
-                  rows={4}
+                  rows={3}
                   name="message"
-                  placeholder="Jūsų žinutė"
+                  placeholder="Trumpas aprašymas apie jūsų poreikį *"
                   value={formData.message}
                   onChange={handleFormChange}
                   className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:border-transparent backdrop-blur-sm resize-none"
                   disabled={isSubmitting}
-                ></textarea>
-                
+                />
+
                 <button
                   onClick={handleContactSubmit}
-                  className="w-full bg-teal-500 hover:bg-teal-600 text-white px-6 py-4 rounded-xl transition-colors text-lg font-light disabled:bg-gray-600 disabled:cursor-not-allowed shadow-lg"
+                  className="w-full bg-teal-500 hover:bg-teal-600 text-white px-6 py-4 rounded-xl transition-colors text-lg font-light disabled:bg-gray-600 disabled:cursor-not-allowed shadow-lg flex items-center justify-center gap-2"
                   disabled={isSubmitting}
                 >
-                  {isSubmitting ? 'Siunčiama...' : 'Siųsti žinutę'}
+                  <Phone className="w-5 h-5" />
+                  {isSubmitting ? 'Registruojama...' : 'Paprašyti skambučio'}
                 </button>
-                
+
                 {formMessage && (
-                  <p className={`text-center font-light ${formMessage.includes('Nepavyko') || formMessage.includes('problemų') ? 'text-orange-400' : 'text-teal-300'}`}>
+                  <p className={`text-center font-light text-sm ${formMessage.includes('Nepavyko') || formMessage.includes('problemų') ? 'text-orange-400' : 'text-teal-300'}`}>
                     {formMessage}
                   </p>
                 )}
@@ -340,17 +356,16 @@ export default function Kontaktai() {
       <div className="max-w-7xl mx-auto px-6 py-16">
         <div className="relative">
           <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-3xl blur-3xl" />
-          
           <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl overflow-hidden border border-white/20 shadow-2xl">
             <div className="w-full h-[400px] bg-slate-800/50">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2305.7267891876937!2d25.2797389!3d54.6871555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd9410f85e8df1%3A0x3d60a14e96d1d6e8!2sGedimino%20pr.%201%2C%20Vilnius!5e0!3m2!1slt!2slt!4v1234567890" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18448.5!2d24.0513!3d54.2263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46de0a4f1a7b1ef5%3A0x9b3c5a6c8d2e1a0!2sAlytus%2C%20Lithuania!5e0!3m2!1slt!2slt!4v1735000000000"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
                 allowFullScreen={false}
                 loading="lazy"
-              ></iframe>
+              />
             </div>
           </div>
         </div>
@@ -361,7 +376,6 @@ export default function Kontaktai() {
         <div className="max-w-5xl mx-auto">
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-teal-500/20 to-blue-500/20 rounded-3xl blur-3xl" />
-            
             <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl p-10 border border-white/20 shadow-2xl">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                 <div>
