@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 
 import { useCart } from "../contexts/CartContext";
@@ -37,7 +37,7 @@ export default function Page() {
     cartCount
   } = useCart();
 
-  const { isBusinessUser, businessAccount, discountRate } = useBusinessAuth();
+  const { isBusinessMode, businessAccount, discountRate } = useBusinessAuth();
 
   const [isMounted, setIsMounted] = useState(false);
   const [currentStep, setCurrentStep] = useState("cart");
@@ -51,7 +51,7 @@ export default function Page() {
     line_2: "",
     city: "",
     postal_code: "",
-    country: "Lietuva"
+    country: "Lithuania"
   });
 
   const [customerDetails, setCustomerDetails] = useState({
@@ -70,7 +70,6 @@ export default function Page() {
    * Called after successful Stripe payment
    */
   const handlePaymentSuccess = async (paymentIntent: any) => {
-
     const orderNum = "ORD-" + Date.now();
     setOrderNumber(orderNum);
 
@@ -142,7 +141,7 @@ export default function Page() {
         <StepIndicator currentStep={currentStep} />
 
         {/* BUSINESS BANNER */}
-        {isBusinessUser &&
+        {isBusinessMode &&
           businessAccount &&
           currentStep === "cart" && (
             <BusinessBanner
@@ -166,7 +165,7 @@ export default function Page() {
                     item={item}
                     removeFromCart={removeFromCart}
                     updateQuantity={updateQuantity}
-                    isBusinessUser={isBusinessUser}
+                    isBusinessUser={isBusinessMode}
                     formatPrice={formatPrice}
                   />
                 ))}
@@ -236,7 +235,7 @@ export default function Page() {
             {currentStep !== "confirmation" && (
               <OrderSummary
                 cartTotal={cartTotal}
-                isBusinessUser={isBusinessUser}
+                isBusinessUser={isBusinessMode}
                 discountRate={discountRate}
                 formatPrice={formatPrice}
               />
