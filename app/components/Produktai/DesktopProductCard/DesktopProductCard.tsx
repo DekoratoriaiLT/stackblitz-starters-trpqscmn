@@ -2,7 +2,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { ShoppingCart } from "lucide-react";
 import styles from "./DesktopProductCard.module.css";
 import ImageCarousel from "./ImageCarousel";
@@ -26,7 +26,6 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
   onToggleExpand,
   onAddToCart,
 }) => {
-  const router = useRouter();
   const [show3DViewer, setShow3DViewer] = useState(false);
 
   // Two separate modal states - only one type of modal per product
@@ -39,20 +38,18 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
   const handle3DView = () => setShow3DViewer(true);
   const close3DViewer = () => setShow3DViewer(false);
 
-  const handleMoreInfo = () => {
+  // Generate the product URL
+  const getProductUrl = () => {
     if (product.code && product.category) {
       const urlFriendlyCode = product.code.replace(/\./g, "-");
-      const productUrl = `/produktai/${product.category}/${urlFriendlyCode}`;
-      router.push(productUrl);
+      return `/produktai/${product.category}/${urlFriendlyCode}`;
     } else if (product.url) {
-      router.push(product.url);
-    } else {
-      console.warn(
-        "Product missing code/category or URL - using expand fallback"
-      );
-      onToggleExpand();
+      return product.url;
     }
+    return null;
   };
+
+  const productUrl = getProductUrl();
 
   /* ===== Determine which modal to open ===== */
   const isPricePerMetre = PRICE_PER_METRE_CATEGORIES.has(product.category);
@@ -102,9 +99,24 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
         <ProductInfo product={product} />
 
         <div className={styles.buttonRow}>
-          <button onClick={handleMoreInfo} className={styles.detailsBtn}>
-            Daugiau informacijos
-          </button>
+          {productUrl ? (
+            <Link 
+              href={productUrl} 
+              className={styles.detailsBtn}
+              style={{ 
+                display: 'flex', 
+                alignItems: 'center', 
+                justifyContent: 'center',
+                textDecoration: 'none'
+              }}
+            >
+              Daugiau informacijos
+            </Link>
+          ) : (
+            <button onClick={onToggleExpand} className={styles.detailsBtn}>
+              Daugiau informacijos
+            </button>
+          )}
           <button className={styles.cartBtn} onClick={handleCartClick}>
             <ShoppingCart size={20} />
           </button>
@@ -141,6 +153,7 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
             productTitle={product.name}
             productCategory={product.category}
             onView3D={handle3DView}
+            details={product.details}
           />
         ) : (
           <ThreeDViewer
@@ -154,9 +167,24 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
       <ProductInfo product={product} />
 
       <div className={styles.buttonRow}>
-        <button onClick={handleMoreInfo} className={styles.detailsBtn}>
-          Daugiau informacijos
-        </button>
+        {productUrl ? (
+          <Link 
+            href={productUrl} 
+            className={styles.detailsBtn}
+            style={{ 
+              display: 'flex', 
+              alignItems: 'center', 
+              justifyContent: 'center',
+              textDecoration: 'none'
+            }}
+          >
+            Daugiau informacijos
+          </Link>
+        ) : (
+          <button onClick={onToggleExpand} className={styles.detailsBtn}>
+            Daugiau informacijos
+          </button>
+        )}
         <button className={styles.cartBtn} onClick={handleCartClick}>
           <ShoppingCart size={20} />
         </button>

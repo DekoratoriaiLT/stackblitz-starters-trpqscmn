@@ -8,6 +8,8 @@ import type { Swiper as SwiperType } from "swiper";
 import styles from "./DesktopProductCard.module.css";
 
 import { getExistingImagePaths } from "@/app/components/Produktai/ImagePath/getImagePath";
+import { MeasurementOverlay } from "../MeasurementOverlay/MeasurementOverlay";
+import type { ProductDimensions } from "@/app/components/Produktai/Types/types";
 
 import "swiper/css";
 import "swiper/css/navigation";
@@ -17,12 +19,14 @@ interface ImageCarouselProps {
   productTitle: string;
   productCategory: string;
   onView3D: () => void;
+  details?: ProductDimensions;
 }
 
 const ImageCarousel: React.FC<ImageCarouselProps> = ({
   productTitle,
   productCategory,
   onView3D,
+  details,
 }) => {
   const swiperRef = useRef<SwiperType | null>(null);
   const prevRef = useRef<HTMLButtonElement>(null);
@@ -31,6 +35,7 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
   const [images, setImages] = useState<string[]>([]);
   const [imagesLoaded, setImagesLoaded] = useState(false);
   const [loading, setLoading] = useState(true);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   useEffect(() => {
     let isMounted = true;
@@ -41,9 +46,9 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
       const paths = await getExistingImagePaths(
         productTitle,
         productCategory,
-        undefined, // ✅ Let it auto-detect suffixes based on category
+        undefined,
         5,
-        true // ✅ ENABLE VERIFICATION - only return images that exist
+        true
       );
 
       if (isMounted) {
@@ -66,7 +71,6 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
     console.warn(
       `[ImageCarousel] Image failed to load: ${images[index]}`
     );
-    // Remove the failed image from the list
     setImages((prev) => prev.filter((_, i) => i !== index));
   };
 
@@ -74,11 +78,36 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
     setImagesLoaded(true);
   };
 
+  // Helper function to check if image has .40 suffix
+  const hasWhiteBackground = (imagePath: string) => {
+    return imagePath.includes('.40.');
+  };
+
+  // Check if current image should show measurements
+  const shouldShowMeasurements = (imagePath: string) => {
+    return hasWhiteBackground(imagePath) && 
+           details && 
+           (details.Plotis || details.Aukštis || details.Aukstis);
+  };
+
+  const currentImage = images[currentImageIndex];
+  const isCurrentImageWhite = currentImage && hasWhiteBackground(currentImage);
+
   return (
     <div className={styles.imageContainer}>
       {(loading || !imagesLoaded) && (
-        <div className={styles.imageLoader}>
-          <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900" />
+        <div className={styles.imageLoader} style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          zIndex: 10
+        }}>
+          <div className="animate-spin rounded-full h-12 w-12 border-4 border-white border-t-transparent" />
         </div>
       )}
 
@@ -99,21 +128,51 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
           pagination={{ clickable: true, dynamicBullets: true }}
           loop={images.length > 1}
           onSwiper={(swiper) => (swiperRef.current = swiper)}
+          onSlideChange={(swiper) => setCurrentImageIndex(swiper.realIndex)}
           className={styles.swiper}
         >
           {images.map((image, index) => (
             <SwiperSlide key={image}>
-              <div className={styles.slideWrapper}>
-                <Image
-                  src={image}
-                  alt={`${productTitle} – Image ${index + 1}`}
-                  fill
-                  className={styles.image}
-                  priority={index === 0}
-                  onLoad={handleImageLoad}
-                  onError={() => handleImageError(index)}
-                  unoptimized
-                />
+              <div 
+                className={styles.slideWrapper}
+                style={hasWhiteBackground(image) ? { 
+                  backgroundColor: '#ffffff',
+                  padding: '1rem',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  position: 'relative'
+                } : {
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  position: 'relative'
+                }}
+              >
+                <div style={{ position: 'relative', width: '100%', height: '100%' }}>
+                  <Image
+                    src={image}
+                    alt={`${productTitle} – Image ${index + 1}`}
+                    fill
+                    className={styles.image}
+                    style={{
+                      objectFit: 'contain'
+                    }}
+                    priority={index === 0}
+                    onLoad={handleImageLoad}
+                    onError={() => handleImageError(index)}
+                    unoptimized
+                  />
+                  
+                  {/* Measurement overlay for .40 images */}
+                  {shouldShowMeasurements(image) && (
+                    <MeasurementOverlay
+                      plotis={details?.Plotis}
+                      aukstis={details?.Aukštis || details?.Aukstis}
+                      show={true}
+                    />
+                  )}
+                </div>
               </div>
             </SwiperSlide>
           ))}
@@ -125,6 +184,7 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
           <button
             ref={prevRef}
             className={styles.arrowLeft}
+            style={isCurrentImageWhite ? { color: '#000' } : {}}
             aria-label="Previous image"
           >
             ‹
@@ -132,6 +192,7 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({
           <button
             ref={nextRef}
             className={styles.arrowRight}
+            style={isCurrentImageWhite ? { color: '#000' } : {}}
             aria-label="Next image"
           >
             ›

@@ -41,7 +41,7 @@ const PRODUCT_CATEGORIES: Category[] = [
   { id: 4, title: 'Balustrados Pagrindai', slug: 'balustrados-pagrindai' },
   { id: 5, title: 'Balustrados Porankiai', slug: 'balustrados-porankiai' },
   { id: 6, title: 'Balustrai', slug: 'balustrai' },
-  { id: 7, title: 'Bossage', slug: 'bossage' },
+  { id: 7, title: 'Rustikai', slug: 'rustikai' },
   { id: 8, title: 'Fasado Ornamentai', slug: 'fasado-ornamentai' },
   { id: 9, title: 'Footpiece', slug: 'footpiece' },
   { id: 10, title: 'Frizai', slug: 'frizai' },
@@ -155,7 +155,7 @@ const ProductNavBar = () => {
     'balustrados-pagrindai': '/images/landing/balustrados-pagrindai.webp',
     'balustrados-porankiai': '/images/landing/balustrados-porankiai.webp',
     'balustrai': '/images/landing/balustrai.webp',
-    'bossage': '/images/landing/rustikai.webp', // Using rustikai as fallback
+    'rustikai': '/images/landing/rustikai.webp', // Using rustikai as fallback
     'fasado-ornamentai': '/images/landing/fasado-ornamentai.webp',
     'footpiece': '/images/landing/pagrindas.webp', // Using pagrindas as fallback
     'frizai': '/images/landing/frizai.webp',
@@ -180,7 +180,6 @@ const ProductNavBar = () => {
     'puskolonos': '/images/landing/puskolonos.webp',
     'riejamieji-elementai': '/images/landing/riejamieji-elementai.webp',
     'rozetes': '/images/landing/rozetes.webp',
-    'rustikai': '/images/landing/rustikai.webp',
     'sienu-apvadai': '/images/landing/sienu-apvadai.webp',
     'sienu-paneles': '/images/landing/sienu-paneles.webp',
     'stulpo-kepure': '/images/landing/stulpo-kepures.webp',
