@@ -80,13 +80,10 @@ export default function MainContent({ PageData }: MainContentProps) {
         let rawProducts: ProductRaw[];
         
         if (Array.isArray(productData)) {
-          // If the JSON file is an array of products
           rawProducts = productData;
         } else if (productData.products && Array.isArray(productData.products)) {
-          // If the JSON file has a "products" property
           rawProducts = productData.products;
         } else {
-          // Fallback: empty array
           console.warn("Unexpected JSON structure:", productData);
           rawProducts = [];
         }
@@ -122,8 +119,7 @@ export default function MainContent({ PageData }: MainContentProps) {
               images,
               category: product.category,
               sudetis: product.sudetis ?? "Poliuretanas",
-              papildoma_informacija:
-                product.mounting_instructions ?? "",
+              papildoma_informacija: product.mounting_instructions ?? "",
               details: {
                 Ilgis: product.details?.Ilgis,
                 Plotis: product.details?.Plotis,
@@ -134,6 +130,7 @@ export default function MainContent({ PageData }: MainContentProps) {
                 Spindulys: product.details?.Spindulys,
                 "Arkos Lenkimo Spindulys": product.details?.["Arkos Lenkimo Spindulys"],
               },
+              flexible_analog_exists: product.flexible_analog_exists ?? false,
             };
 
             const mappedProduct: Product =
@@ -193,16 +190,35 @@ export default function MainContent({ PageData }: MainContentProps) {
     setDisplayedProducts(filtered.slice(0, ITEMS_PER_BATCH));
   }, [filters, allProducts]);
 
+  /* ================= LOAD MORE (memoized) ================= */
+  const loadMoreProducts = useCallback(() => {
+    if (isLoadingMore) return;
+    
+    setIsLoadingMore(true);
+    setTimeout(() => {
+      setDisplayedProducts((prev) => {
+        const nextBatch = filteredProducts.slice(
+          prev.length,
+          prev.length + ITEMS_PER_BATCH
+        );
+        return [...prev, ...nextBatch];
+      });
+      setIsLoadingMore(false);
+    }, 300);
+  }, [filteredProducts, isLoadingMore]);
+
   /* ================= INFINITE SCROLL ================= */
   useEffect(() => {
     if (!mounted || isLoading) return;
+
+    const currentRef = loadMoreRef.current;
 
     observerRef.current = new IntersectionObserver(
       ([entry]) => {
         if (
           entry.isIntersecting &&
-          !isLoadingMore &&
-          displayedProducts.length < filteredProducts.length
+          displayedProducts.length < filteredProducts.length &&
+          !isLoadingMore
         ) {
           loadMoreProducts();
         }
@@ -210,32 +226,17 @@ export default function MainContent({ PageData }: MainContentProps) {
       { threshold: 0.1 }
     );
 
-    if (loadMoreRef.current) {
-      observerRef.current.observe(loadMoreRef.current);
+    if (currentRef) {
+      observerRef.current.observe(currentRef);
     }
 
-    return () => observerRef.current?.disconnect();
-  }, [
-    mounted,
-    isLoading,
-    isLoadingMore,
-    displayedProducts.length,
-    filteredProducts.length,
-  ]);
-
-  const loadMoreProducts = () => {
-    setIsLoadingMore(true);
-    setTimeout(() => {
-      setDisplayedProducts((prev) => [
-        ...prev,
-        ...filteredProducts.slice(
-          prev.length,
-          prev.length + ITEMS_PER_BATCH
-        ),
-      ]);
-      setIsLoadingMore(false);
-    }, 300);
-  };
+    return () => {
+      if (observerRef.current && currentRef) {
+        observerRef.current.unobserve(currentRef);
+      }
+      observerRef.current?.disconnect();
+    };
+  }, [mounted, isLoading, displayedProducts.length, filteredProducts.length, isLoadingMore, loadMoreProducts]);
 
   const handleAddToCart = useCallback(
     (product: Product) => addToCart(product),
@@ -279,16 +280,19 @@ export default function MainContent({ PageData }: MainContentProps) {
                   <ProductCardDesktop
                     key={product.id}
                     product={product}
-                    categoryTitle={PageData.title}
                     onAddToCart={() => handleAddToCart(product)}
-                    isExpanded={false}
-                    onToggleExpand={() => {}}
                   />
                 ))}
               </div>
             )}
 
-            <div ref={loadMoreRef} />
+            {displayedProducts.length < filteredProducts.length && (
+              <div ref={loadMoreRef} className="h-20 flex items-center justify-center">
+                {isLoadingMore && (
+                  <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900" />
+                )}
+              </div>
+            )}
           </>
         )}
 

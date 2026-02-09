@@ -11,7 +11,7 @@ import ThreeDViewer from "./ThreeDViewer";
 import NoImagePlaceholder from "./NoImagePlaceholder";
 import MetreInputModal from "@/app/components/Produktai/MetreInputModal/MetreInputModal";
 import SimpleQuantityModal from "@/app/components/Produktai/SimpleQuantityModal/SimpleQuantityModal";
-import type { Product, DesktopCardProps } from "../Types/types";
+import type { Product } from "../Types/types";
 
 /** Categories where the unit price is €/m and the metre modal should appear */
 const PRICE_PER_METRE_CATEGORIES = new Set([
@@ -21,14 +21,16 @@ const PRICE_PER_METRE_CATEGORIES = new Set([
   "grindu-apvadai",
 ]);
 
+interface DesktopCardProps {
+  product: Product;
+  onAddToCart: () => void;
+}
+
 const DesktopCard: React.FC<DesktopCardProps> = ({
   product,
-  onToggleExpand,
   onAddToCart,
 }) => {
   const [show3DViewer, setShow3DViewer] = useState(false);
-
-  // Two separate modal states - only one type of modal per product
   const [showMetreModal, setShowMetreModal] = useState(false);
   const [showSimpleModal, setShowSimpleModal] = useState(false);
 
@@ -56,23 +58,18 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
 
   const handleCartClick = () => {
     if (isPricePerMetre) {
-      // Price-per-metre products (with flexible/rigid options) → metre-input modal
       setShowMetreModal(true);
     } else {
-      // All other products → simple quantity modal
       setShowSimpleModal(true);
     }
   };
 
   /* ===== Metre modal confirm ===== */
   const handleMetreConfirm = (value: number | { rigid: number; flexible: number }) => {
-    // MetreInputModal can return either a number (metre mode) or an object (flexible mode)
     if (typeof value === "number") {
-      // Metre mode: each 2 m = 1 standard unit
       const units = value / 2;
       for (let i = 0; i < units; i++) onAddToCart();
     } else {
-      // Flexible mode: add rigid + flexible counts
       for (let i = 0; i < value.rigid; i++) onAddToCart();
       for (let i = 0; i < value.flexible; i++) onAddToCart();
     }
@@ -113,7 +110,7 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
               Daugiau informacijos
             </Link>
           ) : (
-            <button onClick={onToggleExpand} className={styles.detailsBtn}>
+            <button className={styles.detailsBtn} disabled>
               Daugiau informacijos
             </button>
           )}
@@ -122,7 +119,6 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
           </button>
         </div>
 
-        {/* Metre modal (for price-per-metre products with flexible/rigid options) */}
         <MetreInputModal
           isOpen={showMetreModal}
           onClose={() => setShowMetreModal(false)}
@@ -132,7 +128,6 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
           mode={product.flexible_analog_exists ? "flexible" : "metre"}
         />
 
-        {/* Simple quantity modal (for all other products) */}
         <SimpleQuantityModal
           isOpen={showSimpleModal}
           onClose={() => setShowSimpleModal(false)}
@@ -181,7 +176,7 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
             Daugiau informacijos
           </Link>
         ) : (
-          <button onClick={onToggleExpand} className={styles.detailsBtn}>
+          <button className={styles.detailsBtn} disabled>
             Daugiau informacijos
           </button>
         )}
@@ -190,7 +185,6 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
         </button>
       </div>
 
-      {/* Metre modal (for price-per-metre products with flexible/rigid options) */}
       <MetreInputModal
         isOpen={showMetreModal}
         onClose={() => setShowMetreModal(false)}
@@ -200,7 +194,6 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
         mode={product.flexible_analog_exists ? "flexible" : "metre"}
       />
 
-      {/* Simple quantity modal (for all other products) */}
       <SimpleQuantityModal
         isOpen={showSimpleModal}
         onClose={() => setShowSimpleModal(false)}
