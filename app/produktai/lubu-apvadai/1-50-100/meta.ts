@@ -26,7 +26,7 @@ const calculateAggregateRating = (reviews?: any[]) => {
 };
 
 export async function generateMetadata(): Promise<Metadata> {
-  const product = getProduct('1.50.100');
+  const product = getProduct('1-50-100');
 
   if (!product) {
     return {

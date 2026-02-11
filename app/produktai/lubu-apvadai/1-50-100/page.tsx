@@ -1,4 +1,4 @@
-import { LubiniaiApvadaiTemplate } from '../../../components/ProductPage/template';
+import { LubuApvadaiTemplate } from '../../../components/ProductPage/template';
 export { generateMetadata } from './meta';
 
 const productData = require('@/app/data/lubu-apvadai/lubu-apvadai.json').products;
@@ -96,7 +96,7 @@ const generateProductJsonLd = (product: any) => {
 };
 
 export default async function Page() {
-  const product = await getProduct('1.50.100');
+  const product = await getProduct('1-50-100');
   
   if (!product) {
     return <div>Product not found</div>;
@@ -110,7 +110,7 @@ export default async function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
-      <LubiniaiApvadaiTemplate product={product} />
+      <LubuApvadaiTemplate product={product} />
     </>
   );
 }
