@@ -14,16 +14,18 @@ const calculateAggregateRating = (reviews?: any[]) => {
   
   const totalRating = reviews.reduce((sum, review) => sum + review.rating, 0);
   const averageRating = totalRating / reviews.length;
+  // Divide by 2 to convert from 10-point to 5-point scale
+  const normalizedRating = averageRating / 2;
   
   return {
-    ratingValue: averageRating.toFixed(1),
+    ratingValue: normalizedRating.toFixed(1),
     reviewCount: reviews.length,
-    bestRating: "10",
+    bestRating: "5",
     worstRating: "1"
   };
 };
 
-const generateProductJsonLd = (product: any) => {
+export const generateProductJsonLd = (product: any) => {
   const imageUrl = `${BASE_URL}/images/produktai/${CATEGORY}/${product.code}.100.png`;
   const productUrl = `${BASE_URL}/produktai/${CATEGORY}/${product.code}`;
   const aggregateRating = calculateAggregateRating(product.reviews);
@@ -43,7 +45,6 @@ const generateProductJsonLd = (product: any) => {
     "mpn": product.code
   };
 
-  // Add aggregate rating if reviews exist
   if (aggregateRating) {
     jsonLd.aggregateRating = {
       "@type": "AggregateRating",
@@ -54,26 +55,29 @@ const generateProductJsonLd = (product: any) => {
     };
   }
 
-  // Add reviews if they exist
   if (product.reviews && product.reviews.length > 0) {
-    jsonLd.review = product.reviews.map((review: any) => ({
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": review.rating.toString(),
-        "bestRating": "10",
-        "worstRating": "1"
-      },
-      "author": {
-        "@type": "Person",
-        "name": review.customerName
-      },
-      "datePublished": review.date,
-      "reviewBody": review.comment
-    }));
+    jsonLd.review = product.reviews.map((review: any) => {
+      // Divide individual review rating by 2
+      const normalizedReviewRating = (review.rating / 2).toFixed(1);
+      
+      return {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": normalizedReviewRating,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "author": {
+          "@type": "Person",
+          "name": review.customerName
+        },
+        "datePublished": review.date,
+        "reviewBody": review.comment
+      };
+    });
   }
 
-  // Add offers section with price
   if (product.price) {
     jsonLd.offers = {
       "@type": "Offer",
@@ -89,6 +93,24 @@ const generateProductJsonLd = (product: any) => {
 
   return jsonLd;
 };
+
+// Generate and log JSON-LD
+const product = getProduct('1.50.100');
+if (product) {
+  const jsonLd = generateProductJsonLd(product);
+  
+  console.log('\n========================================');
+  console.log('PRODUCT JSON-LD STRUCTURED DATA');
+  console.log('========================================');
+  console.log('Product:', product.name);
+  console.log('Code:', product.code);
+  console.log('========================================\n');
+  console.log(JSON.stringify(jsonLd, null, 2));
+  console.log('\n========================================');
+  console.log('Copy the JSON above and paste into:');
+  console.log('https://search.google.com/test/rich-results');
+  console.log('========================================\n');
+}
 
 export async function generateMetadata(): Promise<Metadata> {
   const product = getProduct('1.50.100');
@@ -111,11 +133,8 @@ export async function generateMetadata(): Promise<Metadata> {
   const description = `${product.name} - Aukštos kokybės interjero dekoracijos produktai. ${product.sudetis || 'Poliuretanas'} dekoras.${product.price ? ` Kaina: €${product.price.toFixed(2)}` : ''}`;
 
   const ratingText = aggregateRating 
-    ? ` | Įvertinimas: ${aggregateRating.ratingValue}/10 (${aggregateRating.reviewCount} atsiliepimai)`
+    ? ` | Įvertinimas: ${aggregateRating.ratingValue}/5 (${aggregateRating.reviewCount} atsiliepimai)`
     : '';
-
-  // Generate JSON-LD
-  const jsonLd = generateProductJsonLd(product);
 
   return {
     title: `${product.name}${ratingText} | Interjero ir Fasado Dekoratoriai`,
@@ -147,11 +166,6 @@ export async function generateMetadata(): Promise<Metadata> {
     robots: {
       index: true,
       follow: true
-    },
-    other: {
-      'product:price:amount': product.price?.toFixed(2),
-      'product:price:currency': 'EUR',
-      'jsonld': JSON.stringify(jsonLd)
     }
   };
 }

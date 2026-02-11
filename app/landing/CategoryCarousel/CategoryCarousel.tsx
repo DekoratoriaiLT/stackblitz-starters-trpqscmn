@@ -55,7 +55,7 @@ const CategoryCarousel = () => {
     { title: "Sienų apvadai", image: "/images/landing/sienu-apvadai.webp", href: "/produktai/sienu-apvadai" },
     { title: "Sienų plokštės", image: "/images/landing/sienu-paneles.webp", href: "/produktai/sienu-paneles" },
     { title: "Statulėlės", image: "/images/landing/statuleles.webp", href: "/produktai/statuleles" },
-    { title: "Stulpo kepurė", image: "/images/landing/stulpo-kepure.webp", href: "/produktai/stulpo-kepure" },
+    { title: "Stulpo kepurė", image: "/images/landing/stulpo-kepures.webp", href: "/produktai/stulpo-kepure" },
     { title: "Židinio dekoracija", image: "/images/landing/zidinio-dekoracija.webp", href: "/produktai/zidinio-dekoracija" },
     { title: "Žiedai", image: "/images/landing/ziedai.webp", href: "/produktai/ziedai" },
     { title: "Ornamentai", image: "/images/landing/ornamentai.webp", href: "/produktai/ornamentai" },

@@ -24,7 +24,7 @@
       "reviews": [
         {
           "reviewId": "4.87.031_rev_1",
-          "customerName": "Austėja Gailius",
+          "customerName": "Laimutis Vasiliauskas",
           "rating": 10.0,
           "comment": "Pirkau, nes patiko dizaino sprendimas ir iš karto pastebėjau, kad apdirbimas tikslus ir kruopštus. viskas veikia sklandžiai ir patikimai, o komunikacija su pardavėju sklandi. Naudoju jau 3 mėnesius. Geriausias pasirinkimas rinkoje.",
           "date": "2023-02-20",
@@ -57,7 +57,7 @@
       "reviews": [
         {
           "reviewId": "4.87.032_rev_1",
-          "customerName": "Skirmantas Šalčius",
+          "customerName": "Saulė Baniulienė",
           "rating": 9.6,
           "comment": "Norėjau modernaus ir stilingo varianto ir iš karto pastebėjau, kad matosi profesionalumas kiekviename elemente. naudojimas patogus ir paprastas, o pristatymas greitas ir patikimas. Naudoju jau 27 mėnesius. Produktas pranoko lūkesčius ir tikrai rekomenduoju.",
           "date": "2023-06-19",
@@ -90,7 +90,7 @@
       "reviews": [
         {
           "reviewId": "4.87.033_rev_1",
-          "customerName": "Aleksandras Kavaliauskas",
+          "customerName": "Rimantė Gedvilaitė",
           "rating": 9.6,
           "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad medžiagos kokybė pranoksta lūkesčius. viskas veikia be trikdžių, o siunta pristatyta kaip sutarta. Naudoju jau 13 mėnesius. Puikus santykis tarp kainos ir kokybės.",
           "date": "2022-06-19",
@@ -99,7 +99,7 @@
         },
         {
           "reviewId": "4.87.033_rev_2",
-          "customerName": "Leonas Žebrauskas",
+          "customerName": "Vilija Sabaliauskaitė",
           "rating": 9.5,
           "comment": "Pirkau po specialistų rekomendacijų ir iš karto pastebėjau, kad spalva atitinka aprašymą ir nuotrauką. montavimas buvo lengvas ir greitas, o užsakymas atliktas tiksliai kaip sutarta. Naudoju jau 34 mėnesius. Puikus santykis tarp kainos ir kokybės.",
           "date": "2022-08-07",
@@ -131,7 +131,7 @@
       "reviews": [
         {
           "reviewId": "4.87.031_rev_1",
-          "customerName": "Ramūnas Lapinskas",
+          "customerName": "Artūras Čepulis",
           "rating": 9.9,
           "comment": "Pirkau renovuojant būstą ir iš karto pastebėjau, kad spalvos natūralios ir sodrios. rezultatas viršijo mano lūkesčius, o pakuotė puikiai apsaugojo produktą. Naudoju jau 12 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
           "date": "2022-02-05",
@@ -140,7 +140,7 @@
         },
         {
           "reviewId": "4.87.031_rev_2",
-          "customerName": "Steponas Kudirka",
+          "customerName": "Leonas Tautkus",
           "rating": 9.8,
           "comment": "Rinkausi pagal medžiagų kokybę ir iš karto pastebėjau, kad detalės išdirbtos su ypatingu tikslumu. naudojimas yra itin patogus, o užsakymo procesas paprastas ir aiškus. Naudoju jau 32 mėnesius. Likau labai patenkinta rezultatu ir kokybe.",
           "date": "2022-09-06",
@@ -172,7 +172,7 @@
       "reviews": [
         {
           "reviewId": "4.87.032_rev_1",
-          "customerName": "Rimgaudas Blaževičius",
+          "customerName": "Balys Skrebys",
           "rating": 9.5,
           "comment": "Pirkau, nes ieškojau praktiško sprendimo ir iš karto pastebėjau, kad matosi aukštos gamybos standartai. naudojimo patirtis maloni ir sklandi, o užsakymas įvykdytas be problemų. Naudoju jau 12 mėnesius. Labai patenkinta ir rekomenduoju kitiems.",
           "date": "2023-05-02",
@@ -181,7 +181,7 @@
         },
         {
           "reviewId": "4.87.032_rev_2",
-          "customerName": "Zinaida Paleckis",
+          "customerName": "Tylenis Markevičius",
           "rating": 9.9,
           "comment": "Nusprendžiau pabandyti naują gaminį ir iš karto pastebėjau, kad spalva idealiai atitinka aprašymą. jaučiasi aukšta klasė, o komunikacija su pardavėju sklandi. Naudoju jau 21 mėnesius. Produktas vertas didžiausio įvertinimo.",
           "date": "2023-12-12",
@@ -213,7 +213,7 @@
       "reviews": [
         {
           "reviewId": "4.87.033_rev_1",
-          "customerName": "Regimantas Mikalauskas",
+          "customerName": "Dovydas Švedas",
           "rating": 9.9,
           "comment": "Šį produktą pasirinkau po ilgos analizės ir iš karto pastebėjau, kad produktas atrodo aukštos klasės. produktas vertas kiekvieno cento, o visa patirtis su užsakymu teigiama. Naudoju jau 35 mėnesius. Esu labai patenkinta šiuo pasirinkimu.",
           "date": "2025-04-29",
@@ -222,7 +222,7 @@
         },
         {
           "reviewId": "4.87.033_rev_2",
-          "customerName": "Edgaras Valiulis",
+          "customerName": "Vidas Naruševičius",
           "rating": 9.9,
           "comment": "Norėjau patikrinto ir patikimo gaminio ir iš karto pastebėjau, kad produktas atrodo solidžiai. pritaikymas prie interjero nekelia problemų, o prekė pristatyta nepriekaištingai. Naudoju jau 22 mėnesius. Labai džiaugiuosi šiuo pirkiniu.",
           "date": "2025-04-03",

@@ -47,7 +47,7 @@ const fasadas: Category[] = [
   { id: 27, title: "Kolonos",                     img: "/images/landing/kolonos.webp",                     href: "/produktai/kolonos" },
   { id: 28, title: "Puskolonos",                  img: "/images/landing/puskolonos.webp",                  href: "/produktai/puskolonos" },
   { id: 29, title: "Balustrai",                   img: "/images/landing/balustrai.webp",                   href: "/produktai/balustrai" },
-  { id: 31, title: "Stulpo kepurė",               img: "/images/landing/stulpo-kepure.webp",               href: "/produktai/stulpo-kepure" },
+  { id: 31, title: "Stulpo kepurė",               img: "/images/landing/stulpo-kepures.webp",               href: "/produktai/stulpo-kepure" },
   { id: 32, title: "Balustrados pagrindai",       img: "/images/landing/balustrados-pagrindai.webp",       href: "/produktai/balustrados-pagrindai" },
   { id: 33, title: "Balustrados porankiai",       img: "/images/landing/balustrados-porankiai.webp",       href: "/produktai/balustrados-porankiai" },
   { id: 34, title: "Langų juostos",               img: "/images/landing/lauko-palanges.webp",               href: "/produktai/lauko-palanges" },

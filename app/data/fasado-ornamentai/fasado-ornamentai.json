@@ -22,7 +22,7 @@
       "reviews": [
         {
           "reviewId": "4.99.001_rev_1",
-          "customerName": "Simona Stankevičius",
+          "customerName": "Bronislova Dambrauskaitė",
           "rating": 9.4,
           "comment": "Nusprendžiau išbandyti šį gaminį ir iš karto pastebėjau, kad spalvos sodrios ir tiksliai atkartoja nuotrauką. galutinis vaizdas labai estetiškas, o pakuotė puikiai apsaugojo produktą. Naudoju jau 5 mėnesius. Rezultatas nuostabus.",
           "date": "2025-11-05",
@@ -53,7 +53,7 @@
       "reviews": [
         {
           "reviewId": "4.99.002_rev_1",
-          "customerName": "Nora Petraitis",
+          "customerName": "Darius Gailius",
           "rating": 9.8,
           "comment": "Pirkau po patikimų rekomendacijų ir iš karto pastebėjau, kad dizainas prabangus ir elegantiškas. produktas pateisino mano lūkesčius, o pakuotė apsaugojo produktą nuo pažeidimų. Naudoju jau 24 mėnesius. Pirkimas buvo tikrai sėkmingas.",
           "date": "2023-12-09",
@@ -62,7 +62,7 @@
         },
         {
           "reviewId": "4.99.002_rev_2",
-          "customerName": "Samuelis Jakštas",
+          "customerName": "Vladislova Šimkienė",
           "rating": 9.4,
           "comment": "Pasirinkau, nes gaminys atrodo solidus ir iš karto pastebėjau, kad dizainas atrodo prabangiai. montavimas buvo lengvas ir greitas, o užsakymas įvykdytas be problemų. Naudoju jau 26 mėnesius. Pirkimas buvo tikrai sėkmingas.",
           "date": "2022-04-20",
