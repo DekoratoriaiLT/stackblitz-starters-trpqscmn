@@ -49,19 +49,12 @@ CATEGORIES = {
     'ziedai': 'ziedai',
 }
 
-def get_template_component_name(category):
-    """Convert category name to PascalCase template name"""
-    parts = category.split('-')
-    pascal = ''.join(word.capitalize() for word in parts)
-    return f"{pascal}Template"
-
 
 def generate_page_tsx(category, product_code):
     """Generate page.tsx content for a product"""
-    template_name = get_template_component_name(category)
     json_file = CATEGORIES[category]
     
-    return f"""import {{ {template_name} }} from '../../../components/ProductPage/template';
+    return f"""import {{ ProductPageTemplate }} from '../../../components/ProductPage/template';
 export {{ generateMetadata }} from './meta';
 
 const productData = require('@/app/data/{category}/{json_file}.json').products;
@@ -173,7 +166,7 @@ export default async function Page() {{
         type="application/ld+json"
         dangerouslySetInnerHTML={{{{ __html: JSON.stringify(structuredData) }}}}
       />
-      <{template_name} product={{product}} />
+      <ProductPageTemplate product={{product}} />
     </>
   );
 }}

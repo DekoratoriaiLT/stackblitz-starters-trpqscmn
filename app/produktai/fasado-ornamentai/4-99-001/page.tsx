@@ -1,4 +1,4 @@
-import { FasadoOrnamentaiTemplate } from '../../../components/ProductPage/template';
+import { ProductPageTemplate } from '../../../components/ProductPage/template';
 export { generateMetadata } from './meta';
 
 const productData = require('@/app/data/fasado-ornamentai/fasado-ornamentai.json').products;
@@ -110,7 +110,7 @@ export default async function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
-      <FasadoOrnamentaiTemplate product={product} />
+      <ProductPageTemplate product={product} />
     </>
   );
 }
