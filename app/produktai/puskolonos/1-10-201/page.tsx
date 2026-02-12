@@ -6,6 +6,7 @@ const productData = require('@/app/data/puskolonos/puskolonos.json').products;
 const BASE_URL = 'https://www.dekoratoriai.lt';
 const CATEGORY = 'puskolonos';
 
+
 const getProduct = async (productCode: string) => {
   return productData.find((product: any) => product.code === productCode);
 };
