@@ -24,13 +24,13 @@ interface Product {
   mounting_instructions: string;
 }
 
-interface LubiniaiApvadaiTemplateProps {
+interface ProductPageProps {
   product: Product;
 }
 
-export function LubiniaiApvadaiTemplate({
+export function ProductPageTemplate({
   product,
-}: LubiniaiApvadaiTemplateProps) {
+}: ProductPageProps) {
   // Extract the code from URL if needed (e.g. 1-50-100)
   const urlCode =
     product.url?.split('/').filter(Boolean).pop() ?? null;
