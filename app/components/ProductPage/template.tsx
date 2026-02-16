@@ -66,10 +66,10 @@ export function ProductPageTemplate({
             </a>
             <span className="text-slate-600">/</span>
             <a
-              href="/produktai/lubu-apvadai"
+              href={`/produktai/${product.category}`}
               className="text-slate-400 hover:text-emerald-400 transition-colors font-medium"
             >
-              Lubų apvadai
+              {product.category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
             </a>
             <span className="text-slate-600">/</span>
             <span className="text-white font-bold">
