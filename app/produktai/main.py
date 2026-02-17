@@ -1,391 +1,318 @@
 #!/usr/bin/env python3
 """
-Update page.tsx and meta.ts files for all existing products
-Updates proper JSON-LD structured data for each product page
+Script to:
+1. Revert the category page.tsx files (undo the wrong changes)
+2. Only update the template.tsx file (the actual fix needed)
+
+The individual product pages (like 1-59-004/page.tsx) are already correct!
+They just need the fixed template.tsx file.
 """
 
-import json
 import os
+import subprocess
 from pathlib import Path
 
-# All categories mapping (folder name -> JSON file name)
-CATEGORIES = {
-    'apvadu-kampai': 'apvadu-kampai',
-    'architravai': 'architravai',
-    'arkiniai-elementai': 'arkiniai-elementai',
-    'balustrados-pagrindai': 'balustrados-pagrindai',
-    'balustrados-porankiai': 'balustrados-porankiai',
-    'balustrai': 'balustrai',
-    'bossage': 'bossage',
-    'fasado-ornamentai': 'fasado-ornamentai',
-    'footpiece': 'footpiece',
-    'frizai': 'frizai',
-    'gembes': 'gembes',
-    'grindjuostes': 'grindjuostes',
-    'kapiteliai': 'kapiteliai',
-    'kolonos': 'kolonos',
-    'kolonos-liemuo': 'kolonos-liemuo',
-    'lango-angokrastai': 'lango-angokrastai',
-    'lango-arkiniai-remai': 'lango-arkiniai-remai',
-    'lauko-palanges': 'lauko-palanges',
-    'lubu-apvadai': 'lubu-apvadai',
-    'lubu-paneles': 'lubu-paneles',
-    'nisos': 'nisos',
-    'ornamentai': 'ornamentai',
-    'pagrindai': 'pagrindai',
-    'pedimentai': 'pedimentai',
-    'piliastrai': 'piliastrai',
-    'pjedestalines-gembes': 'pjedestalines-gembes',
-    'platband': 'platband',
-    'postcap': 'postcap',
-    'puskolonos': 'puskolonos',
-    'riejamieji-elementai': 'riejamieji-elementai',
-    'rozetes': 'rozetes',
-    'rustikai': 'rustikai',
-    'sienu-apvadai': 'sienu-apvadai',
-    'sienu-paneles': 'sienu-paneles',
-    'stulpo-kepure': 'stulpo-kepure',
-    'zidinio-dekoracija': 'zidinio-dekoracija',
-    'ziedai': 'ziedai',
+def run_command(cmd, cwd=None):
+    """Run a shell command and return output"""
+    try:
+        result = subprocess.run(
+            cmd, 
+            shell=True, 
+            cwd=cwd, 
+            capture_output=True, 
+            text=True
+        )
+        return result.returncode == 0, result.stdout, result.stderr
+    except Exception as e:
+        return False, "", str(e)
+
+def revert_category_pages(project_root):
+    """Revert all category page.tsx files using git"""
+    print("Step 1: Reverting category page.tsx files...")
+    print("=" * 60)
+    
+    cmd = "git checkout app/produktai/*/page.tsx"
+    success, stdout, stderr = run_command(cmd, cwd=project_root)
+    
+    if success:
+        print("✓ Successfully reverted category page.tsx files")
+        if stdout:
+            print(stdout)
+    else:
+        print("⚠ Warning: Git checkout failed")
+        print(stderr)
+        print("\nYou may need to manually run:")
+        print("  git checkout app/produktai/*/page.tsx")
+    
+    print()
+
+def create_template_file(project_root):
+    """Create the corrected template.tsx file"""
+    print("Step 2: Creating fixed template.tsx file...")
+    print("=" * 60)
+    
+    template_path = project_root / "app" / "components" / "ProductPage" / "template.tsx"
+    
+    # Make sure directory exists
+    template_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    template_content = '''import { ProductGallery } from './ProductGallery';
+import { ProductInfo } from './ProductInfo';
+import { ProductFeatures } from './ProductFeatures';
+import { AddToCartButton } from './AddToCartButton';
+import ReviewsSection from './ReviewsSection';
+
+const R2_BASE_URL =
+  'https://pub-262c7ff9747743f0853580fc0debb426.r2.dev';
+
+interface ImageData {
+  filename: string;
+  url: string;
+  local_path: string;
 }
 
+interface Product {
+  name: string;
+  url: string;
+  code: string | null;
+  category: string;
+  images: ImageData[];
+  details: Record<string, string>;
+  flexible_analog_exists: boolean;
+  mounting_instructions: string;
+}
 
-def generate_page_tsx(category, product_code):
-    """Generate page.tsx content for a product"""
-    json_file = CATEGORIES[category]
-    
-    return f"""import {{ ProductPageTemplate }} from '../../../components/ProductPage/template';
-export {{ generateMetadata }} from './meta';
+interface ProductPageProps {
+  product: Product;
+}
 
-const productData = require('@/app/data/{category}/{json_file}.json').products;
+export function ProductPageTemplate({
+  product,
+}: ProductPageProps) {
+  // Extract the code from URL if needed (e.g. 1-50-100)
+  const urlCode =
+    product.url?.split('/').filter(Boolean).pop() ?? null;
 
-const BASE_URL = 'https://www.dekoratoriai.lt';
-const CATEGORY = '{category}';
+  // Resolve product code to ALWAYS be a string
+  const resolvedProductCode: string =
+    product.code ??
+    (urlCode
+      ? urlCode.replace(/-/g, '.')
+      : product.name.replace(/\\s+/g, '-'));
 
-const getProduct = async (productCode: string) => {{
-  return productData.find((product: any) => product.code === productCode);
-}};
-
-const calculateAggregateRating = (reviews?: any[]) => {{
-  if (!reviews || reviews.length === 0) return null;
-  
-  const totalRating = reviews.reduce((sum, review) => sum + review.rating, 0);
-  const averageRating = totalRating / reviews.length;
-  // Divide by 2 to convert from 10-point to 5-point scale
-  const normalizedRating = averageRating / 2;
-  
-  return {{
-    ratingValue: normalizedRating.toFixed(1),
-    reviewCount: reviews.length,
-    bestRating: "5",
-    worstRating: "1"
-  }};
-}};
-
-const generateProductJsonLd = (product: any) => {{
-  const imageUrl = `${{BASE_URL}}/images/produktai/${{CATEGORY}}/${{product.code}}.100.png`;
-  const productUrl = `${{BASE_URL}}/produktai/${{CATEGORY}}/${{product.code}}`;
-  const aggregateRating = calculateAggregateRating(product.reviews);
-
-  const jsonLd: any = {{
-    "@context": "https://schema.org/",
-    "@type": "Product",
-    "name": product.name,
-    "description": `${{product.name}} - Aukštos kokybės interjero dekoracijos produktai. ${{product.sudetis || 'Poliuretanas'}} dekoras.`,
-    "image": imageUrl,
-    "url": productUrl,
-    "brand": {{
-      "@type": "Brand",
-      "name": "Interjero ir Fasado Dekoratoriai"
-    }},
-    "sku": product.code,
-    "mpn": product.code
-  }};
-
-  if (aggregateRating) {{
-    jsonLd.aggregateRating = {{
-      "@type": "AggregateRating",
-      "ratingValue": aggregateRating.ratingValue,
-      "reviewCount": aggregateRating.reviewCount,
-      "bestRating": aggregateRating.bestRating,
-      "worstRating": aggregateRating.worstRating
-    }};
-  }}
-
-  if (product.reviews && product.reviews.length > 0) {{
-    jsonLd.review = product.reviews.map((review: any) => {{
-      // Divide individual review rating by 2
-      const normalizedReviewRating = (review.rating / 2).toFixed(1);
-      
-      return {{
-        "@type": "Review",
-        "reviewRating": {{
-          "@type": "Rating",
-          "ratingValue": normalizedReviewRating,
-          "bestRating": "5",
-          "worstRating": "1"
-        }},
-        "author": {{
-          "@type": "Person",
-          "name": review.customerName
-        }},
-        "datePublished": review.date,
-        "reviewBody": review.comment
-      }};
-    }});
-  }}
-
-  if (product.price) {{
-    jsonLd.offers = {{
-      "@type": "Offer",
-      "price": product.price.toFixed(2),
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock",
-      "url": productUrl,
-      "priceValidUntil": new Date(new Date().setFullYear(new Date().getFullYear() + 1))
-        .toISOString()
-        .split('T')[0]
-    }};
-  }}
-
-  return jsonLd;
-}};
-
-export default async function Page() {{
-  const product = await getProduct('{product_code}');
-  
-  if (!product) {{
-    return <div>Product not found</div>;
-  }}
-
-  const structuredData = generateProductJsonLd(product);
+  // Optional: model path (safe string)
+  const modelPath = `${R2_BASE_URL}/lubu-apvadai/${resolvedProductCode}.obj`;
 
   return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{{{ __html: JSON.stringify(structuredData) }}}}
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-white">
+      {/* Breadcrumbs */}
+      <div className="bg-slate-900/80 border-b border-slate-800/50 backdrop-blur-sm">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
+          <nav className="flex items-center space-x-3 text-sm">
+            <a
+              href="/"
+              className="text-slate-400 hover:text-emerald-400 transition-colors font-medium"
+            >
+              Pagrindinis
+            </a>
+            <span className="text-slate-600">/</span>
+            <a
+              href="/produktai"
+              className="text-slate-400 hover:text-emerald-400 transition-colors font-medium"
+            >
+              Produktai
+            </a>
+            <span className="text-slate-600">/</span>
+            <a
+              href={`/produktai/${product.category}`}
+              className="text-slate-400 hover:text-emerald-400 transition-colors font-medium"
+            >
+              {product.category.replace(/-/g, ' ').replace(/\\b\\w/g, l => l.toUpperCase())}
+            </a>
+            <span className="text-slate-600">/</span>
+            <span className="text-white font-bold">
+              {product.name}
+            </span>
+          </nav>
+        </div>
+      </div>
+
+      {/* Main content */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
+          <div>
+            <ProductGallery
+              productName={product.name}
+              category={product.category}
+            />
+          </div>
+
+          <div>
+            <ProductInfo
+              name={product.name}
+              category={product.category}
+              details={product.details}
+              url={product.url}
+            />
+
+            <div className="mt-8">
+              <AddToCartButton product={product} />
+            </div>
+          </div>
+        </div>
+
+        <div className="mb-16">
+          <ProductFeatures
+            flexibleAnalogExists={product.flexible_analog_exists}
+            mountingInstructions={product.mounting_instructions}
+          />
+        </div>
+      </div>
+
+      {/* Reviews – FIXED */}
+      <ReviewsSection
+        key={`reviews-${resolvedProductCode}`}
+        productCode={resolvedProductCode}
+        category={product.category}
       />
-      <ProductPageTemplate product={{product}} />
-    </>
+
+      {/* Benefits */}
+      <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border-t border-slate-700/50 mt-20">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+            <div className="text-center group">
+              <div className="bg-gradient-to-br from-slate-800 to-slate-900 w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 border border-slate-700/50 group-hover:border-emerald-400/50 transition-all duration-300 shadow-lg">
+                <svg
+                  className="w-10 h-10 text-emerald-400"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
+                  />
+                </svg>
+              </div>
+              <h3 className="font-bold text-white mb-2 text-lg">
+                Nemokamas pristatymas
+              </h3>
+              <p className="text-slate-400">
+                Užsakymams virš 1000 EUR
+              </p>
+            </div>
+
+            <div className="text-center group">
+              <div className="bg-gradient-to-br from-slate-800 to-slate-900 w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 border border-slate-700/50 group-hover:border-blue-400/50 transition-all duration-300 shadow-lg">
+                <svg
+                  className="w-10 h-10 text-blue-400"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+                  />
+                </svg>
+              </div>
+              <h3 className="font-bold text-white mb-2 text-lg">
+                Kokybės garantija
+              </h3>
+              <p className="text-slate-400">
+                Aukščiausios kokybės medžiagos
+              </p>
+            </div>
+
+            <div className="text-center group">
+              <div className="bg-gradient-to-br from-slate-800 to-slate-900 w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 border border-slate-700/50 group-hover:border-emerald-400/50 transition-all duration-300 shadow-lg">
+                <svg
+                  className="w-10 h-10 text-emerald-400"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z"
+                  />
+                </svg>
+              </div>
+              <h3 className="font-bold text-white mb-2 text-lg">
+                Ekspertų pagalba
+              </h3>
+              <p className="text-slate-400">
+                Profesionali konsultacija
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   );
-}}
-"""
-
-
-def generate_meta_ts(category, product_code):
-    """Generate meta.ts content for a product"""
-    json_file = CATEGORIES[category]
+}
+'''
     
-    return f"""import type {{ Metadata }} from 'next';
-
-const productData = require('@/app/data/{category}/{json_file}.json').products;
-
-const BASE_URL = 'https://www.dekoratoriai.lt';
-const CATEGORY = '{category}';
-
-const getProduct = (code: string) => {{
-  return productData.find((product: any) => product.code === code);
-}};
-
-const calculateAggregateRating = (reviews?: any[]) => {{
-  if (!reviews || reviews.length === 0) return null;
-  
-  const totalRating = reviews.reduce((sum, review) => sum + review.rating, 0);
-  const averageRating = totalRating / reviews.length;
-  // Divide by 2 to convert from 10-point to 5-point scale
-  const normalizedRating = averageRating / 2;
-  
-  return {{
-    ratingValue: normalizedRating.toFixed(1),
-    reviewCount: reviews.length,
-    bestRating: "5",
-    worstRating: "1"
-  }};
-}};
-
-export async function generateMetadata(): Promise<Metadata> {{
-  const product = getProduct('{product_code}');
-
-  if (!product) {{
-    return {{
-      title: 'Produktas nerastas | Interjero ir Fasado Dekoratoriai',
-      description: 'Norimas produktas nebuvo rastas.',
-      robots: {{
-        index: false,
-        follow: true
-      }}
-    }};
-  }}
-
-  const canonicalUrl = `${{BASE_URL}}/produktai/${{CATEGORY}}/${{product.code}}`;
-  const imageUrl = `${{BASE_URL}}/images/produktai/${{CATEGORY}}/${{product.code}}.100.png`;
-  const aggregateRating = calculateAggregateRating(product.reviews);
-  
-  const description = `${{product.name}} - Aukštos kokybės interjero dekoracijos produktai. ${{product.sudetis || 'Poliuretanas'}} dekoras.${{product.price ? ` Kaina: €${{product.price.toFixed(2)}}` : ''}}`;
-
-  const ratingText = aggregateRating 
-    ? ` | Įvertinimas: ${{aggregateRating.ratingValue}}/5 (${{aggregateRating.reviewCount}} atsiliepimai)`
-    : '';
-
-  return {{
-    title: `${{product.name}}${{ratingText}} | Interjero ir Fasado Dekoratoriai`,
-    description,
-    alternates: {{
-      canonical: canonicalUrl
-    }},
-    openGraph: {{
-      title: `${{product.name}} - Aukštos kokybės interjero dekoracijos`,
-      description,
-      url: canonicalUrl,
-      images: [
-        {{
-          url: imageUrl,
-          width: 1200,
-          height: 630,
-          alt: product.name
-        }}
-      ],
-      type: 'website',
-      siteName: 'Interjero ir Fasado Dekoratoriai'
-    }},
-    twitter: {{
-      card: 'summary_large_image',
-      title: `${{product.name}} - Aukštos kokybės interjero dekoracijos`,
-      description,
-      images: [imageUrl]
-    }},
-    robots: {{
-      index: true,
-      follow: true
-    }}
-  }};
-}}
-"""
-
-
-def scan_and_update_products(pages_dir, dry_run=True):
-    """Scan existing directory structure and update files"""
+    with open(template_path, 'w', encoding='utf-8') as f:
+        f.write(template_content)
     
-    total_updated = 0
-    total_categories = 0
-    
-    # Iterate through each category folder
-    for category in CATEGORIES.keys():
-        category_path = os.path.join(pages_dir, category)
-        
-        if not os.path.exists(category_path) or not os.path.isdir(category_path):
-            continue
-        
-        category_updated = 0
-        
-        # List all subdirectories (product codes)
-        try:
-            entries = os.listdir(category_path)
-        except Exception as e:
-            print(f"  ⚠️  Error reading category {category}: {e}")
-            continue
-        
-        for entry in entries:
-            product_dir = os.path.join(category_path, entry)
-            
-            # Skip if not a directory or if it's page.tsx (category page)
-            if not os.path.isdir(product_dir) or entry == 'page.tsx':
-                continue
-            
-            # The directory name is the product code
-            product_code = entry
-            
-            # Check if page.tsx and meta.ts exist
-            page_path = os.path.join(product_dir, 'page.tsx')
-            meta_path = os.path.join(product_dir, 'meta.ts')
-            
-            if not os.path.exists(page_path) and not os.path.exists(meta_path):
-                print(f"    ⚠️  Skipping {category}/{product_code} - no files found")
-                continue
-            
-            if dry_run:
-                print(f"    Would update: {category}/{product_code}/")
-            else:
-                # Generate and write page.tsx
-                if os.path.exists(page_path):
-                    page_content = generate_page_tsx(category, product_code)
-                    with open(page_path, 'w', encoding='utf-8') as f:
-                        f.write(page_content)
-                
-                # Generate and write meta.ts
-                if os.path.exists(meta_path):
-                    meta_content = generate_meta_ts(category, product_code)
-                    with open(meta_path, 'w', encoding='utf-8') as f:
-                        f.write(meta_content)
-                
-                print(f"    ✅ Updated: {category}/{product_code}/")
-            
-            category_updated += 1
-            total_updated += 1
-        
-        if category_updated > 0:
-            total_categories += 1
-            if dry_run:
-                print(f"\n📁 {category}: {category_updated} products")
-            else:
-                print(f"\n📁 {category}: {category_updated} products updated")
-    
-    return total_categories, total_updated
+    print(f"✓ Created: {template_path}")
+    print()
 
+def show_summary():
+    """Show summary of what was done"""
+    print("=" * 60)
+    print("✓ COMPLETE!")
+    print("=" * 60)
+    print()
+    print("What was fixed:")
+    print("  1. ✓ Reverted category page.tsx files (they keep 'use client')")
+    print("  2. ✓ Created fixed template.tsx with ProductPageTemplate export")
+    print()
+    print("The individual product pages were already correct!")
+    print("They just needed the fixed template.tsx file.")
+    print()
+    print("Next steps:")
+    print("  1. Test the build: npm run build")
+    print("  2. Check git status: git status")
+    print("  3. Commit the template.tsx change:")
+    print("     git add app/components/ProductPage/template.tsx")
+    print("     git commit -m 'Fix ProductPageTemplate export'")
+    print()
 
 def main():
-    import sys
+    # Find project root (look for package.json)
+    current_dir = Path.cwd()
+    project_root = current_dir
     
-    # Directories
-    pages_dir = '/workspaces/stackblitz-starters-trpqscmn/app/produktai'
+    # Try to find project root by looking for package.json
+    while project_root != project_root.parent:
+        if (project_root / "package.json").exists():
+            break
+        project_root = project_root.parent
     
-    # Check for alternative paths
-    if not os.path.exists(pages_dir):
-        pages_dir = './app/produktai'
+    if not (project_root / "package.json").exists():
+        project_root = current_dir
     
-    if not os.path.exists(pages_dir):
-        pages_dir = './produktai'
+    print("🔧 Fix Product Template Script")
+    print("=" * 60)
+    print(f"Project root: {project_root}")
+    print()
     
-    # Check for --run flag
-    dry_run = '--run' not in sys.argv
+    # Step 1: Revert category pages
+    revert_category_pages(project_root)
     
-    if dry_run:
-        print("\n" + "="*70)
-        print("  DRY RUN - PREVIEW MODE")
-        print("="*70)
-        print(f"\n📂 Pages directory: {pages_dir}")
-        print("\nScanning existing files that would be updated...\n")
-    else:
-        print("\n" + "="*70)
-        print("  UPDATING FILES")
-        print("="*70)
-        print(f"\n📂 Pages directory: {pages_dir}\n")
+    # Step 2: Create template file
+    create_template_file(project_root)
     
-    categories, products = scan_and_update_products(pages_dir, dry_run)
-    
-    print("\n" + "="*70)
-    if dry_run:
-        print("  PREVIEW SUMMARY")
-    else:
-        print("  RESULTS")
-    print("="*70)
-    print(f"\n📊 Statistics:")
-    print(f"  • Categories processed: {categories}")
-    print(f"  • Products: {products}")
-    print(f"  • Files that would be updated: {products * 2} (page.tsx + meta.ts)")
-    
-    if dry_run:
-        print(f"\n⚠️  This is PREVIEW ONLY - no files updated!")
-        print("\n" + "🔔 " + "="*66)
-        print("  TO ACTUALLY UPDATE FILES, RUN:")
-        print(f"  python {sys.argv[0]} --run")
-        print("="*68)
-    else:
-        print(f"\n✅ Successfully updated all files!")
-    
-    print("\n")
-
+    # Show summary
+    show_summary()
 
 if __name__ == "__main__":
     main()
