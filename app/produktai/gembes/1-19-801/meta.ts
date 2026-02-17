@@ -6,46 +6,53 @@ const BASE_URL = 'https://www.dekoratoriai.lt';
 const CATEGORY = 'gembes';
 
 const getProduct = (code: string) => {
-  return productData.find((product: any) => product.code === code);
+  // Try dot format (1.50.100) first, then dash format (1-50-100)
+  return (
+    productData.find((p: any) => p.code === code) ||
+    productData.find((p: any) => p.code === code.replace(/-/g, '.')) ||
+    productData.find((p: any) => p.code === code.replace(/\./g, '-'))
+  );
 };
 
 const calculateAggregateRating = (reviews?: any[]) => {
   if (!reviews || reviews.length === 0) return null;
-  
-  const totalRating = reviews.reduce((sum, review) => sum + review.rating, 0);
+  const totalRating = reviews.reduce((sum: number, review: any) => sum + review.rating, 0);
   const averageRating = totalRating / reviews.length;
-  // Divide by 2 to convert from 10-point to 5-point scale
   const normalizedRating = averageRating / 2;
-  
   return {
     ratingValue: normalizedRating.toFixed(1),
     reviewCount: reviews.length,
-    bestRating: "5",
-    worstRating: "1"
+    bestRating: '5',
+    worstRating: '1',
   };
 };
 
 export async function generateMetadata(): Promise<Metadata> {
-  const product = getProduct('1-19-801');
+  // Try both formats so the lookup never fails
+  const product = getProduct('1.19.801') || getProduct('1-19-801');
 
   if (!product) {
+    // Fallback metadata — still indexable
     return {
-      title: 'Produktas nerastas | Interjero ir Fasado Dekoratoriai',
-      description: 'Norimas produktas nebuvo rastas.',
+      title: 'Corbel 1.19.801 | Interjero ir Fasado Dekoratoriai',
+      description: 'Aukštos kokybės poliuretano dekoracijos. Platus pasirinkimas, greitas pristatymas.',
       robots: {
-        index: false,
-        follow: true
-      }
+        index: true,
+        follow: true,
+      },
+      alternates: {
+        canonical: `${BASE_URL}/produktai/${CATEGORY}/1-19-801`,
+      },
     };
   }
 
-  const canonicalUrl = `${BASE_URL}/produktai/${CATEGORY}/${product.code}`;
+  const canonicalUrl = `${BASE_URL}/produktai/${CATEGORY}/1-19-801`;
   const imageUrl = `${BASE_URL}/images/produktai/${CATEGORY}/${product.code}.100.png`;
   const aggregateRating = calculateAggregateRating(product.reviews);
-  
+
   const description = `${product.name} - Aukštos kokybės interjero dekoracijos produktai. ${product.sudetis || 'Poliuretanas'} dekoras.${product.price ? ` Kaina: €${product.price.toFixed(2)}` : ''}`;
 
-  const ratingText = aggregateRating 
+  const ratingText = aggregateRating
     ? ` | Įvertinimas: ${aggregateRating.ratingValue}/5 (${aggregateRating.reviewCount} atsiliepimai)`
     : '';
 
@@ -53,7 +60,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: `${product.name}${ratingText} | Interjero ir Fasado Dekoratoriai`,
     description,
     alternates: {
-      canonical: canonicalUrl
+      canonical: canonicalUrl,
     },
     openGraph: {
       title: `${product.name} - Aukštos kokybės interjero dekoracijos`,
@@ -64,21 +71,25 @@ export async function generateMetadata(): Promise<Metadata> {
           url: imageUrl,
           width: 1200,
           height: 630,
-          alt: product.name
-        }
+          alt: product.name,
+        },
       ],
       type: 'website',
-      siteName: 'Interjero ir Fasado Dekoratoriai'
+      siteName: 'Interjero ir Fasado Dekoratoriai',
     },
     twitter: {
       card: 'summary_large_image',
       title: `${product.name} - Aukštos kokybės interjero dekoracijos`,
       description,
-      images: [imageUrl]
+      images: [imageUrl],
     },
     robots: {
       index: true,
-      follow: true
-    }
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+      },
+    },
   };
 }
