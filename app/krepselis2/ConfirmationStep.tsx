@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Check, ShoppingBag } from "lucide-react";
+import { Check, Loader2, ShoppingBag } from "lucide-react";
 
 export default function ConfirmationStep({
   orderNumber,
@@ -20,25 +20,29 @@ export default function ConfirmationStep({
           <Check className="w-8 h-8 text-green-600" />
         </div>
 
-        <h2 className="text-2xl font-medium text-gray-900">Užsakymas gautas!</h2>
+        <h2 className="text-2xl font-medium text-gray-900">
+          Užsakymas patvirtintas!
+        </h2>
 
-        <p className="text-gray-600 mt-2">
-          Dėkojame! Netrukus susisieksime dėl apmokėjimo ir pristatymo.
+        <p className="text-gray-600 mt-2">Dėkojame už jūsų užsakymą</p>
+        <p className="text-sm font-medium mt-1">
+          Užsakymo numeris: {orderNumber}
         </p>
 
-        <p className="text-sm font-medium mt-1 text-gray-500">
-          Užsakymo numeris: <span className="text-gray-900">{orderNumber}</span>
-        </p>
-
-        <div className="mt-4 text-sm text-gray-600">
-          {isEmailSending ? (
-            <span className="text-gray-400">Siunčiamas patvirtinimo el. laiškas...</span>
-          ) : emailError ? (
-            <span className="text-amber-600">{emailError}</span>
-          ) : (
-            <span className="text-green-600">✓ Patvirtinimo el. laiškas išsiųstas į {customerDetails.email}</span>
-          )}
-        </div>
+        {isEmailSending ? (
+          <div className="mt-4 flex items-center justify-center text-gray-600">
+            <Loader2 className="animate-spin w-5 h-5 mr-2" />
+            Siunčiamas patvirtinimo el. laiškas...
+          </div>
+        ) : (
+          <p className="text-sm text-gray-600 mt-2">
+            {emailError ? (
+              <span className="text-amber-600">{emailError}</span>
+            ) : (
+              "Patvirtinimo el. laiškas išsiųstas"
+            )}
+          </p>
+        )}
       </div>
 
       {/* Order Items */}
@@ -50,9 +54,9 @@ export default function ConfirmationStep({
             <div key={item.id} className="flex justify-between items-center">
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gray-100 rounded-lg overflow-hidden mr-3">
-                  {item.images?.[0] || item.img ? (
+                  {item.img ? (
                     <Image
-                      src={item.images?.[0] || item.img}
+                      src={item.img}
                       alt={item.title}
                       width={48}
                       height={48}
@@ -71,7 +75,9 @@ export default function ConfirmationStep({
                 </div>
               </div>
 
-              <p className="font-medium">{formatPrice(item.price * item.quantity)}</p>
+              <p className="font-medium">
+                {formatPrice(item.price * item.quantity)}
+              </p>
             </div>
           ))}
         </div>
@@ -86,7 +92,7 @@ export default function ConfirmationStep({
 
       <div className="flex justify-between items-center mt-8">
         <div>
-          <p className="text-sm text-gray-600">Patvirtinimas išsiųstas:</p>
+          <p className="text-sm text-gray-600">Patvirtinimo el. laiškas išsiųstas:</p>
           <p className="font-medium">{customerDetails.email}</p>
         </div>
 

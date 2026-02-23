@@ -9,6 +9,7 @@ export default function CartItem({
   formatPrice,
   isBusinessUser
 }: any) {
+  // Use the first image from the images array, fallback to img property if images array doesn't exist
   const imageUrl = item.images?.[0] || item.img;
 
   return (
@@ -43,6 +44,7 @@ export default function CartItem({
               <Trash2 className="w-5 h-5" />
             </button>
           </div>
+
 
           <div className="flex items-center justify-between">
             {/* Quantity Controls */}
@@ -82,6 +84,7 @@ export default function CartItem({
                 </div>
               )}
             </div>
+
           </div>
         </div>
       </div>

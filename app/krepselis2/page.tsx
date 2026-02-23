@@ -11,13 +11,21 @@ import OrderSummary from "./OrderSummary";
 import StepIndicator from "./StepIndicator";
 import BusinessBanner from "./BusinessBanner";
 import AddressStep from "./AddressStep";
-import ReviewStep from "./ReviewStep";
+import PaymentStep from "./PaymentStep";
 import ConfirmationStep from "./ConfirmationStep";
 
+import { loadStripe } from "@stripe/stripe-js";
 import { ShoppingCart, ShoppingBag } from "lucide-react";
 
 import { database } from "../firebase";
 import { ref, push } from "firebase/database";
+
+// Stripe key check
+if (!process.env.NEXT_PUBLIC_STRIPE_PUBLIC_KEY) {
+  throw new Error("Missing Stripe public key");
+}
+
+const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLIC_KEY);
 
 export default function Page() {
   const {
@@ -37,7 +45,6 @@ export default function Page() {
   const [orderNumber, setOrderNumber] = useState("");
   const [isEmailSending, setIsEmailSending] = useState(false);
   const [emailError, setEmailError] = useState<string | null>(null);
-  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const [addressState, setAddressState] = useState({
     line_1: "",
@@ -53,20 +60,20 @@ export default function Page() {
     phone: ""
   });
 
+  // Prevent hydration mismatch
   useEffect(() => setIsMounted(true), []);
 
-  const formatPrice = (price: number | undefined) => `€${price?.toFixed(2)}`;
+  const formatPrice = (price: number | undefined) =>
+    `€${price?.toFixed(2)}`;
 
   /**
-   * Place order: save to Firebase, send confirmation emails to customer and store
+   * Called after successful Stripe payment
    */
-  const handlePlaceOrder = async () => {
-    setIsSubmitting(true);
-
+  const handlePaymentSuccess = async (paymentIntent: any) => {
     const orderNum = "ORD-" + Date.now();
     setOrderNumber(orderNum);
 
-    // 1. Save order to Firebase
+    // Optionally save order to Firebase
     try {
       await push(ref(database, "orders"), {
         orderNumber: orderNum,
@@ -74,47 +81,21 @@ export default function Page() {
         addressState,
         cart,
         total: cartTotal,
-        status: "pending",
-        createdAt: Date.now()
+        createdAt: Date.now(),
+        paymentIntentId: paymentIntent?.id ?? null
       });
     } catch (err) {
-      console.error("Failed to save order to Firebase:", err);
+      console.error("Failed to save order:", err);
     }
 
-    // 2. Send confirmation emails
-    setIsEmailSending(true);
     setCurrentStep("confirmation");
-    setIsSubmitting(false);
-
-    try {
-      const res = await fetch("/api/send-order-email", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          orderNumber: orderNum,
-          customerDetails,
-          addressState,
-          cart,
-          cartTotal
-        })
-      });
-
-      if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || "Email send failed");
-      }
-    } catch (err: any) {
-      console.error("Email error:", err);
-      setEmailError("Nepavyko išsiųsti el. laiško. Susisieksime su jumis netrukus.");
-    } finally {
-      setIsEmailSending(false);
-      clearCart();
-    }
   };
 
   if (!isMounted) return null;
 
-  // EMPTY CART
+  // -------------------------------------------------
+  // EMPTY CART SCREEN
+  // -------------------------------------------------
   if (cart.length === 0 && currentStep === "cart") {
     return (
       <div className="min-h-screen bg-gray-50 py-12">
@@ -139,30 +120,37 @@ export default function Page() {
     );
   }
 
-  // MAIN LAYOUT
+  // -------------------------------------------------
+  // MAIN CHECKOUT LAYOUT
+  // -------------------------------------------------
   return (
     <div className="min-h-screen bg-gray-50 py-12">
       <div className="max-w-7xl mx-auto px-4">
 
+        {/* STEP TITLE */}
         <h1 className="text-4xl font-light text-gray-900 mb-2">
           {currentStep === "cart"
             ? "Krepšelis"
             : currentStep === "address"
             ? "Pristatymo informacija"
-            : currentStep === "review"
-            ? "Užsakymo peržiūra"
+            : currentStep === "payment"
+            ? "Apmokėjimo duomenys"
             : "Užsakymo patvirtinimas"}
         </h1>
 
         <StepIndicator currentStep={currentStep} />
 
-        {isBusinessMode && businessAccount && currentStep === "cart" && (
-          <BusinessBanner
-            businessAccount={businessAccount}
-            discountRate={discountRate}
-          />
-        )}
+        {/* BUSINESS BANNER */}
+        {isBusinessMode &&
+          businessAccount &&
+          currentStep === "cart" && (
+            <BusinessBanner
+              businessAccount={businessAccount}
+              discountRate={discountRate}
+            />
+          )}
 
+        {/* CONTENT GRID */}
         <div className="grid lg:grid-cols-3 gap-8">
 
           {/* LEFT SIDE */}
@@ -216,16 +204,14 @@ export default function Page() {
               />
             )}
 
-            {/* REVIEW STEP */}
-            {currentStep === "review" && (
-              <ReviewStep
-                cart={cart}
+            {/* PAYMENT STEP */}
+            {currentStep === "payment" && (
+              <PaymentStep
+                stripePromise={stripePromise}
                 cartTotal={cartTotal}
-                customerDetails={customerDetails}
                 addressState={addressState}
-                formatPrice={formatPrice}
-                onPlaceOrder={handlePlaceOrder}
-                isSubmitting={isSubmitting}
+                customerDetails={customerDetails}
+                handlePaymentSuccess={handlePaymentSuccess}
                 setCurrentStep={setCurrentStep}
               />
             )}

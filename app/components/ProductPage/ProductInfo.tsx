@@ -1,38 +1,109 @@
+'use client';
+
+import { useEffect, useRef } from 'react';
+import gsap from 'gsap';
+
 interface ProductInfoProps {
   name: string;
   category: string;
   details: Record<string, string>;
   url: string;
+  code: string;
 }
 
-export function ProductInfo({ name, category, details, url }: ProductInfoProps) {
+export function ProductInfo({ name, category, details, url, code }: ProductInfoProps) {
+  const titleRef = useRef<HTMLHeadingElement>(null);
+  const priceRef = useRef<HTMLDivElement>(null);
+  const specsRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const elements = [titleRef.current, priceRef.current, specsRef.current].filter(Boolean);
+
+    gsap.fromTo(
+      elements,
+      { y: 20, opacity: 0 },
+      {
+        y: 0,
+        opacity: 1,
+        duration: 0.6,
+        stagger: 0.1,
+        ease: 'power3.out',
+      }
+    );
+  }, []);
+
+  // Extract price from details
+  const price = details?.['Kaina'] || details?.['price'] || null;
+  const priceValue = price
+    ? typeof price === 'string'
+      ? parseFloat(price.replace(/[€\s,]/g, '.'))
+      : price
+    : null;
+
   return (
     <div className="space-y-8">
+      {/* Product Title */}
       <div>
-        <p className="text-emerald-400 text-sm font-bold mb-3 uppercase tracking-wider">
-          {category.replace(/-/g, ' ')}
-        </p>
-        <h1 className="text-5xl font-bold text-white mb-2 leading-tight">{name}</h1>
+        <h1 ref={titleRef} className="text-4xl md:text-5xl font-bold text-gray-900 mb-3 leading-tight">
+          {name}
+        </h1>
+        {code && (
+          <div className="inline-block bg-gray-200 text-gray-700 text-sm font-medium px-4 py-1.5 rounded-full">
+            {code}
+          </div>
+        )}
       </div>
 
-      <div className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-8 border border-slate-700/50 shadow-2xl">
-        <h2 className="text-2xl font-bold text-white mb-6 flex items-center">
-          <svg className="w-6 h-6 mr-3 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-          </svg>
-          Techninės charakteristikos
-        </h2>
-        <dl className="space-y-4">
-          {Object.entries(details).map(([key, value]) => (
-            <div 
-              key={key} 
-              className="flex justify-between items-center py-3 border-b border-slate-700/50 last:border-0 hover:bg-slate-800/30 px-3 -mx-3 rounded-lg transition-colors duration-200"
-            >
-              <dt className="text-slate-400 font-semibold">{key}</dt>
-              <dd className="text-white font-bold text-lg">{value}</dd>
+      {/* Price */}
+      {priceValue && (
+        <div ref={priceRef} className="flex items-baseline gap-4">
+          <span className="text-4xl font-bold text-gray-900">€{priceValue.toFixed(2)}</span>
+          {/* Optional: show original price if there's a discount */}
+        </div>
+      )}
+
+      {/* Specifications */}
+      <div ref={specsRef} className="space-y-4">
+        <h2 className="text-xl font-semibold text-gray-900 mb-4">Techninės charakteristikos</h2>
+
+        <div className="grid grid-cols-3 gap-4">
+          {Object.entries(details)
+            .filter(([key]) => !['Kaina', 'price'].includes(key))
+            .slice(0, 3)
+            .map(([key, value], idx) => (
+              <div key={idx} className="text-center">
+                <p className="text-sm text-gray-500 mb-1">{key}</p>
+                <p className="text-lg font-semibold text-gray-900">{value}</p>
+              </div>
+            ))}
+        </div>
+
+        {/* Full specs accordion */}
+        {Object.keys(details).length > 4 && (
+          <details className="mt-6 group">
+            <summary className="cursor-pointer text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors list-none flex items-center justify-between py-3 border-t border-gray-200">
+              <span>Visos charakteristikos</span>
+              <svg
+                className="w-5 h-5 transform transition-transform group-open:rotate-180"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <div className="mt-4 space-y-3 pb-4">
+              {Object.entries(details)
+                .filter(([key]) => !['Kaina', 'price'].includes(key))
+                .map(([key, value], idx) => (
+                  <div key={idx} className="flex justify-between text-sm border-b border-gray-100 pb-2">
+                    <span className="text-gray-600">{key}</span>
+                    <span className="font-medium text-gray-900">{value}</span>
+                  </div>
+                ))}
             </div>
-          ))}
-        </dl>
+          </details>
+        )}
       </div>
     </div>
   );

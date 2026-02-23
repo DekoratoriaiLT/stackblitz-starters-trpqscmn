@@ -1,10 +1,11 @@
 'use client';
 
 import Image from 'next/image';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { getExistingImagePaths } from '@/app/components/Produktai/ImagePath/getImagePath';
 import { MeasurementOverlay } from '../Produktai/MeasurementOverlay/MeasurementOverlay';
 import type { ProductDimensions } from '@/app/components/Produktai/Types/types';
+import gsap from 'gsap';
 
 interface ProductGalleryProps {
   productName: string;
@@ -16,59 +17,68 @@ export function ProductGallery({ productName, category, details }: ProductGaller
   const [selectedImage, setSelectedImage] = useState(0);
   const [imagePaths, setImagePaths] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
+  const mainImageRef = useRef<HTMLDivElement>(null);
+  const thumbnailsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     async function loadImages() {
       setLoading(true);
-      const paths = await getExistingImagePaths(
-        productName,
-        category,
-        ["100", "20", "30", "40", "600"],
-        10,
-        false
-      );
+      const paths = await getExistingImagePaths(productName, category, ['100', '20', '30', '40', '600'], 10, false);
       setImagePaths(paths);
       setLoading(false);
     }
-    
+
     loadImages();
   }, [productName, category]);
 
-  const uniqueImages = imagePaths.filter(
-    (path, index, self) => self.indexOf(path) === index
-  );
+  useEffect(() => {
+    if (mainImageRef.current && !loading) {
+      gsap.fromTo(
+        mainImageRef.current,
+        { opacity: 0, scale: 0.95 },
+        { opacity: 1, scale: 1, duration: 0.4, ease: 'power2.out' }
+      );
+    }
+  }, [selectedImage, loading]);
+
+  const uniqueImages = imagePaths.filter((path, index, self) => self.indexOf(path) === index);
 
   const hasWhiteBackground = (imagePath: string) => {
     return imagePath.includes('.40.');
   };
 
   const shouldShowMeasurements = (imagePath: string) => {
-    return hasWhiteBackground(imagePath) && 
-           details && 
-           (details.Plotis || details.Aukštis || details.Aukstis);
+    return hasWhiteBackground(imagePath) && details && (details.Plotis || details.Aukštis || details.Aukstis);
+  };
+
+  const handleImageSelect = (idx: number) => {
+    setSelectedImage(idx);
   };
 
   return (
     <div className="space-y-6">
-      <div className={`relative aspect-square rounded-xl overflow-visible border shadow-2xl ${
-        uniqueImages.length > 0 && hasWhiteBackground(uniqueImages[selectedImage])
-          ? 'bg-white border-slate-300'
-          : 'bg-gradient-to-br from-slate-900 to-slate-800 border-slate-700/50'
-      }`}>
+      {/* Main Image */}
+      <div
+        className={`relative rounded-3xl overflow-hidden shadow-xl ${uniqueImages.length > 0 && hasWhiteBackground(uniqueImages[selectedImage])
+            ? 'bg-white'
+            : 'bg-gradient-to-br from-gray-50 to-gray-100'
+          }`}
+        style={{ aspectRatio: '1 / 1' }}
+      >
         {loading ? (
-          <div className="flex flex-col items-center justify-center h-full space-y-4">
-            <div className="w-16 h-16 border-4 border-white border-t-transparent rounded-full animate-spin"></div>
+          <div className="flex items-center justify-center h-full">
+            <div className="w-12 h-12 border-4 border-gray-300 border-t-gray-800 rounded-full animate-spin"></div>
           </div>
         ) : uniqueImages.length > 0 ? (
-          <div className="relative w-full h-full">
+          <div ref={mainImageRef} className="relative w-full h-full p-8">
             <Image
               src={uniqueImages[selectedImage]}
               alt={`${productName} - Vaizdas ${selectedImage + 1}`}
               fill
-              className="object-contain p-8 transition-opacity duration-300"
+              className="object-contain"
               priority
             />
-            
+
             {shouldShowMeasurements(uniqueImages[selectedImage]) && (
               <MeasurementOverlay
                 plotis={details?.Plotis}
@@ -79,36 +89,38 @@ export function ProductGallery({ productName, category, details }: ProductGaller
           </div>
         ) : (
           <div className="flex flex-col items-center justify-center h-full space-y-4">
-            <svg className="w-20 h-20 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            <svg
+              className="w-16 h-16 text-gray-400"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={1.5}
+                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+              />
             </svg>
-            <p className="text-slate-400 font-medium">Vaizdų nėra</p>
+            <p className="text-gray-500 font-medium">Vaizdų nėra</p>
           </div>
         )}
       </div>
 
+      {/* Thumbnails */}
       {uniqueImages.length > 1 && (
-        <div className="pl-2 pt-2 flex gap-3 overflow-x-auto pb-2 scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-slate-900">
+        <div ref={thumbnailsRef} className="flex gap-3 justify-center overflow-x-auto pb-2 scrollbar-hide">
           {uniqueImages.map((path, idx) => (
             <button
               key={idx}
-              onClick={() => setSelectedImage(idx)}
-              className={`relative w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden border-2 transition-all duration-300 ${
-                selectedImage === idx
-                  ? hasWhiteBackground(path)
-                    ? 'border-emerald-400 shadow-lg shadow-emerald-500/30 scale-105 bg-white'
-                    : 'border-emerald-400 shadow-lg shadow-emerald-500/30 scale-105'
-                  : hasWhiteBackground(path)
-                    ? 'border-slate-300 hover:border-slate-400 bg-white'
-                    : 'border-slate-700 hover:border-slate-500'
-              }`}
+              onClick={() => handleImageSelect(idx)}
+              className={`relative flex-shrink-0 rounded-2xl overflow-hidden transition-all duration-300 ${selectedImage === idx
+                  ? 'ring-3 ring-gray-800 scale-105 shadow-lg'
+                  : 'ring-1 ring-gray-200 hover:ring-2 hover:ring-gray-400'
+                } ${hasWhiteBackground(path) ? 'bg-white' : 'bg-gray-50'}`}
+              style={{ width: '100px', height: '100px' }}
             >
-              <Image
-                src={path}
-                alt={`Miniatiūra ${idx + 1}`}
-                fill
-                className="object-contain p-2"
-              />
+              <Image src={path} alt={`Miniatiūra ${idx + 1}`} fill className="object-contain p-2" />
             </button>
           ))}
         </div>
