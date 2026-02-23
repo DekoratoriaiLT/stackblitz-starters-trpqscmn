@@ -4,9 +4,8 @@ import { useCart } from '@/app/contexts/CartContext';
 import { useState, useRef, useEffect } from 'react';
 import MetreInputModal from '@/app/components/Produktai/MetreInputModal/MetreInputModal';
 import SimpleQuantityModal from '@/app/components/Produktai/SimpleQuantityModal/SimpleQuantityModal';
+import { getExistingImagePaths } from '@/app/components/Produktai/ImagePath/getImagePath';
 import gsap from 'gsap';
-
-const R2_BASE_URL = 'https://pub-262c7ff9747743f0853580fc0debb426.r2.dev';
 
 const PRICE_PER_METRE_CATEGORIES = new Set(['lubu-apvadai', 'moulding', 'grindjuostes', 'grindu-apvadai']);
 
@@ -15,7 +14,7 @@ interface Product {
   url: string;
   code: string | null;
   category: string;
-  images: Array<{ filename: string; url: string; local_path: string }>;
+  images: Array<{ filename: string; url: string; local_path: string }> | null | undefined;
   details: Record<string, string>;
   flexible_analog_exists?: boolean;
 }
@@ -37,7 +36,58 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
   const [isAdding, setIsAdding] = useState(false);
   const [showMetreModal, setShowMetreModal] = useState(false);
   const [showSimpleModal, setShowSimpleModal] = useState(false);
+  const [resolvedImages, setResolvedImages] = useState<string[]>([]);
+  const [resolvedPrice, setResolvedPrice] = useState<number>(0);
   const buttonRef = useRef<HTMLButtonElement>(null);
+
+  // On mount: resolve images + price the same way MainContent does
+  useEffect(() => {
+    async function resolveProductData() {
+      // 1. Resolve images via getExistingImagePaths (same as MainContent)
+      const paths = await getExistingImagePaths(
+        product.name,
+        product.category,
+        undefined,
+        5,
+        false
+      );
+      setResolvedImages(paths);
+
+      // 2. Load price from the category JSON (same pattern as MainContent)
+      try {
+        let dataModule;
+        try {
+          dataModule = await import(`@/app/data/${product.category}/${product.category}.json`);
+        } catch {
+          dataModule = await import(`@/app/data/${product.category}.json`);
+        }
+
+        const rawData = dataModule.default;
+        const productsArray: any[] = rawData.products || rawData;
+
+        if (Array.isArray(productsArray)) {
+          const matched = productsArray.find((p: any) => {
+            if (product.code && p.code === product.code) return true;
+            if (p.name === product.name) return true;
+            return false;
+          });
+
+          if (matched && typeof matched.price === 'number') {
+            setResolvedPrice(matched.price);
+            return;
+          }
+        }
+      } catch {
+        // fall through to details fallback
+      }
+
+      // 3. Fallback: parse price from product.details
+      const detailPrice = product.details?.['Kaina'] || product.details?.['price'];
+      setResolvedPrice(getPrice(detailPrice));
+    }
+
+    resolveProductData();
+  }, [product.name, product.category, product.code, product.details]);
 
   useEffect(() => {
     if (buttonRef.current) {
@@ -63,30 +113,30 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
   const addDirectToCart = (isFlexible: boolean = false, quantity: number = 1) => {
     setIsAdding(true);
 
-    const r2Images = product.images.map((img) => {
-      const filename = img.local_path.split('/').pop() || img.filename;
-      return `${R2_BASE_URL}/${product.category}/${filename}`;
-    });
-
     const baseId = product.code || product.url;
-    let uniqueId = baseId;
-
-    if (hasFlexibleAnalog) {
-      uniqueId = isFlexible ? `${baseId}-flexible` : `${baseId}-rigid`;
-    }
+    const uniqueId = hasFlexibleAnalog
+      ? isFlexible ? `${baseId}-flexible` : `${baseId}-rigid`
+      : baseId;
 
     const cartProduct = {
       id: uniqueId,
-      title: product.name,
-      images: r2Images,
-      img: r2Images[0] || '',
+      title: isFlexible
+        ? `${product.name} (Lankstus)`
+        : hasFlexibleAnalog
+        ? `${product.name} (Nelankstus)`
+        : product.name,
+      images: resolvedImages,
+      img: resolvedImages[0] || '',
       description: product.category,
       category: product.category,
-      price: getPrice(product.details?.['Kaina'] || product.details?.['price']),
+      price: resolvedPrice,
       ilgis: parseFloat(product.details?.['Ilgis'] || '0'),
-      aukstis: parseFloat(product.details?.['Aukštis'] || '0'),
+      aukstis: parseFloat(product.details?.['Aukštis'] || product.details?.['Aukstis'] || '0'),
       flexible_analog_exists: product.flexible_analog_exists,
-      isFlexible: isFlexible,
+      isFlexible,
+      variant: hasFlexibleAnalog
+        ? (isFlexible ? 'lankstus' : 'nelankstus') as 'lankstus' | 'nelankstus'
+        : undefined,
     };
 
     for (let i = 0; i < quantity; i++) {
@@ -103,12 +153,8 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
       const units = value / 2;
       addDirectToCart(false, units);
     } else {
-      if (value.rigid > 0) {
-        addDirectToCart(false, value.rigid);
-      }
-      if (value.flexible > 0) {
-        addDirectToCart(true, value.flexible);
-      }
+      if (value.rigid > 0) addDirectToCart(false, value.rigid);
+      if (value.flexible > 0) addDirectToCart(true, value.flexible);
     }
     setShowMetreModal(false);
   };
@@ -117,8 +163,6 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
     addDirectToCart(false, quantity);
     setShowSimpleModal(false);
   };
-
-  const productPrice = getPrice(product.details?.['Kaina'] || product.details?.['price']);
 
   return (
     <>
@@ -136,12 +180,12 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
               fill="none"
               viewBox="0 0 24 24"
             >
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
               <path
                 className="opacity-75"
                 fill="currentColor"
                 d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-              ></path>
+              />
             </svg>
             <span>Pridedama...</span>
           </>
@@ -155,7 +199,7 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
         onClose={() => setShowMetreModal(false)}
         onConfirm={handleMetreConfirm}
         productName={product.name}
-        pricePerMetre={productPrice}
+        pricePerMetre={resolvedPrice}
         mode={hasFlexibleAnalog ? 'flexible' : 'metre'}
       />
 
@@ -164,7 +208,7 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
         onClose={() => setShowSimpleModal(false)}
         onConfirm={handleSimpleConfirm}
         productName={product.name}
-        productPrice={productPrice}
+        productPrice={resolvedPrice}
       />
     </>
   );

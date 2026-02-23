@@ -19,6 +19,26 @@ import { ShoppingCart, ShoppingBag } from "lucide-react";
 import { database } from "../firebase";
 import { ref, push } from "firebase/database";
 
+/**
+ * Recursively remove undefined values from any object/array
+ * so Firebase Realtime Database doesn't reject the push.
+ */
+function sanitizeForFirebase(obj: any): any {
+  if (Array.isArray(obj)) {
+    return obj.map(sanitizeForFirebase);
+  }
+  if (obj !== null && typeof obj === "object") {
+    const clean: Record<string, any> = {};
+    for (const [key, value] of Object.entries(obj)) {
+      if (value !== undefined) {
+        clean[key] = sanitizeForFirebase(value);
+      }
+    }
+    return clean;
+  }
+  return obj;
+}
+
 export default function Page() {
   const {
     cart,
@@ -26,7 +46,7 @@ export default function Page() {
     updateQuantity,
     clearCart,
     cartTotal,
-    cartCount
+    cartCount,
   } = useCart();
 
   const { isBusinessMode, businessAccount, discountRate } = useBusinessAuth();
@@ -44,21 +64,22 @@ export default function Page() {
     line_2: "",
     city: "",
     postal_code: "",
-    country: "Lithuania"
+    country: "Lithuania",
   });
 
   const [customerDetails, setCustomerDetails] = useState({
     name: "",
     email: "",
-    phone: ""
+    phone: "",
   });
 
   useEffect(() => setIsMounted(true), []);
 
-  const formatPrice = (price: number | undefined) => `€${price?.toFixed(2)}`;
+  const formatPrice = (price: number | undefined) =>
+    `€${(price ?? 0).toFixed(2)}`;
 
   /**
-   * Place order: save to Firebase, send confirmation emails to customer and store
+   * Place order: save to Firebase (sanitized), then send confirmation email.
    */
   const handlePlaceOrder = async () => {
     setIsSubmitting(true);
@@ -66,17 +87,20 @@ export default function Page() {
     const orderNum = "ORD-" + Date.now();
     setOrderNumber(orderNum);
 
+    // Build the order payload and sanitize undefined values before Firebase push
+    const orderPayload = sanitizeForFirebase({
+      orderNumber: orderNum,
+      customerDetails,
+      addressState,
+      cart,
+      total: cartTotal,
+      status: "pending",
+      createdAt: Date.now(),
+    });
+
     // 1. Save order to Firebase
     try {
-      await push(ref(database, "orders"), {
-        orderNumber: orderNum,
-        customerDetails,
-        addressState,
-        cart,
-        total: cartTotal,
-        status: "pending",
-        createdAt: Date.now()
-      });
+      await push(ref(database, "orders"), orderPayload);
     } catch (err) {
       console.error("Failed to save order to Firebase:", err);
     }
@@ -95,8 +119,8 @@ export default function Page() {
           customerDetails,
           addressState,
           cart,
-          cartTotal
-        })
+          cartTotal,
+        }),
       });
 
       if (!res.ok) {
@@ -105,7 +129,9 @@ export default function Page() {
       }
     } catch (err: any) {
       console.error("Email error:", err);
-      setEmailError("Nepavyko išsiųsti el. laiško. Susisieksime su jumis netrukus.");
+      setEmailError(
+        "Nepavyko išsiųsti el. laiško. Susisieksime su jumis netrukus."
+      );
     } finally {
       setIsEmailSending(false);
       clearCart();
@@ -143,7 +169,6 @@ export default function Page() {
   return (
     <div className="min-h-screen bg-gray-50 py-12">
       <div className="max-w-7xl mx-auto px-4">
-
         <h1 className="text-4xl font-light text-gray-900 mb-2">
           {currentStep === "cart"
             ? "Krepšelis"
@@ -164,10 +189,8 @@ export default function Page() {
         )}
 
         <div className="grid lg:grid-cols-3 gap-8">
-
           {/* LEFT SIDE */}
           <div className="lg:col-span-2 space-y-8">
-
             {/* CART STEP */}
             {currentStep === "cart" && (
               <>
@@ -209,7 +232,7 @@ export default function Page() {
                 handleCustomerInputChange={(e) =>
                   setCustomerDetails({
                     ...customerDetails,
-                    [e.target.name]: e.target.value
+                    [e.target.name]: e.target.value,
                   })
                 }
                 setCurrentStep={setCurrentStep}
@@ -255,7 +278,6 @@ export default function Page() {
               />
             )}
           </div>
-
         </div>
       </div>
     </div>

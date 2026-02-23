@@ -11,6 +11,7 @@ import ThreeDViewer from "./ThreeDViewer";
 import NoImagePlaceholder from "./NoImagePlaceholder";
 import MetreInputModal from "@/app/components/Produktai/MetreInputModal/MetreInputModal";
 import SimpleQuantityModal from "@/app/components/Produktai/SimpleQuantityModal/SimpleQuantityModal";
+import { useCart } from "@/app/contexts/CartContext";
 import type { Product } from "../Types/types";
 
 /** Categories where the unit price is €/m and the metre modal should appear */
@@ -23,13 +24,11 @@ const PRICE_PER_METRE_CATEGORIES = new Set([
 
 interface DesktopCardProps {
   product: Product;
-  onAddToCart: () => void;
+  onAddToCart?: () => void; // kept for back-compat but no longer used
 }
 
-const DesktopCard: React.FC<DesktopCardProps> = ({
-  product,
-  onAddToCart,
-}) => {
+const DesktopCard: React.FC<DesktopCardProps> = ({ product }) => {
+  const { addToCart } = useCart();
   const [show3DViewer, setShow3DViewer] = useState(false);
   const [showMetreModal, setShowMetreModal] = useState(false);
   const [showSimpleModal, setShowSimpleModal] = useState(false);
@@ -53,8 +52,8 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
 
   const productUrl = getProductUrl();
 
-  /* ===== Determine which modal to open ===== */
   const isPricePerMetre = PRICE_PER_METRE_CATEGORIES.has(product.category);
+  const hasFlexibleAnalog = product.flexible_analog_exists === true;
 
   const handleCartClick = () => {
     if (isPricePerMetre) {
@@ -64,29 +63,61 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
     }
   };
 
+  const productPrice =
+    "price" in product && product.price ? product.price : 0;
+
+  /** Push a single cart item (rigid or flexible) */
+  const pushToCart = (isFlexible: boolean, quantity: number) => {
+    const baseId = product.code || product.id;
+    const uniqueId = hasFlexibleAnalog
+      ? isFlexible
+        ? `${baseId}-flexible`
+        : `${baseId}-rigid`
+      : baseId;
+
+    const cartProduct = {
+      id: uniqueId,
+      title: isFlexible
+        ? `${product.title} (Lankstus)`
+        : hasFlexibleAnalog
+          ? `${product.title} (Nelankstus)`
+          : product.title,
+      images: product.images as string[],
+      img: (product.images as string[])[0] || '',
+      price: productPrice,
+      category: product.category,
+      description: product.category,
+      ilgis: parseFloat(product.details?.Ilgis || '0'),
+      aukstis: parseFloat(product.details?.Aukštis || product.details?.Aukstis || '0'),
+      flexible_analog_exists: product.flexible_analog_exists,
+      isFlexible,
+      variant: hasFlexibleAnalog
+        ? (isFlexible ? 'lankstus' : 'nelankstus')
+        : undefined,
+    } as any;
+
+    for (let i = 0; i < quantity; i++) {
+      addToCart(cartProduct);
+    }
+  };
+
   /* ===== Metre modal confirm ===== */
   const handleMetreConfirm = (value: number | { rigid: number; flexible: number }) => {
     if (typeof value === "number") {
       const units = value / 2;
-      for (let i = 0; i < units; i++) onAddToCart();
+      pushToCart(false, units);
     } else {
-      for (let i = 0; i < value.rigid; i++) onAddToCart();
-      for (let i = 0; i < value.flexible; i++) onAddToCart();
+      if (value.rigid > 0) pushToCart(false, value.rigid);
+      if (value.flexible > 0) pushToCart(true, value.flexible);
     }
     setShowMetreModal(false);
   };
 
   /* ===== Simple modal confirm ===== */
   const handleSimpleConfirm = (quantity: number) => {
-    for (let i = 0; i < quantity; i++) {
-      onAddToCart();
-    }
+    pushToCart(false, quantity);
     setShowSimpleModal(false);
   };
-
-  /* ===== Shared price helper ===== */
-  const productPrice =
-    "price" in product && product.price ? product.price : 0;
 
   /* ===== No images fallback ===== */
   if (images.length === 0) {
@@ -97,12 +128,12 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
 
         <div className={styles.buttonRow}>
           {productUrl ? (
-            <Link 
-              href={productUrl} 
+            <Link
+              href={productUrl}
               className={styles.detailsBtn}
-              style={{ 
-                display: 'flex', 
-                alignItems: 'center', 
+              style={{
+                display: 'flex',
+                alignItems: 'center',
                 justifyContent: 'center',
                 textDecoration: 'none'
               }}
@@ -125,7 +156,7 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
           onConfirm={handleMetreConfirm}
           productName={product.title}
           pricePerMetre={productPrice}
-          mode={product.flexible_analog_exists ? "flexible" : "metre"}
+          mode={hasFlexibleAnalog ? "flexible" : "metre"}
         />
 
         <SimpleQuantityModal
@@ -163,12 +194,12 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
 
       <div className={styles.buttonRow}>
         {productUrl ? (
-          <Link 
-            href={productUrl} 
+          <Link
+            href={productUrl}
             className={styles.detailsBtn}
-            style={{ 
-              display: 'flex', 
-              alignItems: 'center', 
+            style={{
+              display: 'flex',
+              alignItems: 'center',
               justifyContent: 'center',
               textDecoration: 'none'
             }}
@@ -191,7 +222,7 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
         onConfirm={handleMetreConfirm}
         productName={product.title}
         pricePerMetre={productPrice}
-        mode={product.flexible_analog_exists ? "flexible" : "metre"}
+        mode={hasFlexibleAnalog ? "flexible" : "metre"}
       />
 
       <SimpleQuantityModal

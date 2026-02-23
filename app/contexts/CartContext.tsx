@@ -6,8 +6,17 @@ export interface Product {
   id: string | number;
   title: string;
   images: string[];
+  img?: string;
   price?: number;
   businessDiscount?: number;
+  // Variant info
+  isFlexible?: boolean;
+  variant?: 'lankstus' | 'nelankstus';
+  flexible_analog_exists?: boolean;
+  category?: string;
+  description?: string;
+  ilgis?: number;
+  aukstis?: number;
 }
 
 export interface CartItem extends Product {
@@ -33,8 +42,15 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     const cartKey = isBusinessMode ? 'businessCart' : 'standardCart';
     const storedCart = localStorage.getItem(cartKey);
-    if (storedCart) setCart(JSON.parse(storedCart));
-    else setCart([]);
+    if (storedCart) {
+      try {
+        setCart(JSON.parse(storedCart));
+      } catch {
+        setCart([]);
+      }
+    } else {
+      setCart([]);
+    }
   }, [isBusinessMode]);
 
   useEffect(() => {
@@ -45,29 +61,63 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
   const addToCart = (product: Product) => {
     setCart((prev) => {
       const existing = prev.find((p) => p.id === product.id);
-      const price = isBusinessMode && product.price ? product.price * (1 - discountRate / 100) : product.price || 0;
-      const productWithPrice: Product = { ...product, price, businessDiscount: isBusinessMode ? discountRate : undefined };
+      const price =
+        isBusinessMode && product.price
+          ? product.price * (1 - discountRate / 100)
+          : product.price || 0;
 
-      if (existing) return prev.map((p) => (p.id === product.id ? { ...p, quantity: p.quantity + 1 } : p));
+      const productWithPrice: Product = {
+        ...product,
+        price,
+        businessDiscount: isBusinessMode ? discountRate : undefined,
+      };
+
+      if (existing) {
+        return prev.map((p) =>
+          p.id === product.id ? { ...p, quantity: p.quantity + 1 } : p
+        );
+      }
       return [...prev, { ...productWithPrice, quantity: 1 }];
     });
   };
 
-  const removeFromCart = (productId: string | number) => setCart((prev) => prev.filter((p) => p.id !== productId));
+  const removeFromCart = (productId: string | number) =>
+    setCart((prev) => prev.filter((p) => p.id !== productId));
+
   const updateQuantity = (productId: string | number, quantity: number) => {
     if (quantity <= 0) return removeFromCart(productId);
-    setCart((prev) => prev.map((p) => (p.id === productId ? { ...p, quantity } : p)));
+    setCart((prev) =>
+      prev.map((p) => (p.id === productId ? { ...p, quantity } : p))
+    );
   };
+
   const clearCart = () => {
     setCart([]);
     const cartKey = isBusinessMode ? 'businessCart' : 'standardCart';
     localStorage.removeItem(cartKey);
   };
 
-  const cartTotal = cart.reduce((total, item) => total + (item.price || 0) * item.quantity, 0);
+  const cartTotal = cart.reduce(
+    (total, item) => total + (item.price || 0) * item.quantity,
+    0
+  );
   const cartCount = cart.reduce((count, item) => count + item.quantity, 0);
 
-  return <CartContext.Provider value={{ cart, addToCart, removeFromCart, updateQuantity, clearCart, cartTotal, cartCount }}>{children}</CartContext.Provider>;
+  return (
+    <CartContext.Provider
+      value={{
+        cart,
+        addToCart,
+        removeFromCart,
+        updateQuantity,
+        clearCart,
+        cartTotal,
+        cartCount,
+      }}
+    >
+      {children}
+    </CartContext.Provider>
+  );
 }
 
 export function useCart() {
