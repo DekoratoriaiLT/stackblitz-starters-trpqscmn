@@ -7,28 +7,15 @@ interface CallRequestBody {
   email?: string;
   phone: string;
   message: string;
-  preferredTime?: string;
   date?: string;
   timestamp: string;
-}
-
-/* ── human-friendly label for the preferred-time key ── */
-function preferredTimeLabel(key?: string): string {
-  const map: Record<string, string> = {
-    morning: "Rytą (9:00 – 12:00)",
-    midday: "Pietų metu (12:00 – 15:00)",
-    afternoon: "Popietę (15:00 – 18:00)",
-    any: "Bet kurį laiką",
-  };
-  return key ? (map[key] ?? key) : "Nepasirinkta";
 }
 
 export async function POST(req: Request) {
   try {
     const body = (await req.json()) as CallRequestBody;
-    const { firstName, lastName, email, phone, message, preferredTime, date, timestamp } = body;
+    const { firstName, lastName, email, phone, message, date, timestamp } = body;
 
-    /* ── validation ── */
     if (!firstName || !lastName || !phone || !message) {
       return NextResponse.json(
         { success: false, message: "Missing required fields" },
@@ -36,33 +23,28 @@ export async function POST(req: Request) {
       );
     }
 
-    /* ── shared pieces ── */
     const transporter = nodemailer.createTransport({
-      host: "smtp.gmail.com",
-      port: 587,
-      secure: false,
+      host: process.env.SMTP_HOST,
+      port: Number(process.env.SMTP_PORT ?? 587),
+      secure: Number(process.env.SMTP_PORT) === 465,
       auth: {
-        user: process.env.EMAIL_USER,
-        pass: process.env.EMAIL_PASSWORD,
+        user: process.env.SMTP_USER,
+        pass: process.env.SMTP_PASSWORD,
       },
     });
 
-    const logoTag = `<img src="${process.env.NEXT_PUBLIC_BASE_URL || ""}/images/logo/logo.png" alt="Dekoratoriai" style="max-width:180px;height:auto;display:block;margin:0 auto;" />`;
-
+    const logoTag = `<img src="${process.env.APP_URL || ""}/images/logo/logo.png" alt="Dekoratoriai" style="max-width:180px;height:auto;display:block;margin:0 auto;" />`;
     const formattedTime = new Date(timestamp).toLocaleString("lt-LT");
-    const timeLabel = preferredTimeLabel(preferredTime);
 
-    /* ── shared colours / radii ── */
-    const bg = "#0f1117";                       // page bg
-    const card = "#1a1d27";                     // card bg
-    const cardBorder = "#2a2d3a";               // subtle border
-    const accent = "#14b8a6";                   // teal-500
-    const accentLight = "#5eead4";              // teal-300
-    const textPrimary = "#f1f5f9";              // near-white
-    const textSecondary = "#94a3b8";            // muted
-    const textMuted = "#64748b";                // footer grey
+    const bg = "#0f1117";
+    const card = "#1a1d27";
+    const cardBorder = "#2a2d3a";
+    const accent = "#14b8a6";
+    const accentLight = "#5eead4";
+    const textPrimary = "#f1f5f9";
+    const textSecondary = "#94a3b8";
+    const textMuted = "#64748b";
 
-    /* ── reusable row snippet ── */
     const row = (label: string, value: string) => `
       <tr>
         <td style="padding:10px 16px;color:${accentLight};font-weight:600;font-size:13px;width:160px;vertical-align:top;">${label}</td>
@@ -91,23 +73,26 @@ export async function POST(req: Request) {
       <td style="background:${card};border:1px solid ${cardBorder};border-top:none;border-radius:0 0 16px 16px;padding:32px 28px 28px;">
         <h1 style="margin:0 0 4px;font-size:22px;font-weight:300;color:${textPrimary};text-align:center;">Naujas skambučio prašymas</h1>
         <p style="margin:0 0 24px;font-size:13px;color:${textMuted};text-align:center;">Gauta ${formattedTime}</p>
+
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;margin-bottom:20px;">
           <tbody>
             ${row("Vardas", `${firstName} ${lastName}`)}
             ${row("Telefonas", phone)}
             ${row("El. paštas", email || "—")}
-            ${date ? row("Pasirinkta data", date) : ""}
-            ${row("Pageid. laikas", timeLabel)}
+            ${date ? row("Pageidaujama data", date) : row("Pageidaujama data", "Nepasirinkta")}
           </tbody>
         </table>
+
+        ${date ? `
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:rgba(20,184,166,0.1);border:1px solid rgba(20,184,166,0.3);border-radius:12px;overflow:hidden;margin-bottom:20px;">
           <tr>
             <td style="padding:14px 18px;text-align:center;">
-              <span style="font-size:13px;color:${accentLight};font-weight:600;">📞 Pageidaujiamas skambučio laikas: </span>
-              <span style="font-size:15px;color:${textPrimary};font-weight:400;">${timeLabel}</span>
+              <span style="font-size:13px;color:${accentLight};font-weight:600;">📅 Pageidaujamas skambučio laikas: </span>
+              <span style="font-size:15px;color:${textPrimary};font-weight:400;">${date}</span>
             </td>
           </tr>
-        </table>
+        </table>` : ''}
+
         <div style="background:${bg};border:1px solid ${cardBorder};border-left:3px solid ${accent};border-radius:10px;padding:16px 18px;margin-bottom:8px;">
           <p style="margin:0 0 6px;font-size:12px;color:${accentLight};font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Žinutė</p>
           <p style="margin:0;font-size:14px;color:${textPrimary};line-height:1.6;">${message}</p>
@@ -125,7 +110,7 @@ export async function POST(req: Request) {
 </html>`;
 
     /* ============================================================
-       CUSTOMER EMAIL  (only sent when email was provided)
+       CUSTOMER EMAIL (only if email provided)
        ============================================================ */
     const customerHtml = `<!DOCTYPE html>
 <html>
@@ -146,25 +131,30 @@ export async function POST(req: Request) {
       <td style="background:${card};border:1px solid ${cardBorder};border-top:none;border-radius:0 0 16px 16px;padding:32px 28px 28px;">
         <h1 style="margin:0 0 6px;font-size:22px;font-weight:300;color:${textPrimary};text-align:center;">Ačiū, ${firstName}!</h1>
         <p style="margin:0 0 24px;font-size:14px;color:${textSecondary};text-align:center;">Jūsų skambučio prašymas yra užregistruotas.</p>
+
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:rgba(20,184,166,0.1);border:1px solid rgba(20,184,166,0.3);border-radius:12px;overflow:hidden;margin-bottom:24px;">
           <tr>
             <td style="padding:20px;text-align:center;">
               <p style="margin:0 0 6px;font-size:30px;">📞</p>
               <p style="margin:0 0 4px;font-size:14px;color:${accentLight};font-weight:600;">Paskambinsime jums</p>
-              <p style="margin:0;font-size:15px;color:${textPrimary};">${timeLabel}</p>
+              <p style="margin:0;font-size:15px;color:${textPrimary};">${date || 'Artimiausiu metu'}</p>
             </td>
           </tr>
         </table>
+
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;margin-bottom:20px;">
           <tbody>
             ${row("Jūsų vardas", `${firstName} ${lastName}`)}
             ${row("Telefonas", phone)}
+            ${date ? row("Pasirinktas laikas", date) : ''}
           </tbody>
         </table>
+
         <div style="background:${bg};border:1px solid ${cardBorder};border-left:3px solid ${accent};border-radius:10px;padding:16px 18px;margin-bottom:24px;">
           <p style="margin:0 0 6px;font-size:12px;color:${accentLight};font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Jūsų žinutė</p>
           <p style="margin:0;font-size:14px;color:${textPrimary};line-height:1.6;">${message}</p>
         </div>
+
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${bg};border:1px solid ${cardBorder};border-radius:12px;overflow:hidden;">
           <tr>
             <td style="padding:16px 18px;">
@@ -191,15 +181,15 @@ export async function POST(req: Request) {
        SEND
        ============================================================ */
     await transporter.sendMail({
-      from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
-      to: process.env.EMAIL_USER,
+      from: process.env.EMAIL_FROM,
+      to: process.env.ADMIN_EMAIL,
       subject: `📞 Skambutis – ${firstName} ${lastName}`,
       html: adminHtml,
     });
 
     if (email) {
       await transporter.sendMail({
-        from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
+        from: process.env.EMAIL_FROM,
         to: email,
         subject: "Jūsų skambučio prašymas užregistruotas",
         html: customerHtml,
