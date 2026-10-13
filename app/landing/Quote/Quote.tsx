@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import { useEffect, useRef } from "react";
-import styled, { keyframes } from "styled-components";
+import { useEffect, useRef } from 'react';
+import styled, { keyframes } from 'styled-components';
 
 const Section = styled.section`
   padding: 1rem 1.5rem;
@@ -44,7 +44,7 @@ const Svg = styled.svg`
   overflow: visible;
 
   @media (max-width: 768px) {
-    bottom: -14px; /* lower the underline slightly */
+    bottom: -14px;
   }
 `;
 
@@ -52,6 +52,7 @@ const draw = keyframes`
   from {
     stroke-dashoffset: 300;
   }
+
   to {
     stroke-dashoffset: 0;
   }
@@ -62,7 +63,6 @@ const UnderlinePath = styled.path`
   stroke-width: 6px;
   fill: none;
   stroke-linecap: round;
-
   stroke-dasharray: 300;
   stroke-dashoffset: 300;
 
@@ -74,25 +74,46 @@ const UnderlinePath = styled.path`
 export default function QuoteSection() {
   const underlineRef = useRef<HTMLSpanElement | null>(null);
   const pathRef = useRef<SVGPathElement | null>(null);
+  const hasAnimatedRef = useRef(false);
 
   useEffect(() => {
     const element = underlineRef.current;
-    if (!element || !pathRef.current) return;
+    const path = pathRef.current;
+
+    if (!element || !path) return;
 
     const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          pathRef.current!.classList.add("animate-underline");
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          // Play the animation when entering the viewport.
+          if (!hasAnimatedRef.current) {
+            hasAnimatedRef.current = true;
+
+            path.classList.remove('animate-underline');
+            path.style.strokeDashoffset = '300';
+
+            // Force a reset before starting the animation.
+            void path.getBoundingClientRect();
+
+            path.style.strokeDashoffset = '';
+            path.classList.add('animate-underline');
+          }
+        } else {
+          // Reset only after the quote has completely left the viewport.
+          hasAnimatedRef.current = false;
+          path.classList.remove('animate-underline');
+          path.style.strokeDashoffset = '300';
         }
       },
       {
         root: null,
         threshold: 0,
-        rootMargin: "-40% 0px -40% 0px",
-      }
+        rootMargin: '0px',
+      },
     );
 
     observer.observe(element);
+
     return () => observer.disconnect();
   }, []);
 
@@ -101,7 +122,7 @@ export default function QuoteSection() {
       <QuoteMark>“</QuoteMark>
 
       <Heading>
-        Gyvenk tame, ką{" "}
+        Gyvenk tame, ką{' '}
         <UnderlineWrapper ref={underlineRef}>
           myli.
           <Svg viewBox="0 0 200 20" preserveAspectRatio="none">

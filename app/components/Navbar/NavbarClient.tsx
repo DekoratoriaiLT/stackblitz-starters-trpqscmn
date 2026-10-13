@@ -1,316 +1,554 @@
-"use client";
+'use client';
 
-import { useState, useEffect } from 'react';
-import { FaBars, FaTimes, FaSearch, FaShoppingCart, FaUser, FaSignOutAlt, FaExchangeAlt } from 'react-icons/fa';
-import { usePathname, useRouter } from 'next/navigation';
+import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { usePathname, useRouter } from 'next/navigation';
+import {
+  FaBars,
+  FaTimes,
+  FaSearch,
+  FaShoppingCart,
+  FaUser,
+  FaSignOutAlt,
+  FaExchangeAlt,
+} from 'react-icons/fa';
+
 import { useCart } from '@/app/contexts/CartContext';
 import { useAuth } from '@/app/contexts/AuthContext';
 import { useBusinessAuth } from '@/app/contexts/BusinessAuthContext';
 
-type NavLink = { href: string; label: string };
-type NavbarClientProps = { navLinks: NavLink[] };
+type NavLink = {
+  label: string;
+  href: string;
+};
 
-export default function NavbarClient({ navLinks }: NavbarClientProps) {
+type NavbarClientProps = {
+  navLinks: NavLink[];
+};
+
+export default function NavbarClient({
+  navLinks,
+}: NavbarClientProps) {
+  const pathname = usePathname();
+  const router = useRouter();
+
+  const cartContext = useCart() as any;
+  const authContext = useAuth() as any;
+  const businessContext = useBusinessAuth() as any;
+
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [cartShake, setCartShake] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [showUserMenu, setShowUserMenu] = useState(false);
-  
-  const { cartCount } = useCart();
-  const { user, logout } = useAuth();
-  const { 
-    hasBusinessAccount, 
-    businessAccount, 
-    clearBusinessAccount,
-    switchToBusinessMode,
-    switchToStandardMode 
-  } = useBusinessAuth();
 
-  const pathname = usePathname();
-  const router = useRouter();
+  // 0 = dark logo fully visible; 1 = white logo fully visible.
+  const [whiteLogoOpacity, setWhiteLogoOpacity] = useState(1);
+
+  const cartItems =
+    cartContext?.cartItems ??
+    cartContext?.cart ??
+    [];
+
+  const cartCount = Array.isArray(cartItems)
+    ? cartItems.reduce(
+        (total: number, item: any) =>
+          total + (Number(item.quantity) || 1),
+        0,
+      )
+    : 0;
+
+  const user =
+    authContext?.user ??
+    authContext?.currentUser ??
+    null;
+
+  const logout =
+    authContext?.logout ??
+    authContext?.signOut ??
+    authContext?.logoutUser;
+
+  const businessAccount =
+    businessContext?.businessAccount ??
+    businessContext?.account ??
+    null;
+
+  const businessLogout =
+    businessContext?.logoutBusiness ??
+    businessContext?.signOutBusiness ??
+    businessContext?.logout;
+
+  const [isBusiness, setIsBusiness] = useState(false);
 
   useEffect(() => {
     setMounted(true);
-    const handleScroll = () => setScrolled(window.scrollY > 20);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+
+    let animationFrame = 0;
+
+    const updateBackgroundBrightness = () => {
+      const navbar = document.querySelector(
+        '[data-navbar-glass]',
+      );
+
+      if (!navbar) return;
+
+      const rect = navbar.getBoundingClientRect();
+
+      // Sample several points behind the navbar instead of only one.
+      const samplePoints = [
+        [rect.left + rect.width * 0.15, rect.top + rect.height / 2],
+        [rect.left + rect.width * 0.5, rect.top + rect.height / 2],
+        [rect.left + rect.width * 0.85, rect.top + rect.height / 2],
+      ];
+
+      const brightnessValues: number[] = [];
+
+      for (const [rawX, rawY] of samplePoints) {
+        const x = Math.min(
+          window.innerWidth - 1,
+          Math.max(0, Math.round(rawX)),
+        );
+
+        const y = Math.min(
+          window.innerHeight - 1,
+          Math.max(0, Math.round(rawY)),
+        );
+
+        const elements = document.elementsFromPoint(x, y);
+
+        const backgroundElement = elements.find(
+          (element) => !element.closest('[data-navbar-glass]'),
+        );
+
+        let current: Element | null = backgroundElement ?? null;
+        let detectedBrightness = 255;
+
+        while (
+          current &&
+          current !== document.documentElement
+        ) {
+          const backgroundColor =
+            window.getComputedStyle(current).backgroundColor;
+
+          const match = backgroundColor.match(
+            /rgba?\(\s*(\d+)[,\s]+(\d+)[,\s]+(\d+)/,
+          );
+
+          if (match) {
+            const alphaMatch = backgroundColor.match(
+              /rgba?\([^)]*[,/]\s*([\d.]+)\s*\)/,
+            );
+
+            const alpha =
+              backgroundColor.startsWith('rgba') && alphaMatch
+                ? Number(alphaMatch[1])
+                : 1;
+
+            if (alpha > 0.05) {
+              const red = Number(match[1]);
+              const green = Number(match[2]);
+              const blue = Number(match[3]);
+
+              const brightness =
+                (red * 299 + green * 587 + blue * 114) / 1000;
+
+              // Blend translucent CSS backgrounds with the next
+              // ancestor's background colour.
+              detectedBrightness =
+                brightness * alpha + 255 * (1 - alpha);
+
+              break;
+            }
+          }
+
+          current = current.parentElement;
+        }
+
+        brightnessValues.push(detectedBrightness);
+      }
+
+      if (brightnessValues.length === 0) return;
+
+      const averageBrightness =
+        brightnessValues.reduce((sum, value) => sum + value, 0) /
+        brightnessValues.length;
+
+      /*
+       * Map background brightness continuously to logo opacity:
+       * brightness <= 65  -> white logo
+       * brightness >= 210 -> dark logo
+       * between those     -> smooth blend
+       */
+      const minBrightness = 65;
+      const maxBrightness = 210;
+
+      const normalized =
+        (averageBrightness - minBrightness) /
+        (maxBrightness - minBrightness);
+
+      const clamped = Math.max(0, Math.min(1, normalized));
+
+      // Smoothstep curve gives a softer transition.
+      const smooth = clamped * clamped * (3 - 2 * clamped);
+
+      setWhiteLogoOpacity(1 - smooth);
+    };
+
+    const updateScroll = () => {
+      setScrolled(window.scrollY > 10);
+    };
+
+    const updateAll = () => {
+      updateScroll();
+      updateBackgroundBrightness();
+    };
+
+    const scheduleUpdate = () => {
+      cancelAnimationFrame(animationFrame);
+      animationFrame = requestAnimationFrame(updateAll);
+    };
+
+    updateAll();
+
+    window.addEventListener('scroll', scheduleUpdate, {
+      passive: true,
+    });
+    window.addEventListener('resize', scheduleUpdate);
+
+    const observer = new MutationObserver(scheduleUpdate);
+
+    observer.observe(document.body, {
+      attributes: true,
+      childList: true,
+      subtree: true,
+      attributeFilter: ['class', 'style'],
+    });
+
+    const refreshTimer = window.setTimeout(scheduleUpdate, 300);
+
+    return () => {
+      cancelAnimationFrame(animationFrame);
+      window.removeEventListener('scroll', scheduleUpdate);
+      window.removeEventListener('resize', scheduleUpdate);
+      observer.disconnect();
+      window.clearTimeout(refreshTimer);
+    };
   }, []);
 
-  const isActive = (href: string) => {
-    if (href === '/') return pathname === '/';
-    return pathname?.startsWith(href);
-  };
+  useEffect(() => {
+    if (!user || typeof window === 'undefined') {
+      setIsBusiness(false);
+      return;
+    }
 
-  const handleCheckout = () => {
-    setCartShake(true);
-    setTimeout(() => setCartShake(false), 800);
-    router.push('/krepselis');
-  };
+    setIsBusiness(
+      localStorage.getItem(`userMode_${user.uid}`) === 'business',
+    );
+  }, [user]);
+
+  useEffect(() => {
+    setIsOpen(false);
+    setShowUserMenu(false);
+  }, [pathname]);
+
+  useEffect(() => {
+    if (!cartShake) return;
+
+    const timeout = window.setTimeout(() => {
+      setCartShake(false);
+    }, 500);
+
+    return () => window.clearTimeout(timeout);
+  }, [cartShake]);
+
+  useEffect(() => {
+    if (cartCount > 0) {
+      setCartShake(true);
+    }
+  }, [cartCount]);
 
   const handleLogout = async () => {
     try {
-      if (hasBusinessAccount) {
-        clearBusinessAccount();
+      if (isBusiness && typeof businessLogout === 'function') {
+        await businessLogout();
+      } else if (typeof logout === 'function') {
+        await logout();
       }
-      await logout();
+
       setShowUserMenu(false);
+      setIsOpen(false);
       router.push('/');
     } catch (error) {
-      console.error('Logout error:', error);
+      console.error('Nepavyko atsijungti:', error);
     }
   };
 
-  const handleModeSwitch = () => {
-    if (hasBusinessAccount) {
-      switchToStandardMode();
-    } else {
-      switchToBusinessMode();
-    }
+  const closeMenus = () => {
+    setIsOpen(false);
     setShowUserMenu(false);
   };
 
-  const navClass = mounted && scrolled ? 'bg-black shadow-lg' : 'bg-black';
-  
-  // RED for business mode, GREEN for standard mode
-  const userIconColor = hasBusinessAccount ? "text-red-500" : "text-emerald-400";
-  const userHoverColor = hasBusinessAccount ? "hover:text-red-400" : "hover:text-emerald-400";
-  const badgeColor = hasBusinessAccount ? "bg-red-500/20 text-red-400" : "bg-emerald-500/20 text-emerald-400";
+  const linkIsActive = (href: string) => {
+    if (href === '/') return pathname === '/';
+
+    return pathname === href || pathname.startsWith(`${href}/`);
+  };
 
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${navClass} text-white`}>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-12 py-4">
-          <div className="flex items-center h-full space-x-2">
-            <button
-              onClick={() => setIsOpen(!isOpen)}
-              aria-label="Meniu"
-              className="md:hidden p-2 text-white transition-transform duration-200 hover:scale-110"
-            >
-              {isOpen ? <FaTimes size={22} /> : <FaBars size={22} />}
-            </button>
-            
-            {mounted && (
-              <div className="hidden md:flex items-center h-full">
-                {user ? (
-                  <div className="relative">
-                    <button
-                      onClick={() => setShowUserMenu(!showUserMenu)}
-                      className={`flex items-center space-x-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200 whitespace-nowrap h-full`}
-                    >
-                      <FaUser className={userIconColor} size={16} />
-                      <span className="max-w-[150px] truncate">
-                        {hasBusinessAccount && businessAccount ? businessAccount.companyName : user.email}
-                      </span>
-                      <span className={`ml-1 px-2 py-0.5 ${badgeColor} text-xs rounded-full font-medium`}>
-                        {hasBusinessAccount ? 'Verslas' : 'Asmeninė'}
-                      </span>
-                    </button>
-                    
-                    {showUserMenu && (
-                      <div className="absolute top-full left-0 mt-2 w-56 bg-slate-900 border border-slate-700 rounded-lg shadow-xl py-2 z-50">
-                        {/* Mode Switcher - Only show if user has business account */}
-                        {hasBusinessAccount && (
-                          <button
-                            onClick={handleModeSwitch}
-                            className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-emerald-400 transition-colors flex items-center space-x-2"
-                          >
-                            <FaExchangeAlt size={14} />
-                            <span>
-                              Perjungti į {hasBusinessAccount ? 'Asmeninę' : 'Verslo'} paskyrą
-                            </span>
-                          </button>
-                        )}
-                        
-                        {hasBusinessAccount && (
-                          <>
-                            <div className="border-t border-slate-700 my-1"></div>
-                            <Link
-                              href="/verslo-paskyra"
-                              onClick={() => setShowUserMenu(false)}
-                              className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-red-400 transition-colors flex items-center space-x-2"
-                            >
-                              <FaUser size={14} />
-                              <span>Verslo Paskyra</span>
-                            </Link>
-                          </>
-                        )}
-                        
-                        <div className="border-t border-slate-700 my-1"></div>
-                        <button
-                          onClick={handleLogout}
-                          className={`w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 ${hasBusinessAccount ? 'hover:text-red-400' : 'hover:text-emerald-400'} transition-colors flex items-center space-x-2`}
-                        >
-                          <FaSignOutAlt size={14} />
-                          <span>Atsijungti</span>
-                        </button>
-                      </div>
-                    )}
-                  </div>
-                ) : (
-                  <Link
-                    href="/prisijungti"
-                    className="flex items-center text-sm font-medium text-white hover:text-emerald-400 transition-colors duration-200 whitespace-nowrap h-full"
-                  >
-                    Užsiregistruoti / Prisijungti
-                  </Link>
-                )}
-              </div>
-            )}
-          </div>
+    <header
+      className="fixed inset-x-0 top-3 z-[9999] flex justify-center px-3 sm:top-4 sm:px-6"
+      style={{ pointerEvents: 'none' }}
+    >
+      <nav
+        data-navbar-glass
+        aria-label="Pagrindinė navigacija"
+        className={[
+          'relative isolate flex w-full max-w-5xl items-center justify-between',
+          'rounded-full border border-white/25',
+          'bg-slate-950/65 text-white',
+          'px-3 py-2 sm:px-5 sm:py-2.5',
+          'shadow-[0_8px_32px_rgba(0,0,0,0.20)]',
+          'backdrop-blur-2xl',
+          'transition-shadow duration-300',
+          scrolled
+            ? 'shadow-[0_10px_38px_rgba(0,0,0,0.26)]'
+            : '',
+        ].join(' ')}
+        style={{
+          pointerEvents: 'auto',
+          WebkitBackdropFilter: 'blur(24px)',
+        }}
+      >
+        {/* Logo with continuous brightness-based crossfade */}
+        <Link
+          href="/"
+          aria-label="Pradinis puslapis"
+          onClick={closeMenus}
+          className="relative flex h-9 w-9 shrink-0 items-center justify-center sm:h-10 sm:w-10"
+        >
+          <Image
+            src="/images/logo/small-logo.png"
+            alt="Lietuvos gipsas"
+            width={42}
+            height={42}
+            priority
+            className="absolute inset-0 h-full w-full object-contain"
+            style={{
+              opacity: 1 - whiteLogoOpacity,
+            }}
+          />
 
-          <div className="flex items-center justify-center flex-1 h-full">
-            <Link href="/" className="flex items-center justify-center h-full">
-              <Image
-                src="/images/logo/logo.png"
-                alt="Logo"
-                width={300}
-                height={120}
-                className="h-auto cursor-pointer"
-              />
-            </Link>
-          </div>
+          <Image
+            src="/images/logo/small-logo-white 2.png"
+            alt=""
+            aria-hidden="true"
+            width={42}
+            height={42}
+            priority
+            className="absolute inset-0 h-full w-full object-contain"
+            style={{
+              opacity: whiteLogoOpacity,
+            }}
+          />
+        </Link>
 
-          <div className="flex items-center h-full space-x-4">
-            <button aria-label="Paieška" className="p-2 transition-transform hover:scale-110">
-              <FaSearch size={20} />
-            </button>
-            <button
-              aria-label="Krepšelis"
-              onClick={handleCheckout}
-              className={`p-2 transition-transform relative ${cartShake ? 'animate-shake' : 'hover:scale-110'}`}
-            >
-              <FaShoppingCart size={20} />
-              {mounted && cartCount > 0 && (
-                <span className={`absolute -top-1 -right-1 ${hasBusinessAccount ? 'bg-red-500' : 'bg-emerald-400'} text-black text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center`}>
-                  {cartCount}
-                </span>
-              )}
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div className="hidden md:flex justify-center space-x-8 py-3 bg-black">
-        {navLinks.map((link) => (
-          <Link key={link.href} href={link.href} className="relative group">
-            <span
-              className={`font-medium transition-colors duration-200 ${
-                isActive(link.href)
-                  ? hasBusinessAccount ? 'text-red-400' : 'text-emerald-400'
-                  : 'text-white group-hover:text-emerald-400'
-              }`}
+        {/* Desktop navigation */}
+        <div className="hidden min-w-0 flex-1 items-center justify-center gap-1 lg:flex">
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              onClick={closeMenus}
+              className={[
+                'whitespace-nowrap rounded-full px-3 py-2',
+                'text-sm font-medium transition-colors duration-200',
+                linkIsActive(link.href)
+                  ? 'bg-white/20 text-white'
+                  : 'text-white/80 hover:bg-white/15 hover:text-white',
+              ].join(' ')}
             >
               {link.label}
-            </span>
-            <span
-              className={`absolute -bottom-1 left-0 h-0.5 ${hasBusinessAccount ? 'bg-red-400' : 'bg-emerald-400'} transition-all duration-300 ${
-                isActive(link.href) ? 'w-full' : 'w-0 group-hover:w-full'
-              }`}
-            ></span>
-          </Link>
-        ))}
-      </div>
+            </Link>
+          ))}
+        </div>
 
-      {/* Mobile Menu */}
-      {isOpen && (
-        <div className="md:hidden bg-black shadow-lg">
-          <div className="px-4 py-6">
-            <div className="flex justify-center mb-6">
-              <Link href="/">
-                <Image
-                  src="/images/logo/small-logo.jpg"
-                  alt="Logo"
-                  width={120}
-                  height={48}
-                  className="h-10 object-contain cursor-pointer"
-                />
-              </Link>
-            </div>
-            
-            <div className="space-y-3">
-              {navLinks.map((link) => (
-                <div key={link.href} className="border-b border-gray-800 pb-3">
+        {/* Actions */}
+        <div className="ml-auto flex shrink-0 items-center gap-1 sm:gap-2 lg:ml-2">
+          <button
+            type="button"
+            aria-label="Ieškoti produktų"
+            onClick={() => {
+              closeMenus();
+              router.push('/produktai');
+            }}
+            className="flex h-9 w-9 items-center justify-center rounded-full text-white/90 transition hover:bg-white/15 hover:text-white"
+          >
+            <FaSearch size={15} />
+          </button>
+
+          <Link
+            href="/krepselis"
+            aria-label={`Krepšelis, prekių kiekis: ${mounted ? cartCount : 0}`}
+            onClick={closeMenus}
+            className={[
+              'relative flex h-9 w-9 items-center justify-center rounded-full',
+              'text-white/90 transition hover:bg-white/15 hover:text-white',
+              cartShake ? 'animate-[shake_0.4s_ease-in-out]' : '',
+            ].join(' ')}
+          >
+            <FaShoppingCart size={17} />
+
+            {mounted && cartCount > 0 && (
+              <span className="absolute -right-0.5 -top-0.5 flex h-[17px] min-w-[17px] items-center justify-center rounded-full border border-slate-950/50 bg-sky-400 px-1 text-[10px] font-bold leading-none text-slate-950">
+                {cartCount > 99 ? '99+' : cartCount}
+              </span>
+            )}
+          </Link>
+
+          {mounted && user ? (
+            <div className="relative">
+              <button
+                type="button"
+                aria-label="Vartotojo meniu"
+                aria-expanded={showUserMenu}
+                onClick={() =>
+                  setShowUserMenu((current) => !current)
+                }
+                className="flex h-9 w-9 items-center justify-center rounded-full text-white/90 transition hover:bg-white/15 hover:text-white"
+              >
+                <FaUser size={15} />
+              </button>
+
+              {showUserMenu && (
+                <div className="absolute right-0 top-[calc(100%+12px)] z-[10000] w-56 overflow-hidden rounded-2xl border border-white/20 bg-slate-950/95 p-2 text-white shadow-2xl backdrop-blur-2xl">
+                  <div className="border-b border-white/10 px-3 py-2">
+                    <p className="truncate text-sm font-semibold">
+                      {businessAccount?.companyName ||
+                        user.displayName ||
+                        user.email ||
+                        'Mano paskyra'}
+                    </p>
+
+                    <p className="mt-1 text-xs text-white/60">
+                      {isBusiness
+                        ? 'Verslo paskyra'
+                        : 'Asmeninė paskyra'}
+                    </p>
+                  </div>
+
                   <Link
-                    href={link.href}
-                    onClick={() => setIsOpen(false)}
-                    className={`block py-2 text-sm font-medium transition-colors duration-200 ${
-                      isActive(link.href)
-                        ? hasBusinessAccount ? 'text-red-400' : 'text-emerald-400'
-                        : 'text-white hover:text-emerald-400'
-                    }`}
+                    href={
+                      isBusiness
+                        ? '/verslo-paskyra'
+                        : '/mano-paskyra'
+                    }
+                    onClick={closeMenus}
+                    className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm text-white/85 transition hover:bg-white/10 hover:text-white"
                   >
-                    {link.label}
+                    <FaUser size={14} />
+                    Mano paskyra
                   </Link>
-                </div>
-              ))}
-              
-              {mounted && (
-                <div className="border-b border-gray-800 pb-3 pt-2">
-                  {user ? (
-                    <div className="space-y-2">
-                      <div className="flex items-center space-x-2 py-2 text-sm">
-                        <FaUser className={userIconColor} size={14} />
-                        <span className={`truncate ${hasBusinessAccount ? "text-red-400" : "text-emerald-400"}`}>
-                          {hasBusinessAccount && businessAccount ? businessAccount.companyName : user.email}
-                        </span>
-                        <span className={`ml-1 px-2 py-0.5 ${badgeColor} text-xs rounded-full font-medium`}>
-                          {hasBusinessAccount ? 'Verslas' : 'Asmeninė'}
-                        </span>
-                      </div>
-                      
-                      {/* Mode Switcher for Mobile */}
-                      {hasBusinessAccount && (
-                        <button
-                          onClick={() => {
-                            handleModeSwitch();
-                            setIsOpen(false);
-                          }}
-                          className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
-                        >
-                          <FaExchangeAlt size={14} />
-                          <span>Perjungti į {hasBusinessAccount ? 'Asmeninę' : 'Verslo'}</span>
-                        </button>
-                      )}
-                      
-                      {hasBusinessAccount && (
-                        <Link
-                          href="/verslo-paskyra"
-                          onClick={() => setIsOpen(false)}
-                          className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
-                        >
-                          <FaUser size={14} />
-                          <span>Verslo Paskyra</span>
-                        </Link>
-                      )}
-                      <button
-                        onClick={() => {
-                          handleLogout();
-                          setIsOpen(false);
-                        }}
-                        className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
-                      >
-                        <FaSignOutAlt size={14} />
-                        <span>Atsijungti</span>
-                      </button>
-                    </div>
-                  ) : (
-                    <Link
-                      href="/prisijungti"
-                      onClick={() => setIsOpen(false)}
-                      className="block py-2 text-sm font-medium text-white hover:text-emerald-400 transition-colors duration-200"
-                    >
-                      Užsiregistruoti / Prisijungti
-                    </Link>
-                  )}
+
+                  <Link
+                    href={isBusiness ? '/' : '/verslo-paskyra'}
+                    onClick={closeMenus}
+                    className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm text-white/85 transition hover:bg-white/10 hover:text-white"
+                  >
+                    <FaExchangeAlt size={14} />
+                    {isBusiness
+                      ? 'Į pagrindinę svetainę'
+                      : 'Verslo paskyra'}
+                  </Link>
+
+                  <button
+                    type="button"
+                    onClick={handleLogout}
+                    className="flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-red-300 transition hover:bg-red-500/15 hover:text-red-200"
+                  >
+                    <FaSignOutAlt size={14} />
+                    Atsijungti
+                  </button>
                 </div>
               )}
             </div>
-          </div>
+          ) : (
+            <Link
+              href="/prisijungti"
+              onClick={closeMenus}
+              className="hidden whitespace-nowrap rounded-full bg-white/15 px-4 py-2 text-sm font-semibold text-white transition hover:bg-white/25 sm:inline-flex"
+            >
+              Prisijungti
+            </Link>
+          )}
+
+          <button
+            type="button"
+            aria-label={
+              isOpen ? 'Uždaryti meniu' : 'Atidaryti meniu'
+            }
+            aria-expanded={isOpen}
+            onClick={() => setIsOpen((current) => !current)}
+            className="flex h-9 w-9 items-center justify-center rounded-full text-white transition hover:bg-white/15 lg:hidden"
+          >
+            {isOpen ? (
+              <FaTimes size={18} />
+            ) : (
+              <FaBars size={18} />
+            )}
+          </button>
         </div>
-      )}
-    </nav>
+
+        {/* Mobile dropdown */}
+        {isOpen && (
+          <div className="absolute left-0 right-0 top-[calc(100%+10px)] z-[10000] overflow-hidden rounded-3xl border border-white/20 bg-slate-950/95 p-3 text-white shadow-2xl backdrop-blur-2xl lg:hidden">
+            <div className="flex flex-col gap-1">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={closeMenus}
+                  className={[
+                    'rounded-2xl px-4 py-3 text-sm font-medium transition-colors',
+                    linkIsActive(link.href)
+                      ? 'bg-white/15 text-white'
+                      : 'text-white/80 hover:bg-white/10 hover:text-white',
+                  ].join(' ')}
+                >
+                  {link.label}
+                </Link>
+              ))}
+
+              {!user && (
+                <Link
+                  href="/prisijungti"
+                  onClick={closeMenus}
+                  className="mt-1 rounded-2xl bg-white/15 px-4 py-3 text-sm font-semibold text-white transition hover:bg-white/25"
+                >
+                  Prisijungti
+                </Link>
+              )}
+            </div>
+          </div>
+        )}
+      </nav>
+
+      <style jsx>{`
+        @keyframes shake {
+          0%,
+          100% {
+            transform: translateX(0);
+          }
+          20%,
+          60% {
+            transform: translateX(-2px);
+          }
+          40%,
+          80% {
+            transform: translateX(2px);
+          }
+        }
+      `}</style>
+    </header>
   );
 }

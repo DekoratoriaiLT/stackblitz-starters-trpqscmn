@@ -1,3 +1,4 @@
+// @ts-expect-error Next.js processes global CSS imports without TypeScript declarations.
 import "./globals.css";
 import type { Viewport, Metadata } from "next";
 import { Inter } from "next/font/google";
@@ -7,14 +8,16 @@ import Background from "./components/Background/Background";
 import Footer from "./components/Footer/Footer";
 
 import { MantineProvider } from "@mantine/core";
+// @ts-expect-error Mantine ships CSS for bundler processing without TypeScript declarations.
 import "@mantine/core/styles.css";
+// @ts-expect-error Mantine ships CSS for bundler processing without TypeScript declarations.
 import "@mantine/carousel/styles.css";
 
 import { AuthProvider } from "./contexts/AuthContext";
 import { BusinessAuthProvider } from "./contexts/BusinessAuthContext";
 import { CartProvider } from "./contexts/CartContext";
 
-import { Analytics } from "@vercel/analytics/react"; // ✅ add analytics
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -103,7 +106,7 @@ export default function RootLayout({
                 <main
                   role="main"
                   id="main-content"
-                  className="relative z-10 pt-20 sm:pt-24 flex-grow text-slate-900"
+                  className="relative z-10 flex-grow text-slate-900"
                 >
                   {children}
                 </main>
