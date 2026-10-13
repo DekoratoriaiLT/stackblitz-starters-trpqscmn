@@ -2,6 +2,7 @@
 import "./globals.css";
 import type { Viewport, Metadata } from "next";
 import { Inter } from "next/font/google";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import Navbar from "./components/Navbar/Navbar";
 import Background from "./components/Background/Background";
@@ -119,6 +120,7 @@ export default function RootLayout({
 
         {/* Vercel Analytics */}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
