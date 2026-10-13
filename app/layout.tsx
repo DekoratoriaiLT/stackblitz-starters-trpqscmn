@@ -9,9 +9,9 @@ import Background from "./components/Background/Background";
 import Footer from "./components/Footer/Footer";
 
 import { MantineProvider } from "@mantine/core";
-// @ts-expect-error Mantine ships CSS for bundler processing without TypeScript declarations.
+//@ts-expect-error
 import "@mantine/core/styles.css";
-// @ts-expect-error Mantine ships CSS for bundler processing without TypeScript declarations.
+//@ts-expect-error
 import "@mantine/carousel/styles.css";
 
 import { AuthProvider } from "./contexts/AuthContext";
