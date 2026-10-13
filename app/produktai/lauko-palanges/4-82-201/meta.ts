@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
-const productData = require('@/app/data/lauko-langu-juostos/lauko-langu-juostos.json').products;
+const productData = require('@/app/data/lauko-palanges/lauko-palanges.json').products;
 
 const BASE_URL = 'https://www.dekoratoriai.lt';
-const CATEGORY = 'lauko-langu-juostos';
+const CATEGORY = 'lauko-palanges';
 
 const getProduct = (code: string) => {
   // Try dot format (1.50.100) first, then dash format (1-50-100)
