@@ -43,7 +43,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="lt">
+    <html lang="lt" suppressHydrationWarning>
       <head>
         {/* Website Schema */}
         <script

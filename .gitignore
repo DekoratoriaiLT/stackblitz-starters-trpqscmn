@@ -34,3 +34,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env
+
+# other env file variants (.env and .env*.local are covered above)
+.env.*
+!.env.example
+
+# stray SSH keys / credentials
+.ssh/
+id_ed25519*
+id_rsa*
