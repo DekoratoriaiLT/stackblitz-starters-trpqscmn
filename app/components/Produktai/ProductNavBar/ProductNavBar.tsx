@@ -166,7 +166,7 @@ const ProductNavBar = () => {
     'kolonos-liemuo': '/images/landing/kolonos-liemuo.webp',
     'lango-angokrastai': '/images/landing/lango-angokrastai.webp',
     'lango-arkiniai-remai': '/images/landing/lango-arkiniai-remai.webp',
-    'lauko-palanges': '/images/landing/palanges.webp',
+    'lauko-palanges': '/images/landing/lauko-palanges.webp',
     'lubu-apvadai': '/images/landing/lubu-apvadai.webp',
     'lubu-paneles': '/images/landing/lubu-paneles.webp',
     'nisos': '/images/landing/nisos.webp',

@@ -1,11 +1,10 @@
-'use client';
+"use client";
 
-import Image from 'next/image';
-import { useState, useEffect, useRef } from 'react';
-import { getExistingImagePaths } from '@/app/components/Produktai/ImagePath/getImagePath';
-import { MeasurementOverlay } from '../Produktai/MeasurementOverlay/MeasurementOverlay';
-import type { ProductDimensions } from '@/app/components/Produktai/Types/types';
-import gsap from 'gsap';
+import Image from "next/image";
+import { useState, useEffect, useMemo } from "react";
+import { getExistingImagePaths } from "@/app/components/Produktai/ImagePath/getImagePath";
+import { MeasurementOverlay } from "../Produktai/MeasurementOverlay/MeasurementOverlay";
+import type { ProductDimensions } from "@/app/components/Produktai/Types/types";
 
 interface ProductGalleryProps {
   productName: string;
@@ -13,118 +12,177 @@ interface ProductGalleryProps {
   details?: ProductDimensions;
 }
 
-export function ProductGallery({ productName, category, details }: ProductGalleryProps) {
+export function ProductGallery({
+  productName,
+  category,
+  details,
+}: ProductGalleryProps) {
   const [selectedImage, setSelectedImage] = useState(0);
   const [imagePaths, setImagePaths] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
-  const mainImageRef = useRef<HTMLDivElement>(null);
-  const thumbnailsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    let cancelled = false;
+
     async function loadImages() {
       setLoading(true);
-      const paths = await getExistingImagePaths(productName, category, ['100', '20', '30', '40', '600'], 10, false);
-      setImagePaths(paths);
-      setLoading(false);
+      setSelectedImage(0);
+      setImagePaths([]);
+
+      try {
+        const paths = await getExistingImagePaths(
+          productName,
+          category,
+          ["100", "20", "30", "40", "600"],
+          10,
+          false,
+        );
+
+        if (!cancelled) setImagePaths(paths);
+      } catch (error) {
+        console.error("[ProductGallery] Image loading failed:", error);
+        if (!cancelled) setImagePaths([]);
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
     }
 
     loadImages();
+
+    return () => {
+      cancelled = true;
+    };
   }, [productName, category]);
 
-  useEffect(() => {
-    if (mainImageRef.current && !loading) {
-      gsap.fromTo(
-        mainImageRef.current,
-        { opacity: 0, scale: 0.95 },
-        { opacity: 1, scale: 1, duration: 0.4, ease: 'power2.out' }
-      );
-    }
-  }, [selectedImage, loading]);
+  const uniqueImages = useMemo(
+    () => imagePaths.filter((path, index, all) => all.indexOf(path) === index),
+    [imagePaths],
+  );
 
-  const uniqueImages = imagePaths.filter((path, index, self) => self.indexOf(path) === index);
+  const safeSelectedImage = Math.min(
+    selectedImage,
+    Math.max(0, uniqueImages.length - 1),
+  );
 
-  const hasWhiteBackground = (imagePath: string) => {
-    return imagePath.includes('.40.');
-  };
+  const selectedPath = uniqueImages[safeSelectedImage];
 
-  const shouldShowMeasurements = (imagePath: string) => {
-    return hasWhiteBackground(imagePath) && details && (details.Plotis || details.Aukštis || details.Aukstis);
-  };
+  const hasWhiteBackground = (path: string) => path.includes(".40.");
 
-  const handleImageSelect = (idx: number) => {
-    setSelectedImage(idx);
-  };
+  const shouldShowMeasurements = (path: string) =>
+    hasWhiteBackground(path) &&
+    Boolean(details?.Plotis || details?.Aukštis || details?.Aukstis);
 
   return (
-    <div className="space-y-6">
-      {/* Main Image */}
+    <div className="space-y-4">
       <div
-        className={`relative rounded-3xl overflow-hidden shadow-xl ${uniqueImages.length > 0 && hasWhiteBackground(uniqueImages[selectedImage])
-            ? 'bg-white'
-            : 'bg-gradient-to-br from-gray-50 to-gray-100'
-          }`}
-        style={{ aspectRatio: '1 / 1' }}
+        className={`relative aspect-square overflow-hidden rounded-3xl border border-black/[0.06] shadow-[0_20px_60px_rgba(0,0,0,0.08)] ${
+          selectedPath && hasWhiteBackground(selectedPath)
+            ? "bg-white"
+            : "bg-gradient-to-br from-[#f4f4f5] to-[#e8e8ea]"
+        }`}
       >
         {loading ? (
-          <div className="flex items-center justify-center h-full">
-            <div className="w-12 h-12 border-4 border-gray-300 border-t-gray-800 rounded-full animate-spin"></div>
+          <div className="absolute inset-0 flex items-center justify-center">
+            <div className="h-10 w-10 animate-spin rounded-full border-2 border-black/10 border-t-black/70" />
           </div>
-        ) : uniqueImages.length > 0 ? (
-          <div ref={mainImageRef} className="relative w-full h-full p-8">
+        ) : selectedPath ? (
+          <div
+            key={selectedPath}
+            className="absolute inset-0 animate-[galleryFadeIn_350ms_ease-out]"
+          >
             <Image
-              src={uniqueImages[selectedImage]}
-              alt={`${productName} - Vaizdas ${selectedImage + 1}`}
+              src={selectedPath}
+              alt={`${productName} – vaizdas ${safeSelectedImage + 1}`}
               fill
-              className="object-contain"
               priority
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              className="object-contain p-6 sm:p-10"
             />
 
-            {shouldShowMeasurements(uniqueImages[selectedImage]) && (
+            {shouldShowMeasurements(selectedPath) && (
               <MeasurementOverlay
                 plotis={details?.Plotis}
                 aukstis={details?.Aukštis || details?.Aukstis}
-                show={true}
+                show
               />
             )}
           </div>
         ) : (
-          <div className="flex flex-col items-center justify-center h-full space-y-4">
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 text-[#77777e]">
             <svg
-              className="w-16 h-16 text-gray-400"
+              className="h-14 w-14"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
+              aria-hidden="true"
             >
               <path
+                strokeWidth="1.4"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth={1.5}
-                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                d="M4 16 8.6 11.4a2 2 0 0 1 2.8 0L16 16m-2-2 1.6-1.6a2 2 0 0 1 2.8 0L20 14m-6-6h.01M6 20h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2Z"
               />
             </svg>
-            <p className="text-gray-500 font-medium">Vaizdų nėra</p>
+            <p className="text-sm font-medium">Vaizdų nėra</p>
+          </div>
+        )}
+
+        {!loading && uniqueImages.length > 1 && (
+          <div className="absolute bottom-4 right-4 rounded-full border border-black/10 bg-white/85 px-3 py-1.5 text-xs font-medium text-black/70 backdrop-blur-md">
+            {safeSelectedImage + 1} / {uniqueImages.length}
           </div>
         )}
       </div>
 
-      {/* Thumbnails */}
-      {uniqueImages.length > 1 && (
-        <div ref={thumbnailsRef} className="flex gap-3 justify-center overflow-x-auto pb-2 scrollbar-hide">
-          {uniqueImages.map((path, idx) => (
-            <button
-              key={idx}
-              onClick={() => handleImageSelect(idx)}
-              className={`relative flex-shrink-0 rounded-2xl overflow-hidden transition-all duration-300 ${selectedImage === idx
-                  ? 'ring-3 ring-gray-800 scale-105 shadow-lg'
-                  : 'ring-1 ring-gray-200 hover:ring-2 hover:ring-gray-400'
-                } ${hasWhiteBackground(path) ? 'bg-white' : 'bg-gray-50'}`}
-              style={{ width: '100px', height: '100px' }}
-            >
-              <Image src={path} alt={`Miniatiūra ${idx + 1}`} fill className="object-contain p-2" />
-            </button>
-          ))}
+      {uniqueImages.length > 1 && !loading && (
+        <div className="flex gap-3 overflow-x-auto px-1 pb-2 pt-1">
+          {uniqueImages.map((path, index) => {
+            const selected = safeSelectedImage === index;
+
+            return (
+              <button
+                key={path}
+                type="button"
+                aria-label={`Rodyti vaizdą ${index + 1}`}
+                aria-pressed={selected}
+                onClick={() => setSelectedImage(index)}
+                className={`relative h-[76px] w-[76px] shrink-0 overflow-hidden rounded-2xl border transition duration-250 sm:h-[92px] sm:w-[92px] ${
+                  selected
+                    ? "border-[#222] ring-2 ring-black/10"
+                    : "border-black/10 hover:border-black/30"
+                } ${hasWhiteBackground(path) ? "bg-white" : "bg-[#f0f0f1]"}`}
+              >
+                <Image
+                  src={path}
+                  alt={`${productName} – miniatiūra ${index + 1}`}
+                  fill
+                  sizes="92px"
+                  className="object-contain p-2"
+                />
+              </button>
+            );
+          })}
         </div>
       )}
+
+      <style jsx global>{`
+        @keyframes galleryFadeIn {
+          from {
+            opacity: 0;
+            transform: scale(0.985);
+          }
+          to {
+            opacity: 1;
+            transform: scale(1);
+          }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .animate-\\[galleryFadeIn_350ms_ease-out\\] {
+            animation: none !important;
+          }
+        }
+      `}</style>
     </div>
   );
 }

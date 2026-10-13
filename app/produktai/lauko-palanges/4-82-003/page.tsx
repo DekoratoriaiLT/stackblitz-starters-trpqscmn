@@ -1,10 +1,10 @@
 import { ProductPageTemplate } from '../../../components/ProductPage/template';
 export { generateMetadata } from './meta';
 
-const productData = require('@/app/data/lauko-palanges/lauko-palanges.json').products;
+const productData = require('@/app/data/lauko-langu-juostos/lauko-langu-juostos.json').products;
 
 const BASE_URL = 'https://www.dekoratoriai.lt';
-const CATEGORY = 'lauko-palanges';
+const CATEGORY = 'lauko-langu-juostos';
 
 const getProduct = async (code: string) => {
   // Try both dot (1.50.100) and dash (1-50-100) formats

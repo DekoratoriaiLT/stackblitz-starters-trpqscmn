@@ -118,7 +118,7 @@ export async function POST(req: NextRequest) {
       </p>
     </div>
     <div style="background:#f3f4f6;padding:16px 40px;text-align:center;">
-      <p style="color:#9ca3af;font-size:12px;margin:0;">© ${new Date().getFullYear()} Lietuvos Gipsas. Visos teisės saugomos.</p>
+      <p style="color:#9ca3af;font-size:12px;margin:0;">© ${new Date().getFullYear()} DekoratoriaiLT. Visos teisės saugomos.</p>
     </div>
   </div>
 </body>

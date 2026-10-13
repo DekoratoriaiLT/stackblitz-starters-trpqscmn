@@ -329,7 +329,7 @@ export default function NavbarClient({
         >
           <Image
             src="/images/logo/small-logo.png"
-            alt="Lietuvos gipsas"
+            alt="DekoratoriaiLT"
             width={42}
             height={42}
             priority

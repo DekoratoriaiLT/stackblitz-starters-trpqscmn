@@ -85,7 +85,7 @@ export default function RootLayout({
                 "https://www.dekoratoriai.lt/produktai/lubu-apvadai",
                 "https://www.dekoratoriai.lt/produktai/sienu-apvadai",
                 "https://www.dekoratoriai.lt/produktai/grindu-apvadai",
-                "https://www.dekoratoriai.lt/produktai/langu-juostos",
+                "https://www.dekoratoriai.lt/produktai/lauko-palanges",
                 "https://www.dekoratoriai.lt/produktai/sienu-paneles",
               ],
             }),

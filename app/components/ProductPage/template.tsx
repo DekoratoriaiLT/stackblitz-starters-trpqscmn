@@ -1,19 +1,21 @@
-'use client';
 
-import { useEffect, useRef } from 'react';
-import { ProductGallery } from './ProductGallery';
-import { ProductInfo } from './ProductInfo';
-import { ProductFeatures } from './ProductFeatures';
-import { AddToCartButton } from './AddToCartButton';
-import ReviewsSection from './ReviewsSection';
-import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
+"use client";
 
-if (typeof window !== 'undefined') {
+import { useEffect, useRef } from "react";
+import { ProductGallery } from "./ProductGallery";
+import ProductInfo from "./ProductInfo";
+import ProductFeatures from "./ProductFeatures";
+import { AddToCartButton } from "./AddToCartButton";
+import ReviewsSection from "./ReviewsSection";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const R2_BASE_URL = 'https://pub-262c7ff9747743f0853580fc0debb426.r2.dev';
+const R2_BASE_URL =
+  "https://pub-262c7ff9747743f0853580fc0debb426.r2.dev";
 
 interface ImageData {
   filename: string;
@@ -29,7 +31,6 @@ interface Product {
   images: ImageData[];
   details: Record<string, string>;
   flexible_analog_exists: boolean;
-  mounting_instructions: string;
 }
 
 interface ProductPageProps {
@@ -45,41 +46,37 @@ export function ProductPageTemplate({ product }: ProductPageProps) {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
-      // Header animation
       gsap.from(headerRef.current, {
         y: -20,
         opacity: 0,
         duration: 0.6,
-        ease: 'power3.out',
+        ease: "power3.out",
       });
 
-      // Gallery animation
       gsap.from(galleryRef.current, {
         x: -50,
         opacity: 0,
         duration: 0.8,
         delay: 0.2,
-        ease: 'power3.out',
+        ease: "power3.out",
       });
 
-      // Info animation
       gsap.from(infoRef.current, {
         x: 50,
         opacity: 0,
         duration: 0.8,
         delay: 0.3,
-        ease: 'power3.out',
+        ease: "power3.out",
       });
 
-      // Features scroll animation
       gsap.from(featuresRef.current, {
         y: 50,
         opacity: 0,
         duration: 1,
         scrollTrigger: {
           trigger: featuresRef.current,
-          start: 'top 80%',
-          toggleActions: 'play none none reverse',
+          start: "top 80%",
+          toggleActions: "play none none reverse",
         },
       });
     }, containerRef);
@@ -87,21 +84,32 @@ export function ProductPageTemplate({ product }: ProductPageProps) {
     return () => ctx.revert();
   }, []);
 
-  const urlCode = product.url?.split('/').filter(Boolean).pop() ?? null;
+  const urlCode = product.url?.split("/").filter(Boolean).pop() ?? null;
+
   const resolvedProductCode: string =
-    product.code ?? (urlCode ? urlCode.replace(/-/g, '.') : product.name.replace(/\s+/g, '-'));
+    product.code ??
+    (urlCode
+      ? urlCode.replace(/-/g, ".")
+      : product.name.replace(/\s+/g, "-"));
 
   return (
-    <div ref={containerRef} className="min-h-screen bg-[#F5F5F0]">
-      <div ref={headerRef} className="sticky top-0 z-50 bg-[#F5F5F0] border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+    <div
+      ref={containerRef}
+      className="min-h-screen bg-[#0a0a0a] text-[#f5f5f5]"
+    >
+      <div
+        ref={headerRef}
+        className="sticky top-0 z-50 border-b border-white/10 bg-[#111111]"
+      >
+        <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between">
             <a
               href={`/produktai/${product.category}`}
-              className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
+              className="flex items-center text-gray-400 transition-colors hover:text-white"
+              aria-label="Grįžti į kategoriją"
             >
               <svg
-                className="w-6 h-6"
+                className="h-6 w-6"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -114,16 +122,20 @@ export function ProductPageTemplate({ product }: ProductPageProps) {
                 />
               </svg>
             </a>
-            <h1 className="text-lg font-medium text-gray-800">
-              {product.category.replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase())}
+
+            <h1 className="text-lg font-medium text-gray-100">
+              {product.category
+                .replace(/-/g, " ")
+                .replace(/\b\w/g, (letter) => letter.toUpperCase())}
             </h1>
-            <div className="w-6"></div>
+
+            <div className="w-6" />
           </div>
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
+      <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
+        <div className="mb-16 grid grid-cols-1 gap-12 lg:grid-cols-2">
           <div ref={galleryRef}>
             <ProductGallery
               productName={product.name}
@@ -150,7 +162,6 @@ export function ProductPageTemplate({ product }: ProductPageProps) {
         <div ref={featuresRef} className="mb-16">
           <ProductFeatures
             flexibleAnalogExists={product.flexible_analog_exists}
-            mountingInstructions={product.mounting_instructions}
           />
         </div>
       </div>

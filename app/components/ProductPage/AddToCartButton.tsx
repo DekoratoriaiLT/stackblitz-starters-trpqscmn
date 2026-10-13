@@ -1,20 +1,25 @@
-'use client';
+"use client";
 
-import { useCart } from '@/app/contexts/CartContext';
-import { useState, useRef, useEffect } from 'react';
-import MetreInputModal from '@/app/components/Produktai/MetreInputModal/MetreInputModal';
-import SimpleQuantityModal from '@/app/components/Produktai/SimpleQuantityModal/SimpleQuantityModal';
-import { getExistingImagePaths } from '@/app/components/Produktai/ImagePath/getImagePath';
-import gsap from 'gsap';
+import { useCart } from "@/app/contexts/CartContext";
+import { useEffect, useRef, useState } from "react";
+import MetreInputModal from "@/app/components/Produktai/MetreInputModal/MetreInputModal";
+import SimpleQuantityModal from "@/app/components/Produktai/SimpleQuantityModal/SimpleQuantityModal";
+import { getExistingImagePaths } from "@/app/components/Produktai/ImagePath/getImagePath";
+import gsap from "gsap";
 
-const PRICE_PER_METRE_CATEGORIES = new Set(['lubu-apvadai', 'moulding', 'grindjuostes', 'grindu-apvadai']);
+const PRICE_PER_METRE_CATEGORIES = new Set([
+  "lubu-apvadai",
+  "moulding",
+  "grindjuostes",
+  "grindu-apvadai",
+]);
 
 interface Product {
   name: string;
   url: string;
   code: string | null;
   category: string;
-  images: Array<{ filename: string; url: string; local_path: string }> | null | undefined;
+  images?: Array<{ filename: string; url: string; local_path: string }> | null;
   details: Record<string, string>;
   flexible_analog_exists?: boolean;
 }
@@ -24,11 +29,11 @@ interface AddToCartButtonProps {
 }
 
 function getPrice(price: string | number | undefined): number {
-  if (!price) return 0;
-  if (typeof price === 'number') return price;
-  const cleaned = price.replace(/[€\s]/g, '').replace(',', '.');
-  const parsed = parseFloat(cleaned);
-  return isNaN(parsed) ? 0 : parsed;
+  if (price === undefined || price === null || price === "") return 0;
+  if (typeof price === "number") return price;
+
+  const parsed = parseFloat(price.replace(/[€\s]/g, "").replace(",", "."));
+  return Number.isFinite(parsed) ? parsed : 0;
 }
 
 export function AddToCartButton({ product }: AddToCartButtonProps) {
@@ -37,72 +42,90 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
   const [showMetreModal, setShowMetreModal] = useState(false);
   const [showSimpleModal, setShowSimpleModal] = useState(false);
   const [resolvedImages, setResolvedImages] = useState<string[]>([]);
-  const [resolvedPrice, setResolvedPrice] = useState<number>(0);
+  const [resolvedPrice, setResolvedPrice] = useState(0);
   const buttonRef = useRef<HTMLButtonElement>(null);
 
-  // On mount: resolve images + price the same way MainContent does
   useEffect(() => {
-    async function resolveProductData() {
-      // 1. Resolve images via getExistingImagePaths (same as MainContent)
-      const paths = await getExistingImagePaths(
-        product.name,
-        product.category,
-        undefined,
-        5,
-        false
-      );
-      setResolvedImages(paths);
+    let cancelled = false;
 
-      // 2. Load price from the category JSON (same pattern as MainContent)
+    async function resolveProductData() {
+      try {
+        const paths = await getExistingImagePaths(
+          product.name,
+          product.category,
+          undefined,
+          5,
+          false,
+        );
+
+        if (!cancelled) setResolvedImages(paths);
+      } catch {
+        if (!cancelled) setResolvedImages([]);
+      }
+
       try {
         let dataModule;
+
         try {
-          dataModule = await import(`@/app/data/${product.category}/${product.category}.json`);
+          dataModule = await import(
+            `@/app/data/${product.category}/${product.category}.json`
+          );
         } catch {
           dataModule = await import(`@/app/data/${product.category}.json`);
         }
 
         const rawData = dataModule.default;
-        const productsArray: any[] = rawData.products || rawData;
+        const productsArray = rawData.products || rawData;
 
         if (Array.isArray(productsArray)) {
-          const matched = productsArray.find((p: any) => {
-            if (product.code && p.code === product.code) return true;
-            if (p.name === product.name) return true;
-            return false;
+          const matched = productsArray.find((item: any) => {
+            if (product.code && item.code === product.code) return true;
+            return item.name === product.name;
           });
 
-          if (matched && typeof matched.price === 'number') {
-            setResolvedPrice(matched.price);
+          if (matched && typeof matched.price === "number") {
+            if (!cancelled) setResolvedPrice(matched.price);
             return;
           }
         }
       } catch {
-        // fall through to details fallback
+        // Use the price stored in product details if the JSON lookup fails.
       }
 
-      // 3. Fallback: parse price from product.details
-      const detailPrice = product.details?.['Kaina'] || product.details?.['price'];
-      setResolvedPrice(getPrice(detailPrice));
+      const fallbackPrice =
+        product.details?.["Kaina"] || product.details?.["price"];
+
+      if (!cancelled) setResolvedPrice(getPrice(fallbackPrice));
     }
 
     resolveProductData();
+
+    return () => {
+      cancelled = true;
+    };
   }, [product.name, product.category, product.code, product.details]);
 
   useEffect(() => {
-    if (buttonRef.current) {
-      gsap.fromTo(
-        buttonRef.current,
-        { y: 30, opacity: 0 },
-        { y: 0, opacity: 1, duration: 0.6, delay: 0.5, ease: 'power3.out' }
-      );
-    }
-  }, []);
+  const element = buttonRef.current;
+  if (!element) return;
+
+  const tween = gsap.fromTo(
+    element,
+    { opacity: 0, y: 10 },
+    { opacity: 1, y: 0, duration: 0.5 }
+  );
+
+  return () => {
+    tween.kill();
+  };
+}, []);
 
   const isPricePerMetre = PRICE_PER_METRE_CATEGORIES.has(product.category);
   const hasFlexibleAnalog = product.flexible_analog_exists === true;
 
   const handleAddToCart = () => {
+    if (isAdding) return;
+
     if (isPricePerMetre) {
       setShowMetreModal(true);
     } else {
@@ -110,12 +133,17 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
     }
   };
 
-  const addDirectToCart = (isFlexible: boolean = false, quantity: number = 1) => {
+  const addDirectToCart = (
+    isFlexible = false,
+    quantity = 1,
+  ) => {
+    if (quantity <= 0) return;
+
     setIsAdding(true);
 
     const baseId = product.code || product.url;
     const uniqueId = hasFlexibleAnalog
-      ? isFlexible ? `${baseId}-flexible` : `${baseId}-rigid`
+      ? `${baseId}-${isFlexible ? "flexible" : "rigid"}`
       : baseId;
 
     const cartProduct = {
@@ -123,39 +151,45 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
       title: isFlexible
         ? `${product.name} (Lankstus)`
         : hasFlexibleAnalog
-        ? `${product.name} (Nelankstus)`
-        : product.name,
+          ? `${product.name} (Nelankstus)`
+          : product.name,
       images: resolvedImages,
-      img: resolvedImages[0] || '',
+      img: resolvedImages[0] || "",
       description: product.category,
       category: product.category,
       price: resolvedPrice,
-      ilgis: parseFloat(product.details?.['Ilgis'] || '0'),
-      aukstis: parseFloat(product.details?.['Aukštis'] || product.details?.['Aukstis'] || '0'),
+      ilgis: parseFloat(product.details?.["Ilgis"] || "0"),
+      aukstis: parseFloat(
+        product.details?.["Aukštis"] ||
+          product.details?.["Aukstis"] ||
+          "0",
+      ),
       flexible_analog_exists: product.flexible_analog_exists,
       isFlexible,
       variant: hasFlexibleAnalog
-        ? (isFlexible ? 'lankstus' : 'nelankstus') as 'lankstus' | 'nelankstus'
+        ? (isFlexible ? "lankstus" : "nelankstus") as
+            | "lankstus"
+            | "nelankstus"
         : undefined,
     };
 
-    for (let i = 0; i < quantity; i++) {
+    for (let i = 0; i < quantity; i += 1) {
       addToCart(cartProduct);
     }
 
-    setTimeout(() => {
-      setIsAdding(false);
-    }, 1000);
+    window.setTimeout(() => setIsAdding(false), 700);
   };
 
-  const handleMetreConfirm = (value: number | { rigid: number; flexible: number }) => {
-    if (typeof value === 'number') {
-      const units = value / 2;
-      addDirectToCart(false, units);
+  const handleMetreConfirm = (
+    value: number | { rigid: number; flexible: number },
+  ) => {
+    if (typeof value === "number") {
+      addDirectToCart(false, value / 2);
     } else {
       if (value.rigid > 0) addDirectToCart(false, value.rigid);
       if (value.flexible > 0) addDirectToCart(true, value.flexible);
     }
+
     setShowMetreModal(false);
   };
 
@@ -168,29 +202,34 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
     <>
       <button
         ref={buttonRef}
+        type="button"
         onClick={handleAddToCart}
         disabled={isAdding}
-        className="w-full bg-gradient-to-r from-gray-800 to-gray-900 hover:from-gray-900 hover:to-black text-white font-bold py-5 px-8 rounded-2xl transition-all duration-300 transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none flex items-center justify-center space-x-3 shadow-lg hover:shadow-xl"
+        className="group flex w-full items-center justify-center gap-3 rounded-2xl border border-white/15 bg-[#f5f5f7] px-6 py-4 font-semibold text-[#151515] shadow-[0_8px_30px_rgba(0,0,0,0.16)] transition duration-300 hover:-translate-y-0.5 hover:bg-white hover:shadow-[0_12px_35px_rgba(0,0,0,0.22)] disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:translate-y-0"
       >
         {isAdding ? (
           <>
-            <svg
-              className="animate-spin h-5 w-5 text-white"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-            >
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-              <path
-                className="opacity-75"
-                fill="currentColor"
-                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-              />
-            </svg>
+            <span className="h-5 w-5 animate-spin rounded-full border-2 border-black/20 border-t-black" />
             <span>Pridedama...</span>
           </>
         ) : (
-          <span className="text-lg">Pridėti į krepšelį</span>
+          <>
+            <span>Pridėti į krepšelį</span>
+            <svg
+              className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={1.8}
+                d="M5 12h14m-6-6 6 6-6 6"
+              />
+            </svg>
+          </>
         )}
       </button>
 
@@ -200,7 +239,7 @@ export function AddToCartButton({ product }: AddToCartButtonProps) {
         onConfirm={handleMetreConfirm}
         productName={product.name}
         pricePerMetre={resolvedPrice}
-        mode={hasFlexibleAnalog ? 'flexible' : 'metre'}
+        mode={hasFlexibleAnalog ? "flexible" : "metre"}
       />
 
       <SimpleQuantityModal

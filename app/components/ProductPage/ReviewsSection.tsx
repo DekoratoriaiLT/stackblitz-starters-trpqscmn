@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import React, { useEffect, useState } from 'react';
 import { Star, MessageCircle, ThumbsUp } from 'lucide-react';
@@ -118,7 +118,7 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
         <Star
           key={star}
           size={size}
-          className={star <= rating ? 'text-black' : 'text-gray-300'}
+          className={star <= rating ? 'text-white' : 'text-[#55555b]'}
           fill={star <= rating ? 'currentColor' : 'none'}
         />
       ))}
@@ -129,8 +129,8 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
 
   if (loading) {
     return (
-      <section className="py-24 text-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-black mx-auto" />
+      <section className="bg-[#111111] py-24 text-center text-[#f5f5f7]">
+        <div className="mx-auto h-12 w-12 animate-spin rounded-full border-b-2 border-white" />
       </section>
     );
   }
@@ -139,17 +139,17 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
 
   if (reviews.length === 0) {
     return (
-      <section className="py-24">
+      <section className="bg-[#111111] py-24 text-[#f5f5f7]">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-light mb-6">
+          <h2 className="mb-6 text-4xl font-light">
             Klientų atsiliepimai
           </h2>
 
-          <p className="text-gray-600 mb-8">
+          <p className="mb-8 text-[#a1a1a6]">
             Kol kas nėra atsiliepimų.
           </p>
 
-          <button className="bg-black text-white py-3 px-8 hover:bg-gray-800 transition-colors inline-flex items-center">
+          <button className="inline-flex items-center bg-[#f5f5f7] px-8 py-3 text-[#111111] transition-colors hover:bg-white">
             <MessageCircle size={18} className="mr-2" />
             Palikti atsiliepimą
           </button>
@@ -161,18 +161,18 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
   /* ================= RENDER ================= */
 
   return (
-    <section className="py-24">
+    <section className="bg-[#111111] py-24 text-[#f5f5f7]">
       <div className="container mx-auto px-4">
 
         {/* HEADER */}
 
-        <div className="text-center mb-16">
-          <h2 className="text-4xl font-light mb-6">
+        <div className="mb-16 text-center">
+          <h2 className="mb-6 text-4xl font-light">
             Klientų atsiliepimai
           </h2>
 
-          <div className="flex items-center justify-center mb-8">
-            <div className="flex mr-3">
+          <div className="mb-8 flex items-center justify-center">
+            <div className="mr-3 flex">
               {renderStars(Math.round(averageRating), 24)}
             </div>
 
@@ -180,22 +180,22 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
               {averageRating.toFixed(1)}
             </span>
 
-            <span className="text-gray-500 ml-2">
+            <span className="ml-2 text-[#8e8e93]">
               ({reviews.length} atsiliepimai)
             </span>
           </div>
 
           {/* SORT */}
 
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
-            <label className="text-sm text-gray-600">
+          <div className="mb-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
+            <label className="text-sm text-[#a1a1a6]">
               Rūšiuoti:
             </label>
 
             <select
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value as any)}
-              className="border border-gray-300 rounded px-3 py-2 text-sm"
+              className="rounded border border-white/15 bg-[#191919] px-3 py-2 text-sm text-[#f5f5f7] outline-none transition-colors hover:border-white/30 focus:border-white/50"
             >
               <option value="newest">Naujausi</option>
               <option value="oldest">Seniausi</option>
@@ -205,7 +205,7 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
             </select>
           </div>
 
-          <button className="bg-black text-white py-3 px-8 hover:bg-gray-800 transition-colors inline-flex items-center">
+          <button className="inline-flex items-center bg-[#f5f5f7] px-8 py-3 text-[#111111] transition-colors hover:bg-white">
             <MessageCircle size={18} className="mr-2" />
             Rašyti atsiliepimą
           </button>
@@ -213,77 +213,70 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
 
         {/* REVIEWS */}
 
-        <div className="max-w-4xl mx-auto space-y-6">
-
+        <div className="mx-auto max-w-4xl space-y-6">
           {sortedReviews.map((review) => (
             <div
               key={review.reviewId}
-              className="bg-gray-100 p-8"
+              className="border border-white/[0.09] bg-[#191919] p-8 transition-colors hover:border-white/20"
             >
-              <div className="flex flex-col md:flex-row md:justify-between mb-4 space-y-2 md:space-y-0">
+              <div className="mb-4 flex flex-col space-y-2 md:flex-row md:justify-between md:space-y-0">
 
                 <div className="flex-1">
-
-                  <div className="flex items-center mb-2">
-                    <span className="font-medium text-lg mr-3">
+                  <div className="mb-2 flex items-center">
+                    <span className="mr-3 text-lg font-medium text-[#f5f5f7]">
                       {review.customerName}
                     </span>
 
                     {review.verified && (
-                      <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">
+                      <span className="rounded border border-white/10 bg-white/[0.05] px-2 py-1 text-xs text-[#c7c7cc]">
                         Patvirtinta
                       </span>
                     )}
                   </div>
 
-                  <span className="text-gray-500 text-sm">
+                  <span className="text-sm text-[#8e8e93]">
                     {formatDate(review.date)}
                   </span>
                 </div>
 
                 <div className="flex flex-col items-start md:items-end">
-
                   {renderStars(review.rating)}
 
-                  <div className="flex items-center mt-2">
-                    <ThumbsUp size={14} className="text-gray-400 mr-1" />
-                    <span className="text-sm text-gray-500">
+                  <div className="mt-2 flex items-center">
+                    <ThumbsUp size={14} className="mr-1 text-[#8e8e93]" />
+                    <span className="text-sm text-[#a1a1a6]">
                       {review.helpful}
                     </span>
                   </div>
-
                 </div>
               </div>
 
-              <h4 className="font-medium text-xl mb-3">
+              <h4 className="mb-3 text-xl font-medium text-[#f5f5f7]">
                 {review.title}
               </h4>
 
-              <p className="text-gray-600 leading-relaxed">
+              <p className="leading-relaxed text-[#c1c1c7]">
                 {review.comment}
               </p>
 
-              <div className="mt-6 pt-4 border-t border-gray-200">
-                <button className="text-sm text-gray-600 hover:text-black transition-colors flex items-center">
+              <div className="mt-6 border-t border-white/[0.08] pt-4">
+                <button className="flex items-center text-sm text-[#a1a1a6] transition-colors hover:text-white">
                   <ThumbsUp size={14} className="mr-2" />
                   Ar buvo naudinga?
                 </button>
               </div>
             </div>
           ))}
-
         </div>
 
         {/* RATING BREAKDOWN */}
 
-        <div className="max-w-4xl mx-auto mt-16 bg-gray-100 p-8">
-
-          <h3 className="text-2xl font-light mb-6 text-center">
+        <div className="mx-auto mt-16 max-w-4xl border border-white/[0.09] bg-[#191919] p-8">
+          <h3 className="mb-6 text-center text-2xl font-light">
             Įvertinimų pasiskirstymas
           </h3>
 
           <div className="space-y-3">
-
             {[5, 4, 3, 2, 1].map((rating) => {
               const count = reviews.filter(
                 (r) => r.rating === rating
@@ -295,38 +288,31 @@ const ReviewsSection: React.FC<ReviewsSectionProps> = ({
                   : 0;
 
               return (
-                <div
-                  key={rating}
-                  className="flex items-center"
-                >
-                  <span className="text-sm w-8">
+                <div key={rating} className="flex items-center">
+                  <span className="w-8 text-sm text-[#a1a1a6]">
                     {rating}
                   </span>
 
                   <Star
                     size={16}
-                    className="text-black mx-2"
+                    className="mx-2 text-white"
                     fill="currentColor"
                   />
 
-                  <div className="flex-1 bg-gray-200 rounded-full h-3 mx-3">
-
+                  <div className="mx-3 h-3 flex-1 overflow-hidden rounded-full bg-white/10">
                     <div
-                      className="bg-black h-3 rounded-full transition-all duration-300"
+                      className="h-3 rounded-full bg-[#f5f5f7] transition-all duration-300"
                       style={{ width: `${percentage}%` }}
                     />
-
                   </div>
 
-                  <span className="text-sm w-12 text-right">
+                  <span className="w-12 text-right text-sm text-[#a1a1a6]">
                     {count}
                   </span>
                 </div>
               );
             })}
-
           </div>
-
         </div>
 
       </div>
