@@ -1,24 +1,24 @@
-// @ts-expect-error Next.js processes global CSS imports without TypeScript declarations.
+
 import "./globals.css";
-import type { Viewport, Metadata } from "next";
+import "@mantine/core/styles.css";
+import "@mantine/carousel/styles.css";
+
+import type { Metadata, Viewport } from "next";
+import type { ReactNode } from "react";
+
 import { Inter } from "next/font/google";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
+import { MantineProvider } from "@mantine/core";
 
 import Navbar from "./components/Navbar/Navbar";
 import Background from "./components/Background/Background";
 import Footer from "./components/Footer/Footer";
 
-import { MantineProvider } from "@mantine/core";
-//@ts-expect-error
-import "@mantine/core/styles.css";
-//@ts-expect-error
-import "@mantine/carousel/styles.css";
-
 import { AuthProvider } from "./contexts/AuthContext";
 import { BusinessAuthProvider } from "./contexts/BusinessAuthContext";
 import { CartProvider } from "./contexts/CartContext";
-
-import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -38,58 +38,62 @@ export const metadata: Metadata = {
   title: "Interjero ir Fasado Dekoratoriai – Interjero dekoratoriai",
   description:
     "Interjero ir Fasado Dekoratoriai – profesionalūs interjero dekoratoriai, siūlome aukštos kokybės gipso sprendimus jūsų namams ir verslui.",
-  icons: "/favicon.ico",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
 }) {
+  const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Interjero ir Fasado Dekoratoriai",
+    url: "https://www.dekoratoriai.lt",
+    potentialAction: {
+      "@type": "SearchAction",
+      target:
+        "https://www.dekoratoriai.lt/search?q={search_term_string}",
+      "query-input": "required name=search_term_string",
+    },
+  };
+
+  const navigationSchema = {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    name: [
+      "Lubų apvadai",
+      "Sienų apvadai",
+      "Grindų apvadai",
+      "Langų juostos",
+      "Sienų panelės",
+    ],
+    url: [
+      "https://www.dekoratoriai.lt/produktai/lubu-apvadai",
+      "https://www.dekoratoriai.lt/produktai/sienu-apvadai",
+      "https://www.dekoratoriai.lt/produktai/grindu-apvadai",
+      "https://www.dekoratoriai.lt/produktai/lauko-palanges",
+      "https://www.dekoratoriai.lt/produktai/sienu-paneles",
+    ],
+  };
+
   return (
     <html lang="lt" suppressHydrationWarning>
       <head>
-        {/* Website Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              name: "Interjero ir Fasado Dekoratoriai",
-              url: "https://www.dekoratoriai.lt",
-              potentialAction: {
-                "@type": "SearchAction",
-                target:
-                  "https://www.dekoratoriai.lt/search?q={search_term_string}",
-                "query-input": "required name=search_term_string",
-              },
-            }),
+            __html: JSON.stringify(websiteSchema),
           }}
         />
 
-        {/* Navigation Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "SiteNavigationElement",
-              name: [
-                "Lubų apvadai",
-                "Sienų apvadai",
-                "Grindų apvadai",
-                "Langų juostos",
-                "Sienų panelės",
-              ],
-              url: [
-                "https://www.dekoratoriai.lt/produktai/lubu-apvadai",
-                "https://www.dekoratoriai.lt/produktai/sienu-apvadai",
-                "https://www.dekoratoriai.lt/produktai/grindu-apvadai",
-                "https://www.dekoratoriai.lt/produktai/lauko-palanges",
-                "https://www.dekoratoriai.lt/produktai/sienu-paneles",
-              ],
-            }),
+            __html: JSON.stringify(navigationSchema),
           }}
         />
       </head>
@@ -118,7 +122,6 @@ export default function RootLayout({
           </BusinessAuthProvider>
         </AuthProvider>
 
-        {/* Vercel Analytics */}
         <Analytics />
         <SpeedInsights />
       </body>
